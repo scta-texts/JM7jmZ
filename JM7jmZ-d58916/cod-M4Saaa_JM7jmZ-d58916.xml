@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 29</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 29</title>
+               <date when="2021-07-06">July 06, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-M4Saaa">Paris 1509</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-06" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="106-v"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="JM7jmZ-d58916"><!-- l4d15q29 -->
+            <head xml:id="JM7jmZ-d58916-Hd1e108">Quaestio 29</head>
+            <head xml:id="JM7jmZ-d58916-Hd1e111" type="question-title">
+      An liceat recipere ad usuram
+    </head>
+            <p xml:id="JM7jmZ-d58916-d1e114">
+               <lb ed="#P" n="65"/>¶ Distin. decime quinte quaestio vigesima nona. 
+      <lb ed="#P" n="66"/>Veritur vigesimo nono an liceat recipere 
+      <lb ed="#P" n="67"/> ad vsuram. Respondetur petens ad vsuram 
+      <lb ed="#P" n="68"/> duobus modis potest se habere vel est in ma 
+      <lb ed="#P" n="69"/>gna necessitate vel in necessitate quod non habet 
+      suffi<lb ed="#P" n="70" break="no"/>cienter pro suo statu et eius familie vt manuteneatur 
+      <lb ed="#P" n="71"/>vel habet superflua quo ad naturam et quo ad statum. 
+      <lb ed="#P" n="72"/>primomoo potest capere ad vsuram prudenter tamen ince 
+      <lb ed="#P" n="73"/>dat non petat ad vsuram quia iam directam occasionem 
+      vsu<lb ed="#P" n="74" break="no"/>re prebet suo fratri sed petat mutuo vbi alter non vult 
+      <lb ed="#P" n="75"/>pare nisi ad vsuram non consentiat illi modo 
+      peten<lb ed="#P" n="76" break="no"/>di sed consentiat in dando modo dare vsuras non est 
+      <lb ed="#P" n="77"/>illicitum licet sit illicitum eas accipere sicut dare rapto 
+      <lb ed="#P" n="78"/>ri pecuniam non est malum sed nephas est eam hac via 
+      <lb ed="#P" n="79"/>accipere possumus vti malo proximi ad bonum vtia 
+      <lb ed="#P" n="80"/>cob vsos est iuramento labam per ydola ad bonum. gen. 
+      <lb ed="#P" n="81"/>xxxi. pro stabilimento posteritatis sue sic iudas 
+      ma<lb ed="#P" n="82" break="no"/>thabeus cum romanis. i. machabeo. viii. solitet dari ana 
+      <lb ed="#P" n="83"/>logia in proposito pulcra mulier scit vel scire debet 
+      <lb ed="#P" n="84"/>quod incessus eius per talem viam est causa ruine 
+      proxi<lb ed="#P" n="85" break="no"/>mi si eat quando iustam causam eundi habet puta ad ecclesiam 
+      <lb ed="#P" n="86"/>vel forum facit quod debet non est vis si alter capit oc 
+      <lb ed="#P" n="87"/>casionem peccati: sed si iret quando non haberet causam 
+      ra<lb ed="#P" n="88" break="no"/>tionabilem vel comptius quam deceat ipsa peccat sic est de 
+      <lb ed="#P" n="89"/>capiente ad vsuram vbi si egeat pro se vel familia vel 
+      <lb ed="#P" n="90"/>aliis piis causis et alium habere non potest non peccat 
+      <lb ed="#P" n="91"/>facit quod iuste facere potest si superflua habeat hoc non 
+      <lb ed="#P" n="92"/>licebit vbi cognoscit quod alter non dat nisi ad vsuram 
+      <lb ed="#P" n="93"/>non debet eum adire praeberet ei occasionem vsure et peccat 
+      <lb ed="#P" n="94"/>ecus est vbi habens superflua adit aliquem quem non suspi 
+      <lb ed="#P" n="95"/>catur facile procliuem ad vsuram sicut pulcra mulier pu 
+      <lb ed="#P" n="96"/>dicum adit vbi non potest impudicum adire cognitum 
+      <lb ed="#P" n="97"/>talem egens est causa occasionalis peccati non tamen 
+      pro<lb ed="#P" n="98" break="no"/>pterea peccat faciens actum licitum sicut reformans 
+      mi<lb ed="#P" n="99" break="no"/>nores est causa occasionalis multi eximunt se ab 
+      <lb ed="#P" n="100"/>obedientia superiorum et in colluuiem sordium in cidunt non 
+      <lb ed="#P" n="101"/>tamen sequitur quod alii eos reformantes peccant sed deo 
+      <lb ed="#P" n="102"/>brestant obsequium nec sequitur accipere ad vsuram 
+      <lb ed="#P" n="103"/>est peccatum: ergo dare ad vsuram est peccatum licet nemo ac 
+      <lb ed="#P" n="104"/>cipit ad vsuram nisi aliquis ad vsuram dat sicut non se 
+      <lb ed="#P" n="105"/>quitur pater est peccator actu malus vel albus: ergo ta 
+      <lb ed="#P" n="106"/>lis est filius. si dicas bene sequitur: sortes dat plato 
+      <lb ed="#P" n="107"/>ni lucrum vltra sortem vi mutui: ergo plato accipit lucrum 
+      <lb ed="#P" n="108"/>vltra sortem vi mutui: antecedens est licitum et licite 
+      <lb ed="#P" n="109"/>volitum ergo et consequens: prior consequentia est bona 
+      <lb ed="#P" n="110"/>nemo accipit nolens vel non volens: sed nego istam 
+      com<lb ed="#P" n="111" break="no"/>sequentiam antecedens est volitum: ergo et consequens per locum a 
+      <lb ed="#P" n="112"/>omuniter accidentibus et sequitur. dionisius tirannus est rex 
+      <lb ed="#P" n="113"/>rgo parum quietis habet antecedens est volitum et non con 
+      <lb ed="#P" n="114"/>sequens. patet manifestius sortes est in luto pro 
+      cen<lb ed="#P" n="115" break="no"/>tum sollidis: ergo sortes est in luto: antecedens est volitum 
+      <lb ed="#P" n="116"/>et non consequens. ex istis possunt solui multi aliica 
+      <!--228.xml-->
+      <pb ed="#P" n="107-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>sus speciales dummoo est oculus ad interesse vt petr 
+      <lb ed="#P" n="2"/>tenetur soluere iohanni in fine vnius anni centum 
+      au<lb ed="#P" n="3" break="no"/>reos iohannes egens nunc. xcv. petit in promptu 
+      <lb ed="#P" n="4"/>remittens petro reliquam partem puta quinque 
+      ra<lb ed="#P" n="5" break="no"/>tione interesse licitum est hoc petro semper supposit 
+      <lb ed="#P" n="6"/>quod mauult dare centum in fine termini vel ita libenter 
+      <lb ed="#P" n="7"/>vult sicut nunc. xcv. et eodemmodo petrus debet 
+      ninia<lb ed="#P" n="8" break="no"/>no centum aureos ninianus non potens habere in 
+      <lb ed="#P" n="9"/>promptu vendit michi ius illorum centum scutorum 
+      <lb ed="#P" n="10"/>xcv. scutis et sic possum ratione interesse mei. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

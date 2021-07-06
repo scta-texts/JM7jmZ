@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 15</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 15</title>
+               <date when="2021-07-06">July 06, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-M4Saaa">Paris 1509</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-06" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="219-r"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="JM7jmZ-e21739"><!-- l4d49q15 -->
+            <head xml:id="JM7jmZ-e21739-Hd1e108">Quaestio 15</head>
+            <head xml:id="JM7jmZ-e21739-Hd1e111" type="question-title">
+      Quando quis debet
+      pati martyrium et pro
+      quibus causis
+    </head>
+            <p xml:id="JM7jmZ-e21739-d1e114">
+               <lb ed="#P" n="42"/>¶ Distin. quadragesime none questio decina quinta. 
+      <lb ed="#P" n="43"/>Ecundo circa hanc materiam de martyrio quae 
+      <lb ed="#P" n="44"/>ritur quando quis debet pati martyrium et erit quaestio 
+      <lb ed="#P" n="45"/> huius dist. xv. et pro quibus causis.
+    </p>
+            <p xml:id="JM7jmZ-e21739-d1e125">
+      Responde 
+      <lb ed="#P" n="46"/>supponendo triplicia esse praecepta: quedam negatiua vt non 
+      <lb ed="#P" n="47"/>furium facias no sis homoicida. alia affirmatiua vt eole 
+      <lb ed="#P" n="48"/>re deum reuereri prentes. Tertia sunt praecepta mixte 
+      <lb ed="#P" n="49"/>quae affirmationem et negationem includunt vt colere vnum 
+      <lb ed="#P" n="50"/>deum includit hanc negatiuam non colere plures deos 
+      <lb ed="#P" n="51"/>quam vnum celebrare sabbatum facere cultum dei et non 
+      fa<lb ed="#P" n="52" break="no"/>cere opera fuilia. eodemmoo de isto intio menbro dicendi 
+      <lb ed="#P" n="53"/>est sicut de aliis duobus: propterea si loquuti fuerimus 
+      <lb ed="#P" n="54"/>sufficienter de duobus prioribus menbris sufficienter 
+      di<lb ed="#P" n="55" break="no"/>ctum erit de tertio.
+    </p>
+            <p xml:id="JM7jmZ-e21739-d1e149">
+      ¶ Respondetur ad titulum quaestionis per et 
+      <!--452.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="56"/>nes. prima est: antequam contraueniamus praeceptis negatiuis 
+      <lb ed="#P" n="57"/>semper debemus pati mortem: probatur praecepta negatiua 
+      <lb ed="#P" n="58"/>mper et pro semper obligant: ergo quicunque contrauenit eis 
+      <lb ed="#P" n="59"/>peccat: sed homo citius debet pati mortem antequam 
+      pecca<lb ed="#P" n="60" break="no"/>ret: igitur.
+    </p>
+            <p xml:id="JM7jmZ-e21739-d1e168">
+      ¶ Secunda conclusio: homo non semper tenetur 
+      <lb ed="#P" n="61"/>pati mortem pro fide aut pro impletione 
+      precepto<lb ed="#P" n="62" break="no"/>rum affirmatiuorum: probatur: precepta affirmati 
+      <lb ed="#P" n="63"/>ua non obligant pro semper sed solum semper 
+      ob<lb ed="#P" n="64" break="no"/>ligant homo obligatur implere actum precepti 
+      as<lb ed="#P" n="65" break="no"/>firmatiui pro loco et tempore non semper homo 
+      te<lb ed="#P" n="66" break="no"/>netur actu diligere deum vel reuereri parentes: ergo pro 
+      <lb ed="#P" n="67"/>omissione talium preceptorum quando bomo ea non 
+      <lb ed="#P" n="68"/>tenetur implere homo non peccat: modo non est sem 
+      <lb ed="#P" n="69"/>per necesse confiteri fidem. si quis esset inter infide 
+      <lb ed="#P" n="70"/>les et videns ex sua confessione occidetur non in 
+      a<lb ed="#P" n="71" break="no"/>liorum edificationem sed in irrisionem talis non de 
+      <lb ed="#P" n="72"/>beret pati mathei septimo: nolite sanctum dare 
+      ca<lb ed="#P" n="73" break="no"/>nibus neque margaritas spergere ante porcos: 
+      mo<lb ed="#P" n="74" break="no"/>do in illo casu confiteri fidem est dare sanctum 
+      ca<lb ed="#P" n="75" break="no"/>nibus. Insuper stat aliquem esse re ipublice 
+      val<lb ed="#P" n="76" break="no"/>de vtilem et parum vtilitatis erit nunc ex sua morte 
+      <lb ed="#P" n="77"/>magna sequetur ex sua vita talis nunc non debet pa 
+      <lb ed="#P" n="78"/>ti vt fecit apostolus qui aufugit per sportam a 
+      da<lb ed="#P" n="79" break="no"/>masco actuum nono: sed etiam verum est quod 
+      persequu<lb ed="#P" n="80" break="no"/>tio apostoli erat personalis et non fidei: quod patet cum 
+      <lb ed="#P" n="81"/>non tetigerunt alios christianos sed petebant eum et tunc 
+      <lb ed="#P" n="82"/>licet fugere de vna ciuitate in aliam.
+    </p>
+            <p xml:id="JM7jmZ-e21739-d1e218">
+      ¶ Tertia 
+      con<lb ed="#P" n="83" break="no"/>clusio homo non tenetur pro concessione propositionis fi 
+      <lb ed="#P" n="84"/>dei et moribus impertinentis pati mortem vmo delire 
+      <lb ed="#P" n="85"/>agit: probatur bomo debet custodire suam vitam secundum 
+      <lb ed="#P" n="86"/>legem nature et diuinam nisi vbi habet preceptum aliunde per 
+      <lb ed="#P" n="87"/>quod ab illo deobligetur: sed hoc hic non habet igitur: etiam 
+      <lb ed="#P" n="88"/>dato quod sciat illam veram probet et suadeat eis veritatem 
+      <lb ed="#P" n="89"/>illius dicti quod si persuadere nequeat desistat reliquindo 
+      <lb ed="#P" n="90"/>eos in errore suo cum talis noticia non est necessaria 
+      <lb ed="#P" n="91"/>ad salutem eat via sua. Quo fit delire agunt illiqui se os 
+      <lb ed="#P" n="92"/>ferunt peratos ad mortem pro veritate vnius propositio 
+      <lb ed="#P" n="93"/>nis mathematice.
+    </p>
+            <p xml:id="JM7jmZ-e21739-d1e244">
+      ¶ Quarta: non pro qualicet veritate 
+      <lb ed="#P" n="94"/>catholica est patienda mors in quocumque chrpore: proba 
+      <lb ed="#P" n="95"/>tur de multis catholicis: dubitatur in quo sensu de 
+      <lb ed="#P" n="96"/>beant capi aliquis exponit in vno sensu alius in alio for 
+      <lb ed="#P" n="97"/>tasse contradictorio vt patet in apoca. alter sensus est 
+      <lb ed="#P" n="98"/>catholicus licet nos fugiat. probatur conclusio qui patitur 
+      <lb ed="#P" n="99"/>mortem prebet testionium certum pro re pro qua moritur 
+      <lb ed="#P" n="100"/>vt quod christus est deus beata virgo genuit christum modo in ca 
+      <lb ed="#P" n="101"/>su nostro iste non habet sufficientem certitudinem: igitur. 
+      </p>
+            <p xml:id="JM7jmZ-e21739-d1e264">
+               <lb ed="#P" n="102"/>¶ Quinta necessarium est in aliquo termite confiteri publi 
+      <lb ed="#P" n="103"/>ce fidem: probatur quando iudicatur quod erit magna vtili 
+      <lb ed="#P" n="104"/>tas iam in fide si sortes consiteatur publice fidem nec est 
+      <lb ed="#P" n="105"/>verosimile quod tantum vtilitatis erit in posterum ex 
+      dilatio<lb ed="#P" n="106" break="no"/>ne mortis tunc homo tenetur fidem intrepide 
+      consite<lb ed="#P" n="107" break="no"/>ri: similiter quando videt aliquos retrocedere vel titubare in 
+      <lb ed="#P" n="108"/>fide si non confiteatur fidem. probatur math. decimo 
+      <lb ed="#P" n="109"/>omnis qui me confitebitur coram hominibus 
+      con<lb ed="#P" n="110" break="no"/>fitebor et ego eum coram patre meo qui in celis est 
+      <lb ed="#P" n="111"/>qui autem negauerit me coram bominibus 
+      nega<lb ed="#P" n="112" break="no"/>bo et eum coram patre meo qui in celis est non 
+      so<lb ed="#P" n="113" break="no"/>lum negando verbo sed facto per taciturnitatem: et 
+      <lb ed="#P" n="114"/>probatur ratione secundum ordinem charitatis deus 
+      <!--453.xml-->
+      <pb ed="#P" n="219-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>est plus diligendus quam vita nostra sed hic tangitur 
+      <lb ed="#P" n="2"/>gloria dei in casu nostro agitur solum de vita corpo 
+      <lb ed="#P" n="3"/>rali nostra quam si negligamus diligimus nos plus 
+      <lb ed="#P" n="4"/>quam deum: propterea dicit saluator in littera 
+      allega<lb ed="#P" n="5" break="no"/>ta nolite arbitrari quia venerim pacem mittere in ter 
+      <lb ed="#P" n="6"/>ram hoc est non debemus nos seruare in illo casu: 
+      <lb ed="#P" n="7"/>propterea in tali casu et bases ecclesie prosilierunt 
+      <lb ed="#P" n="8"/>in medium publice consitentes nomen christi non 
+      <lb ed="#P" n="9"/>sufficit hic recte credere in animo sed ipsam crude 
+      <lb ed="#P" n="10"/>litatem verbo explicare oportebit secundum illud 
+      <lb ed="#P" n="11"/>romanorum decimo: corde creditur ad iusticiam ore 
+      <lb ed="#P" n="12"/>sit confessio ad salutem: pharisei bene volebant quod 
+      <lb ed="#P" n="13"/>petrus et iohannes crederent dummodo non dog 
+      <lb ed="#P" n="14"/>matisarent resurrectionem actuum quarto. 
+      propte<lb ed="#P" n="15" break="no"/>rea apparet quod nichodemus et ioseph ab arimathia 
+      <lb ed="#P" n="16"/>peccabant ioh. xii. multi ex principibus crediderunt 
+      <lb ed="#P" n="17"/>in eum sed propter phariseos non confitebantur vt de 
+      <lb ed="#P" n="18"/>vnagoga non eiicerentur dilexerunt enim gloriam homine 
+      <lb ed="#P" n="19"/>magis quam gloriam dei: quod beatus petrus peccauerit mor 
+      <lb ed="#P" n="20"/>talitur non est dubium cum christu negauit et iurauit se non no 
+      <lb ed="#P" n="21"/>uisse hominem: modo mendatium in fide est maximum 
+      se<lb ed="#P" n="22" break="no"/>cundum augustinum.
+    </p>
+            <p xml:id="JM7jmZ-e21739-d1e349">
+      ¶ Sexta conclusio non solum pro fide 
+      <lb ed="#P" n="23"/>toleranda est mors sed pro aliis actibus studiosis patet 
+      <lb ed="#P" n="24"/>de iohanne qui pro praedicatione gladio occubuit agnes 
+      <lb ed="#P" n="25"/>pro castitate thomas cantuarien. pro conseruandis 
+      li<lb ed="#P" n="26" break="no"/>bertatibus ecclesie. sed dicis isti fecerunt conformiter 
+      <lb ed="#P" n="27"/>ad legem non licet tibi habere vxorem fratris tui erat de 
+      <lb ed="#P" n="28"/>lege hoc non obstat in aliis duobus et in multis aliis casi 
+      <lb ed="#P" n="29"/>bus non nego quin nunquam aliquis debet pati mortem nisi pa 
+      <lb ed="#P" n="30"/>tiatur conformiter ad legem diuinam nullus debet pati 
+      ni<lb ed="#P" n="31" break="no"/>si conformiter ad dictamen recte rationis modo nulla est 
+      <lb ed="#P" n="32"/>recta ratio legi diuine repugnat omne verum omni vero 
+      com<lb ed="#P" n="33" break="no"/>sonat.
+    </p>
+            <p xml:id="JM7jmZ-e21739-d1e375">
+      ¶ Septima conclusio non solum pro opere 
+      prae<lb ed="#P" n="34" break="no"/>cepti sed pro opore consilii patiendum est martyrium inter 
+      <lb ed="#P" n="35"/>dum. probat martinus hanc conclusionem sic ponatur quod e 
+      <lb ed="#P" n="36"/>liquis videt vitam quam ducit turpen et non potest sic bene 
+      <lb ed="#P" n="37"/>viuere in seculo sperat dei gratia quod bene viuet in 
+      reli<lb ed="#P" n="38" break="no"/>gione talis potest pati mortem antequam impediatur a 
+      ty<lb ed="#P" n="39" break="no"/>ranno ingredi religionem et tamen intrare religionem est de 
+      <lb ed="#P" n="40"/>consilio probat hoc de integritate et castitate corpo 
+      <lb ed="#P" n="41"/>ris vbi probabiliter timeretur in corruptione consen 
+      <lb ed="#P" n="42"/>sus et in consensu peccatum ponit tertiam probationem 
+      <lb ed="#P" n="43"/>de periurio vide eum questione qunintahuius mate 
+      <lb ed="#P" n="44"/>rie sed iste probationes non valent in primo casu non 
+      <lb ed="#P" n="45"/>est de consilio intrare religionem sed de precepto cum 
+      <lb ed="#P" n="46"/>non potest viuere cum salute in seculo bene tamen 
+      <lb ed="#P" n="47"/>in religione eodemmodo de integritate carnis et 
+      eo<lb ed="#P" n="48" break="no"/>demmodo de suo tertio argumento de assueto iura 
+      <lb ed="#P" n="49"/>re procliui ad periurium: probatur aliter conclusio 
+      <lb ed="#P" n="50"/>per multos martyres qui se iniecerunt coram tyran 
+      <lb ed="#P" n="51"/>no quando non tenebantur qui in hoc laudantur. 
+      </p>
+            <p xml:id="JM7jmZ-e21739-d1e418">
+               <lb ed="#P" n="52"/>¶ Contra primam conclusionem argumentor: quia 
+      <lb ed="#P" n="53"/>tunc antequam homo peccet venialiter debet pati mar 
+      <lb ed="#P" n="54"/>tyrium hoc est falsum et consequentia patet: quia pro 
+      <lb ed="#P" n="55"/>hibetur mentiri venialiter: si dicas veniale esse 
+      pro<lb ed="#P" n="56" break="no"/>ter legem et esse in cohibitione et non in prohibitio 
+      <lb ed="#P" n="57"/>ne hoc non impedit propositum est solum de termi 
+      <lb ed="#P" n="58"/>no luctari sic dicendo vel quod prohibeatur sub pena 
+      <lb ed="#P" n="59"/>peccati venialis: sed probo quod homo citius debet men 
+      <!--453.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="60"/>tiri venialiter antequam patiatur mortem: citius debu 
+      <lb ed="#P" n="61"/>pati penam debitam peccato mortali antequam 
+      patia<lb ed="#P" n="62" break="no"/>tur mortem: ergo citius debet peccare venialiter 
+      <lb ed="#P" n="63"/>antequam patiatur mortem. Respondetur 
+      conceden<lb ed="#P" n="64" break="no"/>do citius bomo debet pati mortem antequam peccet 
+      <lb ed="#P" n="65"/>venialiter quicquid sit de latione pene peccato 
+      ve<lb ed="#P" n="66" break="no"/>niali debite consequentia est nulla: martinus in fine 
+      <lb ed="#P" n="67"/>questionis quinte in solutione ad vnum 
+      argumen<lb ed="#P" n="68" break="no"/>tum aliqua dicit: opinione mea erronea dicit non con 
+      <lb ed="#P" n="69"/>stat an peccatum veniale sit diuine legi contrarium 
+      <lb ed="#P" n="70"/>nec constat an omne peccatum sit veniale vel mor 
+      <lb ed="#P" n="71"/>tale. tertio dicit licet mendacium seclusa 
+      circunstam<lb ed="#P" n="72" break="no"/>tia alicuius excessiue tristis et dolorosi sit peccatum 
+      <lb ed="#P" n="73"/>mortale vel veniale multa tamen sunt que nec mor 
+      <lb ed="#P" n="74"/>talia sunt nec venialia posita circunstantia alicuius 
+      <lb ed="#P" n="75"/>excessiue tristis et dolorosi sicut grauium cruciatuum 
+      <lb ed="#P" n="76"/>aut incommodorum aut mortis primum non facit 
+      <lb ed="#P" n="77"/>ad rem siue veniale dicatur cohibitum vel prohibi 
+      <lb ed="#P" n="78"/>tum nichil refert. secundum nichil valet omne actu 
+      <lb ed="#P" n="79"/>aleide quo ipse loquitur / est veniale vel mortale et 
+      <lb ed="#P" n="80"/>videtur quod illa peccata dentur per immediata vel pec 
+      <lb ed="#P" n="81"/>cato actuali debetur pena eterna sensus vel tempo 
+      <lb ed="#P" n="82"/>ranea. si primum vocatur a theologis mortale pec 
+      <lb ed="#P" n="83"/>catum: si secundum veniale: tertium est falsum et 
+      a<lb ed="#P" n="84" break="no"/>libi illud magis deducitur.
+    </p>
+            <p xml:id="JM7jmZ-e21739-d1e496">
+      ¶ Contra tertiam con 
+      <lb ed="#P" n="85"/>clusionem argumentor per me citius bomo debet 
+      <lb ed="#P" n="86"/>pati mortem antequam mentiatur: sed quicunque 
+      asser<lb ed="#P" n="87" break="no"/>tiue dicit non super lineam datam contingit 
+      trian<lb ed="#P" n="88" break="no"/>gulum equilaterum collocare mentitur et sicut ita 
+      <lb ed="#P" n="89"/>contingit in prima conclusione primi euclidis 
+      con<lb ed="#P" n="90" break="no"/>tingit in qualibet alia mathematica: igitur. Respen 
+      <lb ed="#P" n="91"/>detur concedendo maiorem cum minore sed hoc 
+      <lb ed="#P" n="92"/>non est pro propositione mathematica sed quia 
+      fa<lb ed="#P" n="93" break="no"/>cit actum inhonestum in lege diuina prohibitum scl 
+      <lb ed="#P" n="94"/>licet mendacium non tenetur defendere veritatem 
+      <lb ed="#P" n="95"/>huius super lineam datam vbi tyrannus diceret on 
+      <lb ed="#P" n="96"/>cidam te si teneas hanc veram super lineam datam 
+      <lb ed="#P" n="97"/>stultum est veritatem illius tueri sed anquam asseram illam 
+      <lb ed="#P" n="98"/>falsam citius debeo mortem pati quia hoc esset men 
+      <lb ed="#P" n="99"/>tiri. Sed dicis vetula potest pati pro herese dogma 
+      <lb ed="#P" n="100"/>tisata a suo prelato cuius oppositum non tenetur sci 
+      <lb ed="#P" n="101"/>re: ergo pro propositione fidei impertinenti. 
+      <lb ed="#P" n="102"/>Respondetur licet vetula potest assentire sine pec 
+      <lb ed="#P" n="103"/>cato tamen nunquam hoc eueniet quod ipsa vocabitur pa 
+      <lb ed="#P" n="104"/>ti quin ei a sapientibus ostendetur veritas et tunc 
+      <lb ed="#P" n="105"/>ipsa patietur citius pro opposito sed illo casu ad  
+      <lb ed="#P" n="106"/>misso constat quod ignorantia inuincibilis multos excu 
+      <lb ed="#P" n="107"/>sat tantum meretur dans diuiti elemosinam quem 
+      <lb ed="#P" n="108"/>inuincibiliter credit pauperem sicut ille qui dat rea 
+      <lb ed="#P" n="109"/>liter pauperi: alique mulieres excusantur ob 
+      igno<lb ed="#P" n="110" break="no"/>rantiam que saltabant in aquas ob seruandam 
+      casti<lb ed="#P" n="111" break="no"/>tatem que submerse sunt nesciebant an sequeretur 
+      <lb ed="#P" n="112"/>ad illum saltum mors non dabatur eis tempus suffici 
+      <lb ed="#P" n="113"/>ens ad considerandum pro tunc non tenebantur 
+      <lb ed="#P" n="114"/>scire. Dicis homo pati potest pro hac quantitas 
+      di<lb ed="#P" n="115" break="no"/>stinguitur a re quanta: non est de fide et tamen illa 
+      <lb ed="#P" n="116"/>propositio est pure phisica vel pure methaphisica 
+      <lb ed="#P" n="117"/>ad hoc dico illam propositionem spectare et pertinere ad fi 
+      <lb ed="#P" n="118"/>dem tribuendo peregrina fidei que non sunt fidei 
+      <!--454.xml-->
+      <pb ed="#P" n="220-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>spectat ad fidem sicut auferendo illa que fidei sunt 
+      <lb ed="#P" n="2"/>ab ea plerumque dubitandum erit an actus est ratio 
+      <lb ed="#P" n="3"/>nabilis ad sustinendam mortem pro ea vt mulier 
+      <lb ed="#P" n="4"/>hesitabit an potest saltare in aquam vel se 
+      precipi<lb ed="#P" n="5" break="no"/>tare in foueam pro seruanda castitate a tyranno 
+      li<lb ed="#P" n="6" break="no"/>cet prudens diceret ipsam debere pati et non se 
+      in<lb ed="#P" n="7" break="no"/>terimere vbi scitur mors sequi et est verosimile quod ip 
+      <lb ed="#P" n="8"/>sa non amplius propterea erit procliuior ad peccam 
+      <lb ed="#P" n="9"/>dum: interdum sapientes dubitabunt an pro tali cau 
+      <lb ed="#P" n="10"/>sa toleranda est mors sed tunc vtendum est 
+      con<lb ed="#P" n="11" break="no"/>silio sapientum.
+    </p>
+            <p xml:id="JM7jmZ-e21739-d1e603">
+      ¶ Circa secundam 
+      conclusio<lb ed="#P" n="12" break="no"/>nem forte petis si sortes esset inter mahometanos 
+      <lb ed="#P" n="13"/>si petatur ab eo an mahometus prseudo ille prophe 
+      <lb ed="#P" n="14"/>ta esset verus propheta: dico non debet illud 
+      con<lb ed="#P" n="15" break="no"/>cedere nec negare hanc christus est deus quia sic 
+      <lb ed="#P" n="16"/>peccaret mortaliter vt petrus in negatione christi 
+      <lb ed="#P" n="17"/>sed potest tacere de illo pseudo mahometo non om 
+      <lb ed="#P" n="18"/>nis questio est geometrica nec cuilibet questioni dam 
+      <lb ed="#P" n="19"/>da est responsio aliud est tacere aliud falsum 
+      dice<lb ed="#P" n="20" break="no"/>re.
+    </p>
+            <p xml:id="JM7jmZ-e21739-d1e625">
+      ¶ Contra vltimam conclusionem argumentor 
+      <lb ed="#P" n="21"/>preceptum est de conseruatione vite consilium de 
+      <lb ed="#P" n="22"/>patiendo martyrio vt dicit conclusio modo nunquam 
+      <lb ed="#P" n="23"/>preceptum cedit consilio igitur. Respondetur 
+      ar<lb ed="#P" n="24" break="no"/>gumentum imaginatur falsum quod preceptum et con 
+      <lb ed="#P" n="25"/>silium pugnent: consilium est de meliore bono et ad 
+      <lb ed="#P" n="26"/>preceptum homo tenetur: modo nunquam precepti opi 
+      <lb ed="#P" n="27"/>positum est bonum: sed dicis omnibus modis 
+      lici<lb ed="#P" n="28" break="no"/>tis homo tenetur seruare suam vitam licitum est 
+      <lb ed="#P" n="29"/>non pati igitur. Respondetur maior est falsa quan 
+      <lb ed="#P" n="30"/>do deobligatur ab illa tentione vt in proposito per 
+      <lb ed="#P" n="31"/>opus consilii: at ponis actum martyrii vel cui 
+      de<lb ed="#P" n="32" break="no"/>betur aureola martyrii in sorte qui non acquisiuit a 
+      <lb ed="#P" n="33"/>ctum in presentia periculorum queris an sortes es 
+      <lb ed="#P" n="34"/>martyr vel ei debeatur aureola martyrii cum 
+      po<lb ed="#P" n="35" break="no"/>nis casum preter legem deus potest facere sicut vult 
+      <lb ed="#P" n="36"/>sed ei non debetur aureola secundum legem 
+      com<lb ed="#P" n="37" break="no"/>munem si illa via acquisiuerit aliquis actus in vno 
+      <lb ed="#P" n="38"/>subiecto alteri inherens ipsum non denominat si vii 
+      <lb ed="#P" n="39"/>ginitas berte ponatur in corrupta non 
+      denomina<lb ed="#P" n="40" break="no"/>bit eam virginem: simile est de actu spei si in alio po 
+      <lb ed="#P" n="41"/>natur non tamen vnquam de specie essentiali in speciem 
+      <lb ed="#P" n="42"/>essentialem. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

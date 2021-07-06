@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 2</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 2</title>
+               <date when="2021-07-06">July 06, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-M4Saaa">Paris 1509</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-06" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="162-v"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="JM7jmZ-d90071"><!-- l4d33q2 -->
+            <head xml:id="JM7jmZ-d90071-Hd1e108">Quaestio 2</head>
+            <head xml:id="JM7jmZ-d90071-Hd1e111" type="question-title">
+      An libellus repudii erat licitus
+      in lege Mosaica 
+    </head>
+            <p xml:id="JM7jmZ-d90071-d1e114">
+               <lb ed="#P" n="52"/>¶ Distinctionis trigesime tertie questio secunda. 
+      <lb ed="#P" n="53"/>Ueritur secundo circa hanc distinctionem trige 
+      <lb ed="#P" n="54"/>simam tertiam an libellus repudi erat licitus 
+      <lb ed="#P" n="55"/>tae in lege mosaica de quo habetur. deutero¬ 
+      <!--339.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="56"/>nomii. xxii.
+    </p>
+            <p xml:id="JM7jmZ-d90071-d1e132">
+      supponatur hec distinctio magistralis 
+      <lb ed="#P" n="57"/>aliquid est permissum de minoribono respectu ma 
+      <lb ed="#P" n="58"/>ioris boni sic matrimonium est permissum. Secundo modo ali 
+      <lb ed="#P" n="59"/>quid est permissum quia non punitum et sic solum dicit 
+      <lb ed="#P" n="60"/>negationem punitionis et sic deus permittit peccata fie 
+      <lb ed="#P" n="61"/>ri in hoc mundo quia hic plerumque non punit et dicitur 
+      permis<lb ed="#P" n="62" break="no"/>sio simplex tollerantia vel dissimulatio. Tertiomoo 
+      <lb ed="#P" n="63"/>capitur vt duo dicat. si non punitionem et prohibitionem impe 
+      <lb ed="#P" n="64"/>dimenti vt ecclesia permittit iudeos vti legalibus et 
+      <lb ed="#P" n="65"/>phibet christianos etiam eos impedire ab illa obseruatio 
+      <lb ed="#P" n="66"/>ne vt. c. quae sincera. xlv. d. Quartomoo capitur permissio 
+      <lb ed="#P" n="67"/>quando non punitur et prohibitionem impedimenti et cum hoc 
+      <lb ed="#P" n="68"/>praestatur fauor et auxilium facienti et sic vsura centesima 
+      <lb ed="#P" n="69"/>dimidia centesime bessus silliqua et sportula permittum 
+      <lb ed="#P" n="70"/>tur per leges ciuiles. C. et lii. vt patet in titulo vsura 
+      <lb ed="#P" n="71"/>rum. hos non puuiebant leges et impedientes 
+      veta<lb ed="#P" n="72" break="no"/>bant et cum hoc prebebant auxilium tales vsuras exige 
+      <lb ed="#P" n="73"/>re et hoc modo duellum apud aliquos admittitur duel 
+      <lb ed="#P" n="74"/>lantes non puniuntur et impediendo violente prohibi 
+      <lb ed="#P" n="75"/>tur et victori imo et victo dantur cornua ad pugna 
+      <lb ed="#P" n="76"/>circa titulum questionis. sunt duo modi oppositi vul 
+      <lb ed="#P" n="77"/>gares et satis rationabiles quod confirmatur quia visum 
+      <lb ed="#P" n="78"/>est sophisma vtrinque rationes habens. et pharisei ipsum 
+      <lb ed="#P" n="79"/>christo proposuerint vt quicquid responderet 
+      replica<lb ed="#P" n="80" break="no"/>rent non addentes laudabilem consuetudinem sicut 
+      di<lb ed="#P" n="81" break="no"/>cimus in vico straminis huius alme vniuersitatis vnum 
+      <lb ed="#P" n="82"/>modus tenet fuisse illicitum et permissum a moyse in le 
+      <lb ed="#P" n="83"/>ge quia non puniebantur dantes libellum repudi sed illud 
+      <lb ed="#P" n="84"/>non approbauit tanquam licitum licet dederit eis formam 
+      <lb ed="#P" n="85"/>in libello boni non leguntur vsi isto libello. Si dicas 
+      <lb ed="#P" n="86"/>quare prophete non dixerunt eis hoc esse malefactum 
+      <lb ed="#P" n="87"/>et quare non annunciauerunt populo peccata sua secundum 
+      <lb ed="#P" n="88"/>illud. esaie. lviii. dicitur quod presumendum est quod ita fece 
+      <lb ed="#P" n="89"/>runt et huic modo suffragatur responsio chrii. math. 
+      <lb ed="#P" n="90"/>xix. quoniam moyses inquit ad duritiam cordis vestri 
+      per<lb ed="#P" n="91" break="no"/>misit vobis dimittere vxores vestras ab initio autem non 
+      <lb ed="#P" n="92"/>sic fuit. oppositum tamen potest deffendi non constat ex scri 
+      <lb ed="#P" n="93"/>ptura quod reprobatur tanquam illicitum repudium. crisosto 
+      <lb ed="#P" n="94"/>mus super matheum dicit. sicut apostoli permiserunt 
+      se<lb ed="#P" n="95" break="no"/>cundas nuptias ita moyses permisit libellum 
+      repu<lb ed="#P" n="96" break="no"/>dii sed secunde nuptie sunt licite: igitur. dicis forte non 
+      <lb ed="#P" n="97"/>est omnimoda similitudo sed aliqualis. item omnes 
+      repudian<lb ed="#P" n="98" break="no"/>tes vxores et repudiate ducentes alios viros fuissent 
+      <lb ed="#P" n="99"/>preuaricatores legis quod alii concederent: sed tenen 
+      <lb ed="#P" n="100"/>do libellum repudii licitum videtur solum obuiare aucto 
+      <lb ed="#P" n="101"/>ritas christi. mathei. xix. sed dicitur non obstat a 
+      princi<lb ed="#P" n="102" break="no"/>pio non sic erat propter duriciam cordis hoc est 
+      permis<lb ed="#P" n="103" break="no"/>sum non sequitur quod sit peccatum aliquid permittitui 
+      <lb ed="#P" n="104"/>infirmis sine transgressione quod non admittitur sanis 
+      <lb ed="#P" n="105"/>accipito analogiam si aliquem delicatum absolueret 
+      ro<lb ed="#P" n="106" break="no"/>manus potestifex a ieiunio a diei et non absoluit alios vel 
+      <lb ed="#P" n="107"/>aliquos qui ex intemperantia inciderunt in 
+      infirmi<lb ed="#P" n="108" break="no"/>tates aliquas ecclesia relaxat hos a ieiunio et non 
+      <lb ed="#P" n="109"/>alios. Sed an mulier poterat alium ducere post repi 
+      <lb ed="#P" n="110"/>dium sequitur ex hiis duabus viis secundum vnum modum 
+      <lb ed="#P" n="111"/>postquam erat vxorata priori nunquam licuit eam capere 
+      <lb ed="#P" n="112"/>bene tamen antea ne essent procliues passim 
+      repudia<lb ed="#P" n="113" break="no"/>re. lex poterat contractum irritare sicut pontifex ma 
+      <lb ed="#P" n="114"/>ximus aliquas personas illegittimat sed non time¬ 
+      <!--340.xml-->
+      <pb ed="#P" n="163-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>batur de morte viri propterea mulier non repudia 
+      <lb ed="#P" n="2"/>bat virum sed econuerso. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

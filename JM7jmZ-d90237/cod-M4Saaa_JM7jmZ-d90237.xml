@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 1</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 1</title>
+               <date when="2021-07-06">July 06, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-M4Saaa">Paris 1509</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-06" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="-r"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="JM7jmZ-d90237"><!-- l4d34q1 -->
+            <head xml:id="JM7jmZ-d90237-Hd1e108">Quaestio 1</head>
+            <head xml:id="JM7jmZ-d90237-Hd1e111" type="question-title">
+      An impotentia coeundi
+      impediat matrimonium 
+    </head>
+            <p xml:id="JM7jmZ-d90237-d1e114">
+               <lb ed="#P" n="3"/>¶ Distinctionis trigesime quarte questio vnica. 
+      <lb ed="#P" n="4"/>QUeritur an impotentia coeundi impediat 
+      ma<lb ed="#P" n="5" break="no"/>trinonium. 
+    </p>
+            <p xml:id="JM7jmZ-d90237-d1e123">
+      hoc aduertendum est quod sunt aliqua quae im 
+      <lb ed="#P" n="6"/>Hues pediunt matrimonium contrahendum quae non imped 
+      <lb ed="#P" n="7"/>unt contractum: aliqua impediunt contrahendum et dirimunt iam con 
+      <lb ed="#P" n="8"/>tractum accipio hoc fundamentum et inferam correlaria. Fun 
+      <lb ed="#P" n="9"/>damentum est qualibet impotentia perpetua cui subueniri 
+      <lb ed="#P" n="10"/>non potest ad reddendum debitum impedit matrinonium con 
+      <lb ed="#P" n="11"/>trahendum et dirimit contractum ratio est obligant se ad 
+      <lb ed="#P" n="12"/>reddendum actum si petatur sed eis est impossibile 
+      redde<lb ed="#P" n="13" break="no"/>re. sed quia fortasse dicis non petent sed oportet quod sint in pote 
+      <lb ed="#P" n="14"/>tia ad reddendum si petatur. Correlarium primum perpetud 
+      <lb ed="#P" n="15"/>frigidus non potest contrahere: patet non potest reddere debitum 
+      <lb ed="#P" n="16"/>non requiritur quod potest gantoare sufficit quod potest mulierem cogsce 
+      <lb ed="#P" n="17"/>re nec sequitur quod ipsa possit parere sufficit quod possit cog 
+      <lb ed="#P" n="18"/>sci. Secundum correlarium arta nimis cui subueniri non 
+      <lb ed="#P" n="19"/>potest per artem est inhabilis ad contrahendum. Tertium 
+      <lb ed="#P" n="20"/>menbris necessariis orbatus an matrionium non potest 
+      <lb ed="#P" n="21"/>contrahere. Quartum: maleficiatus perpetuo non poet con 
+      <lb ed="#P" n="22"/>trahere et hoc si respectu cuiustibet sit maleficiatus 
+      de<lb ed="#P" n="23" break="no"/>mon qui nouit secreta nature qui ingeniosior est homie 
+      <lb ed="#P" n="24"/>nec impeditur a sensu et nunc multarum rerum habet experientias 
+      <lb ed="#P" n="25"/>propter antiquitatem a principio sue creationis potest 
+      impe<lb ed="#P" n="26" break="no"/>dire meatus seminis in homine vel impedire materiam 
+      se<lb ed="#P" n="27" break="no"/>minis permittente deo in talibus iura dant tres annos simil co 
+      <lb ed="#P" n="28"/>habitandi vbi est dubium vt vacent illi operi si non possini 
+      <lb ed="#P" n="29"/>se cogscere separentur vbi est manifestum citius praesent 
+      se<lb ed="#P" n="30" break="no"/>parari. Quintum: sciathicus de quo philosophus loquitur. iiii. parti 
+      <lb ed="#P" n="31"/>cula probleu. non potest contrahere intelligas semper in sen 
+      <lb ed="#P" n="32"/>su composito.
+    </p>
+            <p xml:id="JM7jmZ-d90237-d1e184">
+      ¶ Contra dicta instatur probando quod fri 
+      <lb ed="#P" n="33"/>giditas illa non dirimit matrimonium contractum et li 
+      <lb ed="#P" n="34"/>sic illud matrionium non contrahebatur nec erat inter 
+      <lb ed="#P" n="35"/>grum ergo non frangitur. Respondetur per propositiones. Prima 
+      <lb ed="#P" n="36"/>est perpetuo frigidus potest contrahere matrionium: probatur: 
+      <lb ed="#P" n="37"/>sortes potest contrahere matrimonium: probatu 
+      <lb ed="#P" n="38"/>sortes potest contrahere matrionium demonstrando vni 
+      <lb ed="#P" n="39"/>paruulum qui postea giontonabit sortes est vel potest esse perpetuo 
+      <lb ed="#P" n="40"/>frigidus: igitur.
+    </p>
+            <p xml:id="JM7jmZ-d90237-d1e205">
+      ¶ Secunda: perpetuitas frigiditatis non 
+      di<lb ed="#P" n="41" break="no"/>rimit matrionium: probatur sua contradictoria est flata qui 
+      <lb ed="#P" n="42"/>ibi non est matrionium conctractum quod per affirmatiuam 
+      <lb ed="#P" n="43"/>denotatur.
+    </p>
+            <p xml:id="JM7jmZ-d90237-d1e214">
+      ¶ Tertia propositio frigiditas perpetua impe 
+      <lb ed="#P" n="44"/>dit matrionium contractum ad hunc sensum 
+      matrimo<lb ed="#P" n="45" break="no"/>nium quod homines reputant hoc est loquendo vt plulres dirimere 
+      <lb ed="#P" n="46"/>matrionium contrahendum et non conctractum non est 
+      <lb ed="#P" n="47"/>aliud quam peccare contrahendo vel conando contrahere 
+      <lb ed="#P" n="48"/>sed si contrahant manet matrionium.
+    </p>
+            <p xml:id="JM7jmZ-d90237-d1e227">
+      ¶ Se contra illud 
+      <lb ed="#P" n="49"/>arguitur: vxor quae putat contrahere cum frigido non contra 
+      <lb ed="#P" n="50"/>hit ergo volendo ei reddere debitum peccat quia est 
+      sim<lb ed="#P" n="51" break="no"/>plex fornicatio. fortassis dicis quod ipsa excusatur quia eam 
+      <lb ed="#P" n="52"/>adhuc latet an ipse possit ccgoscere et ambo faciun 
+      <lb ed="#P" n="53"/>quod in se est ad hoc quod sit matrionium. Contra successu 
+      tem<lb ed="#P" n="54" break="no"/>poris ipsa scit quod ipse est frigidus. ergo circa finem tertii 
+      <lb ed="#P" n="55"/>anni reddendo ei debitum peccat iam ipraiea scit quod non est 
+      <lb ed="#P" n="56"/>matrionium et ponamus adhuc quod prista tentat ei reddere 
+      <lb ed="#P" n="57"/>debitum non est dicendm quod ipta peccat secum 
+      cohabi<lb ed="#P" n="58" break="no"/>tans. respondetur esto quod habeat aliqua motiua quod non potest 
+      <!--340.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="59"/>hanc mulierem cogscere habet tamen sufficientia motiua quod non 
+      <lb ed="#P" n="60"/>peccet. tum primo dubium an est frigidus vel maleficiatus 
+      <lb ed="#P" n="61"/>et forte maleficium non amplius durat et sic habet probabile 
+      <lb ed="#P" n="62"/>argustentum quod hoc est vxor eius. Tum secundo: si consentiant in se 
+      <lb ed="#P" n="63"/>inuicem dato quod ipe est frigidus hoc sufficit ad 
+      matrio<lb ed="#P" n="64" break="no"/>nium patet de contrahente cum ancilla cum ei constiterit 
+      ta<lb ed="#P" n="65" break="no"/>lem esse ancillam. insuper si non reddat debitum petenti pro 
+      <lb ed="#P" n="66"/>loco et trmpore quam existinat esse vxorem eius peccat: ergo est 
+      po<lb ed="#P" n="67" break="no"/>situs inter duo / inter reddere et non reddere et fauo 
+      <lb ed="#P" n="68"/>re matrioni et legis auctoritate non peccat est 
+      casti<lb ed="#P" n="69" break="no"/>tas coniugalis dato quod lapso triennio separentur in fine 
+      <lb ed="#P" n="70"/>triennii vel citius vbi est vehemens praesumptio de fri 
+      <lb ed="#P" n="71"/>giditate tunc si vterque proclamat et fatetur se dedisse o 
+      <lb ed="#P" n="72"/>peram operi carnali nec mulier est cognita a viro. iuram 
+      <lb ed="#P" n="73"/>tes ambo propter periculum colluuionis iurabant etiam 
+      <lb ed="#P" n="74"/>septem propinqui vel vicini bone fame se credere eos 
+      <lb ed="#P" n="75"/>verum iurare tunc separabuntur de frigidis et malefactis. c. 
+      <lb ed="#P" n="76"/>laudabilem. si mulier dicat se non esse cognitam et vir di 
+      <lb ed="#P" n="77"/>cat oppon creditur viro quia capunt est mulieris. c. primo 
+      <lb ed="#P" n="78"/>eiusde titu. et magitur id ponit in litte. nisi mulier prober 
+      <lb ed="#P" n="79"/>aliter virum esse mentitum si post separationem vir cognoscat 
+      <lb ed="#P" n="80"/>aliam redibit ad primam vxorem quia ecclesia erat decepta 
+      <lb ed="#P" n="81"/>si mulier propter artitudinem a sortecognosci non po 
+      <lb ed="#P" n="82"/>test per nullum artificium tradatur platoni et ab eo 
+      cogno<lb ed="#P" n="83" break="no"/>scitur trandatur sorti quam si adhuc cogscere non potest ma 
+      <lb ed="#P" n="84"/>neat perpetuo cum platone absurdum est quod ipsa vagetur de 
+      <lb ed="#P" n="85"/>viro in virum. sed tunc dicis senes non praesent contrahere 
+      <lb ed="#P" n="86"/>negatur illud licet senes vltra septuagesimum annum non gene 
+      <lb ed="#P" n="87"/>rent regulariter tamen mulierem cogscere praesent vel reme 
+      <lb ed="#P" n="88"/>dium ad hoc adhiberi potest. dixi regulariter misiuissa ad  
+      <lb ed="#P" n="89"/>munidarum genuit centesimo vite anno vt perhibent 
+      <lb ed="#P" n="90"/>litem mulier scienter cum tali contrahit et illud sciebat a 
+      <lb ed="#P" n="91"/>principio vt abisai sunamitis respectu dauidis. tertii 
+      <lb ed="#P" n="92"/>reg. primo. nec est illegitimatio quia tandem vir desinit 
+      <lb ed="#P" n="93"/>ginare: patet successiue deest facultas post 
+      quadragesi<lb ed="#P" n="94" break="no"/>mum quintum. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

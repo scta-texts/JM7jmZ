@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 1</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 1</title>
+               <date when="2021-07-06">July 06, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-M4Saaa">Paris 1509</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-06" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="223-v"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="JM7jmZ-e24291"><!-- l4d50q1 -->
+            <head xml:id="JM7jmZ-e24291-Hd1e108">Quaestio 1</head>
+            <head xml:id="JM7jmZ-e24291-Hd1e111" type="question-title">
+      An damnati post
+      diem iudicii peccent
+      et pro eorum peccatis
+      infligetur poena
+    </head>
+            <p xml:id="JM7jmZ-e24291-d1e114">
+               <lb ed="#P" n="48"/>¶ Distinctionis quinquagesime questio prima. 
+      <lb ed="#P" n="49"/>Qeritur circa distinctionem quinquagesimam 
+      <lb ed="#P" n="50"/>an dannati post diem iudicii peccent et pro eorum 
+      <lb ed="#P" n="51"/>peccatis infligetur pena.
+    </p>
+            <p xml:id="JM7jmZ-e24291-d1e125">
+      ¶ Pro solutione 
+      <lb ed="#P" n="52"/>questionis ponam aliquas assertiones.
+    </p>
+            <p xml:id="JM7jmZ-e24291-d1e130">
+      ¶ Prima dam 
+      <lb ed="#P" n="53"/>nati habebunt actus difformes recte rationi post diem 
+      <lb ed="#P" n="54"/>iudicii et eiusdem speciei cum peccatis quae hic habuerunt 
+      <lb ed="#P" n="55"/>et alterius speciei habere possunt.
+    </p>
+            <p xml:id="JM7jmZ-e24291-d1e140">
+      ¶ Secunda veritas 
+      <lb ed="#P" n="56"/>est deus potest pro quolibet actu malo quem faciunt 
+      inffi<lb ed="#P" n="57" break="no"/>gere penam talem qualem infligit pro peccatis in via commis 
+      <!--461.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="58"/>sis.
+    </p>
+            <p xml:id="JM7jmZ-e24291-d1e153">
+      ¶ Tertia conclusio deus ex mina actus dannatorum non 
+      <lb ed="#P" n="59"/>imputabit ad aliquam penam distinctam a peccatis que 
+      fa<lb ed="#P" n="60" break="no"/>ciunt hoc est licet erit pena contracta nulla tamen erit 
+      in<lb ed="#P" n="61" break="no"/>flicta. Prima conclusio est perspicua semper sunt in 
+      acti<lb ed="#P" n="62" break="no"/>bus malis in odio dei et in aliios malis actibus ergo 
+      <lb ed="#P" n="63"/>semper sunt in peccatis et de nouo faciunt peccata ad 
+      <lb ed="#P" n="64"/>verificandam hanc sortes de nouo peccat sufficit sor 
+      <lb ed="#P" n="65"/>tem elicere actum malum et male quod et dannati faciunt vel 
+      <lb ed="#P" n="66"/>actus malos male continuare. Secunda conclusio patet 
+      <lb ed="#P" n="67"/>nullum est scelus in hac valle miserie commissum non in 
+      <lb ed="#P" n="68"/>ultum ergo id idem potest deus post diem iudicii 
+      consequu<lb ed="#P" n="69" break="no"/>tio est lucida. Item si deus prolongaret diem iudicii 
+      <lb ed="#P" n="70"/>mille annis pot pro quolibet crimine inflgere penam 
+      <lb ed="#P" n="71"/>et eodem moo si prorogaret diem illum bis mille annis sed 
+      <lb ed="#P" n="72"/>propter diem iudicii non coartatur ad aliud. Tertia con 
+      <lb ed="#P" n="73"/>clusio patet auctoritate beati augustini de fide ad pe 
+      <lb ed="#P" n="74"/>trum et magister citat. Ii. distin. cap. i. non sunt amplius 
+      <lb ed="#P" n="75"/>viatores et sic non demerentur.
+    </p>
+            <p xml:id="JM7jmZ-e24291-d1e192">
+      ¶ Contra primam con 
+      <lb ed="#P" n="76"/>clusionem argumentor ex ea sequitur quod inequaliter pec 
+      <lb ed="#P" n="77"/>cantes equaliter punientur quod est absonum in foro dei 
+      <lb ed="#P" n="78"/>vel quod equaliter delinquentes inequales sortientur 
+      pe<lb ed="#P" n="79" break="no"/>nas. patet faciat sortes tria peccata an diem iudicii 
+      pla<lb ed="#P" n="80" break="no"/>to vnum peccatum ante diem iudicii et duo post diem 
+      iudi<lb ed="#P" n="81" break="no"/>cii sortes et plato iam equaliter peccant et tamen 
+      inequa<lb ed="#P" n="82" break="no"/>liter puniuntur. nego quod viatores equaliter peccantes 
+      <lb ed="#P" n="83"/>inequaliter intensiue puniantur pro tempore vie si 
+      intel<lb ed="#P" n="84" break="no"/>ligas vt accepisti in argumento non est absonum sacris 
+      <lb ed="#P" n="85"/>loquiis imo consonum.
+    </p>
+            <p xml:id="JM7jmZ-e24291-d1e216">
+      ¶ Contra secundam 
+      conclusio<lb ed="#P" n="86" break="no"/>nem argumentor ex ea sequitur quod deus potest imputa 
+      <lb ed="#P" n="87"/>re actus dannatorum semper ad nouam et nouam penam 
+      conse<lb ed="#P" n="88" break="no"/>quens est falsum necessitantur continuare suos actus 
+      <lb ed="#P" n="89"/>et non est situm in eorum facultate illos actus deserere. 
+      <lb ed="#P" n="90"/>Tum secundo sequitur quod infinite peccarent 
+      conti<lb ed="#P" n="91" break="no"/>nuatio peccati est peccatum sicut eius prima elicitio et 
+      <lb ed="#P" n="92"/>si puniret proportionabiliter ad peccatum tunc infini 
+      <lb ed="#P" n="93"/>tam penam quilibet dannatus pateretur sed probo quod non 
+      <lb ed="#P" n="94"/>quia tunc tantam penam pateretur diues epulo sicut ma 
+      <lb ed="#P" n="95"/>chometus vterque habebit infinitam. Ad primum 
+      con<lb ed="#P" n="96" break="no"/>cedo illatum illa necessitatio prouenit ex culpis eorum 
+      <lb ed="#P" n="97"/>et quando mere libere continuarent et interdum resur 
+      <lb ed="#P" n="98"/>gerent et iterum caderent in omnibus peccatis in 
+      qui<lb ed="#P" n="99" break="no"/>bus erant sicut resurgens ad gratram recuperat 
+      prio<lb ed="#P" n="100" break="no"/>rem quod vtique deus de potentia absoluta facere potest 
+      <lb ed="#P" n="101"/>non loquor secundum legem que nunc est imaginare aliquem 
+      <lb ed="#P" n="102"/>cadentem in dementiam ex culpa sua qui perpetuo ma 
+      <lb ed="#P" n="103"/>net in illa talis resurgere nequit et si infinite duraret 
+      <lb ed="#P" n="104"/>et torqueretur ad penam est idem cum nostro casu quo ad 
+      <lb ed="#P" n="105"/>robur argumenti. ad illud argumentum dicitur vbi est 
+      <lb ed="#P" n="106"/>continuatio mere naturalis cotinuando actum secundum se 
+      <lb ed="#P" n="107"/>vel aliquid eius in via numquam est peccatum sed quando 
+      <lb ed="#P" n="108"/>est continuatio libera partialiter vel ex culpa praeuia deus 
+      <lb ed="#P" n="109"/>otest facere quod actus sit nouum peccatum vel dannatus 
+      <lb ed="#P" n="110"/>semper viuens potest habere ifinitos actus successiue 
+      <lb ed="#P" n="111"/>malos et spontaneos et proportionaliter puniri et tuncpro 
+      <lb ed="#P" n="112"/>forina argumenti locentur propositiones sequentes. 
+      </p>
+            <p xml:id="JM7jmZ-e24291-d1e277">
+               <lb ed="#P" n="113"/>¶ Prima est infinitam penam quilibet dannatus habebit 
+      <lb ed="#P" n="114"/>patet infinita peccata quilibet dannatus habebit et pena 
+      rmpen<lb ed="#P" n="115" break="no"/>debit peccato ex ipotesi ergo infinitam penam quilibet 
+      <lb ed="#P" n="116"/>pannatus habebit. maior patet duo peccata quailibet danna¬ 
+      <!--462.xml-->
+      <pb ed="#P" n="224-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>tus habebit tria quattuor et sic in abissum: igitur. 
+      </p>
+            <p xml:id="JM7jmZ-e24291-d1e297">
+               <lb ed="#P" n="2"/>¶ Secunda maiorem penam habebit diues epulo quam 
+      <lb ed="#P" n="3"/>nunc habeat mahometus imo infinite maiorem patet 
+      <lb ed="#P" n="4"/>per crementum peccatorum.
+    </p>
+            <p xml:id="JM7jmZ-e24291-d1e307">
+      ¶ Tertia propositio semp 
+      <lb ed="#P" n="5"/>mahometus erit in maiori pena quam diues epulo et tamen 
+      <lb ed="#P" n="6"/>infinitam habebit epulo et numquam mahometus erit in 
+      <lb ed="#P" n="7"/>pena infinita hec propositio est lucida ponamus eos 
+      <lb ed="#P" n="8"/>proportionabiliter procedere in peccatis secundum quod discesse 
+      <lb ed="#P" n="9"/>runt.
+    </p>
+            <p xml:id="JM7jmZ-e24291-d1e320">
+      ¶ Quarta propositio infinitam penam quilibet dam 
+      <lb ed="#P" n="10"/>natus habebit et tamen in nullo tempore finito verum erit 
+      <lb ed="#P" n="11"/>dicere hec pena est infinita cuiuscumque dannati penam 
+      <lb ed="#P" n="12"/>demonstrando.
+    </p>
+            <p xml:id="JM7jmZ-e24291-d1e329">
+      ¶ Quinta propositio infinitam penam in 
+      <lb ed="#P" n="13"/>aliquo die sequenti dannatus habebit. patet per ascensum 
+      <lb ed="#P" n="14"/>et mensuremus diem naturalem vel artificialem per aliud 
+      <lb ed="#P" n="15"/>quam motum solis per circuitionem sortis beati semel circa 
+      <lb ed="#P" n="16"/>terram in. xxiiii. horum vel per motum solis si libet cum 
+      <lb ed="#P" n="17"/>hac stat hec sexta in quolibet die sequenti dannatus 
+      fi<lb ed="#P" n="18" break="no"/>nitam penam habebit.
+    </p>
+            <p xml:id="JM7jmZ-e24291-d1e345">
+      ¶ Septima propositio in toto isto 
+      <lb ed="#P" n="19"/>tempore cuius quilibet dies est futurus non maiorem 
+      pe<lb ed="#P" n="20" break="no"/>nam habebit machometus quam epulo. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

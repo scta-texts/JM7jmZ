@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 2</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 2</title>
+               <date when="2021-07-06">July 06, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-M4Saaa">Paris 1509</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-06" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="38-r"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="JM7jmZ-d21255"><!-- l1d9q2 -->
+            <head xml:id="JM7jmZ-d21255-Hd1e108">Quaestio 2</head>
+            <head xml:id="JM7jmZ-d21255-Hd1e111" type="question-title">
+      An liceat alicui ministrare
+      corpus Domini illi quem
+      scit esse in peccato mortali?
+    </head>
+            <p xml:id="JM7jmZ-d21255-d1e114">
+               <lb ed="#P" n="114"/>¶ Distinctionis none questio secunda. 
+      <lb ed="#P" n="115"/>QVeritur secundo an liceat alicui 
+      ministra<lb ed="#P" n="116" break="no"/>re corpus domini illi quem scit esse in peccato  
+      <lb ed="#P" n="117"/>Smortali. Circa illud notandum est aliquis duplicter 
+      <lb ed="#P" n="118"/>potest esse peccator. vno moo occultus alious publicus hoc est quando est 
+      <!--091.xml-->
+      <pb ed="#P" n="38-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>probatus talis coram iudice vel nulla tergiuersatione 
+      <lb ed="#P" n="2"/>potest illud negare opposito modo occultus: Iterum vel 
+      <lb ed="#P" n="3"/>ego sum superior istius vt puta vicarius vel 
+      cura<lb ed="#P" n="4" break="no"/>tus vel alius cui non incumbit ex officio ministrare 
+      <lb ed="#P" n="5"/>quatem vel ille petit in publico vel in occulto. Si in 
+      <lb ed="#P" n="6"/>publico vel termiste quo non oportet ei ministrare corpus domin 
+      <lb ed="#P" n="7"/>vel quandoportet vt in festo paschatis. Istis notatis pono 
+      <lb ed="#P" n="8"/>conclusiones. Prima est: licet occulto peccatori negan 
+      <lb ed="#P" n="9"/>dum est corpus domini in occulto / tamen si petat in publico § 
+      <lb ed="#P" n="10"/>hriste quo teneor minstrare aliis supposito quod sit michi 
+      <lb ed="#P" n="11"/>ubditus teneor ei ministrare corpus domini. hec 
+      con<lb ed="#P" n="12" break="no"/>clusio habet duas partes. prior probatur. habeo lici 
+      <lb ed="#P" n="13"/>tam exceptionem contra eum nec eum scandaliso quia est 
+      <lb ed="#P" n="14"/>in conclaui inter me et eum et scio quod si capiat nouo 
+      <lb ed="#P" n="15"/>peccato peccat ergo debeo ei negare. secunda pars 
+      <lb ed="#P" n="16"/>patet non habeo exceptionem contra eum in publico 
+      <lb ed="#P" n="17"/>quia quod ego scio scio in foro interiore non possum 
+      <lb ed="#P" n="18"/>per illud obiicere et essem reuelator confessionis ex 
+      <lb ed="#P" n="19"/>emplo saluatoris in cena qui optine sciebat proditorem 
+      <lb ed="#P" n="20"/>illum iudam esse in mortali non obstante in publico ei 
+      <lb ed="#P" n="21"/>porrexit suum sacro sanctantum corpus sicut dicit aug. 
+      praeo<lb ed="#P" n="22" break="no"/>xxi. super illo verbo manducauerunt et adorauertur 
+      <lb ed="#P" n="23"/>omnes pingues terre. Item nisi sic / daretur 
+      occa<lb ed="#P" n="24" break="no"/>sio negare corpus christi sanctins. math. xxvi. et luce 
+      <lb ed="#P" n="25"/>xxii. quia ibi de apostolis nullum excepit. illud habetur 
+      ex<lb ed="#P" n="26" break="no"/>presse. i. q. i. christus. et de conse. d. ii. non prohibeat. et. c. 
+      <lb ed="#P" n="27"/>sicut iudas. petrus conestor in capite. clii. hystorie 
+      <lb ed="#P" n="28"/>euangelice dicit hilarium tenuisse super math. quod christus 
+      <lb ed="#P" n="29"/>non contulit suum corpus iude: sed beatus aug. et fer 
+      <lb ed="#P" n="30"/>me omnes tenent oppositum et suffragatur euangelium 
+      <lb ed="#P" n="31"/>llud est tenendum. Dicebatur si petat tempore debi 
+      <lb ed="#P" n="32"/>to. alioquin habeo legittimam exceptionem contra 
+      eum<lb ed="#P" n="33" break="no"/>etam ad quod propositum nunc petitis / eodemmodo 
+      <lb ed="#P" n="34"/>si non sum ordinarius eius.
+    </p>
+            <p xml:id="JM7jmZ-d21255-d1e207">
+      ¶ Secunda conclusio 
+      <lb ed="#P" n="35"/>negandum est sacramentum eucharistie in publico 
+      no<lb ed="#P" n="36" break="no"/>torie peccatori esto quod non sit in peccato. hec conclu 
+      <lb ed="#P" n="37"/>sio habet duas partes. prior patet. quia habet legittimam 
+      ex<lb ed="#P" n="38" break="no"/>ceptionem contra eum non sufficit quod presbiter potest i 
+      <lb ed="#P" n="39"/>lud crimen cum testibus fide dignis contra illum proba 
+      <lb ed="#P" n="40"/>re. secunda pars patet. quia talis frequenter detestatur suum 
+      <lb ed="#P" n="41"/>peccatum sed hoc non sufficit. publica peccata sunt publi 
+      <lb ed="#P" n="42"/>ce punienda. Ex illa conclusione sequitur non debet 
+      ali<lb ed="#P" n="43" break="no"/>quis dare meretricibus vsurariis vel quibuscumque t 
+      <lb ed="#P" n="44"/>nortale peccatum notorie viuentibus statim similiter iura loquum 
+      <lb ed="#P" n="45"/>tur de histrionibus. hoc patet de conse. d. ii. pro 
+      dele<lb ed="#P" n="46" break="no"/>ctatione tua consulendum me existimasti frater 
+      cha<lb ed="#P" n="47" break="no"/>rissime quid michi videtur ne histrione et mago illo qui 
+      <lb ed="#P" n="48"/>apud vos constitutus. paulopost sequitur puto nec ma 
+      <lb ed="#P" n="49"/>iestati diuine nec euangelice discipline congruere vt 
+      <lb ed="#P" n="50"/>pudor et honor ecclesie tam turpi et infami contagione 
+      <lb ed="#P" n="51"/>fedetur. sed de histrionibus videtur distinguendum quidan 
+      <lb ed="#P" n="52"/>xxercent illam artem et prorsus nullum alium viuendi mo 
+      <lb ed="#P" n="53"/>dum habent vt in vtroque regno britannie. quidam hone 
+      <lb ed="#P" n="54"/>stius viuentes artem habent quam exercent tempore congrud 
+      <lb ed="#P" n="55"/>et ludunt in conuiuiis vel festis vt in francia / nec isti 
+      <lb ed="#P" n="56"/>nec illi sunt remouendi ab eucharistia dum gestus 
+      im<lb ed="#P" n="57" break="no"/>pudicos non ostendunt sicut non faciunt communiter. alii sunt qui 
+      <lb ed="#P" n="58"/>dedita opera illotis sermonibus loquuntur cantus 
+      fe<lb ed="#P" n="59" break="no"/>dos et gestus impudicos iuclinantes ad mortale in¬ 
+      <!--091.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="60"/>ducunt de hiis est sermo prohibitionis.
+    </p>
+            <p xml:id="JM7jmZ-d21255-d1e270">
+      ¶ Contra 
+      se<lb ed="#P" n="61" break="no"/>cundam partem prime conclusionis arguitur probando quod non 
+      <lb ed="#P" n="62"/>licet dare peccatori occulto petenti corpus domini in 
+      publi<lb ed="#P" n="63" break="no"/>co. consentio suo peccato ergo pecco. quod ipse peccat sumen 
+      <lb ed="#P" n="64"/>do iam ante patuit quaestione praecedenti ego ei ministro il 
+      <lb ed="#P" n="65"/>lud per quod ipse peccat. si ego rem alienam furi preberem 
+      <lb ed="#P" n="66"/>secum peccarem. Item melius est ei quod scandalizetur quam 
+      <lb ed="#P" n="67"/>quod ei sic porrigatur sacramentum eucharistie. ergo debeo 
+      <lb ed="#P" n="68"/>ei succurrere.
+    </p>
+            <p xml:id="JM7jmZ-d21255-d1e291">
+      ¶ Respondetur negando quod consentio sud 
+      <lb ed="#P" n="69"/>peccato imo displicet mihi quod ipe capit si michi pla 
+      <lb ed="#P" n="70"/>ceret vel instigarem eum ad petendum in publico secum 
+      <lb ed="#P" n="71"/>peccarem ipse hec facit qui me cogit hec facere in fo 
+      <lb ed="#P" n="72"/>ro in quo non possum licite contra eum excipere et sic 
+      <lb ed="#P" n="73"/>non do sanctantum canibus nec panem filiorum peccatoribus nec 
+      <lb ed="#P" n="74"/>proiicio corpus christi in luto spuali sed citius ipse 
+      <lb ed="#P" n="75"/>a me rapit et proiicit in lutum nec iure possum resiste 
+      <lb ed="#P" n="76"/>re ad non dandum. debeo ei dicere in aure quando petit in 
+      <lb ed="#P" n="77"/>publico / consulo frater mi quod recedas quod si 
+      nolue<lb ed="#P" n="78" break="no"/>rit debeo dicere in publico nullus veniat huc cum pec 
+      <lb ed="#P" n="79"/>cato vel antequam reconcilietur sactem matri ecclesie si pos 
+      <lb ed="#P" n="80"/>sum sine istius scandalo et superaddere quod multi in 
+      <lb ed="#P" n="81"/>firmantur et moriuntur indigne sumentes. si noluerit 
+      <lb ed="#P" n="82"/>acquiescere adhuc dabo ei. Ad aliud vbi dicitur melius 
+      <lb ed="#P" n="83"/>est ei quod scandalisetur transeat illud. sed non est me 
+      <lb ed="#P" n="84"/>lius michi actiue scandalisare / charitas bene 
+      ordina<lb ed="#P" n="85" break="no"/>ta incipit a semetipso.
+    </p>
+            <p xml:id="JM7jmZ-d21255-d1e330">
+      ¶ Secundo arguitur ad idem non de 
+      <lb ed="#P" n="86"/>beo facere aliis quod non vellem michi fieri sed sor 
+      <lb ed="#P" n="87"/>tes presbiter si esset in illo casu in quo est plato pec 
+      <lb ed="#P" n="88"/>cator non debet velle quod plato det ei sacramentum 
+      <lb ed="#P" n="89"/>eucha. igitur. Item math. vii. nolite proiicere margari 
+      <lb ed="#P" n="90"/>tas ante porcos / ille peccator est peior porco qui non 
+      <lb ed="#P" n="91"/>est in peccato: igitur.
+    </p>
+            <p xml:id="JM7jmZ-d21255-d1e346">
+      ¶ Respondetur negando minorem si 
+      re<lb ed="#P" n="92" break="no"/>cte vellet debet velle quod plato porrigat ei sacramentum 
+      <lb ed="#P" n="93"/>eucaristie in illo casu. quod patet debet velle quod non peccet si 
+      <lb ed="#P" n="94"/>non dat peccat si dat non peccat. Ad aliud math. 
+      <lb ed="#P" n="95"/>vii. non infirmatur conclus sed potius confirmatur: quia dicitur 
+      <lb ed="#P" n="96"/>nolite proiicere. i. nolitionem habere proiiciendi 
+      mar<lb ed="#P" n="97" break="no"/>garitas an porcos quantum est ex parte vestra. sed non 
+      <lb ed="#P" n="98"/>dixit non proiiciatis margaritas an porcos: interdum 
+      <lb ed="#P" n="99"/>dans peccat et recipiens non / vt in vsuris dans ad 
+      <lb ed="#P" n="100"/>vsuram peccat recipiens quidam non delinquit. econuerso 
+      <lb ed="#P" n="101"/>est hic in minstratione huius sacramenti. Si dicas si 
+      <lb ed="#P" n="102"/>non haberem velle dandi nunquam darem exterius. verum 
+      <lb ed="#P" n="103"/>est: sed illud velle est extortum et non sincere sponta 
+      <lb ed="#P" n="104"/>neum. Si dicas medicus dans infirmo medicinam 
+      cor<lb ed="#P" n="105" break="no"/>poralem esto quod petat quam nociuam cognoscit peccat: erg 
+      <lb ed="#P" n="106"/>medicus spualis dans medicinam spualem puta 
+      cor<lb ed="#P" n="107" break="no"/>pus domini ei cui scit nocere peccat / nego consequentiam et cau 
+      <lb ed="#P" n="108"/>sa est: vnus obligatur dare alter non obligatur imo ob 
+      <lb ed="#P" n="109"/>igatur non dare medicinam corporalem / nec rursus est si 
+      <lb ed="#P" n="110"/>mile dare furioso gladium suum et huic sacramentum 
+      <lb ed="#P" n="111"/>postquam ad vnum teneor et non ad reliquum. Si dicas iu 
+      <lb ed="#P" n="112"/>das non petit eucharistiam. ergo ex facto christi non debec 
+      <lb ed="#P" n="113"/>dare eucharistiam. etiam christus reuelauit iohannt 
+      <lb ed="#P" n="114"/>peccatum iude: ergo si debeam imitari christum 
+      de<lb ed="#P" n="115" break="no"/>beo reuelare peccatum secretum fratris mei. distinguo quod iu 
+      <lb ed="#P" n="116"/>das non petit / vel verbaliter et sic concedo. vel 
+      <lb ed="#P" n="117"/>tacite et sic nego. Ille petit tacite qui sedet inter 
+      <lb ed="#P" n="118"/>alios capientes et sic iudas sedebat cum apostolis in 
+      <!--092.xml-->
+      <pb ed="#P" n="39-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>cena etiam christus sciebat quod iudas peteret 
+      instan<lb ed="#P" n="2" break="no"/>ter. Ad aliud dico non debemus christum imitar 
+      <lb ed="#P" n="3"/>vbi est nobis prohibitum sicut est reuelare secretum 
+      <lb ed="#P" n="4"/>fratris. secus erat de christo non obligato ad leges 
+      <lb ed="#P" n="5"/>illas. Tum secundo habebat causam reuelandi vt 
+      <lb ed="#P" n="6"/>insinuaret apostolo eum nichil latere: item christus 
+      <lb ed="#P" n="7"/>dixit illi qui poterat prodesse. Forte dicis si 
+      subdi<lb ed="#P" n="8" break="no"/>tus curati petat eucharistiam qui est. in peccato oc 
+      <lb ed="#P" n="9"/>culto extra tempus debitum curatus non tenetur 
+      <lb ed="#P" n="10"/>ei dare: sed curatus non tenetur dare huic 
+      eucha<lb ed="#P" n="11" break="no"/>ristiam in hac hora sufficit aliquo istorum octo die 
+      <lb ed="#P" n="12"/>rum. igitur: maior est vera si petat quando non 
+      te<lb ed="#P" n="13" break="no"/>neor dare petam ab eo quare petit et quicquid 
+      di<lb ed="#P" n="14" break="no"/>tat ei non dabo dum ostendit se esse in peccato: 
+      <lb ed="#P" n="15"/>sed nego minorem nunc teneor ei dare cum sim dans 
+      <lb ed="#P" n="16"/>aliis in festo paschatis et ipse petit cum aliis. prece 
+      <lb ed="#P" n="17"/>pta affirmatiua obligant pro loco et tempore iam est 
+      <lb ed="#P" n="18"/>locus et tempus. imprudenter facerem si dicerem es 
+      <lb ed="#P" n="19"/>petenti in occulto non possum tibi dare communionem sic 
+      <lb ed="#P" n="20"/>petenti pete in publico. aperirem ei viam peccati sa 
+      <lb ed="#P" n="21"/>tius est aliqua nescire quam scire eadem. petis quare 
+      <lb ed="#P" n="22"/>christus non monuit iudam in particulari ne 
+      acce<lb ed="#P" n="23" break="no"/>deret. etiam non tenebatur ei dare sicut de curato 
+      <lb ed="#P" n="24"/>dicatur videt eum incorrigibilem et satis monuerat 
+      di<lb ed="#P" n="25" break="no"/>cens. vnus vestrum me traditurus est. Ad aliud dico 
+      <lb ed="#P" n="26"/>quod non tenebatur sed ne crimen occultum proderet 
+      <lb ed="#P" n="27"/>omnibus et vt daret nobis exemplar faciendi. 
+      <lb ed="#P" n="28"/>Potes hic arguere si teneamus dare tali 
+      euchari<lb ed="#P" n="29" break="no"/>stiam maxime esset imitando christum qui suum 
+      cor<lb ed="#P" n="30" break="no"/>pus communicauit iude: sed iudas erat publicus 
+      pecca<lb ed="#P" n="31" break="no"/>tor: ergo per illud factum teneor dare publico 
+      pec<lb ed="#P" n="32" break="no"/>catori. quod erat publicus patet: erat cognitus apud 
+      iu<lb ed="#P" n="33" break="no"/>deos et iohannem in cena. et sic factum erat publicum 
+      <lb ed="#P" n="34"/>de se. Si dicas: non erat cognitum apostolis licet iu 
+      <lb ed="#P" n="35"/>deis et non erat notorium. Contra: ex illo sequitur 
+      <lb ed="#P" n="36"/>quod ego transiens in Scotiam non possum reuelare fa 
+      <lb ed="#P" n="37"/>ctum publicum et enorme istius heretici nuper con 
+      <lb ed="#P" n="38"/>busti parisius quod non est concedendum. Respon 
+      <lb ed="#P" n="39"/>detur consequentia est nulla cum est declaratum auctoritate iu 
+      <lb ed="#P" n="40"/>ris et notorium. Si ponas quod alicui occurrat pecca 
+      <lb ed="#P" n="41"/>tum non confessum quando est in missa vel quod est simo 
+      <lb ed="#P" n="42"/>niacus vel irregularis vel quod non est rite ordinatus 
+      <lb ed="#P" n="43"/>et per consequens dubitat an est presbiter vel occurrit ei in 
+      <lb ed="#P" n="44"/>mentem quod mane gentatus est. Respondetur: debet 
+      <lb ed="#P" n="45"/>detestari cum proposito confitendi si non potest 
+      de<lb ed="#P" n="46" break="no"/>serere sine scandalo bonum esset quod ille qui credit se 
+      <lb ed="#P" n="47"/>non esse presbiterum simulet se esse infirmum si potest 
+      <lb ed="#P" n="48"/>sine scandalo si sint scrupuli leues excutiat eos 
+      re<lb ed="#P" n="49" break="no"/>ducendo se ad passionem christi.
+    </p>
+            <p xml:id="JM7jmZ-d21255-d1e520">
+      ¶ Contra secundam con 
+      <lb ed="#P" n="50"/>clusionem arguitur. qui fuit notorius peccator nunc incipit 
+      de<lb ed="#P" n="51" break="no"/>testari suum peccatum et habet magnam contritionem. ergo nunc 
+      <lb ed="#P" n="52"/>est in gratra. ergo non est peccator. ergo non est notori 
+      <lb ed="#P" n="53"/>peccator. consequentia tenet a superiori saltem consequentialiter ad 
+      in<lb ed="#P" n="54" break="no"/>ferius negatiue cum distributione superioris. Si dicas 
+      <lb ed="#P" n="55"/>ei adhuc debetur pena pro peccto et sic est in peccato. 
+      <lb ed="#P" n="56"/>Contra volo quod doluit illa meretrix tribus diebus 
+      <lb ed="#P" n="57"/>priuatim tanto dolore sicut beata magdalena et ve 
+      <lb ed="#P" n="58"/>niat et petat sacramentum eucharistie: iam non est in 
+      <lb ed="#P" n="59"/>peccato. Item sit vna meretrix notoria in vna par. e 
+      <!--092.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="60"/>vrbis bene magna et petat in publico vbi sunt mul 
+      <lb ed="#P" n="61"/>ti qui illud peccatum non cognouerunt tunc 
+      cura<lb ed="#P" n="62" break="no"/>tus ei negans sacramentum eucharistie exorbitat: 
+      <lb ed="#P" n="63"/>igitur:
+    </p>
+            <p xml:id="JM7jmZ-d21255-d1e557">
+      ¶ Respondetur per propositiones Prima 
+      <lb ed="#P" n="64"/>est: hec consequentia est nulla: berta est notoria 
+      pec<lb ed="#P" n="65" break="no"/>catrix: ergo est peccatrix: capiendo peccatricem pro 
+      <lb ed="#P" n="66"/>ea quae est in peccato vel cui debetur pena peccati. hoc 
+      <lb ed="#P" n="67"/>patet ex argumento. Secunda propositio siue ipsa 
+      <lb ed="#P" n="68"/>vocetur peccatrix: vel non / quando ipsa petit sacra 
+      <lb ed="#P" n="69"/>mentum vel michi constat quod ipsa est vere penitens post 
+      <lb ed="#P" n="70"/>aliquantum tempus possum dare ei corpus domini in 
+      <lb ed="#P" n="71"/>occulto sed non ita cito in publico oportet quod ipa reparet 
+      <lb ed="#P" n="72"/>malefactum per aliquod termiptus bene viuendo vel intram 
+      <lb ed="#P" n="73"/>do claustrum vel bene viuendo in seculo: et tunc ei da 
+      <lb ed="#P" n="74"/>bitur si ingrediatur claustrum ipsa emendat publice: 
+      <lb ed="#P" n="75"/>vel possum ei iniungere praesentiam publicam si non 
+      in<lb ed="#P" n="76" break="no"/>grediatur vel aliis declarare quod ipa est vere penitens 
+      <lb ed="#P" n="77"/>vt sicut alii scandal eati sunt de culpa sic edificentur 
+      <lb ed="#P" n="78"/>de pena. prime ad thimo. v. peccantem coram 
+      omni<lb ed="#P" n="79" break="no"/>bus / argue coram omnibus vt ceteri timorem habeant 
+      <lb ed="#P" n="80"/>penitenti dummodo hoc constat non negabo 
+      penitem<lb ed="#P" n="81" break="no"/>tiam: et per consequens eucharistiam. patet de relapso 
+      <lb ed="#P" n="82"/>penitente. distin. lxxxvi. cap. tanta. et de peni. et re. 
+      <lb ed="#P" n="83"/>cap. quia inte. Sed accedendo ad propositum de 
+      <lb ed="#P" n="84"/>muliere secundum circunstantias quas ego video non 
+      <lb ed="#P" n="85"/>est inconueniens quod ipsa non sit in peccato et ei nege 
+      <lb ed="#P" n="86"/>tur sacra mentum eucharistie si per testes falsos omi 
+      <lb ed="#P" n="87"/>exceptione maiores ostendatur et conuincatur 
+      co<lb ed="#P" n="88" break="no"/>ram iudice esse meretrix publica negabo ei 
+      sacra<lb ed="#P" n="89" break="no"/>mentum eucharistie et ipsa est notorie peccatrix et 
+      <lb ed="#P" n="90"/>in nullo peccato. Ad aliud supposito quod multi sciunt 
+      <lb ed="#P" n="91"/>dicitur si valde multi sciant et ipsa non potest nega 
+      <lb ed="#P" n="92"/>re sed est euidentia facti esto quod non probetur iuridi 
+      <lb ed="#P" n="93"/>ce negabo ei sacramentum eucharistie in ecclesia co 
+      <lb ed="#P" n="94"/>ram maiore numero fortassis in decuplo quam 
+      sciant<lb ed="#P" n="95" break="no"/>nec eam infamo sed ipsa seipsam reddidit infamen. 
+      <lb ed="#P" n="96"/>illud patet. ii. questio. i. que lotharius rex. et capulo 
+      <lb ed="#P" n="97"/>sequenti. de manifesta non requiritur omnium scientia 
+      <lb ed="#P" n="98"/>dicit glosa. sed forte sufficiunt decem quia reddunt 
+      <lb ed="#P" n="99"/>populum. x. questione. iii. vnio. sed non debeo 
+      reii<lb ed="#P" n="100" break="no"/>cere mulierem que a pluribus opinatur meretrix ni 
+      <lb ed="#P" n="101"/>si bene constat sine tergiuersatione quod sit meretrix. 
+      <lb ed="#P" n="102"/>frequenter populo non credendum est. Sed petis 
+      <lb ed="#P" n="103"/>si occultus peccator petit a me qui illud solus scio 
+      <lb ed="#P" n="104"/>per confessionem et adhuc non penitet sed petit in 
+      <lb ed="#P" n="105"/>occulto corpus domini pro tempore et loco. dicis et be 
+      <lb ed="#P" n="106"/>ne ei negabo. Contra queretur de me ecclesie eo quod 
+      <lb ed="#P" n="107"/>ei renuerim sacramentum eucharistiam si ego dicam 
+      <lb ed="#P" n="108"/>fuit in peccato / proditor sum confessionis et hoc di 
+      <lb ed="#P" n="109"/>recte. Si dicam habeo causam sussicientem pro me 
+      <lb ed="#P" n="110"/>sed non possum dicere iam indirecte apud doctos 
+      <lb ed="#P" n="111"/>dointelligere istum esse in peccato occulto. Si dicam 
+      <lb ed="#P" n="112"/>ego male egi / mentior et falsum dico. bene egi. 
+      Re<lb ed="#P" n="113" break="no"/>spondetur non daboei corpus christi in occulto sed 
+      <lb ed="#P" n="114"/>quid respondendum est si casus contingat dicam non 
+      <lb ed="#P" n="115"/>memini me fecisse ali quam iniuriam et ex sua mali 
+      <lb ed="#P" n="116"/>cia. forte intelligetur quod ipse est in peccato occulto 
+      <lb ed="#P" n="117"/>non me dicente quia nunquam illud asseram pro causa 
+      di<lb ed="#P" n="118" break="no"/>cam ei veniat ad ecclesiam et dabo ei corpus chri¬ 
+      <!--093.xml-->
+      <pb ed="#P" n="39-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>sti quod et faciam coram aliis si veniat ad locum secre 
+      <lb ed="#P" n="2"/>tum inter me et eum iterum negabo vel ipso 
+      conque<lb ed="#P" n="3" break="no"/>rente episcopo dicam stare conqueritur veniat ad 
+      <lb ed="#P" n="4"/>ecclesiam dabo ei eucharistiam vel adducit testem vt 
+      te<lb ed="#P" n="5" break="no"/>stes et ei dabo sine peccato si nullum adducat sicut erat 
+      <lb ed="#P" n="6"/>in principio et nunc et semper in seculorum secula 
+      <lb ed="#P" n="7"/>Si dicis de duobus malis minus est eligendum minus 
+      <lb ed="#P" n="8"/>malum est peccatori si infametur ex reuelatione criminis 
+      <lb ed="#P" n="9"/>vel quod detur ei hostia non consecrata quam quod capiat cor 
+      <lb ed="#P" n="10"/>pus christi in peccato. igitur. Respondetur maior 
+      <lb ed="#P" n="11"/>est falsa nullum malum est eligendum potest peccator dete 
+      <lb ed="#P" n="12"/>stari peccatum et eum confiteri et habebit sacramen 
+      <lb ed="#P" n="13"/>tum sine peccato nec infamabitur / et fateor quod ei 
+      es<lb ed="#P" n="14" break="no"/>set minus malum quod infamaretur quam capere et velle 
+      <lb ed="#P" n="15"/>capere corpus christi in peccato: sed mea non inter 
+      <lb ed="#P" n="16"/>est anima mea in manibus meis vt superius dictum 
+      <lb ed="#P" n="17"/>est in solutione confirmationis primi argumenti ni 
+      <lb ed="#P" n="18"/>chil prodesset dare ei hostiam non consecratam. patet 
+      <lb ed="#P" n="19"/>de celebra. missarum. capitulo. de homnie. licet capiens 
+      <lb ed="#P" n="20"/>eucharistiam plus gratie habet quam capere volens tam 
+      <lb ed="#P" n="21"/>tum peccat credens capere eucharistiam sicut eam ca 
+      <lb ed="#P" n="22"/>piens non dabo ei petenti non consecratam / nichil 
+      <lb ed="#P" n="23"/>falsitatis debet esse in hoc sacramento non potest da 
+      <lb ed="#P" n="24"/>ri regula certa quam grauiter peccat capiens euchari 
+      <lb ed="#P" n="25"/>stiam in mortali si sciat se esse in mortali. reor minus 
+      <lb ed="#P" n="26"/>esse peccatum conedere carnes die veneris in 
+      qua<lb ed="#P" n="27" break="no"/>dragesima si ex ignorantia vincibili peccatum est mi 
+      <lb ed="#P" n="28"/>nus: et hic potes facere calculationem eundo prope 
+      <lb ed="#P" n="29"/>gnorantiam inuincibilem vt facio de ebrietate. venia 
+      <lb ed="#P" n="30"/>le non impedit collationem gratie in hoc sacramento 
+      <lb ed="#P" n="31"/>ex hoc quod indignus capit sacramentum hoc. vt decla 
+      <lb ed="#P" n="32"/>rat apostolus prie corinth. xi. conuincitur quod brutum 
+      <lb ed="#P" n="33"/>sacramentum capit: nec danda est fides aduersariis.  
+      <lb ed="#P" n="34"/>nec hoc est magis absonum quam deum esse vbicunque lo 
+      <lb ed="#P" n="35"/>corum et tamen propterea non fit ignominia deo. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

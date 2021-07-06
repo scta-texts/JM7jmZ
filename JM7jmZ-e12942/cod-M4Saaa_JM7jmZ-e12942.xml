@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 2</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 2</title>
+               <date when="2021-07-06">July 06, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-M4Saaa">Paris 1509</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-06" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="203-r"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="JM7jmZ-e12942"><!-- l4d46q2 -->
+            <head xml:id="JM7jmZ-e12942-Hd1e108">Quaestio 2</head>
+            <head xml:id="JM7jmZ-e12942-Hd1e111" type="question-title">
+      Quod inaequaliter
+      praemiet aequaliter
+      merentes</head>
+            <p xml:id="JM7jmZ-e12942-d1e114">
+               <lb ed="#P" n="113"/>¶ Distinctionis quadragesime sexte quaestio secunda. 
+      <lb ed="#P" n="114"/>Ecundo probandum est quod ine qualiter primiet 
+      <lb ed="#P" n="115"/>equaliter merentes posito casu quod in boc 
+      in<lb ed="#P" n="116" break="no"/>Istanti sortes incipiat mereri per remotionem 
+      <!--421.xml-->
+      <pb ed="#P" n="203-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>de presenti et positionem de futuro et plato immediate 
+      <lb ed="#P" n="2"/>post sortem incipiat mereri et continuo mereantur 
+      <lb ed="#P" n="3"/>vniformiter per vnam horam dempto principio meren 
+      <lb ed="#P" n="4"/>di decedant in fine hore. arguitur sic sortes et plato 
+      <lb ed="#P" n="5"/>inequaliter merentur quia sortes incipit mereri ante 
+      <lb ed="#P" n="6"/>platonem ex ipotesi et tamen equaliter premiabuntur quod 
+      <lb ed="#P" n="7"/>patet si inequaliter hoc est propter excessum merit 
+      <lb ed="#P" n="8"/>sortis super meritum platonis sed hoc non si sortes 
+      <lb ed="#P" n="9"/>mereatur pure successiue cum platone ambo 
+      inci<lb ed="#P" n="10" break="no"/>piunt mereri per idem instans in quo sumus idem es 
+      <lb ed="#P" n="11"/>si subito mereantur forte negas vnum posse mereri 
+      <lb ed="#P" n="12"/>post alium sed quaestio proposita dependet ex vno an vnum 
+      <lb ed="#P" n="13"/>angelus potest immediate post alium produci quod 
+      tangi<lb ed="#P" n="14" break="no"/>tur ab aliquibus doctoribus in primo illud apperie 
+      <lb ed="#P" n="15"/>mus quia erit scala capiende quaestionis mote postea ad 
+      <lb ed="#P" n="16"/>titulum questionis descendemus aliqui existimant impli 
+      <lb ed="#P" n="17"/>care contradictionem vnam rem posse produci 
+      impartibi<lb ed="#P" n="18" break="no"/>liter post aliam propterea negant beatam virginem posse 
+      <lb ed="#P" n="19"/>stare in peccato originali per vnum instans et immediate 
+      <lb ed="#P" n="20"/>post illud gratiam posse infundi et peccatum dilui si gra 
+      <lb ed="#P" n="21"/>tia raptim infundatur hoc tenet obam in quotlibet 
+      <lb ed="#P" n="22"/>quere eum alii rati sunt possibile vnum angelum posse 
+      <lb ed="#P" n="23"/>produci post alium immediate sed non est possibile quod tres 
+      <lb ed="#P" n="24"/>producantur post seinuicem sic opinatus est gregorius in sud 
+      <lb ed="#P" n="25"/>prmo volumus probare duas conclusiones contra illa 
+      <lb ed="#P" n="26"/>dicta si poterimus. prior conclusio possibile est deo 
+      <lb ed="#P" n="27"/>producere vnum angelum post alium immediate et per consi 
+      <lb ed="#P" n="28"/>quens non implicat contradictionem beatam vginem steti 
+      <lb ed="#P" n="29"/>ss in peccato originali per vnum instans et gratiam es 
+      <lb ed="#P" n="30"/>infundi subito. Secunda conclusio deus potest tres ange 
+      <lb ed="#P" n="31"/>los producere post seinuicem. Prior conclusio probatur 
+      <lb ed="#P" n="32"/>producat deus in hoc instanti corpus luminosum quod po 
+      <lb ed="#P" n="33"/>nat in mediobene disposito ad susceptionem luminis 
+      <lb ed="#P" n="34"/>suscipiendi et non concurrat deus cum sole in hoc instan 
+      <lb ed="#P" n="35"/>ti ad productionem luminis sed immediate post hoc 
+      in<lb ed="#P" n="36" break="no"/>stans concurrat tunc an quodlibet instans sequens produ 
+      <lb ed="#P" n="37"/>cetur lumen et hoc subito supponimus creaturam posse 
+      <lb ed="#P" n="38"/>actionem habere in instanti et ita tenet vir iste contri 
+      <lb ed="#P" n="39"/>quem obiicimus ergo immediate post productionem 
+      cor<lb ed="#P" n="40" break="no"/>poris luminosi producitur lumen in medium et eodemmoo l 
+      <lb ed="#P" n="41"/>fieret si deus annichilaret totale lumen solis in hoc in 
+      <lb ed="#P" n="42"/>stanti per vltimum instans sui esse relinquendo solem con 
+      <lb ed="#P" n="43"/>cursui solo naturali et immediate post hoc concurrendo 
+      <lb ed="#P" n="44"/>cum sole ergo si agens naturale hoc potest cum concurse 
+      <lb ed="#P" n="45"/>dei generali a fortiore hoc deus potest facere. 
+      insu<lb ed="#P" n="46" break="no"/>per nichil est negandum a potentia dei absoluta nisi con 
+      <lb ed="#P" n="47"/>stet illud impossibile vel auctoritate irrefragabili scri 
+      <lb ed="#P" n="48"/>pture vel ratione sed neutrum ostendi potest de scri 
+      <lb ed="#P" n="49"/>ptura. patet. adducat illam aduersarius rationes non 
+      <lb ed="#P" n="50"/>affert afferemus que nobis occurrunt que omnes soluem 
+      <lb ed="#P" n="51"/>tur. Secunda conclusio probatur producat deus in 
+      <lb ed="#P" n="52"/>thoc instanti angelum a immediate per aduersarium po 
+      <lb ed="#P" n="53"/>test producere angelum b ita quod primum instans angeli a 
+      <lb ed="#P" n="54"/>sit vltimum instans non esse angeli b et non est maior ra 
+      <lb ed="#P" n="55"/>tio quod potest deus producere angelum post a 
+      immedia<lb ed="#P" n="56" break="no"/>te quam potest producere c angelum imediate ante hoc 
+      <lb ed="#P" n="57"/>instans in quo suppono nos esse ergo habentur tres ange 
+      <lb ed="#P" n="58"/>li producti post se immediate.
+    </p>
+            <p xml:id="JM7jmZ-e12942-d1e257">
+      ¶ Contra priorem con 
+      <lb ed="#P" n="59"/>clusionem sic argumentor secunds angelus in nullo instan 
+      <!--421.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="60"/>ti immediate post boc instans d producitur cum nullum i 
+      <lb ed="#P" n="61"/>le sit quolibet instanti huius hore dato post d instans 
+      <lb ed="#P" n="62"/>in quo sumus verum est dicere b angelus in aliquo in 
+      <lb ed="#P" n="63"/>stanti priore fuit ergo conseruatur solum cum conseruatio 
+      <lb ed="#P" n="64"/>per hoc a productione separatur quod praesupponit rem 
+      <lb ed="#P" n="65"/>praefuisse. Insuper si des vnum instans in quo producitur 
+      <lb ed="#P" n="66"/>cum prius fuerit b angelus debes dicere quod ego nuno 
+      <lb ed="#P" n="67"/>producor cum non obstat praefuisse ad me nunc produci. Ad 
+      <lb ed="#P" n="68"/>primum dico quod b instantanee producitur sincathegoreu 
+      <lb ed="#P" n="69"/>matice hoc est in infinitum propinque d instanti et in 
+      <lb ed="#P" n="70"/>nullo instanti producitur de nouo et in quolibet instan 
+      <lb ed="#P" n="71"/>ti in quo est conseruatur: sed dato quod in nullo instanti pro 
+      <lb ed="#P" n="72"/>ducatur vt tu capis habetur in sententia quod ante quodlibet instanc 
+      <lb ed="#P" n="73"/>futurum post productionem a angeli b angelus erit 
+      <lb ed="#P" n="74"/>et sic producitur immediate post hoc et cum non habeat per 
+      <lb ed="#P" n="75"/>tes non potest successiue produci licet anima 
+      intelle<lb ed="#P" n="76" break="no"/>ctiua successiue potest materiam informare et angelus 
+      <lb ed="#P" n="77"/>partibiliter pertransire hoc spacium nec mirum cum tam 
+      <lb ed="#P" n="78"/>materia quam spacium habent partes et sic habemus propo 
+      <lb ed="#P" n="79"/>situm non est luctandum in terminis aliquis doctor 
+      pu<lb ed="#P" n="80" break="no"/>tat illud euadere difficultatem sed non satis considerat 
+      <lb ed="#P" n="81"/>ex hoc patet solutio ad secundum.
+    </p>
+            <p xml:id="JM7jmZ-e12942-d1e314">
+      ¶ Secundo argumentor 
+      <lb ed="#P" n="82"/>ad idem producat deus b angelum in mediate post a ver 
+      <lb ed="#P" n="83"/>potest producere e angelum immediate post b vel non 
+      <lb ed="#P" n="84"/>si tu dicas primum quero vel e producitur immediate 
+      <lb ed="#P" n="85"/>post a et sic non producitur post b contra casum si non 
+      <lb ed="#P" n="86"/>potest. contra potest producere secundum angelum 
+      imme<lb ed="#P" n="87" break="no"/>diate post primum sed existena tertii angeli no impedit: 
+      <lb ed="#P" n="88"/>igitur. Iusuper post b potest producere e et non est 
+      <lb ed="#P" n="89"/>dabile instans post b quin inter illud instans et b potest 
+      <lb ed="#P" n="90"/>producere e igitur: Respondetur non est possibile quod pro 
+      <lb ed="#P" n="91"/>ducat e immediate post b stante productione b imme 
+      <lb ed="#P" n="92"/>diate post a vt argumentum tangit non potest 
+      produce<lb ed="#P" n="93" break="no"/>re tres angelos qualitercumque post seinuicem vt opinor 
+      <lb ed="#P" n="94"/>productio tertii angeli non est causa vt patet in probatione 
+      <lb ed="#P" n="95"/>secunde conclusionis sed quia nulla esset prioritas secundi 
+      <lb ed="#P" n="96"/>ad tertium immediate post b potest producere eangei 
+      <lb ed="#P" n="97"/>lum sed non est possibile quod a producatur in boc instant 
+      <lb ed="#P" n="98"/>vel illo et b inmediate post a et e immediate post b vt 
+      <lb ed="#P" n="99"/>possibile modificet illam totam. Sed contra dicis 
+      po<lb ed="#P" n="100" break="no"/>natur quod hora futura diuidatur in partes 
+      proportio<lb ed="#P" n="101" break="no"/>nales minoribus terminatis versus d instans in quo 
+      <lb ed="#P" n="102"/>sumus et in prima parte proportionali producat deus 
+      <lb ed="#P" n="103"/>vnum angelum in secunda alium in tertia tertium et sic per 
+      <lb ed="#P" n="104"/>omnes partes proportionales hore future iam deus post 
+      <lb ed="#P" n="105"/>a qui producitur in boc instanti d producit duos post 
+      <lb ed="#P" n="106"/>se et idem potest poni si b et c angeli sic se habeant quod ba 
+      <lb ed="#P" n="107"/>broducatur in maxima parte proportionali in 
+      sub<lb ed="#P" n="108" break="no"/>dupla ad illam annichiletur et producatur e in tertia par 
+      <lb ed="#P" n="109"/>te annichiletur b et recreetur e et sic per omnes partes 
+      <lb ed="#P" n="110"/>proportionales vnius hore iam immediate post a pro 
+      <lb ed="#P" n="111"/>ducitur b et immediate post b producitur e. patet pe 
+      <lb ed="#P" n="112"/>exponentes de immediate. Respondetur cocedendo 
+      <lb ed="#P" n="113"/>illas propositiones quinimo immediate post a 
+      produ<lb ed="#P" n="114" break="no"/>cit deus tres quattuor et infinitos argumentum est 
+      so<lb ed="#P" n="115" break="no"/>phisma b non magis precedit equam contra cuius 
+      oppo<lb ed="#P" n="116" break="no"/>situm intendimus.
+    </p>
+            <p xml:id="JM7jmZ-e12942-d1e393">
+      ¶ Contra secundam conclusionem 
+      <lb ed="#P" n="117"/>argumentor producat deus c angelum immediate ante a 
+      <lb ed="#P" n="118"/>probo quod hoc implicet iam in d instanti verum est di¬ 
+      <!--422.xml-->
+      <pb ed="#P" n="204-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>cere c angelus incipit non fuit ab eterno sed hoc non 
+      <lb ed="#P" n="2"/>quia nec per primum instans sui esse cum fuerit ante d 
+      in<lb ed="#P" n="3" break="no"/>stans nec per vltimum instans non esse quia illud dari non 
+      <lb ed="#P" n="4"/>potest patet intelligenti imo sequitur quod c angelus fuit 
+      <lb ed="#P" n="5"/>in aliquo tempore et in nullo instanti illius temporis 
+      <lb ed="#P" n="6"/>quod videtur mirabile imo mirabilius videtur quod aliquid 
+      <lb ed="#P" n="7"/>fuit et nunquam erit in aliquo instanti nec fuit nec erit 
+      <lb ed="#P" n="8"/>patet si c desinat per primum instans sui non esse in hoc d 
+      <lb ed="#P" n="9"/>instanti et eodemmoo b angelus potest esse et in nullo in 
+      <lb ed="#P" n="10"/>stanti esse et tunc petitur quomodo precessit c et sic 
+      an<lb ed="#P" n="11" break="no"/>gelus desinit et nec per vltimum instans esse nec primum 
+      <lb ed="#P" n="12"/>non esse. patet. dec et b. Respondetur concedendo quod c 
+      <lb ed="#P" n="13"/>angelus incipit esse sed per nullum instans nec illa 
+      di<lb ed="#P" n="14" break="no"/>uisio instantium cuiuslibet rei possibilis originem inclu 
+      <lb ed="#P" n="15"/>dit cum non separatur adequatum tempus non existentie a 
+      <lb ed="#P" n="16"/>fronte a tempore existentie in hora praecedenti c angelus inci 
+      <lb ed="#P" n="17"/>pit esse et habuit vnam de presenti veram vt diximus in 
+      <lb ed="#P" n="18"/>xvi. distin. de amissione gratie sed si manet postea d 
+      <lb ed="#P" n="19"/>instans est primum eius esse instantaneum sed non primum 
+      <lb ed="#P" n="20"/>simpliciter et concedo hanc conclusionem c angelus fuit 
+      <lb ed="#P" n="21"/>in hac hora et in nullo instanti illius intrinseco vel 
+      ex<lb ed="#P" n="22" break="no"/>trinseco nec desinit per vltimum instans esse vel primum 
+      <lb ed="#P" n="23"/>non esse hoc non est magis inconueniens quam de 
+      ince<lb ed="#P" n="24" break="no"/>ptione hoc contingit in corruptione forme secundum vnum 
+      <lb ed="#P" n="25"/>modum si calor partibiliter producatur per totam 
+      ho<lb ed="#P" n="26" break="no"/>ram preterita m et iam simus in d instanti in quo frig 
+      <lb ed="#P" n="27"/>maioris actiuitatis quam calor sit resistentie applicetur 
+      <lb ed="#P" n="28"/>d non est vltimum instans huius totalis caloris et sic hic 
+      <lb ed="#P" n="29"/>calor non desinit per vltimum instans non esse cum erit 
+      <lb ed="#P" n="30"/>in tempore sequenti terminato ad boc instans sicut 
+      <lb ed="#P" n="31"/>erat de productione nec datur primum instans non 
+      es<lb ed="#P" n="32" break="no"/>se in d instanti an possit deus sic facere cum b angelo 
+      <lb ed="#P" n="33"/>incertum est an potest corrumpere sicut c et michi inter 
+      <lb ed="#P" n="34"/>dum visum est quod necesse est coditionaliter hoc est stante 
+      <lb ed="#P" n="35"/>casu eum conseruare per tempus sic legendo in artibus 
+      <lb ed="#P" n="36"/>in vtroque cursu ratus sum sed cum sint duodecim ho 
+      <lb ed="#P" n="37"/>re diei oppositum videtur rationabilius si teneamus 
+      <lb ed="#P" n="38"/>hoc quod dictum est de c quod id idem tenere debeamus in b 
+      <lb ed="#P" n="39"/>cum omnis ratio contra vnum est contra aliud. nunc 
+      <lb ed="#P" n="40"/>redeundo ad argumentum principale a principio 
+      que<lb ed="#P" n="41" break="no"/>stionis motum dico quod sortes et plato discedunt in me 
+      <lb ed="#P" n="42"/>ritis equalibus et equaliter primiabuntur quia ex casu 
+      <lb ed="#P" n="43"/>in boc instanti neuter meretur sed immediate post 
+      <lb ed="#P" n="44"/>hoc vterque merebitur eodemmodo potest solui argumen 
+      <lb ed="#P" n="45"/>tum si fiat si a b et c tres angeli creati immediate post 
+      <lb ed="#P" n="46"/>seinuicem moueantur super hanc lineam eque 
+      veloci<lb ed="#P" n="47" break="no"/>ter et quam primum creantur mouere incipiant super 
+      li<lb ed="#P" n="48" break="no"/>neam eque cito hec linea partransibitur ab illis tribus 
+      <lb ed="#P" n="49"/>mobilibus quia licet c angelus fuit ante boc instans 
+      <lb ed="#P" n="50"/>per aliquod tempus tamen illud non est separabile seorsum nec 
+      <lb ed="#P" n="51"/>potest dari spacium ab eo pertransitum in illo tempore vel 
+      <lb ed="#P" n="52"/>in instanti illius temporis cum in nullo instanti illius 
+      tem<lb ed="#P" n="53" break="no"/>poris erat et in boc instanti in quo sumus scilicet d non mo 
+      <lb ed="#P" n="54"/>uetur imo d instans erit vltimum instans non esse 
+      mo<lb ed="#P" n="55" break="no"/>tus istorum trium mobilium a bc et sic de merito si pure 
+      <lb ed="#P" n="56"/>partibiliter mereantur si instantanee mereantur non 
+      <lb ed="#P" n="57"/>est idem inter a et b a meretur in suo instanti in quo es 
+      <lb ed="#P" n="58"/>vel mereri potest ante b sed est idem instans meriti c 
+      an<lb ed="#P" n="59" break="no"/>geli cum a. quod patet in nullo instanti ante a c angelus 
+      <!--422.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="60"/>fuit ergo non poterat habere meritum in aliquo instanti 
+      <lb ed="#P" n="61"/>ante a sed dicis c fuit in tempore ante a licet nullo 
+      <lb ed="#P" n="62"/>tempore adequato cpoterat in illo tempore raptim 
+      <lb ed="#P" n="63"/>mereri hoc concedimus et tunc verum est dicere cme 
+      <lb ed="#P" n="64"/>ruit et in nullo instanti illius temporis erat in merito sed 
+      <lb ed="#P" n="65"/>subito meruit in tempore terminato ad boc instans. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

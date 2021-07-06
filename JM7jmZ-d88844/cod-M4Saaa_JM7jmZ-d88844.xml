@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 1</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 1</title>
+               <date when="2021-07-06">July 06, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-M4Saaa">Paris 1509</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-06" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="160-v"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="JM7jmZ-d88844"><!-- l4d31q1 -->
+            <head xml:id="JM7jmZ-d88844-Hd1e108">Quaestio 1</head>
+            <head xml:id="JM7jmZ-d88844-Hd1e111" type="question-title">
+      An tria bona matrimonii
+      excusant
+      actum matrimonialem
+      ne sit peccatum
+    </head>
+            <p xml:id="JM7jmZ-d88844-d1e114">
+               <lb ed="#P" n="10"/>¶ Distinctionis trigesime prime questio vnica 
+      <lb ed="#P" n="11"/>CIrca distinctionem trigesimam primam quaero an tria 
+      <lb ed="#P" n="12"/>Ibona matrimoni excusant actum matrimo 
+      <lb ed="#P" n="13"/>gnialemne sit peccatum.
+    </p>
+            <p xml:id="JM7jmZ-d88844-d1e125">
+      Triplex est bonum 
+      <lb ed="#P" n="14"/>matrimonii scilicet bonum fidei hoc est seruare fidelitatem 
+      <lb ed="#P" n="15"/>alteri coniugum non reddendo alteri vsum sui corporis 
+      <lb ed="#P" n="16"/>et coniugi reddendo quando par est vt inter 
+      vlixe<lb ed="#P" n="17" break="no"/>et penolopem inter lucretiam et suum virum bonum sacram 
+      <lb ed="#P" n="18"/>ti indissolubilitas hoc est quod vinculum sit 
+      indissolubi<lb ed="#P" n="19" break="no"/>le et illud in lumen naturali est equum numquam alias bene 
+      <lb ed="#P" n="20"/>cohabitarent sed alter alteram decipiet cumulando clam 
+      <lb ed="#P" n="21"/>culum bona post separationem et domus in duas sectas 
+      <lb ed="#P" n="22"/>diuideretur et feret egre vir vxorem eius ab alio 
+      du<lb ed="#P" n="23" break="no"/>ci et econuerso et illud patet ex marone primo eneidos 
+      <lb ed="#P" n="24"/>solum naturaliter loquente vbi in persona iunonis ad 
+      <lb ed="#P" n="25"/>eolum. ista tria explicabat inquiens. Sunt michi bis 
+      se<lb ed="#P" n="26" break="no"/>ptem prestanti corpore nimphe. Quarumque forma pu 
+      <lb ed="#P" n="27"/>cherrima deiopeiam. Connubio iungam stabili propam 
+      <lb ed="#P" n="28"/>que dicabo. Omnibus vt tecum meritis pro talibus annos 
+      <lb ed="#P" n="29"/>Exigat et pulcra faciet te prole pentem. ecce bonum 
+      <lb ed="#P" n="30"/>prolis. per propriam fidelitatem intelligit. per omnes an 
+      <lb ed="#P" n="31"/>nos perpetuitatem intelligit. simile. patet. iiii. eneidos. 
+      <lb ed="#P" n="32"/>dum dido imponit enee violasse matrimonium ob 
+      re<lb ed="#P" n="33" break="no"/>cessum in italiam ob hoc volens eneas se purgare di 
+      <lb ed="#P" n="34"/>cens non esse matrimonium: propterea dicit. ne finge fu 
+      <lb ed="#P" n="35"/>gam vt coniugis vnquam pretendit itidas autem hec in fede 
+      <lb ed="#P" n="36"/>ra veni bonum prolis est sancte et religiose prolem si 
+      <lb ed="#P" n="37"/>gspoetur educare. secundum illud. ii. ethicorum. i. non parum 
+      <lb ed="#P" n="38"/>imo plurimum quin potius totum refert sic an non sic 
+      <lb ed="#P" n="39"/>homines ab adolescentia consuescant et. iii. cap. eius 
+      <lb ed="#P" n="40"/>dem ob voluptatem inquit res improbas agimus ob do 
+      <lb ed="#P" n="41"/>lorem vero res post habemus honestas quapropter 
+      ho<lb ed="#P" n="42" break="no"/>mines ab ipsa statim adolescentia vt inquit plato 
+      <lb ed="#P" n="43"/>ita institutos esse oportet vt iis gaudeant doleantque 
+      <lb ed="#P" n="44"/>quibus gaudere dolereque oportet hec enim educatio 
+      <lb ed="#P" n="45"/>ac eruditio recta quia hoc ponderandum censuit 
+      aristo<lb ed="#P" n="46" break="no"/>teles auctoritatem platonis in medium citauit vt illud 
+      <lb ed="#P" n="47"/>roboraret. propterea antiquitus solebant deum timen 
+      <lb ed="#P" n="48"/>tes ponere liberos in locis sacris vsque ad annos nu 
+      <lb ed="#P" n="49"/>biles et tunc collectis sanctis moribus eos tradere 
+      <lb ed="#P" n="50"/>nuptui in proposito nostro de christifera virgine de qua 
+      <lb ed="#P" n="51"/>distinctione precedenti mentionem fecimus beata 
+      an<lb ed="#P" n="52" break="no"/>na et venerabilis ioachin studiose obseruarunt quod 
+      ex<lb ed="#P" n="53" break="no"/>plicat baptista primo libro de beata virgine inquiens 
+      <lb ed="#P" n="54"/>Mos erat antiquus longum seruatus in euum. Ede pu 
+      <lb ed="#P" n="55"/>ellares annos includere sacra. Etatemque deo 
+      tenera<lb ed="#P" n="56" break="no"/>primumque dicare vginee florem et gntoare pudorum. 
+      In<lb ed="#P" n="57" break="no"/>genti curam sanctonsque inducere mores. Box vbi ve¬ 
+      <!--335.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="58"/>stitum prima lanugine tempus / venerat in thalamos 
+      <lb ed="#P" n="59"/>ibant himeneaque tecta. Coniuncteque viris proli 
+      in<lb ed="#P" n="60" break="no"/>dulgere solebant. non intelliges hec tria esse 
+      essen<lb ed="#P" n="61" break="no"/>tialia matrimonii carnalis copula et proles sequuntur 
+      <lb ed="#P" n="62"/>matrimonium ergo non sunt de essentia eius sed vinculum 
+      <lb ed="#P" n="63"/>ligandi illa tria est essentiale in senibus non expectatur 
+      <lb ed="#P" n="64"/>proles et tamen contrahunt rationabiliter redeundo 
+      <lb ed="#P" n="65"/>id titulum questionis ponuntur conclusiones quando 
+      <lb ed="#P" n="66"/>vir sine peccato vxorem cognoscit.
+    </p>
+            <p xml:id="JM7jmZ-d88844-d1e247">
+      ¶ Prima 
+      con<lb ed="#P" n="67" break="no"/>clusio quando vir cognoscit vxorem causa prolis haben 
+      <lb ed="#P" n="68"/>de tempore loco et modo debitis non est peccatum. 
+      </p>
+            <p xml:id="JM7jmZ-d88844-d1e255">
+               <lb ed="#P" n="69"/>¶ Secunda conclusio quando vir reddit debitum 
+      vxo<lb ed="#P" n="70" break="no"/>ri petenti expresse vel interpretatiue non peccat eam 
+      <lb ed="#P" n="71"/>cognoscendone ipa incidat in fornicationem. iste due 
+      <lb ed="#P" n="72"/>conclusiones sunt lucide et ab omnibus admittuntur. 
+      <lb ed="#P" n="73"/>propterea in eis non adduco probationes.
+    </p>
+            <p xml:id="JM7jmZ-d88844-d1e268">
+      ¶ 
+      Ter<lb ed="#P" n="74" break="no"/>tia conclusio volens cognoscere vxorem vt euitetur 
+      lu<lb ed="#P" n="75" break="no"/>xuria in seipso non est peccatum. probatur. ex secunda 
+      <lb ed="#P" n="76"/>licet reddere vxori debitum vt euitetur fornicatio 
+      <lb ed="#P" n="77"/>in ea ergo ab ea petere ad fugiendum adulterium in 
+      ip<lb ed="#P" n="78" break="no"/>somet cum quilibet plus sibi teneatur quam alteri 
+      di<lb ed="#P" n="79" break="no"/>cit beatus bonauentura semper est veniale peccatum 
+      <lb ed="#P" n="80"/>sic beatus thomas dicit illud michi videtur preter ra 
+      <lb ed="#P" n="81"/>tionem doctor seraphicus dicit quod ibi est aliqua super 
+      <lb ed="#P" n="82"/>fluitas et per consequens est peccatum hanc superflui 
+      <lb ed="#P" n="83"/>tatem non intelligo rationabilem si sortes temptatus cum 
+      <lb ed="#P" n="84"/>aliqua muliere alloquitur antequam accedat suam 
+      pro<lb ed="#P" n="85" break="no"/>priam vxorem cognoscat vt adulterium in ipso euitet vi 
+      <lb ed="#P" n="86"/>detur quod prudenter agat et nullatenus peccat alias 
+      <lb ed="#P" n="87"/>dannabis multos actus in matrimonio senum praeter 
+      ra<lb ed="#P" n="88" break="no"/>tionem. Item apostolus dicit propter fornicationem vnus 
+      <lb ed="#P" n="89"/>quisque accipiat vxorem et vnaqueque suum virum mulier 
+      <lb ed="#P" n="90"/>ui corporis potestatem non habet sed vir similiter autem et vir 
+      <lb ed="#P" n="91"/>sui corporis potestatem non habet sed mulier. glosa 
+      mar<lb ed="#P" n="92" break="no"/>ginalis super illo passu iohannis crisostomi dicit causa 
+      <lb ed="#P" n="93"/>propter quam contrahi debet est procreatio prolis et 
+      <lb ed="#P" n="94"/>vitatio fornicationis non magis in muliere quam in viro 
+      <lb ed="#P" n="95"/>nec in reddente debitum quam petente idem est si fuerit cau 
+      <lb ed="#P" n="96"/>sa sanitatis habende vel conseruande vel tristicie expel 
+      <lb ed="#P" n="97"/>lende in talibus quis vtitur re sua licite.
+    </p>
+            <p xml:id="JM7jmZ-d88844-d1e323">
+      ¶ Quarta 
+      <lb ed="#P" n="98"/>conclusio si quis vult vxorem cognoscere causa ponendi 
+      <lb ed="#P" n="99"/>se in possessionem in primo matrimonio forte in sene 
+      <lb ed="#P" n="100"/>cam gnonande prolis vel fugiende fornicationis tristicie 
+      <lb ed="#P" n="101"/>vel seruande sanitatis in se vel vxore non propterea sus 
+      <lb ed="#P" n="102"/>actus est peccatum: dato quod voluptas incidat. patet. 
+      <lb ed="#P" n="103"/>non est in potestate eius quin incidat sicut in 
+      comestio<lb ed="#P" n="104" break="no"/>ne cibi: sed voluptas incidens in cibo non facit 
+      come<lb ed="#P" n="105" break="no"/>stionem illicitam dummoo manet in limitibus rationis. 
+      <lb ed="#P" n="106"/>Item circunstantia circunstans non cadens in ratione ob 
+      <lb ed="#P" n="107"/>iecti non vitiat actum bonum voluptas est huiusmodi in casu: 
+      <lb ed="#P" n="108"/>igitur. item est aliqua honesta voluptas sicut aliqua 
+      <lb ed="#P" n="109"/>est inhonesta.
+    </p>
+            <p xml:id="JM7jmZ-d88844-d1e352">
+      ¶ Quinta conclusio si quis cognoscat 
+      <lb ed="#P" n="110"/>vxorem suam propter voluptatem nolens aliquomodo 
+      <lb ed="#P" n="111"/>cognoscere alienam sed volens vtire sua non peccat 
+      <lb ed="#P" n="112"/>mortaliter. patet per glosam. i. corinthiorum. vii. quae est 
+      <lb ed="#P" n="113"/>peati aug. quando enim causa prolis conueniunt excusatur vt 
+      <lb ed="#P" n="114"/>non sit peccatum quando vero causa concupiscentie facien 
+      <lb ed="#P" n="115"/>de veniale est sicut in comestione cibi. Sed dicis ibi 
+      <lb ed="#P" n="116"/>ponitur vel refrenande: dico quod disiunctiua ponit tan¬ 
+      <!--336.xml-->
+      <pb ed="#P" n="161-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>tum alteram partem. dico secundo intelligit refrenat con 
+      <lb ed="#P" n="2"/>cupiscentiam cum mala circunstantia veniali cadenti in 
+      ra<lb ed="#P" n="3" break="no"/>tione obiecti si quae auctoritates inueniuntur sonantes es 
+      <lb ed="#P" n="4"/>se mortale cum vxore intelligitur quando id idem faceret cum 
+      <lb ed="#P" n="5"/>illa quando non esset ei vxor priuari a ratione nichil facit 
+      <lb ed="#P" n="6"/>patet per sompnum in quo homo priuatur. Si dicas 
+      apo<lb ed="#P" n="7" break="no"/>stolus dicit hoc autem secundum indulgentiam dico ibi est 
+      indul<lb ed="#P" n="8" break="no"/>gentia de minori bono et non de malo.
+    </p>
+            <p xml:id="JM7jmZ-d88844-d1e394">
+      ¶ Hubitatur 
+      <lb ed="#P" n="9"/>an contrahens cum muliere propter pulcritudinem. 
+      <lb ed="#P" n="10"/>vel diuitias male agit.
+    </p>
+            <p xml:id="JM7jmZ-d88844-d1e401">
+      ¶ Respondeo si pulcritudo 
+      <lb ed="#P" n="11"/>diuitie / castitas / prudentia vel aliud honestum sit causa 
+      <lb ed="#P" n="12"/>motiua hoc quod est licitum si istorum sit causa finalis non 
+      <lb ed="#P" n="13"/>tamen vltimata etiam est licitum est finis honestus vlterius 
+      <lb ed="#P" n="14"/>subordinabilis si turpe flagitium sit finis partialis dum 
+      <lb ed="#P" n="15"/>tamen intendit contrahere est verum matrimonium tamen est 
+      <lb ed="#P" n="16"/>peccatum. quod sit matrimonium: patet. ibi seruantur omnia essen 
+      <lb ed="#P" n="17"/>tialia matrimonii dummoo illud turpe non intrinsece 
+      re<lb ed="#P" n="18" break="no"/>pugnat tribus bonis matrimonii. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

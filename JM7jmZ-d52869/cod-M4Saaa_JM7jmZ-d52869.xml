@@ -1,0 +1,516 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 16</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 16</title>
+               <date when="2021-07-06">July 06, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-M4Saaa">Paris 1509</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-06" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="95-v"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="JM7jmZ-d52869"><!-- l4d15q16 -->
+            <head xml:id="JM7jmZ-d52869-Hd1e108">Quaestio 16</head>
+            <head xml:id="JM7jmZ-d52869-Hd1e111" type="question-title">
+      An duellum sit licitum
+    </head>
+            <p xml:id="JM7jmZ-d52869-d1e114">
+               <lb ed="#P" n="66"/>¶ Distin. decime quinte quaestio decima sexta. 
+      <lb ed="#P" n="67"/>CIrca hanc distinctionem quintam decimam  
+      <lb ed="#P" n="68"/> sexto decimo Queritur an duellum sit licitum
+    </p>
+            <p xml:id="JM7jmZ-d52869-d1e123">
+               <lb ed="#P" n="69"/>pro elucidatione contionis apperiemus quid 
+      <lb ed="#P" n="70"/>nominis termini postea vnam conclusionem fundare 
+      <lb ed="#P" n="71"/>conabimur eam paucis rationibus oppugnando vt 
+      <lb ed="#P" n="72"/>veritas lucidior euadat duellum est singularis 
+      pu<lb ed="#P" n="73" break="no"/>gna inter aliquos duos ad probationem veritatis  
+      <lb ed="#P" n="74"/>alicuius oculti quod aliter per viam humanam prohari 
+      <lb ed="#P" n="75"/>non potest nisi per alterius victoriam sufficiat nobis 
+      <lb ed="#P" n="76"/>diffinire terminum secundum quod communiter est in vsu 
+      li<lb ed="#P" n="77" break="no"/>cet interdum aliter contingere potest nec ita exacta 
+      <lb ed="#P" n="78"/>diffinitio est hic expectenda sicut in methaphisica 
+      di<lb ed="#P" n="79" break="no"/>citur duellum quasi duum vel duorum bellum alias mono 
+      <lb ed="#P" n="80"/>machia a monos quod est vnum et chia pugna quasi 
+      pu<lb ed="#P" n="81" break="no"/>gna vnica et singularis: et licet quatuor vel quinque 
+      <lb ed="#P" n="82"/>tampum simul ingrediuntur cum vnus pugnat contra 
+      <lb ed="#P" n="83"/>vnum duellum vocatur in duello potissimum sunt tres 
+      <lb ed="#P" n="84"/>bersone de quibus loquendum est scilicet de inuadente 
+      de<lb ed="#P" n="85" break="no"/>fendente et iudice. pono vnicam conclusionem pro om 
+      <lb ed="#P" n="86"/>nibus et princeps facultatem certandi in duello pre 
+      <lb ed="#P" n="87"/>bens et pugnantes in duello peccant si conclusio de 
+      <lb ed="#P" n="88"/>beat pati aliquam exceptionem: argumentorum sequen 
+      <lb ed="#P" n="89"/>tium solutiones explicabunt. probatur conclusio. isti 
+      <lb ed="#P" n="90"/>temptant deum vt ostendatur veritas sicut populus 
+      <lb ed="#P" n="91"/>israeliticus in deserto. exodi. xvii. volens videre an 
+      <lb ed="#P" n="92"/>deus esset in eis contra illud deuteronomii. vi. et 
+      <lb ed="#P" n="93"/>mathei. iiii. non temptabis deum tuum: sed dicis nec 
+      <lb ed="#P" n="94"/>duellantes nec assistentes dubitant an deus est inter 
+      <lb ed="#P" n="95"/>illos: sed vt veritatem ostendat per talem pugnam hoc 
+      <lb ed="#P" n="96"/>non valet ille temptat deum qui vult habere aliquod 
+      <lb ed="#P" n="97"/>occultum reseratum et non adhibet omnem diligentiam hu 
+      <lb ed="#P" n="98"/>manam quam potest. xxii. q. ii. queritur et reliquum ad quod 
+      <lb ed="#P" n="99"/>venire non potest relinquit in manus dei ita fecit abra 
+      <lb ed="#P" n="100"/>ham de sarai in geraris vocauit eam sororem 
+      am<lb ed="#P" n="101" break="no"/>phibologice. geneseos. xx. licet sciebat se preserua 
+      <lb ed="#P" n="102"/>ri speciali ope dei fecit quod via humana facere pote 
+      <lb ed="#P" n="103"/>rat reliquum relinquens dispositioni dei: hoc fecit 
+      <lb ed="#P" n="104"/>saluator noster. mathei. iiii. cum diabolus precepit ei 
+      <lb ed="#P" n="105"/>vt mitteret se deorsum a pinaculo templi noluit: sed 
+      <lb ed="#P" n="106"/>per gradus more communi descendit dans nobis exem 
+      <lb ed="#P" n="107"/>plum sic faciendi. propterea anthoninus in tertia parte 
+      <lb ed="#P" n="108"/>historie inter ceteras virtutes beati ludouici recitat 
+      <lb ed="#P" n="109"/>eum numquam admisisse duellum interdum etiam confiscan 
+      <lb ed="#P" n="110"/>tur bona victi non sic fecit eneas darhete apud 
+      ma<lb ed="#P" n="111" break="no"/>ronem. v. eneidos. Ensem atque insignem galeam 
+      sola<lb ed="#P" n="112" break="no"/>cia victo dicit. Rursus plerumque compertum est quod habens 
+      <lb ed="#P" n="113"/>iustam causam pugnandi est victus et iniquam habens 
+      <lb ed="#P" n="114"/>victor euasit tres contra tres pugnarunt successiue 
+      <lb ed="#P" n="115"/>pro eadem materia et tamen ex vtraque parte aliqui erant 
+      <lb ed="#P" n="116"/>victi et possum exemplificare per pugnantes in duel 
+      <!--206.xml-->
+      <pb ed="#P" n="96-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>lo tempore meo et ante hec tempora per annales: sed 
+      <lb ed="#P" n="2"/>protrite sunt historie: ergo vinci non arguit virum 
+      habe<lb ed="#P" n="3" break="no"/>re lustam causam et vincere iustam hoc ipsum liques 
+      <lb ed="#P" n="4"/>apud lucanum. vii. pharsalie vbi tulius incusat pom 
+      <lb ed="#P" n="5"/>peum quare pronus non congressus est cum cesare cum 
+      <lb ed="#P" n="6"/>iustam causam certandi haberet inquiens De superis 
+      <lb ed="#P" n="7"/>ingrate times causamque senatus Credere diis 
+      du<lb ed="#P" n="8" break="no"/>bitas et paulopost pompeus recte dicit. Dincis apud 
+      <lb ed="#P" n="9"/>superos votis me cesat iniquis. propterea lucanus 
+      <lb ed="#P" n="10"/>dicit viros probos pompeo adhesisse vt puta cato 
+      <lb ed="#P" n="11"/>nem vticensem marcum tullium et reliquum senatum deos 
+      <lb ed="#P" n="12"/>tamen fauere cesari ac si honeste diceret causa 
+      pom<lb ed="#P" n="13" break="no"/>pei erat iusta di tamen volebant quod perderet et. ii. 
+      enei<lb ed="#P" n="14" break="no"/>dos Cadit et ripheus iustissimus vnus Qui fuit in 
+      <lb ed="#P" n="15"/>teucris et seruantissimus equi diis aliter visum est idem 
+      <lb ed="#P" n="16"/>est facile ostendere per magnanimum robertum bru 
+      <lb ed="#P" n="17"/>se qui a principio sui regni innumeris calamitatibus 
+      <lb ed="#P" n="18"/>premebatur et a suis et ab exteris totiens victus 
+      tan<lb ed="#P" n="19" break="no"/>dem ita prudenter et animose cum hoste bella gessit vt 
+      <lb ed="#P" n="20"/>paucos in britannia ortos ei pares reperires hic pru 
+      <lb ed="#P" n="21"/>dentia militaris et corporis robur creberrime inter 
+      <lb ed="#P" n="22"/>pugnantes victoriam dat. patet per pittacum 
+      mitte<lb ed="#P" n="23" break="no"/>lenensem qui phrinonem atheniensem inuoluit rethe quod 
+      <lb ed="#P" n="24"/>sub clipeo furtim tenebat et demum occidit 
+      prohibi<lb ed="#P" n="25" break="no"/>tio huius patet secunda quaestione quinta monomachiam 
+      <lb ed="#P" n="26"/>et de purgant vulgari cura suscepti. simili ratione hone 
+      <lb ed="#P" n="27"/>rius tertius scribens ad templarios in liuonia 
+      prohi<lb ed="#P" n="28" break="no"/>buit iudicium ferri candentis. c. dilecti de purgant vul 
+      <lb ed="#P" n="29"/>et eadem ratione prohibendum est iudicium super albam 
+      <lb ed="#P" n="30"/>campanam de veddel et campanam sancti lessogi et. C. de 
+      <lb ed="#P" n="31"/>gladiato. l. vnica. dicit imperator cruenta spectacu 
+      <lb ed="#P" n="32"/>la in ocio ciuili et domestica quiete non placent. qua 
+      <lb ed="#P" n="33"/>bropter omnino gladiatores esse prohibemus. Contra 
+      <lb ed="#P" n="34"/>probationem conclusionis argumentor Ezechias 
+      <lb ed="#P" n="35"/>petit signum a deo de sua sanatione. iiii. regum. xx. et 
+      <lb ed="#P" n="36"/>Esaie. xxxviii. idem patet de rore in vellere gedeo 
+      <lb ed="#P" n="37"/>nis. iudicum. vi. et in plerisque locis scripture et tamen 
+      <lb ed="#P" n="38"/>non dicitur quod isti in hoc peccarunt. preterea si habens 
+      <lb ed="#P" n="39"/>iniustam causam est interdum victor deus non bene re 
+      <lb ed="#P" n="40"/>git casus hominum rex terrenus non iudicaretur 
+      bo<lb ed="#P" n="41" break="no"/>nus iudex si partem innocentem condempnaret 
+      de<lb ed="#P" n="42" break="no"/>est omnium sapientissimus et sua sapientia omne 
+      possi<lb ed="#P" n="43" break="no"/>bile videns. Ad primum dico illi patres non fecerunt 
+      <lb ed="#P" n="44"/>illud diffidentes de deo vel de eo dubitantes sed qua 
+      <lb ed="#P" n="45"/>dem familiaritate id fecerunt instinctu dei. nonne 
+      vi<lb ed="#P" n="46" break="no"/>des archiepriseum glasguensem petere aliqua a rege quae 
+      <lb ed="#P" n="47"/>si peteres esses merito torquendus. Ad secundum nego 
+      <lb ed="#P" n="48"/>consequentiam. nunquid alie tribus habebant iustan 
+      <lb ed="#P" n="49"/>causam bellandi contra beniamin pro turpi scelere 
+      <lb ed="#P" n="50"/>commisso in gabaa. iudicum. xx. et tamen bis occubuere in 
+      <lb ed="#P" n="51"/>bello propter aliqua scelera in eis impunita 
+      robera<lb ed="#P" n="52" break="no"/>tus bruse pene attritus est in bello. propterea quia occi 
+      <lb ed="#P" n="53"/>derat iohannem tumvn coram sacramento apud dum 
+      <lb ed="#P" n="54"/>fresam sunt semper alique cause quas nouit deus nos 
+      <lb ed="#P" n="55"/>latentes sinit iustos opprimi a tirannis vt crescat eo 
+      <lb ed="#P" n="56"/>rum pacientia et virtus. patet in martiribus et in ve 
+      <lb ed="#P" n="57"/>teri et in nouo testamento. etiam vt homines 
+      caue<lb ed="#P" n="58" break="no"/>ant ab istis iudiciis temerariis facit illud dinosci 
+      <lb ed="#P" n="59"/>ab omnibus quod non semper iustus vincit. Rulla est 
+      <!--206.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="60"/>comparatio iudicis mortalis ad deum cum alter est 
+      <lb ed="#P" n="61"/>obliquabilis deus autem nulli obligatur implicat eum 
+      <lb ed="#P" n="62"/>male agere deus permittitcausas secundas habere suos 
+      <lb ed="#P" n="63"/>proprios motus quos eis dedit nec semper vtitur 
+      <lb ed="#P" n="64"/>miraculis sinit fortiorem prosternere debiliorem per 
+      <lb ed="#P" n="65"/>legem communem interdum quando opus est facit 
+      <lb ed="#P" n="66"/>oppositum sed hoc non conducit nec suam immensam 
+      <lb ed="#P" n="67"/>bonitatem hic decet cum alia via potest adhiberi 
+      re<lb ed="#P" n="68" break="no"/>medium. et si dicas alia via non clarescet veritas 
+      <lb ed="#P" n="69"/>dicitur non opus esse frequenter secundum comicum 
+      ve<lb ed="#P" n="70" break="no"/>ritas odium parit sufficit quod aliqua scelera puniantur 
+      <lb ed="#P" n="71"/>a deo que ab homine puniri nequeunt sicut 
+      homi<lb ed="#P" n="72" break="no"/>nes non possunt expetere equalitatem dei ita nec 
+      <lb ed="#P" n="73"/>cognoscere sibi cognita. Secundo argumentor da 
+      <lb ed="#P" n="74"/>uid pugnauit contra goliam in singulari certamine 
+      <lb ed="#P" n="75"/>i. regum. xvii. et tamen in hoc non vituperatur imo 
+      <lb ed="#P" n="76"/>laudatur: ergo hoc licet facta sanctorum sunt trahenda in ex 
+      <lb ed="#P" n="77"/>emplum quare alias coram principibus recitantur vi 
+      <lb ed="#P" n="78"/>te illorum illustrium et coram deuotis vite patrum es 
+      <lb ed="#P" n="79"/>legende sanctorum. huic argumento biphariam responde 
+      <lb ed="#P" n="80"/>mus tum primo. hoc dauid habuit illuminatione spi 
+      <lb ed="#P" n="81"/>ritus sancti spiritus vbi vult spirat. istud patet ex se 
+      <lb ed="#P" n="82"/>rie litere regnorum Tu venis ad me in gladio et 
+      ha<lb ed="#P" n="83" break="no"/>sta et clipeo Ego autem venio ad te in nomine domini 
+      <lb ed="#P" n="84"/>exercituum sicut abraham precipiente deo filium oc 
+      <lb ed="#P" n="85"/>cidendo vel volendo perimere non peccauit. secus est 
+      <lb ed="#P" n="86"/>autctoritate hominis mortalis. Tum secundo. dico quando 
+      <lb ed="#P" n="87"/>sunt duo exercitus oppositi licitum est duobus bellum 
+      <lb ed="#P" n="88"/>ingredi vt tota lis belli dirimatur hoc fecit alexan. 
+      <lb ed="#P" n="89"/>philippi cum poro rege indorum et maior aiax cum hecto 
+      <lb ed="#P" n="90"/>re turnus et eneas in fine enei. heraclius religiosus 
+      <lb ed="#P" n="91"/>princeps cum filio cosdroe apud histrum hoc obtulit 
+      <lb ed="#P" n="92"/>eduardus de vindosora philippo valesio teste gagui 
+      <lb ed="#P" n="93"/>no in historiis gallorum id idem robertus stev vardus 
+      <lb ed="#P" n="94"/>henrico quarto vt perhibent. hoc fecit robertus bru 
+      <lb ed="#P" n="95"/>se in acie belli acerrimi apud torrentem bannolr 
+      commis<lb ed="#P" n="96" break="no"/>si inter robertum et eduardum secundum dum quidam miles 
+      <lb ed="#P" n="97"/>ex meridionali britannia aimosissimus ad magnam inter 
+      <lb ed="#P" n="98"/>capedinem precedens suum exercitum impingerrime 
+      <lb ed="#P" n="99"/>sonipedem loricatum dirigens hastam tremulam in robet 
+      <lb ed="#P" n="100"/>tum vibrauit quem cognouit dirigentem acies septentrio 
+      <lb ed="#P" n="101"/>nalium britannorum a quo spectante vtroque exercitu 
+      <lb ed="#P" n="102"/>a rege singulari pugna in officium militis receptus 
+      <lb ed="#P" n="103"/>est istam pugnam dummodo bellum sit iustum ex parte 
+      <lb ed="#P" n="104"/>duellantis vel vtrinque anceps et lis non potest 
+      ali<lb ed="#P" n="105" break="no"/>ter terminari non est penitus reprobandum imite 
+      <lb ed="#P" n="106"/>mur viros illustres in laudabilibus vbi similes 
+      ca<lb ed="#P" n="107" break="no"/>sus contingunt. Tertio argumentor sortes prouo 
+      <lb ed="#P" n="108"/>cans platonem ad duellum scit platonem esse morte 
+      <lb ed="#P" n="109"/>dignum ob aliquod crimen occultum in rem publican 
+      <lb ed="#P" n="110"/>et nescit probare alia via putat cuadere victor: ergo  
+      <lb ed="#P" n="111"/>offerens bellum in illo casu non peccat non valet 
+      di<lb ed="#P" n="112" break="no"/>cere intendit deum temptare hoc non intendit scit alium 
+      <lb ed="#P" n="113"/>reum mortis habet fiduciam in armis quod alium 
+      vin<lb ed="#P" n="114" break="no"/>cet: ergo in illo casu licebit mouere duellum. 
+      Re<lb ed="#P" n="115" break="no"/>spondetur concedendo antecedens: sed nego 
+      con<lb ed="#P" n="116" break="no"/>sequentiam. illa probatio est inutilis. tum primo 
+      dabi<lb ed="#P" n="117" break="no"/>tur palleatio temerariis hac via si id admittatur quod 
+      <lb ed="#P" n="118"/>perturbent ex inuidentia innocentes dicent euestigio 
+      <!--207.xml-->
+      <pb ed="#P" n="96-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>se habere causas quare is est morte dignus et hoc pro 
+      <lb ed="#P" n="2"/>babunt in duello. Tum secundo. inuasor sicut argumentum 
+      <lb ed="#P" n="3"/>imaginatur est innocens quare exponit ergo suam 
+      <lb ed="#P" n="4"/>vitam in discrimine non sufficit dicere habet spem in 
+      <lb ed="#P" n="5"/>armis exploratum est iam millies quod alea belli est 
+      <lb ed="#P" n="6"/>anceps. hector putabat achillem deducere ad infe 
+      <lb ed="#P" n="7"/>ros cuius femur vulnerauit in duello quem tamen occidit 
+      <lb ed="#P" n="8"/>achilles vt apud daretem notum est qui militauit 
+      tempo<lb ed="#P" n="9" break="no"/>re troiani belli. plerumque qui putabatur in exordio bel 
+      <lb ed="#P" n="10"/>li euadere gloriosus victor turpiter succubuit vnus 
+      <lb ed="#P" n="11"/>lapillus vel concauitas in solo sufficit virum armatum 
+      <lb ed="#P" n="12"/>intentum circa mortem alterius posternere. patet in 
+      <lb ed="#P" n="13"/>diebus nostris de roberto tochrano et guillermo tor 
+      <lb ed="#P" n="14"/>sub inclito. iacobo. iii. et multis aliis relinquitur: e 
+      <lb ed="#P" n="15"/>iste modus probandi illegitimus et persequens et 
+      iu<lb ed="#P" n="16" break="no"/>dex dans facultatem in isto casu peccant et alii hoc 
+      <lb ed="#P" n="17"/>iudici vel parti consulentes.
+    </p>
+            <p xml:id="JM7jmZ-d52869-d1e539">
+      ¶ Quarto argumentor 
+      <lb ed="#P" n="18"/>sunt duo morte digni et hoc constat iudici per famam 
+      <lb ed="#P" n="19"/>publicam ticius et seius sese prosequuntur coram rege 
+      <lb ed="#P" n="20"/>in duello prodesset rei publice quod tales tollerentur 
+      <lb ed="#P" n="21"/>de medio princeps vtrique dat facultatem vt sit 
+      mi<lb ed="#P" n="22" break="no"/>nister legis ad occidendum alterum videtur quod iudex 
+      <lb ed="#P" n="23"/>hic non peccat nec alteruter cum vtrique datur 
+      facul<lb ed="#P" n="24" break="no"/>tas a iudice et vterque scit alium reum et morte dignum 
+      <lb ed="#P" n="25"/>quemadmodum si essent duo condempnati ad mortem 
+      <lb ed="#P" n="26"/>licitum est iudici eos dampnare vt se occidant. 
+      re<lb ed="#P" n="27" break="no"/>spondeo est aliquid coloris in isto casu: sed nec iprsum 
+      <lb ed="#P" n="28"/>admittimus non sunt dampnandi hac via occisus cii 
+      <lb ed="#P" n="29"/>ca mortem debet se recolligere detestando vitam 
+      <lb ed="#P" n="30"/>male actam cogitando de deo. similiter minister le 
+      <lb ed="#P" n="31"/>gis eelo iusticie sine passione debet dampnatum 
+      occi<lb ed="#P" n="32" break="no"/>dere in isto casu hoc est alienum concitata ira et 
+      pas<lb ed="#P" n="33" break="no"/>sione nec est fletus peccatorum nec pacientia 
+      commu<lb ed="#P" n="34" break="no"/>niter. sententia videtur iniqua quod duo sint carnifices 
+      <lb ed="#P" n="35"/>inter se et horrendum a christiano viro. Sed contra 
+      <lb ed="#P" n="36"/>istud arguitur. sequitur ex solutione argumenti quod non 
+      <lb ed="#P" n="37"/>liceret bellare in bello iusto vsque ad mortem nec in 
+      <lb ed="#P" n="38"/>martirio licet perpeti mortem pro christo et sua lege ser 
+      <lb ed="#P" n="39"/>uanda istud est falsum et hereticum: ergo male dictum est 
+      <lb ed="#P" n="40"/>nec valet dicere hoc contingit in bello iusto non au 
+      <lb ed="#P" n="41"/>tem hic hoc inquam non iuuat hoc duellum est iustum iste 
+      <lb ed="#P" n="42"/>est iuste occidendus et auctoritate iudicis et ponantur 
+      <lb ed="#P" n="43"/>iuridice damnati titius licite potest occidere seium 
+      <lb ed="#P" n="44"/>patet de ministro legis qui occidit reum et econuerso 
+      <lb ed="#P" n="45"/>seius potest occidere titium: ergo isti possunt seinuicem 
+      <lb ed="#P" n="46"/>iuste occidere sicut dicit glo. interlineari. gen. iiii. 
+      <lb ed="#P" n="47"/>euidentia perpetrati sceleris non indiget clamore 
+      <lb ed="#P" n="48"/>accusatoris: ergo princeps eos dampnat eis insciis 
+      <lb ed="#P" n="49"/>Ad illud de martirio dico non esse contrapugnationem 
+      <lb ed="#P" n="50"/>et sic argumentum non est ad propositum: etiam mar 
+      <lb ed="#P" n="51"/>tires equanimitatem seruabant in aduersis arduis: ergo 
+      <lb ed="#P" n="52"/>pacientiam habuerunt in gradu heroico / iudex inique 
+      <lb ed="#P" n="53"/>iudicaret reum mortis quod se iugulet vel vt proprium 
+      <lb ed="#P" n="54"/>cor extrahat omnia ista etiam seruantur in bello iu 
+      <lb ed="#P" n="55"/>sto et cum hoc res non potest aliter terminari stan 
+      <lb ed="#P" n="56"/>tibus circunstantiis vna pars habet iustam causam 
+      <lb ed="#P" n="57"/>deffendendi patriam et gloriam reipublice christiane vbi 
+      <lb ed="#P" n="58"/>res potest aliter terminari male actum esset quod expo 
+      <lb ed="#P" n="59"/>nerent se homines bello modo hiis duobus potest 
+      <!--207.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="60"/>adhiberi remedium cum sint sub eodem principe 
+      <lb ed="#P" n="61"/>alia via eos puniendo et proscribendo et non modo 
+      <lb ed="#P" n="62"/>ad hoc tenetur rex sed primores regni. pessime agunt 
+      <lb ed="#P" n="63"/>istos fures et sic carios inemendabiles occultantes 
+      <lb ed="#P" n="64"/>a iusticia in luem non modicam totius rei publice alias 
+      <lb ed="#P" n="65"/>coram stricto iudice scilicet deo rationem reddituri sunt 
+      </p>
+            <p xml:id="JM7jmZ-d52869-d1e651">
+               <lb ed="#P" n="66"/>¶ Quinto argumentor rex permittit ista duella fieri 
+      <lb ed="#P" n="67"/>et ei displicet non consulit eis duellare: ergo in hoc 
+      <lb ed="#P" n="68"/>non peccat alioquin peccaret ecclesiasticus iudex su 
+      <lb ed="#P" n="69"/>mens impudicas mulieres in vrbe modo rex offeri 
+      <lb ed="#P" n="70"/>mouentibus bellum et recipientibus iusticiam et sic 
+      <lb ed="#P" n="71"/>scimus fuisse practicatum diebus hiis. amplius rex in 
+      <lb ed="#P" n="72"/>terdum vel iudex substitutus proiicit virgam pacis quod 
+      <lb ed="#P" n="73"/>neuter vincatur in illo casu seruatur vtriusque fama 
+      <lb ed="#P" n="74"/>et nulli fit iniuria. Respondetur per distinctionem de 
+      <lb ed="#P" n="75"/>permittere in materia de libello repudii in antiqua 
+      <lb ed="#P" n="76"/>lege sed vt sufficit in proposito. nego loquendo de per 
+      <lb ed="#P" n="77"/>missione de qua argumentum pretendit tunc aliquid  
+      <lb ed="#P" n="78"/>permittitur quando non potest adhiberi remedium et homo 
+      <lb ed="#P" n="79"/>non tenetur. exemplum de impudicis mulieribus 
+      <lb ed="#P" n="80"/>que si tollerentur ab vrbe caste matrone et earum filie 
+      <lb ed="#P" n="81"/>essent in maiore discrimine aliqua minus mala 
+      tol<lb ed="#P" n="82" break="no"/>lerantur ne peiora eueniant. tolle dicit beatus aug. 
+      <lb ed="#P" n="83"/>meretrices ab vrbe et omnia perturbabis 
+      libidini<lb ed="#P" n="84" break="no"/>bus propter iuuentutem et procliuitatem ad huiuscemo 
+      <lb ed="#P" n="85"/>di vicia sufficit quod tales relinquantur punitioni dei 
+      <lb ed="#P" n="86"/>et abiecte reputentur et suam familiam infament etiam 
+      <lb ed="#P" n="87"/>sunt reiiciende a locis publicis ne malo exemplo no 
+      <lb ed="#P" n="88"/>ceant castis. secus est de istis duellis res publica 
+      si<lb ed="#P" n="89" break="no"/>ne eis potest bene regi citius sunt duella materia scis 
+      <lb ed="#P" n="90"/>matis et iurgii quam concordie victores hic honorantur 
+      <lb ed="#P" n="91"/>modo honos impellit homines ad multa 
+      inconue<lb ed="#P" n="92" break="no"/>nientia ad duellum animantur et de modo dimican 
+      <lb ed="#P" n="93"/>di eis consulitur. Ad secundum dico quod virga pacis est 
+      <lb ed="#P" n="94"/>penitentia troianorum vel sinapium post prandium 
+      <lb ed="#P" n="95"/>a paucis diebus quam misere vnus occidebatur 
+      noue<lb ed="#P" n="96" break="no"/>rint astantes sed rex non interfuit. Insuper 
+      fortas<lb ed="#P" n="97" break="no"/>se tertio ictu vel quarto alter occiditur mutilatur vel 
+      <lb ed="#P" n="98"/>cadit et manet tota vita apud populum inglorius qui 
+      <lb ed="#P" n="99"/>fortasse victori in animositate et viribus prestat si ni 
+      <lb ed="#P" n="100"/>chil futurum sit quare fiunt tot impense in loco cer 
+      <lb ed="#P" n="101"/>tandi et armis et totum regnum illusum gratis accedit 
+      <lb ed="#P" n="102"/>ad certamen.
+    </p>
+            <p xml:id="JM7jmZ-d52869-d1e734">
+      ¶ Sexto argumentor probando quod in 
+      <lb ed="#P" n="103"/>terdum recipiens bellum non peccat. patet. posito 
+      <lb ed="#P" n="104"/>quod videat quod inique condempnabitur si bellum recusaue 
+      <lb ed="#P" n="105"/>rit cum licet vim vi repellere cum moderamine 
+      incul<lb ed="#P" n="106" break="no"/>pate tutele: ergo pro seruanda vita licebit pugnare. 
+      <lb ed="#P" n="107"/>Forte dicis et sic dicendum putolicebit huic duellum 
+      <lb ed="#P" n="108"/>ntrare in illo casu vbi tenebitur pro conuicto si 
+      bel<lb ed="#P" n="109" break="no"/>lum recuset vel est ei certum certitudine morali quod 
+      <lb ed="#P" n="110"/>condempnabitur inique si non prodeat in bellum iden 
+      <lb ed="#P" n="111"/>etiam videtur pro omissione rerum suarum aliquis 
+      iu<lb ed="#P" n="112" break="no"/>ste alium occidit pro conseruatione bonorum 
+      fortu<lb ed="#P" n="113" break="no"/>ne iuste ab eo possessorum. Sed contra istud 
+      argu<lb ed="#P" n="114" break="no"/>mentor. sequitur quod aliquis potest pugnare in 
+      duel<lb ed="#P" n="115" break="no"/>lone famam amittat et sic faciunt omnes suscipien 
+      <lb ed="#P" n="116"/>tes duellum erubescunt recusare pugnare cum 
+      inua<lb ed="#P" n="117" break="no"/>dentene reputentur timidiin iacturam rerum et 
+      fa<lb ed="#P" n="118" break="no"/>me. Ad sextum conceditur quod in illo casu suscipiens 
+      <!--208.xml-->
+      <pb ed="#P" n="97-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>bellum non peccat vt interarguendum respondimus 
+      <lb ed="#P" n="2"/>Ad vltimam replicam de amissione fame nego quod 
+      il<lb ed="#P" n="3" break="no"/>la via periclitatur fama sufficit quod dicat volo 
+      iustifi<lb ed="#P" n="4" break="no"/>cari per iusticiam regis et regni existimo me 
+      inno<lb ed="#P" n="5" break="no"/>centem in casu quem false michi impingis et si quid m 
+      <lb ed="#P" n="6"/>chi habes dicere alis nullo presente vel equali nunme 
+      <lb ed="#P" n="7"/>ro clientum intelliges quid responsurus sum scio per 
+      <lb ed="#P" n="8"/>ampullosa verba et aliorum prouocationem in campum 
+      <lb ed="#P" n="9"/>non acquiritur fama glorie parum nactus est hector 
+      <lb ed="#P" n="10"/>in prouocatione aiacis (si homero creditur) puta no 
+      <lb ed="#P" n="11"/>eam quam putabat sedgloriosum est non posse vit 
+      <lb ed="#P" n="12"/>ci a viro forti et ita in ceteris quos superius 
+      citaui<lb ed="#P" n="13" break="no"/>mus in medium et possum innumeros alios ciere 
+      <lb ed="#P" n="14"/>nostratium qui alios prouocarunt qui victi turpiter 
+      <lb ed="#P" n="15"/>succubuerunt et horum aliqui misere vitam in mor 
+      <lb ed="#P" n="16"/>tem commutarunt in campo. O stultum genus hominem 
+      <lb ed="#P" n="17"/>post fecundes calices passionem repentinam ire in 
+      <lb ed="#P" n="18"/>uidie vel amoris muliebris mouens pari vel 
+      maio<lb ed="#P" n="19" break="no"/>ri bellum in grande discrimen amittende fame 
+      tur<lb ed="#P" n="20" break="no"/>pis postea reputabitur penitentia belli oblati apud 
+      <lb ed="#P" n="21"/>vulgus nescis cum pare pugnare dubium esse si 
+      vin<lb ed="#P" n="22" break="no"/>cas minus reputatum non cedet tibi ad gloriam si 
+      ma<lb ed="#P" n="23" break="no"/>gis realiter non erat te maior sed talis reputatus et deli 
+      <lb ed="#P" n="24"/>re agis. si vincas dicetur lapsus est pes ex inuertentia 
+      <lb ed="#P" n="25"/>vel per sortilegium sicut inter tor et suum socium si vi 
+      <lb ed="#P" n="26"/>cas parum vel nichil glorie comparas non tibi ascri 
+      <lb ed="#P" n="27"/>betur et semper tue anime insidiabitur in posterum. si 
+      vinca<lb ed="#P" n="28" break="no"/>ris ignominiosum est fabula eris omnibus mortalibus 
+      <lb ed="#P" n="29"/>subsannaberis a vicinis timidus et sic spretus 
+      repu<lb ed="#P" n="30" break="no"/>taberis ab vxore et liberis cum maculam in eorum 
+      glo<lb ed="#P" n="31" break="no"/>riam videris imponere fac indaginem imaginariam et semper in 
+      <lb ed="#P" n="32"/>uenies tot reputatos fortes victoriam amisisse sicut 
+      <lb ed="#P" n="33"/>importasse. sis memor illius deuerbi optimum est alie 
+      <lb ed="#P" n="34"/>na frui insania quod vulgariter nostrates dicere solent: fi 
+      <lb ed="#P" n="35"/>lix quem faciunt aliema pericula cautum. Septino argumen 
+      <lb ed="#P" n="36"/>tor: licet haste ludere vt communiter fit coram principibus in ma 
+      <lb ed="#P" n="37"/>trimoniis vel primis ingressibus vrbium et hoc est certare 
+      <lb ed="#P" n="38"/>in duello igitur: assumptum: patet: alioquin dannabimus muf 
+      <lb ed="#P" n="39"/>ta facta a deuotis principibus. Ad primum conceditur as 
+      <lb ed="#P" n="40"/>sumptum cum capitibus obtusis vel alia via cauendo ne 
+      <lb ed="#P" n="41"/>homines occidantur paci hoc occiduntur nec est pariclitatio fa 
+      <lb ed="#P" n="42"/>me communiter quod socius meus frangat lanceam et non ego ve 
+      <lb ed="#P" n="43"/>equus meus cadat michi non imputabitur. si dicas tor 
+      <lb ed="#P" n="44"/>ne amenta prohibentur a pontifice in vtroque capite eiu 
+      <lb ed="#P" n="45"/>dem rubrice. Ad hoc respondetur miltipliciter. tum primo ibi pro 
+      <lb ed="#P" n="46"/>hibetur ad ostentationem virium et potissimum in modo 
+      cur<lb ed="#P" n="47" break="no"/>rendi vbi communiter sequitur mors. hoc dicit. c. felicis. talis 
+      <lb ed="#P" n="48"/>ludus tanquam noxius prohibetur. fii. ad. i. acqui. nam ludus. 
+      <lb ed="#P" n="49"/>sed currendo sicut apud multos curritur praecauetur a 
+      mo<lb ed="#P" n="50" break="no"/>te et si sequatur mors quod est contingens rarissimum vix 
+      <lb ed="#P" n="51"/>vnus in vita hominis occidens non tenebitur. i. acqui. 
+      <lb ed="#P" n="52"/>felri. ad. i. acqui. qua actione. §. si quis. pugnatio debet ordi 
+      <lb ed="#P" n="53"/>nari in excercitationem virium vt tempore belli iusti de 
+      <lb ed="#P" n="54"/>fendatur res publica licet interdum incidat cupidi 
+      <lb ed="#P" n="55"/>tas inanis gloriole nunquid populo israelitico 
+      prae<lb ed="#P" n="56" break="no"/>cipiebatur hoc vt disceret certare cum hostibus. 
+      <lb ed="#P" n="57"/>iudicum tertio. et scipio nasica et aliqui prudentes 
+      <lb ed="#P" n="58"/>romani nolebant propterea cartaginem rome emula 
+      <lb ed="#P" n="59"/>ni euerti vt romani in armis exercitarentur sicut man 
+      <!--208.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="60"/>serunt aliqui philistinorum in terra chanaam ad ex 
+      <lb ed="#P" n="61"/>cercitationem populi dei. iudicum. iii. Tum secundo: non 
+      <lb ed="#P" n="62"/>lunt semper verba legis seruanda et potissimum legis 
+      pu<lb ed="#P" n="63" break="no"/>re humane sed intentio verisimilis legislatoris si tur 
+      <lb ed="#P" n="64"/>pe est non tueri regnum iuste possessum sic eadem. 
+      <lb ed="#P" n="65"/>turpidine indecorum est non prouidere de mediis con 
+      <lb ed="#P" n="66"/>gruentibus vt haste ludere vt homines animosiores et 
+      <lb ed="#P" n="67"/>exercitatiores tempore belli reddantur. Octauo 
+      ar<lb ed="#P" n="68" break="no"/>gumentor: lex federici permittit duellum licitum quando quis 
+      <lb ed="#P" n="69"/>dicit se hominem occidisse in deffensione sua et non sunt 
+      <lb ed="#P" n="70"/>ad hoc testes. patet. C. de pace tenenda et eius violato 
+      <lb ed="#P" n="71"/>ribus. l. federicus. libro. xi. §. Si quis hominem inquit 
+      <lb ed="#P" n="72"/>imperator infra pacem constitutam occiderit 
+      capi<lb ed="#P" n="73" break="no"/>talem subeat sententiam nisi per duellum hoc proba 
+      <lb ed="#P" n="74"/>re possit quod vitam suam defendendo illum occidit non 
+      <lb ed="#P" n="75"/>peccamus legis auctoritate. Respondetur hec lex 
+      <lb ed="#P" n="76"/>non est lex dico negatiuam nulla est lex humana nisi con 
+      <lb ed="#P" n="77"/>formis legi diuine quando illi dinoscitur 
+      repugna<lb ed="#P" n="78" break="no"/>re explodenda est non meretur dici lex sed error con 
+      <lb ed="#P" n="79"/>tra canones et ius nature sic probare innocentiam con 
+      <lb ed="#P" n="80"/>cedo quod non peccatur legis auctoritate sed cum ali 
+      <lb ed="#P" n="81"/>quod est inimicum canonibus vel iuri diuino non est lex 
+      <lb ed="#P" n="82"/>non omne scriptum in iure cesario est lex. si dicas 
+      <lb ed="#P" n="83"/>ergo non erit solidum argumentum ex legibus si ali 
+      <lb ed="#P" n="84"/>quiderroneum inueniatur inillis. Respondetur con 
+      <lb ed="#P" n="85"/>sequentia est nulla licet aristoteles sacrilege 
+      inter<lb ed="#P" n="86" break="no"/>dum loquutus est vt de perpetuitate mundi non 
+      so<lb ed="#P" n="87" break="no"/>lemus eum in casibus ambiguis vel rationabilibus 
+      <lb ed="#P" n="88"/>negare in legibus sic tu potes argumentari. Ius 
+      <lb ed="#P" n="89"/>cesarum hoc precepit admittit licitum vel 
+      prohia<lb ed="#P" n="90" break="no"/>bet et non est contra legem diuinam / legum deam / con 
+      <lb ed="#P" n="91"/>tra canones / vel consuetudinem approbatam: ergo 
+      <lb ed="#P" n="92"/>sic est iudicandum. patet de multitudine testium in 
+      <lb ed="#P" n="93"/>testamentis / de concubinatum / vel de nostro duello: 
+      <lb ed="#P" n="94"/>sicut non sequitur / aristoteles ita opinatus est: ergo  
+      <lb ed="#P" n="95"/>ita est. sed sic arguendum est hic est modus 
+      aristote<lb ed="#P" n="96" break="no"/>lis fidei et doctrine sanctorum in ratione vel 
+      auctori<lb ed="#P" n="97" break="no"/>tate fundatis non contrarius et nullus est philoso 
+      <lb ed="#P" n="98"/>phus tante auctoritatis in oppositum: ergo ita est 
+      <lb ed="#P" n="99"/>vel saltem est suspitio vehemens quod oppositum sit 
+      fal<lb ed="#P" n="100" break="no"/>sum. Dixi in ratione vel auctoritate fundatis non 
+      <lb ed="#P" n="101"/>cuilibet sanctorum est maior fides adhibenda in 
+      im<lb ed="#P" n="102" break="no"/>pertinentibus fidei quam aristoteli: plus credendum e 
+      <lb ed="#P" n="103"/>philosopho dicenti alimentum conuerti in alitum 
+      <lb ed="#P" n="104"/>quam magistro sententiarum / et ita in aliio materiis de vi 
+      <lb ed="#P" n="105"/>ris multo maioribus magistro. hoc liquet 
+      sanctita<lb ed="#P" n="106" break="no"/>ti non repugnat de lege error in intellectu in philoso 
+      <lb ed="#P" n="107"/>phia sicut nec semper bonum iudicium in intellectu 
+      <lb ed="#P" n="108"/>communicatur deuotio et sanctitas. Dixi et nullus est 
+      <lb ed="#P" n="109"/>philosophus tante. etc. quare medici dicunt quando 
+      <lb ed="#P" n="110"/>aristote. et galie. in materia medicinali contradicunt 
+      <lb ed="#P" n="111"/>difficile est reperire veritatem sufficit vtramque partem tunc 
+      <lb ed="#P" n="112"/>tueri probabilem. quo fit applicando ad propositum 
+      an<lb ed="#P" n="113" break="no"/>tequam quis capiat solidum argumentum ex legibus oportet conside 
+      <lb ed="#P" n="114"/>rare ius diuinum et canones non semper addimus tantum in astete 
+      <lb ed="#P" n="115"/>fundando argumenta in aristotele et legibus sicut adieci 
+      <lb ed="#P" n="116"/>mus: petis quodo prudentissimi reges ist d admittunt nunc 
+      <lb ed="#P" n="117"/>pauci reges in hac tempestate sinunt duella non occurrit 
+      <lb ed="#P" n="118"/>nn in mentem vnus tamen explorationem fecerim vbi exim scotiam ex 
+      <!--209.xml-->
+      <pb ed="#P" n="97-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>ercetur duellum eruentum licet quondam in 
+      hys<lb ed="#P" n="2" break="no"/>paniam (et quidm male)/ duella erant in vsu. Secundo d 
+      <lb ed="#P" n="3"/>co reges cordati decorum censent in audaciam lab 
+      <lb ed="#P" n="4"/>vt elongentur a fediore vitio scilicet vecordia: 
+      <lb ed="#P" n="5"/>Tertio non omns reges sunt eruditi vt dextrum a si 
+      <lb ed="#P" n="6"/>nistro seiungant. vtuntur insuper concilio iuuenum no 
+      <lb ed="#P" n="7"/>bilium qui ad hoc suggerunt et non sapientum et si pol 
+      <lb ed="#P" n="8"/>leant in claris naturalibus et eruditione vt nunc 
+      pro<lb ed="#P" n="9" break="no"/>oculis intuemur excusatos se iri per leges ciuiles 
+      <lb ed="#P" n="10"/>et consuetudines maiorum existimant habitu 
+      aimosita<lb ed="#P" n="11" break="no"/>tis ad hoc fomentum ministrante que de re militaris 
+      <lb ed="#P" n="12"/>tractamus iudicio nostri regis inuictissimi iacobi quar 
+      <lb ed="#P" n="13"/>ti committimus gratia cuius licet extremis digitis quia 
+      <lb ed="#P" n="14"/>ad alia tendimus hec mouemus. in his tricis nos 
+      <lb ed="#P" n="15"/>facile posse falli putamus tum propter rei militar 
+      <lb ed="#P" n="16"/>inexperientiam tum ob nostri ingenioli paruitatem suf 
+      <lb ed="#P" n="17"/>ficit transeunter hec dixisse vt per aliorum explora 
+      <lb ed="#P" n="18"/>tionem ad portum veritatis perueniatur. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

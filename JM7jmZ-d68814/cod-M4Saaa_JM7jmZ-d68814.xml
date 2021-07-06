@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 2</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 2</title>
+               <date when="2021-07-06">July 06, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-M4Saaa">Paris 1509</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-06" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="124-v"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="JM7jmZ-d68814"><!-- l4d20q2 -->
+            <head xml:id="JM7jmZ-d68814-Hd1e108">Quaestio 2</head>
+            <head xml:id="JM7jmZ-d68814-Hd1e111" type="question-title">
+      An valeant
+      indulgentiae
+    </head>
+            <p xml:id="JM7jmZ-d68814-d1e114">
+               <lb ed="#P" n="33"/>¶ Distinctionis vigesime questio secunda. 
+      <lb ed="#P" n="34"/> Veritur circa hanc vigesimam distinctionem 
+      <lb ed="#P" n="35"/>secundo an valeant indulgentie
+    </p>
+            <p xml:id="JM7jmZ-d68814-d1e123">
+      Notabis indulgentia 
+      <lb ed="#P" n="36"/>omuniter capitur vt tantum valet sicut delicate 
+      <lb ed="#P" n="37"/>intendere secundum illud maronis indulge hospitio 
+      cau<lb ed="#P" n="38" break="no"/>sasque innecte morandie secundum illud quitiliani mollis 
+      il<lb ed="#P" n="39" break="no"/>la educatio quam indulgentiam vocamus neruos cmnes 
+      <lb ed="#P" n="40"/>et mentis et corporis frangit et catho indulgere 
+      gu<lb ed="#P" n="41" break="no"/>le noli et indulge geino. Quocirca valla theologos in 
+      <lb ed="#P" n="42"/>hoc barbaros appellat.
+    </p>
+            <p xml:id="JM7jmZ-d68814-d1e141">
+      ¶ Sed contra hoc argumen 
+      <lb ed="#P" n="43"/>tor aliquod inconsuetum in diebus maiorum fit solitum et barba 
+      <lb ed="#P" n="44"/>rum per hominum vsum fit cultum secundum illud horatianum. nan 
+      <lb ed="#P" n="45"/>penes arbitrium stat vis et norma loquendi multa 
+      re<lb ed="#P" n="46" break="no"/>nascuntur etc. sed hic terminus est in vsu in sigentione qua 
+      <lb ed="#P" n="47"/>vtimur et in diebus valle cum ab eo pauci lapsi fuerint an 
+      <lb ed="#P" n="48"/>ni diceret laurentius consuetudo barbarorum fmonem 
+      <lb ed="#P" n="49"/>cultum in barbarum non mutat nec contra sed oratorum sicut 
+      <lb ed="#P" n="50"/>nebulonum vsus non interpretatur leges humanas sed 
+      pro<lb ed="#P" n="51" break="no"/>porum. replica esset de beato hieronimo et ambrosio qo 
+      <lb ed="#P" n="52"/>vsi sunt termino prope hanc sigetionem et vocamus 
+      prin<lb ed="#P" n="53" break="no"/>cipes benignos et faciles indulgentissimos principes 
+      <lb ed="#P" n="54"/>quicquid sit non est modus theologi in termins 
+      phale<lb ed="#P" n="55" break="no"/>ratis certare in hoc imitemur pateres nomna significant ad 
+      <lb ed="#P" n="56"/>placitum vtentium difficile est modum indulgentiarum fun 
+      <lb ed="#P" n="57"/>dare auctentice in scriptura sacra in signum cuius tres 
+      <!--263.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="58"/>primi doctores ecclesie parum de isto modo indulgentiarum 
+      <lb ed="#P" n="59"/>loquuti sunt: sed cum beatus grego. indulgentias et eccle 
+      <lb ed="#P" n="60"/>sia eas concessit admittende sunt originem assumant ab 
+      <lb ed="#P" n="61"/>illo. mathei. xvi. Tibi dabo claues regni celorum. 
+      </p>
+            <p xml:id="JM7jmZ-d68814-d1e190">
+               <lb ed="#P" n="62"/>¶ Istis notatis pono conclusiones.
+    </p>
+            <p xml:id="JM7jmZ-d68814-d1e195">
+      ¶ Prima est 
+      <lb ed="#P" n="63"/>indulgentie aliquid valent dummoo dantur claue non e rram 
+      <lb ed="#P" n="64"/>te.
+    </p>
+            <p xml:id="JM7jmZ-d68814-d1e202">
+      ¶ Secunda conclusio valent ad diminutionem 
+      pe<lb ed="#P" n="65" break="no"/>ne.
+    </p>
+            <p xml:id="JM7jmZ-d68814-d1e207">
+      ¶ Tertia conclusio potissimum in indulgentiis est 
+      <lb ed="#P" n="66"/>considerare intentionem dantis indulgentias. prima con 
+      <lb ed="#P" n="67"/>clusio probatur. alias ecclesia inhoc toto erraret hoc 
+      <lb ed="#P" n="68"/>est falsum et contra promissionem christi petro rogaui pro te 
+      <lb ed="#P" n="69"/>ne deficiat fides tua. ista conclusio patet ex variis 
+      de<lb ed="#P" n="70" break="no"/>terminationibus ecclesie per clementum quintum in consilio 
+      <lb ed="#P" n="71"/>vienensi de reliquiis et veneratione sanctorum si dominum in 
+      <lb ed="#P" n="72"/>sanctis eius pro cultu corporis christi et ante eum de extra 
+      <lb ed="#P" n="73"/>uagante. bonifacii. viii. de pe. et re. c. antiquorum de 
+      <lb ed="#P" n="74"/>iubileo in centesimo quem clemens vi. mutauit in quinquages 
+      <lb ed="#P" n="75"/>annum. c. vnigenitus. postea per paulum venetum secundum et 
+      <lb ed="#P" n="76"/>sextum quartum fit in quolibet vigesimo quinto anno. cap. 
+      <lb ed="#P" n="77"/>quamadmodum et coloratur modus ratione vnus potest in eo 
+      <lb ed="#P" n="78"/>clesia satisfacere pro alio et potissimum dummoo illud pro 
+      <lb ed="#P" n="79"/>uenit auctoritate superioris est autem thesaurus eccle 
+      <lb ed="#P" n="80"/>sie spiritualis ex merito passionis christi et sanctorum qui 
+      <lb ed="#P" n="81"/>multo plura sustinuerunt tormentaquam peccata 
+      deme<lb ed="#P" n="82" break="no"/>ruerunt. de hoc thesauro potest ecclesia communicare ali 
+      <lb ed="#P" n="83"/>cui vel aliquibus quod sufficit ad satisfaciendum pro eorum 
+      <lb ed="#P" n="84"/>pectis hoc fit per indulgentias communicando partem illius 
+      <lb ed="#P" n="85"/>pro pena debita istis peccatis non valet ratio dicentium 
+      <lb ed="#P" n="86"/>anctim sunt premiati pro omnibus eorum meritis: in opere sa 
+      <lb ed="#P" n="87"/>tisfactorio est tantum meritum sicut in non satisfactorio et 
+      <lb ed="#P" n="88"/>cum hoc liberatur a pena vt supra dictum est et sanctim 
+      <lb ed="#P" n="89"/>applicant eorum cruciatus ad hoc formaliter vel inter 
+      <lb ed="#P" n="90"/>pretatiue prima canonica iohannis. ii. cap. quod ipse est 
+      <lb ed="#P" n="91"/>propiciatio pro peccatis nostris sicut dicit iohannes 
+      ba<lb ed="#P" n="92" break="no"/>ptista. Ecce agnus dei ecce qui tollit peccata mundi in 
+      <lb ed="#P" n="93"/>hoc thesauro includuntur omnia merita ab adam vsque ad  
+      <lb ed="#P" n="94"/>hunc diem et meritum christi est infinitum in ratione meriti 
+      <lb ed="#P" n="95"/>saltem infinite potest acceptare deus habuit 
+      beatitu<lb ed="#P" n="96" break="no"/>dinem gratis: ergo suum meritum mansit pro nobis 
+      <lb ed="#P" n="97"/>miseris et minima gutta sui preciosissimi sanguinis 
+      <lb ed="#P" n="98"/>sufficisset pro nostra redemptione ob vnionem ad 
+      <lb ed="#P" n="99"/>verbum dicit clemens sextus in prefato capite vnige 
+      <lb ed="#P" n="100"/>nitus et quia apud dominum misericordia et copiosa apud 
+      <lb ed="#P" n="101"/>cum redemptio. et pauci sunt electi respectu 
+      repro<lb ed="#P" n="102" break="no"/>borum non est timendum de euacuatione buius pro 
+      <lb ed="#P" n="103"/>tiosi thesauri. dato quod infiniti essent mundi quod est 
+      <lb ed="#P" n="104"/>deo possibile licet non de facto sint hic merita 
+      christife<lb ed="#P" n="105" break="no"/>re vginis iohannis baptiste qui ne peccaret leui fanie te 
+      <lb ed="#P" n="106"/>neris sub annis cucurrit ad antra deserti quo inter 
+      <lb ed="#P" n="107"/>natos mulierum non surrexit maior et ita de aliis nec 
+      <lb ed="#P" n="108"/>te moueat quod exiles date sunt indulgentie in pricipio na 
+      <lb ed="#P" n="109"/>scentis ecclesie feruor deuotionis tunc erat maior et san 
+      <lb ed="#P" n="110"/>guis christi recenter effusus homines rarius peccabant 
+      <lb ed="#P" n="111"/>et subibant maiores praesentias quam nunc subeant. propteres 
+      <lb ed="#P" n="112"/>congruum erat habere alia remedia explicata. dixi 
+      <lb ed="#P" n="113"/>claue non errante ad hoc quod indulgentia valeat alio 
+      <lb ed="#P" n="114"/>requiruntur auctoritas in dante quia est meritum totius 
+      <lb ed="#P" n="115"/>ecclesie quae est sponsa christi oportet quod detur a vicario eis 
+      <lb ed="#P" n="116"/>scilicet maximo potestifice saltem vniuersalis siue requirat 
+      <!--264.xml-->
+      <pb ed="#P" n="125-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>ad hoc quod sit sacerdos vel sufficit iurisdictio quod sit 
+      <lb ed="#P" n="2"/>papa non sacerdos incertum est rationabilis causa quse 
+      <lb ed="#P" n="3"/>tangit honorem dei vt ad impugnandos hostes fidei 
+      <lb ed="#P" n="4"/>vel pro aliqua alia pia causa placet aliquibus quod po 
+      <lb ed="#P" n="5"/>test sine causa realiter dare indulgetias ucet peccer 
+      <lb ed="#P" n="6"/>sicut rex conferens de thesauro plusquam par sit 
+      male<lb ed="#P" n="7" break="no"/>agit sed accipiens est verus dominus sed illud non 
+      admitte<lb ed="#P" n="8" break="no"/>tur a multis dicent est solum dispensator secundum 
+      volun<lb ed="#P" n="9" break="no"/>tatem domini superioris secundum illud prime corinthiorum. iiii. sic 
+      <lb ed="#P" n="10"/>nos existimet homo vt ministros christi et 
+      dispensato<lb ed="#P" n="11" break="no"/>res ministeriorum sed sicut in praesentia est quedam latitudo in 
+      <lb ed="#P" n="12"/>qua presbiter iniungens bene facit et peccatori sufficit sic 
+      <lb ed="#P" n="13"/>est in proposito quedam latitudo sic quod pontifex inter 
+      <lb ed="#P" n="14"/>dum dat pro causa equali maiorem indulgentiam 
+      interdum<lb ed="#P" n="15" break="no"/>minorem nec sit tibi cure manendo in latitudine an detur 
+      <lb ed="#P" n="16"/>rationabiliter supponas potestificem te discretiorem 
+      suf<lb ed="#P" n="17" break="no"/>ficit tibi capere indulgentias. Secunda conclusio pater 
+      <lb ed="#P" n="18"/>valent ad aliquid secundum primam conclusionem et non ad aug 
+      <lb ed="#P" n="19"/>mentum gratie vel glorie nisi ex parte obiecti non vide 
+      <lb ed="#P" n="20"/>tur ad quid aliud. Item ponitur communiter in istis veniis 
+      <lb ed="#P" n="21"/>relaxamus de praesentia iniuncta tertiam partem. Tertia 
+      com<lb ed="#P" n="22" break="no"/>clusio patet dantur conditionaliter sed verba explicant 
+      <lb ed="#P" n="23"/>conditionem dantis non extante conditione non tenent. 
+      <lb ed="#P" n="24"/>interdum datur indulgentia sub hac forma omnibus 
+      con<lb ed="#P" n="25" break="no"/>tritis et confessis tunc vtrunque requiritur et solutio. cape 
+      <lb ed="#P" n="26"/>secundum quod continetur in forma. interdum dicitur omnibus 
+      contri<lb ed="#P" n="27" break="no"/>tis et confessis ad tres vel quatuor dies futuros nonnumquam 
+      <lb ed="#P" n="28"/>dicitur omnibus porrigentibus manus adiutrices semn 
+      <lb ed="#P" n="29"/>praerequiritur contritio ad deletionem mortalis antequam 
+      <lb ed="#P" n="30"/>indulgentia penam auferat sed potest dare contritis et 
+      <lb ed="#P" n="31"/>non confessis vt opinor dummoo intendant se confiteri pro 
+      <lb ed="#P" n="32"/>loco et tempore imo existentibus in mortali sic scilicet quod quando 
+      <lb ed="#P" n="33"/>erit contritus valet indulgentia et non alias sed ante 
+      con<lb ed="#P" n="34" break="no"/>tritionem non habet indulgentia effectum suum quando indul 
+      <lb ed="#P" n="35"/>gentie sunt termporales. puta per tres dies vel octo vide 
+      <lb ed="#P" n="36"/>tur quod ille qui lucratur eas semel non potest pluries eas 
+      <lb ed="#P" n="37"/>lucrari dantur plures dies vt qui non potest venire 
+      <lb ed="#P" n="38"/>in vno die saltem veniat aliquo illorum dierum quando sunt per 
+      <lb ed="#P" n="39"/>hennes dantur quolibet die. patet quo alias sunt 
+      perhen<lb ed="#P" n="40" break="no"/>nes si non liceret multis temporibus eas habere / sed 
+      <lb ed="#P" n="41"/>non sufficiunt hore et horarum minuta quia si sic egrediens 
+      <lb ed="#P" n="42"/>et ingrediens millies in eodem die lucraretur indulgentias 
+      <lb ed="#P" n="43"/>imo videtur quod homo cuius vna medietas est in 
+      ho<lb ed="#P" n="44" break="no"/>stio et alia extra hostium per declinationem capitis in 
+      ec<lb ed="#P" n="45" break="no"/>clesiam lucratur indulgentias cum iam maior pars cor 
+      <lb ed="#P" n="46"/>poris est in ecclesia et ita per motum digiti egredietur 
+      <lb ed="#P" n="47"/>et ingredietur illa sunt absurda nec videtur intentio 
+      <lb ed="#P" n="48"/>legislatoris.
+    </p>
+            <p xml:id="JM7jmZ-d68814-d1e431">
+      ¶ Ex hiis sequuntur alique 
+      propositio<lb ed="#P" n="49" break="no"/>nes.
+    </p>
+            <p xml:id="JM7jmZ-d68814-d1e436">
+      ¶ Prima est volens lucrari indulgentias et non 
+      <lb ed="#P" n="50"/>dans sicut continetur in bulla non lucratur indulgentias 
+      <lb ed="#P" n="51"/>condicio non existit nec tamen consequens est quod actus 
+      exte<lb ed="#P" n="52" break="no"/>rior aliquid boni superaddit actui interiori. patet. isti 
+      <lb ed="#P" n="53"/>duo equaliter merentur de premio essentiali si actus 
+      <lb ed="#P" n="54"/>interiores sunt equales prout nunc supponitur de 
+      di<lb ed="#P" n="55" break="no"/>minutione pene melius erit illi qui facit actum 
+      exte<lb ed="#P" n="56" break="no"/>riorem non negamus quin actus exterior facit aliquid 
+      <lb ed="#P" n="57"/>ad premium accidentale vel ad accelerationem premii es 
+      <lb ed="#P" n="58"/>sentialis quia abbreuiat penam.
+    </p>
+            <p xml:id="JM7jmZ-d68814-d1e459">
+      ¶ Secunda propositio ve 
+      <lb ed="#P" n="59"/>niens romam exviterbio in anno iubileo tantum consequitur 
+      <!--264.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="60"/>indulgentiarum sicut veniens ab hadingtoni sed inee 
+      <lb ed="#P" n="61"/>liter hii duo mereretur. prior pars patet. vterque plenam 
+      <lb ed="#P" n="62"/>remissionem omnium peccatorum habet. Secunda pars pater 
+      <lb ed="#P" n="63"/>vnum opus est difficilius alio difficultate prouenien 
+      <lb ed="#P" n="64"/>ti ex parte obiecti suppono actus interiores 
+      equa<lb ed="#P" n="65" break="no"/>les in gradu modo ars et virtus sunt circa difficile. ii. 
+      <lb ed="#P" n="66"/>ethicorum. non alias fortitudo prestat eutrapelie 
+      </p>
+            <p xml:id="JM7jmZ-d68814-d1e483">
+               <lb ed="#P" n="67"/>¶ Tertia propositio diues dans tres duodenos tan 
+      <lb ed="#P" n="68"/>tum lucratur vi indulgentiarum sicut pauper. patet. vterque 
+      <lb ed="#P" n="69"/>acquirit secundum tenorem bulle soluendo quod continetur sed 
+      <lb ed="#P" n="70"/>pauper multoplus meretur. esto quod actus interiores 
+      <lb ed="#P" n="71"/>sint equales in gradu. patet. est maior difficultas in pau 
+      <lb ed="#P" n="72"/>pere. patet de vidua euangelica. luce. xii.
+    </p>
+            <p xml:id="JM7jmZ-d68814-d1e499">
+      ¶ Quarta 
+      <lb ed="#P" n="73"/>propositio frater minor videtur lucrari indulgentias si 
+      <lb ed="#P" n="74"/>aliquis pro eo dat pecuniam licet dicatur in bulla indulge 
+      <lb ed="#P" n="75"/>mus vel relaxamus danti de bonis suis: hoc est suis 
+      <lb ed="#P" n="76"/>vel que procurare potest alioquin filiusfamilias et 
+      ser<lb ed="#P" n="77" break="no"/>uus non potest lucrari indulgentias nec inniti debet re 
+      <lb ed="#P" n="78"/>ligiosus vagari per pateriam ad lucrandas venias tantum 
+      <lb ed="#P" n="79"/>vel plus proderit in cella quam se exponendo fluctibus 
+      <lb ed="#P" n="80"/>saeculi.
+    </p>
+            <p xml:id="JM7jmZ-d68814-d1e519">
+      ¶ Quinta propositio vbi est taxa de scuto dan 
+      <lb ed="#P" n="81"/>do dans scutum malum quod credit bonum non lucratur 
+      <lb ed="#P" n="82"/>venias malum scutum non est scutum. secus est de 
+      <lb ed="#P" n="83"/>malo homine quia habet omnia essentialia hominis et idem 
+      <lb ed="#P" n="84"/>videtur si quis det triginta quattuor duodenos si quis 
+      <lb ed="#P" n="85"/>dicat talem habere partem venie quero quam partem 
+      <lb ed="#P" n="86"/>Si dicas totam indulgentiam lucratur eodemmodo 
+      <lb ed="#P" n="87"/>tollam liardum dando minus et sic vsque ad turonum quod non 
+      <lb ed="#P" n="88"/>videtur dicendum si scutum tamen vix sit de pondere sed dat 
+      <lb ed="#P" n="89"/>scutum tali fabrice hoc non impedit nec cum dicente 
+      op<lb ed="#P" n="90" break="no"/>positum seriose contendo. dicis deficiente vno grano 
+      <lb ed="#P" n="91"/>scuti minus valet de solido: ergo dando triginta quat 
+      <lb ed="#P" n="92"/>tuor lucratur sicut ille. nego consequentiam pro vno ha 
+      <lb ed="#P" n="93"/>bebit in foro scutum non proalio saltem inter alia quod suf 
+      <lb ed="#P" n="94"/>ficit.
+    </p>
+            <p xml:id="JM7jmZ-d68814-d1e552">
+      ¶ Sexta propositio dando librum valentem scutum 
+      <lb ed="#P" n="95"/>videtur lucrari venias. patet. dat equiualens vbi 
+      ta<lb ed="#P" n="96" break="no"/>xa esset de sex paruis albis sufficit dare grossum an 
+      <lb ed="#P" n="97"/>glicanum.
+    </p>
+            <p xml:id="JM7jmZ-d68814-d1e561">
+      ¶ Septima propositio vni plus prodest 
+      <lb ed="#P" n="98"/>indulgentia quam alteri. patet est debitor maioris pene 
+      <lb ed="#P" n="99"/>sicut in contritione et in baptismo.
+    </p>
+            <p xml:id="JM7jmZ-d68814-d1e569">
+      ¶ Octaua propor 
+      <lb ed="#P" n="100"/>sitio non debet mouere hominem in oppositum quod aliquod 
+      <lb ed="#P" n="101"/>erit peccatum impunitum illud concluderet contra 
+      suffra<lb ed="#P" n="102" break="no"/>gia ecclesie et in absolutione vertute clauium tollitur pars 
+      <lb ed="#P" n="103"/>pene debite. Item clementia inclinat traianum ad 
+      mi<lb ed="#P" n="104" break="no"/>tigandum rigorem iusticie in filio.
+    </p>
+            <p xml:id="JM7jmZ-d68814-d1e582">
+      ¶ Nona 
+      proposi<lb ed="#P" n="105" break="no"/>tio forte quando varii pontifices relaxat varias partes 
+      <lb ed="#P" n="106"/>pene geometrice et non arismetice laxant. Interdum 
+      <lb ed="#P" n="107"/>vnus pontifex remittit septimam partem pene 
+      debi<lb ed="#P" n="108" break="no"/>te peccatis cuiuscumque dantis a sancto sepulchro in 
+      <lb ed="#P" n="109"/>ciuitate spirensi si sex alii pontifices tantum dicunt ergo  
+      <lb ed="#P" n="110"/>vel talis dans septem duodenos erit ita absolutus ab 
+      <lb ed="#P" n="111"/>omni pena sicut acquirens indulgentias plenearias 
+      <lb ed="#P" n="112"/>anni iubilei quod multiabsurdum reputarent vel nona 
+      <lb ed="#P" n="113"/>propositio est vera.
+    </p>
+            <p xml:id="JM7jmZ-d68814-d1e604">
+      ¶ Hecima propositio indulgen 
+      <lb ed="#P" n="114"/>tia nichil facit ad remissionem culpe. patet. requiritur 
+      <lb ed="#P" n="115"/>contritio ad hoc quod peccatum deleatur et illa sola suffi 
+      <lb ed="#P" n="116"/>cit si teneamus modum communem quod atritio cum 
+      sacra<lb ed="#P" n="117" break="no"/>mento sufficiunt adhuc indulgentia non est 
+      sacramen<lb ed="#P" n="118" break="no"/>tum et habetur intentum: sed exponamus modum 
+      <!--265.xml-->
+      <pb ed="#P" n="125-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>ecclesie sic de pena debita culpe. simile habetur. ii. 
+      <lb ed="#P" n="2"/>machabeorum. xii. Sancta et salubris est oratio pro de 
+      <lb ed="#P" n="3"/>functis vt liberentur a peccatis eorum. Sed dicis indu 
+      <lb ed="#P" n="4"/>gentia potest esse de veniali culpa ibi non requiritur di 
+      <lb ed="#P" n="5"/>stincta nolitio illius ad hoc quod deleatur. Vndecima 
+      <lb ed="#P" n="6"/>contritio dat magnas indulgentias saltem tamquam causa si 
+      <lb ed="#P" n="7"/>ne qua non deus principaliter dat posita contritione. 
+      <lb ed="#P" n="8"/>patet. mutat penam millionis quinimo infinitam in fini 
+      <lb ed="#P" n="9"/>tam est gnosa indulgentia et solida. Sed dubitatur an 
+      <lb ed="#P" n="10"/>papa potest dare indulgentias existenti in purgato 
+      <lb ed="#P" n="11"/>rio quia constat nichil valent existentibus in inferno 
+      lim<lb ed="#P" n="12" break="no"/>bo puerorum vel celo opinor quod sic ratio plerique 
+      pon<lb ed="#P" n="13" break="no"/>tifices ita dederunt indulgentias si quis visitauit vl 
+      <lb ed="#P" n="14"/>fecerit aliquod tale damus ei potestatem relaxare animam 
+      <lb ed="#P" n="15"/>quam voluerit de purgatorio et in diebus nostris 
+      audi<lb ed="#P" n="16" break="no"/>uimus nec plene constat de opposito: ergo non debemus 
+      <lb ed="#P" n="17"/>contraniti modo faciendi ecclesie. Sed contra dicis 
+      <lb ed="#P" n="18"/>tunc auferetur omnis deuotio orandi pro defunctis tot 
+      <lb ed="#P" n="19"/>sumptus in funeralibus sicut intuemur tollentur de 
+      <lb ed="#P" n="20"/>medio cum pontifex potest effingere causas 
+      ratio<lb ed="#P" n="21" break="no"/>nabiles et euacuabitur purgatorium: nego 
+      consequen<lb ed="#P" n="22" break="no"/>tiam modus orandi pro defunctis de suffragiis est 
+      <lb ed="#P" n="23"/>securissimus hic autem diceretur a multis sapientibus 
+      <lb ed="#P" n="24"/>potest esse interdum iniusta causa quod deus non acceptat 
+      <lb ed="#P" n="25"/>dicerent. si dicas quod romanus pontifex potest ad 
+      nu<lb ed="#P" n="26" break="no"/>tum sine pia causa vnum liberare de purgatorio licet 
+      <lb ed="#P" n="27"/>male ageret sic duos vel tres tunc faciet quod nullus 
+      <lb ed="#P" n="28"/>tota vita eius ibit ad purgatorium et ipse male viuens 
+      <lb ed="#P" n="29"/>in fine in breui morula contritus dabit cuilibet 
+      pro<lb ed="#P" n="30" break="no"/>ferenti licteram a plenissimas indulgentias et ipse pro 
+      <lb ed="#P" n="31"/>feret a et sic nullam penam patietur in purgatorio nec in 
+      <lb ed="#P" n="32"/>hoc mundo et ita potest successor eius. nec sufficit di 
+      <lb ed="#P" n="33"/>cerent est pia causa liberare omnes de purgatorio cum 
+      <lb ed="#P" n="34"/>iusticie diuine contranititur. secus est vbi est 
+      ratio<lb ed="#P" n="35" break="no"/>nabilis causa. Dicis ex illo stat pontificem maximum 
+      <lb ed="#P" n="36"/>errare dando indulgentias et sic michi aduersentur 
+      ta<lb ed="#P" n="37" break="no"/>les. deduxi probationem prime conclusionis ad hoc tamquam 
+      <lb ed="#P" n="38"/>inconueniens. Ad hoc respondeo: tum primo mea non 
+      <lb ed="#P" n="39"/>interest. tum secundo si color vnius probationis eneruei 
+      <lb ed="#P" n="40"/>non sequitur quod ita sit in omnibus et si non singula con 
+      <lb ed="#P" n="41"/>cludant emnia tamen iuuant Tertio non est simile neganti pri 
+      <lb ed="#P" n="42"/>mam conclusionem diceret ecclesiam in rationabili 
+      cau<lb ed="#P" n="43" break="no"/>sa errare. secus est in casu nostro non facile 
+      admit<lb ed="#P" n="44" break="no"/>to quod ita faciat sed facere potest romanus pontifex 
+      ali<lb ed="#P" n="45" break="no"/>qui reprehensi sunt a scriptoribus quia nimis 
+      dissipa<lb ed="#P" n="46" break="no"/>runt thesauros spunales ecclesie sufficit nobis in hac 
+      <lb ed="#P" n="47"/>parte transeamus cum non patet nobis euidentia 
+      suffi<lb ed="#P" n="48" break="no"/>cit probabilis coniectura et capiamus indulgentias 
+      <lb ed="#P" n="49"/>Secundo oramus et sumptus facimus in funeralibus pro 
+      <lb ed="#P" n="50"/>paruulis baptisatis decedentibus quos constat pro 
+      <lb ed="#P" n="51"/>tinus euolare ad superos vt sit vnio eius cum aliis 
+      <lb ed="#P" n="52"/>de ecclesia nec valet dicere dubium est si est 
+      baptisa<lb ed="#P" n="53" break="no"/>tus quia si non nichil valent ei preces si sit statim euo 
+      <lb ed="#P" n="54"/>labit. Item multi sunt abusus in indulgentiis per 
+      que<lb ed="#P" n="55" break="no"/>stuosos et fingentes sigilla prelatorum ecclesie. forte 
+      <lb ed="#P" n="56"/>dicis argumentum quod feci concludit contra respon 
+      <lb ed="#P" n="57"/>sionem meam in conclusione principali. patet si vnus 
+      po<lb ed="#P" n="58" break="no"/>test liberare vnam animam quam voluerit a purgatorio 
+      <lb ed="#P" n="59"/>qui visitauit talem capellam hoc anno in compostella dam¬ 
+      <!--265.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="60"/>do talem summam sic potest alius tertius et quartus et 
+      <lb ed="#P" n="61"/>sic omnes liberabuntur. consequentia est nulla quero 
+      <lb ed="#P" n="62"/>an omnes britanni hoc anno adiuerunt sanctum iacobum 
+      <lb ed="#P" n="63"/>et an galli viciniores vel omnes nauarri. de purgatorio 
+      <lb ed="#P" n="64"/>in se non sunt infiniti in illo soli suscipientes fidem christi ibi 
+      <lb ed="#P" n="65"/>sunt infideles sunt dannati et inter christianos multi 
+      dan<lb ed="#P" n="66" break="no"/>nantur paruuli aliqui discedunt sine baptismo: ergo in 
+      <lb ed="#P" n="67"/>purgatorio sunt solum finiti si omnes intenderent suffra 
+      <lb ed="#P" n="68"/>giis possunt purgatorium attenuare: sed semper 
+      di<lb ed="#P" n="69" break="no"/>scedent alii purgandi et licet in illis bullis contines 
+      <lb ed="#P" n="70"/>tur quod quis potest quempiam liberare per modum suffra 
+      <lb ed="#P" n="71"/>gii hoc est magis quam de suffragiis sine indulgentiis 
+      <lb ed="#P" n="72"/>intenditur quod vnus faciat pro defuncto hoc quod continet 
+      <lb ed="#P" n="73"/>bulla et sic ei suffragatur nec obstat illud mathei. xvi. 
+      <lb ed="#P" n="74"/>Quicquid ligaueris super terram etc. ergo sub terra vel 
+      <lb ed="#P" n="75"/>intra terram nichil potest super terram potest 
+      determi<lb ed="#P" n="76" break="no"/>nare tu subintellectum quicquid tu episcopus super 
+      <lb ed="#P" n="77"/>terram ligaueris claue non errante si determinat 
+      <lb ed="#P" n="78"/>ligaueris vel solueris intelligitur per terram anquam sunt 
+      <lb ed="#P" n="79"/>in inferno vel celo hoc est termino finali etiam 
+      pecca<lb ed="#P" n="80" break="no"/>bunt super terram et reus insequitur forum in quo 
+      deli<lb ed="#P" n="81" break="no"/>quit quousque non pertransiuit terminos illius fori hoc 
+      <lb ed="#P" n="82"/>bixerim propter existentes in termino finali.
+    </p>
+            <p xml:id="JM7jmZ-d68814-d1e806">
+      ¶ Secundo 
+      <lb ed="#P" n="83"/>dubitatur an debet penitens in indulgentiis capere 
+      <lb ed="#P" n="84"/>penitentiam.
+    </p>
+            <p xml:id="JM7jmZ-d68814-d1e813">
+      ¶ Respondeo non peccat aliquis non ca 
+      <lb ed="#P" n="85"/>piens penitentiam secundum aliquos sed addo in casu po 
+      <lb ed="#P" n="86"/>tissimum cum consensu sacerdotis sed talis communiter male 
+      <lb ed="#P" n="87"/>se habet. fortasse male sentit de purgatorio vel si bene 
+      <lb ed="#P" n="88"/>sentiat quodo est ipse ita delicatus quod nichil penale est 
+      <lb ed="#P" n="89"/>paratus capere saltem de consilio si se existimet 
+      fra<lb ed="#P" n="90" break="no"/>gilem ad non implendum.
+    </p>
+            <p xml:id="JM7jmZ-d68814-d1e829">
+      ¶ Respondeo ad 
+      dubi<lb ed="#P" n="91" break="no"/>tationem motam securum est capere penitentiam iniuctam 
+      <lb ed="#P" n="92"/>et alius inscite agit nescit quamdiu est puniendus in 
+      pur<lb ed="#P" n="93" break="no"/>gatorio et opus satisfactorium est ita meritorium sicut 
+      <lb ed="#P" n="94"/>non satisfactorium alicui est vtilis praesentia in precepto 
+      <lb ed="#P" n="95"/>propter recidiuum vt quolibet die quo peccat tali pec 
+      <lb ed="#P" n="96"/>cato precipere vt dicat septem psalmos et si 
+      contin<lb ed="#P" n="97" break="no"/>gat non dicere in illo die dicat in die sequenti addendo 
+      <lb ed="#P" n="98"/>quinquies pater rngstur psal. rogauit deum ne puniret in ira sua 
+      <lb ed="#P" n="99"/>hoc est in purgatorio nec in furore suo hoc est in 
+      in<lb ed="#P" n="100" break="no"/>ferno. sed in mina sua hoc est in hoc mundo inquiens 
+      <lb ed="#P" n="101"/>psalmo primo domine ne in furore tuo arguas me id est 
+      <lb ed="#P" n="102"/>in inferno in quo est crudelis pena nequein ira tua id 
+      <lb ed="#P" n="103"/>est purgatorio corripias me: sed miserere mei domine 
+      <lb ed="#P" n="104"/>propterea satius est adimplere praesentiam in hoc mundo 
+      </p>
+            <p xml:id="JM7jmZ-d68814-d1e863">
+               <lb ed="#P" n="105"/>¶ Tertio dubitatur quid est hoc dictu damus qua 
+      <lb ed="#P" n="106"/>draginta dies indulgentiarum vel centum annos. Re 
+      <lb ed="#P" n="107"/>spondetur de hoc dubium est sed certitudo est in disium 
+      <lb ed="#P" n="108"/>ctiua non quod hec pars est certa vel illa pars est certa quia 
+      <lb ed="#P" n="109"/>sic erit disiunctiua cuiusqualibet pars est falsa sed firmi 
+      <lb ed="#P" n="110"/>ter scio illam totam disiunctiuam esse veram: potest dici rela 
+      <lb ed="#P" n="111"/>xamus quadraginta dies indulgentiarum id est auferentur 
+      <lb ed="#P" n="112"/>quadraginta dies quibus deberes pati in purgatorio secundum 
+      <lb ed="#P" n="113"/>legem dei communem secundum alium modum tantum valent ac si 
+      <lb ed="#P" n="114"/>quadraginta diebus impleuisset praesentiam in hoc 
+      mum<lb ed="#P" n="115" break="no"/>do.
+    </p>
+            <p xml:id="JM7jmZ-d68814-d1e889">
+      ¶ Sed contra vtrumque modum est difficultas vnus 
+      <lb ed="#P" n="116"/>patitur acerbius in purgatorio quam alius sicut in 
+      iufer<lb ed="#P" n="117" break="no"/>no similiter praesentia vna in hoc mundo est in pane / aqua 
+      <lb ed="#P" n="118"/>et cilicio alterius splendidius oportet iuterpantati inten 
+      <!--266.xml-->
+      <pb ed="#P" n="126-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>tionem pontificis secundum praesentias communes et secundum 
+      accepta<lb ed="#P" n="2" break="no"/>tionem dei nec in hoc est fodienda maior inquisitio 
+      <lb ed="#P" n="3"/>sed quia dicitur in bulla de praesentia iniuncta relaxamus 
+      <lb ed="#P" n="4"/>videtur intentio pontificis solum relaxare de illa. 
+      Re<lb ed="#P" n="5" break="no"/>spondeo hoc communiter non obseruatur illa via procedem 
+      <lb ed="#P" n="6"/>do deberet confessor imponere austerissimam penitem 
+      <lb ed="#P" n="7"/>tiam in pane ordeaceo et aqua secundum magnitudinem 
+      an<lb ed="#P" n="8" break="no"/>norum in bulla et indulgentia pro hoc toto sufficeret et 
+      <lb ed="#P" n="9"/>tunc imponendo praesentiam salutarem sed illud videtur praeter 
+      <lb ed="#P" n="10"/>rationem tenendo menbrum illud dicerem sic 
+      intel<lb ed="#P" n="11" break="no"/>ligitur relaxamus de praesentis iniunctis id est quae iniung 
+      <lb ed="#P" n="12"/>possunt. Ex hoc apparet dicit gerson parum est dare 
+      <lb ed="#P" n="13"/>centum mille annos indulgentiarum nec praesentia ita longa est 
+      <lb ed="#P" n="14"/>imponenda secundum vnum menbrum homo non obligatur ad im 
+      <lb ed="#P" n="15"/>possibile nec purgatorium vt apparet ita diu durabit 
+      <lb ed="#P" n="16"/>purgatorium sed ratio sua non valet concluderet tenen 
+      <lb ed="#P" n="17"/>do primum menbrum de centum annis imo in decrepito de 
+      <lb ed="#P" n="18"/>viginti annis cum homo non est ita diu verisimiliter 
+      vi<lb ed="#P" n="19" break="no"/>cturus sufficit nobis capiendo indulgentias dicere 
+      <lb ed="#P" n="20"/>claue non errante sed quando errat dicere vtrobique est 
+      dif<lb ed="#P" n="21" break="no"/>ficile sed in hoc bene dicit cancellarius non videtur tam in 
+      <lb ed="#P" n="22"/>mensa annorum congeries danda pro talibus causis si 
+      <lb ed="#P" n="23"/>martir euestigio discedens euolat ad patriam potest 
+      <lb ed="#P" n="24"/>pontifex dare plenissimam indulgentiam illi qui pugnat con 
+      <lb ed="#P" n="25"/>tra agarenos talis magnam deuotionem habet corpus 
+      <lb ed="#P" n="26"/>et omnia ponit pro dei gloria: sed hic est error plebeus 
+      <lb ed="#P" n="27"/>imo popularis apud nostrates putat quicumque trahit gut 
+      <lb ed="#P" n="28"/>tam sanguinis de iudeo quicquid perperam egit protinus 
+      <lb ed="#P" n="29"/>euolabit. Fortasse hoc duxit originem ab hiis qui 
+      ee<lb ed="#P" n="30" break="no"/>lozelati sunt pro domino exercitiuum transeuntibus in asiam 
+      <lb ed="#P" n="31"/>ad expugnandos machometanos cum indulgentiis 
+      <lb ed="#P" n="32"/>Secundo patet gratae sunt agende de istis indulgentiis et ca 
+      <lb ed="#P" n="33"/>piende sunt cum pietate. Tertio sequitur nec propterea 
+      <lb ed="#P" n="34"/>sacrificia et alia suffragia ecclesie sunt relinquenda 
+      <lb ed="#P" n="35"/>vnum facere aliud non omittere secundum illud. xiii. q. ii. c. 
+      <lb ed="#P" n="36"/>anime et non estimemus. Quarto patet non sunt prohibem 
+      <lb ed="#P" n="37"/>de indulgentie beati dionisi: esto quod non roborentur 
+      <lb ed="#P" n="38"/>a pontifice sed supposita historia quam afferunt non est 
+      <lb ed="#P" n="39"/>suffocanda deuotio christi fidelium. Quinto sequitur tantum 
+      <lb ed="#P" n="40"/>valent quantum sonant claue non errante. Sexto sequi 
+      <lb ed="#P" n="41"/>tur vbi preberent incentiuum peccandi vel tollerent 
+      sus<lb ed="#P" n="42" break="no"/>fragia et deuotionem abecclesia non essent dande. Si pe 
+      <lb ed="#P" n="43"/>tas que est indulgentia plena plenior et quae plenissima 
+      <lb ed="#P" n="44"/>Respondetur plenus prima fronte non videtur posse re 
+      <lb ed="#P" n="45"/>cipere comparationem cum sua proprietas non valet au 
+      <lb ed="#P" n="46"/>geri et minui: sed hoc non valet dicimus stephanum ple 
+      <lb ed="#P" n="47"/>num gratia et fortitudine et christiferam virginem plenam gratra 
+      <lb ed="#P" n="48"/>et tamen non habebant gratias equales nec capacitas 
+      <lb ed="#P" n="49"/>animarum totaliter repleta erat plena potest vocari 
+      dimis<lb ed="#P" n="50" break="no"/>sio peccatorum confessorum communiter dicitur de omnibus 
+      <lb ed="#P" n="51"/>contritis et confessis: ergo talis discedens puniretur 
+      <lb ed="#P" n="52"/>temporaliter pro venialibus et mortalibus oblitis si que 
+      <lb ed="#P" n="53"/>sunt plenior dimissio totius pene debite omnibus 
+      <lb ed="#P" n="54"/>mortalibus. plenissima omnis pene venialium et 
+      morta<lb ed="#P" n="55" break="no"/>lium ita quod talis sic discedens statimeuolabit. 
+      <lb ed="#P" n="56"/>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

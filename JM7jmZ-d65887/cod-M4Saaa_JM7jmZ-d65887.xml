@@ -1,0 +1,624 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 1</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 1</title>
+               <date when="2021-07-06">July 06, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-M4Saaa">Paris 1509</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-06" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="119-r"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="JM7jmZ-d65887"><!-- l4d18q1 -->
+            <head xml:id="JM7jmZ-d65887-Hd1e108">Quaestio 1</head>
+            <head xml:id="JM7jmZ-d65887-Hd1e111" type="question-title">
+      An excommunicatio
+      liget
+      excommunicatum ne
+      colloquatur cum aliis
+    </head>
+            <p xml:id="JM7jmZ-d65887-d1e114">
+               <lb ed="#P" n="90"/>¶ Distinctionis decime octaue questio vnica. 
+      <lb ed="#P" n="91"/>CIrca hanc distinctionem decimam octauam que 
+      <lb ed="#P" n="92"/>Iritur an exconicatio liget excommunicatum ne 
+      col<lb ed="#P" n="93" break="no"/>loquatur cum aliis. Excommunicatio est se 
+      <lb ed="#P" n="94"/>paratio a communione ecclesie quo ad fructum et suffragia 
+      <lb ed="#P" n="95"/>generalia priuatur a sumptione sacramentorum et ab 
+      <lb ed="#P" n="96"/>omni actu legitimo baptisatus cetum fidelium 
+      in<lb ed="#P" n="97" break="no"/>greditur et ad participationem sacramentorum cum aliis 
+      <lb ed="#P" n="98"/>propter aliqua peccata praiuatur vtroque vt per exconicationem 
+      <lb ed="#P" n="99"/>alia est minor id est separatio a sacramentis et potissi 
+      <lb ed="#P" n="100"/>mum eucharistie et vocatur minor exconicatio per prius 
+      <lb ed="#P" n="101"/>maiori exconicationi conuenit et in absoluto modo lo 
+      <lb ed="#P" n="102"/>quendi pro ea accipitur patet de sententia excommunicationis. si quem 
+      <lb ed="#P" n="103"/>quo fit licet aliqua exconicatio est minor imo omnis 
+      <lb ed="#P" n="104"/>excomnicatio est minor nulla minor exconicatio est 
+      ex<lb ed="#P" n="105" break="no"/>commuicatio nec arguitur in darapti omnis exconicatio est 
+      <lb ed="#P" n="106"/>maior omnis excomnnicatio est minor ergo minor exconicaus 
+      <lb ed="#P" n="107"/>est maior ex illis primissis nulla sequitur conclusio 
+      <lb ed="#P" n="108"/>formaliter saltem gratia forme acceptionis terminorum 
+      <lb ed="#P" n="109"/>bicitur maior coparatiue propter minorem vt maior 
+      <lb ed="#P" n="110"/>attrides maior aiax exconicatio est extra conitatem separa 
+      <lb ed="#P" n="111"/>tio vel censura minor excommicatio est morbus respiciens 
+      <lb ed="#P" n="112"/>personam absolute maior est morbus respiciens per 
+      <lb ed="#P" n="113"/>sonam vt est pars communitatis. Sed triplex est communio 
+      que<lb ed="#P" n="114" break="no"/>dam spiritualis omnio vtquantum ad dilectionem interiorem 
+      <lb ed="#P" n="115"/>et vitam eternam promerendam quedam quantum ad 
+      exterio<lb ed="#P" n="116" break="no"/>rem conuersationem quedam sacramentalis quantum ad sa¬ 
+      <!--253.xml-->
+      <pb ed="#P" n="119-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>cramentorum susceptionem et potissimi altaris a pri 
+      <lb ed="#P" n="2"/>ma communione numquam separantur excommicati ecclesia non 
+      <lb ed="#P" n="3"/>brat pro excommicatis in gonteonali oratione bene tamen aliquis 
+      <lb ed="#P" n="4"/>in speciali orat pro aliquo exconicato ab aliis duab 
+      <lb ed="#P" n="5"/>commionibus separantur exconicati vt patet in carmin 
+      <lb ed="#P" n="6"/>vulgari. Os orare vale crino mensa negatur non est 
+      <lb ed="#P" n="7"/>obsculandus nec secum orandum nec salutandus non 
+      di<lb ed="#P" n="8" break="no"/>camus in exordio literarum sortes IoIhanni de padua 
+      <lb ed="#P" n="9"/>salutem sed spiritum saniorem.
+    </p>
+            <p xml:id="JM7jmZ-d65887-d1e201">
+      ¶ Istis notatis pono 
+      con<lb ed="#P" n="10" break="no"/>clusiones.
+    </p>
+            <p xml:id="JM7jmZ-d65887-d1e206">
+      ¶ Prima est prelati ecclesie 
+      rationabili<lb ed="#P" n="11" break="no"/>ter exconicant.
+    </p>
+            <p xml:id="JM7jmZ-d65887-d1e212">
+      ¶ Secunda conclusio excommicatio non de 
+      <lb ed="#P" n="12"/>bet infligi pro quolibet peccato sed sola contumatia. 
+      </p>
+            <p xml:id="JM7jmZ-d65887-d1e217">
+               <lb ed="#P" n="13"/>¶ Tertia conclusio excommunicatio ligat excommunicatum eui 
+      <lb ed="#P" n="14"/>tare aliorum consortium sicut alii obligantur vitare eum 
+      <lb ed="#P" n="15"/>Prima conclusio probatur. mathei. xviii. si peccaue 
+      <lb ed="#P" n="16"/>rit in te frater tuus si te non audierit sit sicut 
+      ethni<lb ed="#P" n="17" break="no"/>cus et publicanus apostolus. i. corinthiorum. v. fornica 
+      <lb ed="#P" n="18"/>torem manifestum tradidit sathane et. i. ad thi. i. ex qui 
+      <lb ed="#P" n="19"/>bus est himeneus et alexan. quos tradidi sathane et 
+      <lb ed="#P" n="20"/>prime ad corinthi. vltimo. Si quis non amat dominum in 
+      <lb ed="#P" n="21"/>sum anathemasit paterfamilias filium inobedientem 
+      ex<lb ed="#P" n="22" break="no"/>tra domum eiicit pro tempore vt corrigatur ergo sic in mo 
+      <lb ed="#P" n="23"/>ralibus potest pater spiritualis. Secunda conclusio pate 
+      <lb ed="#P" n="24"/>xi. q. iii. nemo episcoporum ille est contumax vt ibi di 
+      <lb ed="#P" n="25"/>citur qui non vult venire vel veniens non paret vel an 
+      <lb ed="#P" n="26"/>tempus recedit. pre batur aliter ratione si pro 
+      quo<lb ed="#P" n="27" break="no"/>libet mortali infligeretur tunc esset onus importabile 
+      <lb ed="#P" n="28"/>et non virga discipline ac si quis vellet abigere mu 
+      <lb ed="#P" n="29"/>scas a fronte calui et eam ledit vel frangit. Item ecclesia 
+      <lb ed="#P" n="30"/>debet procedere more medici in corporibus curandis 
+      <lb ed="#P" n="31"/>qui primo medicinas faciles dat vt cirupos et eua 
+      <lb ed="#P" n="32"/>cuationes postea procedit ad maiora si tertiana 
+      fe<lb ed="#P" n="33" break="no"/>bricula potest curari per dietam vel fleubothomian 
+      <lb ed="#P" n="34"/>inconsulte faceret onerando stomachum et ledendo 
+      <lb ed="#P" n="35"/>naturam: ergo vbi homo est corrigibilis et audit ecclesiam 
+      <lb ed="#P" n="36"/>quare est iudicandus sicut ethnicus et publicanus. illud 
+      <lb ed="#P" n="37"/>patet. c. cum medicinalis sit de sententia excommunicationis 
+      <lb ed="#P" n="38"/>libro. vi. non alias precepit innoncentius quartus excommuni 
+      <lb ed="#P" n="39"/>cationem scripto dare et causam inscribat hoc ipsum 
+      <lb ed="#P" n="40"/>patet. xi. q. iii. audi exconicatio est maxima pena 
+      ec<lb ed="#P" n="41" break="no"/>clesie dicitur mucro eprii. xvi. q. ii. visis in fi. xxiiii. 
+      <lb ed="#P" n="42"/>q. iii. corripiantur. alia pars patet quod pro contumacia de 
+      <lb ed="#P" n="43"/>bet inferri. patet. clauum clauo oportet rescindere cirui 
+      <lb ed="#P" n="44"/>gicus menbrum putridum abscindit ne reliquum corpus 
+      <lb ed="#P" n="45"/>inficiat: secundum illud nasonis. vt vitam redimas ferrum ps 
+      <lb ed="#P" n="46"/>tieris et ignes: ergo medicus spiritualis licite punit 
+      ali<lb ed="#P" n="47" break="no"/>quem ne reliquum gregem inficiat quia vnica praua pecus 
+      <lb ed="#P" n="48"/>inficit omne pecus et. xxiiii. q. iii. resecande. resecande 
+      <lb ed="#P" n="49"/>sunt carnes putride et scabiosa ouis a caulibus repel 
+      <lb ed="#P" n="50"/>lenda ne tota domus massa corpus et pecora 
+      arde<lb ed="#P" n="51" break="no"/>ant arius in alexandria vna scintilla fuit sed quoniam non 
+      <lb ed="#P" n="52"/>statim opressus est per totum orbem eius flamma 
+      po<lb ed="#P" n="53" break="no"/>pulata est. Tertia conclusio patet contraueniens sta 
+      <lb ed="#P" n="54"/>tuto praeceptorio ecclesie peccat. Insuper peccat 
+      ener<lb ed="#P" n="55" break="no"/>uans gladium spiritualem et vltimum mucronem ecclesie 
+      <lb ed="#P" n="56"/>de medio contemnens excommicationem est huiusmodi: igitur 
+      <lb ed="#P" n="57"/>Insuper colloquens cum exconicato peccat et maior est 
+      <lb ed="#P" n="58"/>causa in ipomet exconicato: igitur: et si non fieret hi 
+      <lb ed="#P" n="59"/>relatio equiparentie parum prodesset si alius prohi¬ 
+      <!--253.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="60"/>betur loqui cum exconicato et non econuerso irpte 
+      tibilo<lb ed="#P" n="61" break="no"/>queretur tota die a remotis et sic esset irrisio excom 
+      <lb ed="#P" n="62"/>municationis. Et illud intelligitur etiam extra ca 
+      <lb ed="#P" n="63"/>sus concessos in quibus licitum est conuersari extra 
+      di<lb ed="#P" n="64" break="no"/>uina qui casus in hoc carime vulgari includuntur vti 
+      <lb ed="#P" n="65"/>le lex humile res ignorata necesse pro salute 
+      exconi<lb ed="#P" n="66" break="no"/>cati. licet etiam colloquens interponat quedem alia vt 
+      po<lb ed="#P" n="67" break="no"/>test efficatius concludere lex matrimonium humile 
+      <lb ed="#P" n="68"/>filiusfamilias et fui ignorantia transeuntes per domus 
+      <lb ed="#P" n="69"/>exconicatorum vt pegrini et mendicantes etiam per vti 
+      <lb ed="#P" n="70"/>le intelligas vtilitatem colloquentis quia debet michi pe 
+      <lb ed="#P" n="71"/>cuniam vel meum iniuste tenet peccatum non debet ei 
+      pa<lb ed="#P" n="72" break="no"/>trocinari. Ex isto patet quod male agunt exconicantes 
+      <lb ed="#P" n="73"/>pro leui causa vt pro solutione pecuniaria vbi egre 
+      <lb ed="#P" n="74"/>pomo potest satisfacere. Secundo patet quod male 
+      faci<lb ed="#P" n="75" break="no"/>unt citantes peremptorie vnico contextum tripliciter 
+      <lb ed="#P" n="76"/>virum honestum de cuius fuga nullatenus est timendum 
+      <lb ed="#P" n="77"/>Interdum hoc faciunt ad petitionem partis et pro leuibus 
+      <lb ed="#P" n="78"/>causis terna monitio debet praecedere. xxii. d. si quis 
+      <lb ed="#P" n="79"/>eprtus non debet ferri cum impetu sed cum 
+      deliberatio<lb ed="#P" n="80" break="no"/>ne et cause cognitione. xi. q. iii. si epraus et. c. seruetur 
+      <lb ed="#P" n="81"/>Tertio patet quod huiusmodi leuis excomnicatio est causa 
+      com<lb ed="#P" n="82" break="no"/>tentibilis excommicationis qui nimis emungit elicit san 
+      <lb ed="#P" n="83"/>guinem et omne rarum preciosum raro commicauit 
+      apo<lb ed="#P" n="84" break="no"/>stolus raro paeres in primitiua ecclesia maior error est 
+      <lb ed="#P" n="85"/>in hac parte in officialibus quam in aliis.
+    </p>
+            <p xml:id="JM7jmZ-d65887-d1e382">
+      ¶ Contra patr 
+      <lb ed="#P" n="86"/>mam conclusionem arguitur aut exconicatio est morbus aut me contr 
+      <lb ed="#P" n="87"/>dicina si morbus nulli est infligenda cuiuslibet salus 
+      <lb ed="#P" n="88"/>est desideranda si medicina cuilibet est applicanda 
+      <lb ed="#P" n="89"/>Insuper per exconicationem traditur bomo 
+      satha<lb ed="#P" n="90" break="no"/>ne vt patet in exconicatione apostoli dicitur quod est 
+      medici<lb ed="#P" n="91" break="no"/>na si iuste infligatur vel toti multitudini vel ex 
+      par<lb ed="#P" n="92" break="no"/>te eius et plerumque excommunicatio licet ledat pro tempore 
+      <lb ed="#P" n="93"/>sicut sectio vnius menbri ne alia ledat. Ad aliud di 
+      <lb ed="#P" n="94"/>citur in primitiua ecclesia homines tradebantur sathane 
+      <lb ed="#P" n="95"/>vt eos torqueret. i. corinth. v. in glo. ob salutem anime. 
+      <lb ed="#P" n="96"/>vtile erat aliquibus pro plantatione ecclesie quibus 
+      ec<lb ed="#P" n="97" break="no"/>clesia nunc plantata non eget.
+    </p>
+            <p xml:id="JM7jmZ-d65887-d1e411">
+      ¶ Secundo arguitur 
+      <lb ed="#P" n="98"/>excommnicatio est quedam maledictio sed talis est prohibi so 
+      <lb ed="#P" n="99"/>ta ratioanorum. xii. ergo ecclesia nullum debet excommunicare et id 
+      <lb ed="#P" n="100"/>in canone inde quod cum michael altercaretur de corpo 
+      <lb ed="#P" n="101"/>re moysi non est ausus iudicium inferre blaspheman 
+      <lb ed="#P" n="102"/>do sed dixit. imparet tibi dominus ergo ecclesia non debet exconi 
+      <lb ed="#P" n="103"/>care quempiam secum altercantem. Preterea exconicatus 
+      <lb ed="#P" n="104"/>dannatur in spiritualibus incidens in canonem late sentem 
+      <lb ed="#P" n="105"/>tie a iure fecit dannum corporale vt percutiendo cle 
+      <lb ed="#P" n="106"/>ricum. si quis suadente diabolo. xvii. q. iiii. ergo 
+      pe<lb ed="#P" n="107" break="no"/>na excederit culpam.
+    </p>
+            <p xml:id="JM7jmZ-d65887-d1e435">
+      ¶ Respondetur quod maledictio 
+      <lb ed="#P" n="108"/>quae consistit in optatione pene est illicita et sic loquitur aposto 
+      <lb ed="#P" n="109"/>lus: sed maledictio que est optatio pene ad correctio 
+      <lb ed="#P" n="110"/>nem delinquentis est licita etiam diabolus est 
+      incorri<lb ed="#P" n="111" break="no"/>gibilis propterea ei maledictio est inanis. Ad vltimum 
+      <lb ed="#P" n="112"/>dicitur quod exconicatus dannificat seipsum dat operam rei 
+      <lb ed="#P" n="113"/>illicite et est causa quare incidit in canonem non tamen 
+      <lb ed="#P" n="114"/>totalis si ecclesia non exconicasset taliter deliquentem 
+      <lb ed="#P" n="115"/>non incideret in canone et nego quod pena excedit 
+      cul<lb ed="#P" n="116" break="no"/>pam peccauit mortaliter percutiendo clesicum 
+      excomica<lb ed="#P" n="117" break="no"/>tio non est ei culpa hoc est tollerantia exconicationis bene 
+      <lb ed="#P" n="118"/>tum infligitur pro culpa ad incidendum in sententiam excommuni¬ 
+      <!--254.xml-->
+      <pb ed="#P" n="120-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>cationis latam a canone sufficit facere prohibitum a ca 
+      <lb ed="#P" n="2"/>none siue sciat faciens exconicationem siue non ecclesia 
+      <lb ed="#P" n="3"/>facit sicut doctus regens qui aliqua rudi minerua et 
+      <lb ed="#P" n="4"/>exemplariter ostendit discipulo vel in sillogismo demon 
+      <lb ed="#P" n="5"/>stratiuo procedit sic ecclesia praedicando et exhortando 
+      <lb ed="#P" n="6"/>interdum deducit ad impossibile. assumpto vno impos 
+      <lb ed="#P" n="7"/>sibili non cognito tali ab auditore ostendit 
+      connexio<lb ed="#P" n="8" break="no"/>nem consequentialem validam et consequensis manifestum impossi 
+      <lb ed="#P" n="9"/>bile tunc per regulam logicalem quod ex possibili numquam 
+      se<lb ed="#P" n="10" break="no"/>quitu impossibile cognitam ab auditore ostendit antece 
+      <lb ed="#P" n="11"/>dens an auditori dubium impossibile exemplo illud dino 
+      <lb ed="#P" n="12"/>sci potest ex aristotele. iiii. phisicorum. contra 
+      admit<lb ed="#P" n="13" break="no"/>tentes vacuum ostendit quod graue simplex positum ineo mo 
+      <lb ed="#P" n="14"/>uebitur subito et ita cito vel citius in pleno quam in vacud 
+      <lb ed="#P" n="15"/>quod reputabit discipulus inconueniens in fine fatebitur 
+      <lb ed="#P" n="16"/>antecedens quod prius dubitabat vel putabat verum 
+      <lb ed="#P" n="17"/>possibile sic admissa contumatia peccatoris quam dubita 
+      <lb ed="#P" n="18"/>bat esse peccatum vel id negat vel non paret tandem dedu 
+      <lb ed="#P" n="19"/>cit ad maius inconueniens intendens humiliare contu 
+      <lb ed="#P" n="20"/>macem vmbone repellitur vmbo et sic finaliter inter 
+      <lb ed="#P" n="21"/>dit salutem contumacis in sententia iuste et iuridice illata ab 
+      <lb ed="#P" n="22"/>homine est maior contumacia et per consequens maius peccatum quam 
+      <lb ed="#P" n="23"/>in exconicatione lata a canone et potissimum vbi ignora 
+      <lb ed="#P" n="24"/>tur ibi non oportet peccatum esse maius propter 
+      ex<lb ed="#P" n="25" break="no"/>commicationem cum ille non tenetur scire canones prout 
+      sup<lb ed="#P" n="26" break="no"/>ponitur et in eo est contentus extenso termino non pens 
+      <lb ed="#P" n="27"/>ecclesie si sciat est magis proprie contumatia. excommica 
+      <lb ed="#P" n="28"/>tio a iure est vt homo caueat a peccato. propterea 
+      as<lb ed="#P" n="29" break="no"/>similatur medicine preseruatiue quando dubitatur de mor 
+      <lb ed="#P" n="30"/>bo futuro quis capit farmatiuam quae infligitur ab homine 
+      <lb ed="#P" n="31"/>assimilatur curatiue et infligitur illa pro cotumacia pro 
+      <lb ed="#P" n="32"/>priissime stat ignarum canonis occidere clericum plus 
+      <lb ed="#P" n="33"/>peccare quam tres contumaces per breue tempus pro 
+      <lb ed="#P" n="34"/>pecunia.
+    </p>
+            <p xml:id="JM7jmZ-d65887-d1e541">
+      ¶ Contra alias duas conclusiones 
+      promi<lb ed="#P" n="35" break="no"/>scue simul argumentor aliquis est excomicatus sine peccato 
+      <lb ed="#P" n="36"/>quod patet de excomnicatione iniusta sicut dicit gregorius es 
+      <lb ed="#P" n="37"/>recitat gratianus. xi. q. iiii. c. primo sententia pastoris siue 
+      <lb ed="#P" n="38"/>iusta siue iniusta tenenda est et timenda.
+    </p>
+            <p xml:id="JM7jmZ-d65887-d1e553">
+      ¶ Respon 
+      <lb ed="#P" n="39"/>detur dupliciter sententia dicitur esse iniusta. vno moo sic est 
+      <lb ed="#P" n="40"/>iniusta quod est nulla vel ex parte iudicis quia non habet 
+      <lb ed="#P" n="41"/>iurisditionem in exconicato vel ex parte iudicati quia 
+      ex<lb ed="#P" n="42" break="no"/>commicat post appellationem legitimam vel in 
+      excomicatio<lb ed="#P" n="43" break="no"/>ne continetur notabilis error vt quia dedit elemosinam 
+      <lb ed="#P" n="44"/>vel audiuit diuina. si excommunicatio est iniusta sic quod sit 
+      <lb ed="#P" n="45"/>nulla nullatenus est timenda coram deo vel coram hom 
+      <lb ed="#P" n="46"/>nibus et hoc si sit patenter nulla si sapientes sciant eam 
+      <lb ed="#P" n="47"/>esse nullam sed dubitant vulgares seruetur in publico 
+      <lb ed="#P" n="48"/>coram vulgaribus inter sapientes solos qui noscunt ma 
+      <lb ed="#P" n="49"/>teriam no oportet seruare et hoc non est contemnere ec 
+      <lb ed="#P" n="50"/>clesiam sed eam honestare et non sinere discolum prelatum 
+      <lb ed="#P" n="51"/>coinquinare fideles subditos et grauiter peccat disco 
+      <lb ed="#P" n="52"/>lus prelatus sic excomicans vbi est dubium propter scan 
+      <lb ed="#P" n="53"/>dalum ne videatur contentor ecclesie obseruet et petat 
+      <lb ed="#P" n="54"/>absolutionem ad cautelam. Aliomodo potest esse iniusta sic 
+      <lb ed="#P" n="55"/>tamen quod tenet hoc est manent omnia essentialia exconicationis 
+      <lb ed="#P" n="56"/>sed aliqua solennitas accidentaria praetermittitur vel ma 
+      <lb ed="#P" n="57"/>la circunstantia inuoluitur. puta ira / inuidia vnius par 
+      <lb ed="#P" n="58"/>tis vel nimia affectio alterius ad hoc quod actus sit 
+      iu<lb ed="#P" n="59" break="no"/>stus multa requiruntur. in proposito requiritur quod causa 
+      <!--254.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="60"/>sit posita bomo est contumax infertur excommicatio 
+      pro<lb ed="#P" n="61" break="no"/>pter finem debitum pro emendatione buius 
+      contuma<lb ed="#P" n="62" break="no"/>cis et vt ad cor redeat actualiter vel virtualiter et quod 
+      <lb ed="#P" n="63"/>non inuoluatur aliqua malacircunstantia cadens in ra 
+      <lb ed="#P" n="64"/>tione obiecti circunstantia circustans non vitiat actum 
+      <lb ed="#P" n="65"/>bonum a bonitate morali. dato quod circunstantia sit mor 
+      <lb ed="#P" n="66"/>talis. excomnicatio primomoo non est exconicatio sicut 
+      <lb ed="#P" n="67"/>homo pictus non est homo. excommicatio secundo modo est 
+      <lb ed="#P" n="68"/>excommicatio sicut malus homo simpliciter est homo 
+      <lb ed="#P" n="69"/>prima acceptione est diuisio vocis in sua significa 
+      <lb ed="#P" n="70"/>ta in secunda superioris in sua inferiora.
+    </p>
+            <p xml:id="JM7jmZ-d65887-d1e629">
+      ¶ Secundo  
+      <lb ed="#P" n="71"/>argumentor petat titius a sempronio a summam 
+      pe<lb ed="#P" n="72" break="no"/>cunie coram officiali sancti andree quam dicit se mutuo 
+      <lb ed="#P" n="73"/>tradidisse sempronio et ponatur quod nichil dederit. 
+      ad<lb ed="#P" n="74" break="no"/>ducat tamen viros belial sortem et platonem reputatos 
+      <lb ed="#P" n="75"/>in exteriore homine qui testantur pro titio tunc dominus 
+      <lb ed="#P" n="76"/>hugo officialis excommicat sempronium soluere 
+      recu<lb ed="#P" n="77" break="no"/>santem sempronius in isto casu non tenetur vitare 
+      <lb ed="#P" n="78"/>societatem fidelium cum constat ei quod est iniuste exconica 
+      <lb ed="#P" n="79"/>tus.
+    </p>
+            <p xml:id="JM7jmZ-d65887-d1e651">
+      ¶ Respondetur per propositiones maior 
+      fi<lb ed="#P" n="80" break="no"/>des est danda testibus quam sempronio etbugo iuste ex 
+      <lb ed="#P" n="81"/>communicat facit aliis quod facere tenetur.
+    </p>
+            <p xml:id="JM7jmZ-d65887-d1e658">
+      ¶ Secunda pro 
+      <lb ed="#P" n="82"/>positio sempronius est iuste exconicatus. patet ab 
+      acti<lb ed="#P" n="83" break="no"/>ua ad passiuam.
+    </p>
+            <p xml:id="JM7jmZ-d65887-d1e665">
+      ¶ Tertia propositio sempronius de 
+      <lb ed="#P" n="84"/>bet se separare ab aliis et alii ab eo. at si ex omni parte 
+      <lb ed="#P" n="85"/>esset iuste excomnicatus de aliis non est questio cum cre 
+      <lb ed="#P" n="86"/>dant eum esse iuste excommicatum et iuste accusatum quod 
+      <lb ed="#P" n="87"/>ipse ab aliis patet alioquin ab aliis reputabitur con 
+      <lb ed="#P" n="88"/>temptor ecclesie et eos scandalisabit non debent ei soli 
+      <lb ed="#P" n="89"/>credere dicenti oppositum cum testes erant omni exce 
+      <lb ed="#P" n="90"/>ptione maiores.
+    </p>
+            <p xml:id="JM7jmZ-d65887-d1e683">
+      ¶ Quarta propositio si sempronius 
+      <lb ed="#P" n="91"/>fuerit in solo loco in quo sunt testes et actor non 
+      vi<lb ed="#P" n="92" break="no"/>detur quod teneatur ab eis se elongare. patet. ipsis constat 
+      <lb ed="#P" n="93"/>quod coram deo non est exconicatus. officialis coformat se 
+      <lb ed="#P" n="94"/>conclusioni huius sillogismi practici cuilibet contu 
+      <lb ed="#P" n="95"/>maci ferenda est sententia excommnis sempronius est 
+      <lb ed="#P" n="96"/>huiusmodi: igitur. sed quia negas minorem accipito hanc 
+      <lb ed="#P" n="97"/>maiorem quilibet probatus coram me a testibus quos 
+      <lb ed="#P" n="98"/>non possum refellere contumax est a me exconicandus 
+      <lb ed="#P" n="99"/>vel cogendus soluere sempronius est huiusmodi. sed subdu 
+      <lb ed="#P" n="100"/>bitabit sempronius quid facturus est.
+    </p>
+            <p xml:id="JM7jmZ-d65887-d1e708">
+      ¶ Ponitur 
+      <lb ed="#P" n="101"/>quinta propositio cum est inter scillam et caribdin 
+      elon<lb ed="#P" n="102" break="no"/>tet se a scilla appropinquando caribdi de duobus ma 
+      <lb ed="#P" n="103"/>lis pene minus est eligendum consideret 
+      nocumen<lb ed="#P" n="104" break="no"/>tum quod potest pati de solutione pecunie ex vna parte 
+      <lb ed="#P" n="105"/>et iacturam quam patitur interim ex parte exconicationis 
+      <lb ed="#P" n="106"/>minus penale accipiat si equaliter ponderet erit es 
+      <lb ed="#P" n="107"/>optio.
+    </p>
+            <p xml:id="JM7jmZ-d65887-d1e726">
+      ¶ Tertio argumentor titius excommicatus inse 
+      <lb ed="#P" n="108"/>quitur platonem et plato per te tenetur eius societatem 
+      <lb ed="#P" n="109"/>euitare semper insequenti titio incampis necesse erit 
+      <lb ed="#P" n="110"/>platonem currere per terram inuiam in recto itinere oppo 
+      <lb ed="#P" n="111"/>nit se titius excommicatus. Insuper est aliqua distantia 
+      <lb ed="#P" n="112"/>intra quam homo peccat manendo cum exconicato et ali 
+      <lb ed="#P" n="113"/>qua in qua non est peccatum propter longitudinem: vel 
+      <lb ed="#P" n="114"/>datur minima distantia prope excommicatum in qua non 
+      <lb ed="#P" n="115"/>peccatur et tunc sedens in extremo illius distantie 
+      <lb ed="#P" n="116"/>non peccat sed mouens digitum vesus excommunicatum erit exconni 
+      <lb ed="#P" n="117"/>catus vel articulum pedis parum remouens cum iam 
+      ha<lb ed="#P" n="118" break="no"/>bebit aliquod menbrum infra punctum in qua non 
+      <!--255.xml-->
+      <pb ed="#P" n="120-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>peccatur si des maximam distantiam in qua peccatur 
+      <lb ed="#P" n="2"/>idem erit remouendo pedem per granum millii quod non erit 
+      <lb ed="#P" n="3"/>peccatum et pone vnum punctum extra illud puncti 
+      <lb ed="#P" n="4"/>et alium infra quid erit. Item videtur quanto bomo ma 
+      <lb ed="#P" n="5"/>gis accedit tanto peccatum erit maius et sic volens ap 
+      <lb ed="#P" n="6"/>propiquare magis et magis peccat et successiue elo 
+      <lb ed="#P" n="7"/>gans minus et minus peccat. Respondetur sufficit 
+      <lb ed="#P" n="8"/>viro facere quod in seese ad fugiendum ab excommicato et ro 
+      <lb ed="#P" n="9"/>get eum abire et si alius proteruus noluerit non 
+      pec<lb ed="#P" n="10" break="no"/>catur non est intentio ecclesie in illo casu talem obliga 
+      <lb ed="#P" n="11"/>re. Ad aliud transeat quod est status et da minimam 
+      pro<lb ed="#P" n="12" break="no"/>pinquitatem in qua non peccatur vel maximam in qua 
+      <lb ed="#P" n="13"/>peccatur: sed status debet iudicari consilio prudentum 
+      <lb ed="#P" n="14"/>sicut frequenter in proposito contingit dubium 
+      sor<lb ed="#P" n="15" break="no"/>tes inuitat excommunicatum ad prandium te inscio te 
+      exi<lb ed="#P" n="16" break="no"/>stente in principio tabule et exconicato superueniente 
+      <lb ed="#P" n="17"/>et posito in extremo vel in alia mensa vicino vel ipio 
+      <lb ed="#P" n="18"/>successiue tibi appropinquante in eadem mensa pruden 
+      <lb ed="#P" n="19"/>tum est interpretari intentionem ecclesie quando est ligame 
+      <lb ed="#P" n="20"/>quando vero non quando quis est in latitudine 
+      propinquita<lb ed="#P" n="21" break="no"/>tis in qua peccatur non oportet quod quanto magis acce 
+      <lb ed="#P" n="22"/>dit tanto plus peccat si quis fugeret se colloqui cum 
+      <lb ed="#P" n="23"/>excommicato vt eum corrigat sed de hoc parum curat vel 
+      <lb ed="#P" n="24"/>est ei verisimile nichil faciet alius pro eo talis est ex 
+      <lb ed="#P" n="25"/>communicatus et se illudit et non ecclesiam. secus est vbi ho 
+      <lb ed="#P" n="26"/>mo potest alium corrigere et hoc est ei verisimile. 
+      </p>
+            <p xml:id="JM7jmZ-d65887-d1e815">
+               <lb ed="#P" n="27"/>¶ Quarto argumentor ducat sortes bertam ficte in 
+      <lb ed="#P" n="28"/>facie ecclesie et postea tebergam postea ecclesia talem 
+      <lb ed="#P" n="29"/>iuste exconicat et non patet ei remedium non potest pro 
+      <lb ed="#P" n="30"/>priam vxorem dimittere in lege gatre non datur libe 
+      <lb ed="#P" n="31"/>lus repudii. Insuper qui non commicat in culpa non communi 
+      <lb ed="#P" n="32"/>cat in pena: ergo qui non erat contumax non peccat 
+      <lb ed="#P" n="33"/>colloquendo cum exconicato. Ad primum respondebitur 
+      <lb ed="#P" n="34"/>inferius in matrimonio. Ad aliud dicitur quod non 
+      communi<lb ed="#P" n="35" break="no"/>cat in cadem pena id est non punitur ea pena qua excont 
+      <lb ed="#P" n="36"/>catus maiore excomnicatione punitur nisi idem crimen 
+      <lb ed="#P" n="37"/>faceret exterius non est sermo hic de actu interiore 
+      <lb ed="#P" n="38"/>ille non est excommicatus qui vult occidere clericum sed 
+      <lb ed="#P" n="39"/>qui iniuriose percutit non tamen propterea quod ecclesia non pra 
+      <lb ed="#P" n="40"/>cipiat interdum actum interiorem in confessicne precipit confi 
+      <lb ed="#P" n="41"/>teri peccata occulta in paschate licet confiteri peccata 
+      oc<lb ed="#P" n="42" break="no"/>culta sit de iure diuino tamen confiteri occulta in hoc 
+      tem<lb ed="#P" n="43" break="no"/>pore huic non est de iure diuino sed ecclesie similiter 
+      <lb ed="#P" n="44"/>nolens interius ieiunare quadragesimam peccat. 
+      </p>
+            <p xml:id="JM7jmZ-d65887-d1e857">
+               <lb ed="#P" n="45"/>¶ Hic peto aliqua primum an exconicans incidit in sen 
+      <lb ed="#P" n="46"/>tentiam excommicationis. Secundo quero quis est effectus 
+      <lb ed="#P" n="47"/>excomnicationis et an omnis discedens excomnicatus est 
+      <lb ed="#P" n="48"/>dannatus. Tertio an vniuersitas potest exconicari. 
+      <lb ed="#P" n="49"/>Quarto quis potest exconicare et soluere. Quinto est 
+      <lb ed="#P" n="50"/>certitudo exconicationis requiritur ad euitandum 
+      <lb ed="#P" n="51"/>excommicatum. Sexto an duo excomnicati possunt inuicem 
+      <lb ed="#P" n="52"/>colloqui. Septimo an colloquens cum centum 
+      exconi<lb ed="#P" n="53" break="no"/>catis simul centum mortalia committit. Octauo an 
+      <lb ed="#P" n="54"/>metus excusat aliquem ab exconicatione. Nono dubi 
+      <lb ed="#P" n="55"/>tatur de muliere dubitante de consanguinitate vel as 
+      <lb ed="#P" n="56"/>fi nitate excomnicata que non vult reddere debitum an bene 
+      <lb ed="#P" n="57"/>gat. Decimo an aliquis inuitus potest absolui. Vn 
+      <lb ed="#P" n="58"/>ecimo quomodo est quod exconicatus ab vno 
+      episco<lb ed="#P" n="59" break="no"/>Mo tenetur euitari a non subditis illius. Huodecino 
+      <!--255.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="60"/>in quilibet loquens cum excommuicato peccet mortaliter 
+      <lb ed="#P" n="61"/>Tertiodecimo an innodatus pluribus 
+      exconicationi<lb ed="#P" n="62" break="no"/>bus potest ab aliquibus absolui. Ad primum dicitur lice 
+      <lb ed="#P" n="63"/>exconicans peccet peccato quare infligitur exconicatio 
+      <lb ed="#P" n="64"/>vt percutiens clericum iniuriose tamen quo ad penam latam 
+      <lb ed="#P" n="65"/>a iure supremus excommicans non excommicatur sua volum 
+      <lb ed="#P" n="66"/>tas in hiis positiuis humanis eum deobligat 
+      con<lb ed="#P" n="67" break="no"/>gruum est tamen vt obseruet. Ad secundum dicitur 
+      <lb ed="#P" n="68"/>briuatur suffragiis communibus ecclesie non 
+      po<lb ed="#P" n="69" break="no"/>test excommicare. xxiiii. q. i. audiuimus priuatur a diuinis 
+      <lb ed="#P" n="70"/>et a colloquiis aliorum non potest acquirere beneficium 
+      <lb ed="#P" n="71"/>ecclesiasticum. c. postulasti de cleri. excommuni. mi. vulgus 
+      <lb ed="#P" n="72"/>apud nostrates dicit omnes spiritus apparentes redisse obi 
+      <lb ed="#P" n="73"/>violationem exconicationis. Ad aliam partem secundi dicitur 
+      <lb ed="#P" n="74"/>quod non de aliquibus dubium est an sint excommnicati et ta 
+      <lb ed="#P" n="75"/>les non dannantur. dicis hoc non est ad propositum 
+      <lb ed="#P" n="76"/>debeo loqui de exconicato. patet de contumaci penitu 
+      <lb ed="#P" n="77"/>dine ducto querente absolutionem vt in casu ma 
+      <lb ed="#P" n="78"/>trimoniali de ficte contrahente qui non absoluitur 
+      <lb ed="#P" n="79"/>hoc patet post penitentiam anquam homo absoluatur in fo 
+      <lb ed="#P" n="80"/>ro exteriore est in gratia post censuram excommicationis 
+      <lb ed="#P" n="81"/>quousque absoluatur est irretitus vitio exconicationis 
+      <lb ed="#P" n="82"/>et tamen plerique tales sunt in gratia: sed si quis 
+      fue<lb ed="#P" n="83" break="no"/>rit excommunicatus temere et non querit 
+      absolu<lb ed="#P" n="84" break="no"/>tionem: sed sic moritur male discedit et dannatur si 
+      <lb ed="#P" n="85"/>sit in inferno post mortem vel in celo parum ei 
+      noce<lb ed="#P" n="86" break="no"/>bit hoc est sue anime. dato quod excommunices nocet si 
+      <lb ed="#P" n="87"/>fuerit in purgatorio quo ad longam detentionem. 
+      <lb ed="#P" n="88"/>Ad tertium dicit innocentius quartus quod non. c. 
+      roma<lb ed="#P" n="89" break="no"/>na ecclesia de sententia excommunicationis libro. vi. sed 
+      <lb ed="#P" n="90"/>licet excommunicare omnes facientes culpam. ratio multorum 
+      <lb ed="#P" n="91"/>iurisconsultorum non valet quia non est suppositum. patet 
+      <lb ed="#P" n="92"/>de interdicto: sed ratio est ne innocentes feriantu 
+      <lb ed="#P" n="93"/>vltima ferula ecclesie. Sed contra dominus alexan. sextus 
+      <lb ed="#P" n="94"/>excomnicat singulos et omnes malefactores 
+      communita<lb ed="#P" n="95" break="no"/>tis omnes isti malefactores sunt hec communitas. ergo excon 
+      <lb ed="#P" n="96"/>municat hanc communitatem. dico consequentiam non valere nec 
+      va<lb ed="#P" n="97" break="no"/>let hec illatio excommunicat omnes istos viginti isti 
+      vigin<lb ed="#P" n="98" break="no"/>ti sunt hec communitas ergo exconicat hanc communitatem variatur 
+      <lb ed="#P" n="99"/>appellatio rationis.
+    </p>
+            <p xml:id="JM7jmZ-d65887-d1e983">
+      ¶ Sed pono propositiones. 
+      </p>
+            <p xml:id="JM7jmZ-d65887-d1e986">
+               <lb ed="#P" n="100"/>¶ Prima est sortes male agit excommicando communitatem 
+      </p>
+            <p xml:id="JM7jmZ-d65887-d1e992">
+               <lb ed="#P" n="101"/>¶ Secunda propositio communitatem licite sortes potest 
+      <lb ed="#P" n="102"/>xcomnnicare. Ad quartum dicitur quod eprisi / abbates / 
+      prio<lb ed="#P" n="103" break="no"/>res et rectores habentes communitates subditas et hanc 
+      po<lb ed="#P" n="104" break="no"/>testatem aliis committere possunt non est proprie 
+      <lb ed="#P" n="105"/>clauis claudens et aperiens regnum celorum sed est gladius 
+      <lb ed="#P" n="106"/>et alii etiam excommunicare possunt qui hoc obtinuerunt ex 
+      <lb ed="#P" n="107"/>consuetudine consuetudo dat iurisditionem ab omni 
+      sen<lb ed="#P" n="108" break="no"/>tentia excommicationis lata a iure potest episcopus 
+      aba<lb ed="#P" n="109" break="no"/>soluere nisi conditor canonis id sibi reseruat et 
+      exen<lb ed="#P" n="110" break="no"/>ptus suos subditos absoluere potest et inferior non 
+      <lb ed="#P" n="111"/>potest absoluere nisi illud fuerit sibi commissum a 
+      sen<lb ed="#P" n="112" break="no"/>tentia lata ab homine potest ille absoluere qui eam 
+      tu<lb ed="#P" n="113" break="no"/>lit superior in hoc vel eius successor vt innocentius 
+      <lb ed="#P" n="114"/>viii. absoluit venetos a sixto. iiii. excommunicatos 
+      <lb ed="#P" n="115"/>et dominus iohannes picus excommunicatus ab innocentio. viii. 
+      <lb ed="#P" n="116"/>absolutus ab alexandro sexto et excommicatus ab vno offi 
+      <lb ed="#P" n="117"/>ciali absoluitur a sequenti a sententia minoris 
+      exconicatio<lb ed="#P" n="118" break="no"/>nis quae iucurritur participando cum excommicatis non in crine potest 
+      <!--256.xml-->
+      <pb ed="#P" n="121-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>absoluere proprius sacerdos de sen. excommunica. 
+      <lb ed="#P" n="2"/>capitulo. nuper. Ad quintum dicitur quod in concilio 
+      <lb ed="#P" n="3"/>constantiensi et in basiliensi antequam scissuram 
+      face<lb ed="#P" n="4" break="no"/>ret conclusum est quod nemo tenetur euitare excommu 
+      <lb ed="#P" n="5"/>nicatos nec in diuinis nec extra nisi fuerint publica 
+      <lb ed="#P" n="6"/>ti vel denunciati excepto casu de iniectione manuum 
+      <lb ed="#P" n="7"/>notoria in personas ecclesiasticas et sicut multa sunt 
+      re<lb ed="#P" n="8" break="no"/>uocata de excommunicationibus et vtile foret de 
+      fa<lb ed="#P" n="9" break="no"/>cto in pragmatica sanctione qua galli vtuntur in ca 
+      <lb ed="#P" n="10"/>pitulo de excommunicatione dicit quod nemo est vitam 
+      <lb ed="#P" n="11"/>dus nec in sacramentorum adminstratione vel in qui 
+      <lb ed="#P" n="12"/>buscunque aliis quousque fuerit denunciatus talis aut 
+      <lb ed="#P" n="13"/>casus fuerit ita notorius quod nulla tergiuersatione po 
+      <lb ed="#P" n="14"/>test celari aut aliquo iuris suffragio excusari nam a 
+      <lb ed="#P" n="15"/>communione illius abstineri vult iuxta canonicas 
+      sam<lb ed="#P" n="16" break="no"/>ctiones per boc tamen huiusmodi excomunicatos 
+      <lb ed="#P" n="17"/>non intendit in aliquo reuelare nec eis quolibet suf 
+      <lb ed="#P" n="18"/>fragari vbi glosa in verbo suffragari nam in hiis quae 
+      <lb ed="#P" n="19"/>tangunt fauorem exconicati non est differentia inter 
+      oc<lb ed="#P" n="20" break="no"/>cultum et notorium. ioh. gerson in de vita spi. anime 
+      <lb ed="#P" n="21"/>lectione quarta dicit audiuit de vrbano quinto quod gloria 
+      <lb ed="#P" n="22"/>batur se papam esseob hanc precipuam causam quod mul 
+      <lb ed="#P" n="23"/>tis penis excommicationum et irregularitatum erat 
+      obno<lb ed="#P" n="24" break="no"/>xius prudenter et subtiliter infert cancellarius si 
+      di<lb ed="#P" n="25" break="no"/>lexisset proximos sicut seipsum et ad boc 
+      aduertis<lb ed="#P" n="26" break="no"/>set relaxasset fortasse tot laqueos / tot onera / tot 
+      pe<lb ed="#P" n="27" break="no"/>ricula / ab eorum ceruicibus vt aliquali et si non pari li 
+      <lb ed="#P" n="28"/>bertate gratulari potuissent: tot sunt sententie exconicatio 
+      <lb ed="#P" n="29"/>nis quod vilescunt. Ad sextum dicitur quod non. Ad 
+      se<lb ed="#P" n="30" break="no"/>ptimum non oportet. Ad octauum dicitur si non fuerit metus ca 
+      <lb ed="#P" n="31"/>dens in constantem virum non excusat. patet de hiis que 
+      <lb ed="#P" n="32"/>vi metus ve causa fiunt. c. cum dilectus. si fuerit ca 
+      <lb ed="#P" n="33"/>dens in constantem virum opinione meatalis non est 
+      <lb ed="#P" n="34"/>excomnicatus / siue participando in diuinis / siue extra 
+      <lb ed="#P" n="35"/>diuina nec capitulum sacris in prefata rubrica est in 
+      <lb ed="#P" n="36"/>oppositum fugere ab isto est constitutio humana vt 
+      <lb ed="#P" n="37"/>reor in articulo mortis vel saluande vite non 
+      obli<lb ed="#P" n="38" break="no"/>gat non intendit me ecclesia in illo cas excomnicare nec 
+      <lb ed="#P" n="39"/>intendere debet. Ad nonum dicitur mulier de qua 
+      <lb ed="#P" n="40"/>fit mentio non habuit probationes paratas sed 
+      quaesi<lb ed="#P" n="41" break="no"/>uit dilationes et sua temeritate recessit presumeba 
+      <lb ed="#P" n="42"/>tur contra eam non rediens erat exconicanda. Ad  
+      <lb ed="#P" n="43"/>decimum dicitur quod sic licet non potest absolui a 
+      pec<lb ed="#P" n="44" break="no"/>cato inuitus potest tamen absolui ab hoc quod ponitur quod non 
+      <lb ed="#P" n="45"/>colloquatur cum aliis vel alii secum. Ad vndecimum 
+      <lb ed="#P" n="46"/>dicitur quod hoc est per legem superioris dantis robur: 
+      <lb ed="#P" n="47"/>patet de decre. hono. xi. q. iii. cure sit. Ad duodecimum 
+      <lb ed="#P" n="48"/>non est sermo de participante in crimine pro quo est 
+      <lb ed="#P" n="49"/>quis exconicatus nec de participatione in mortali cum 
+      <lb ed="#P" n="50"/>excomnicato nec in diuinis in talibus transgressio 
+      ple<lb ed="#P" n="51" break="no"/>na et deliberata est mortalis de colloquio vel alia 
+      <lb ed="#P" n="52"/>communicatione est sermo et placet michi modus ille quod 
+      <lb ed="#P" n="53"/>non est peccatum mortale ecclesia noluit pro emendatione 
+      <lb ed="#P" n="54"/>istius infligere ita grauem penam aliis quod pro 
+      salu<lb ed="#P" n="55" break="no"/>tatione vel parua loquela esset transgressio 
+      morta<lb ed="#P" n="56" break="no"/>lis et hoc nisi homo videat verisimiliter quod ex sua loquela con 
+      <lb ed="#P" n="57"/>temneretur ecclesia et sic stat quod frequens colloquutio 
+      <lb ed="#P" n="58"/>sit mortalis vbi prima vel secunda erat venialis non quod 
+      <lb ed="#P" n="59"/>sola frequentia venialium nullis aliis concurrenti¬ 
+      <!--256.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="60"/>bus sit mortale peccatum hoc nihil est dictu mortale non 
+      <lb ed="#P" n="61"/>componitur ex venialibus vel venialium solorum assue 
+      <lb ed="#P" n="62"/>factio non facit mortale sed aliud accedit scilicet 
+      contem<lb ed="#P" n="63" break="no"/>ptus video quod ex primo colloquio vel secundo non con 
+      <lb ed="#P" n="64"/>temnitur ecclesia in tertio vel quarto alii a me accipi 
+      <lb ed="#P" n="65"/>unt exemplum frangendi precepta ecclesie et ero in 
+      <lb ed="#P" n="66"/>causa illius nisi desistam tunc stat iterumloquendo 
+      <lb ed="#P" n="67"/>quod mortaliter peccem vbi venialiter peccaui. exem 
+      <lb ed="#P" n="68"/>plum de percutiente virum sensim vsque ad mortem 
+      <lb ed="#P" n="69"/>brima alapa non est mortalis nec secunda sed dum 
+      <lb ed="#P" n="70"/>demum percipit percutiens vel percipere debet quod 
+      <lb ed="#P" n="71"/>hec percussio notabile damnum proximo inferret 
+      <lb ed="#P" n="72"/>percutiendo mortaliter peccat sic in proposito. Si 
+      <lb ed="#P" n="73"/>dicas mathei decimo octauo qui ecclesiam non au 
+      <lb ed="#P" n="74"/>dierit sit sicut ethnicus et publicanus boc 
+      intelligi<lb ed="#P" n="75" break="no"/>tur de participatione in diuinis in humanis 
+      fide<lb ed="#P" n="76" break="no"/>les communicare poterant cum infidelibus. prime 
+      <lb ed="#P" n="77"/>corinthiorum decimo. si quis infidelium vocat vos 
+      <lb ed="#P" n="78"/>ad cenam et vultis ire omne quod vobis 
+      apponi<lb ed="#P" n="79" break="no"/>tur manducate nichil interrogantes propter 
+      con<lb ed="#P" n="80" break="no"/>cientiam. Ad decimum tertium dicitur duplex 
+      <lb ed="#P" n="81"/>est effectus excommunicationis scilicet eiectio et 
+      <lb ed="#P" n="82"/>ligatio quo ad primum effectum qui est eiectus non 
+      <lb ed="#P" n="83"/>potest amplius eiici quantum ad ligationem secundam 
+      <lb ed="#P" n="84"/>potest pluribus ligationibus ligari ascende ad 
+      hu<lb ed="#P" n="85" break="no"/>ius intelligentiam de funibus materialibus 
+      qui<lb ed="#P" n="86" break="no"/>bus quis ligatur. Quo fit prima excommunicatio 
+      <lb ed="#P" n="87"/>est peior excommunicato quam secunda cum 
+      excom<lb ed="#P" n="88" break="no"/>municandum eiicit et vinculat. secus est de 
+      secun<lb ed="#P" n="89" break="no"/>da. Secundo sequitur quod idem est de secunda et 
+      <lb ed="#P" n="90"/>tertia excommunicatione quo ad eiectionem. si quis 
+      <lb ed="#P" n="91"/>sententias excommunicationis videre voluerit 
+      vi<lb ed="#P" n="92" break="no"/>deat iura. inane est theologo illas materias faciles 
+      <lb ed="#P" n="93"/>mutabiles in medium recitare Si petas que res 
+      <lb ed="#P" n="94"/>est excommunicatio dicitur si capiatur terminus 
+      <lb ed="#P" n="95"/>actiue est homo excommunicans. si passiue est 
+      ho<lb ed="#P" n="96" break="no"/>mo excommunicatus. abstractiue est signum 
+      noti<lb ed="#P" n="97" break="no"/>ficatiuum excommunicantis. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

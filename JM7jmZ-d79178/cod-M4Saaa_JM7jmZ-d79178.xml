@@ -1,0 +1,640 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 6</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 6</title>
+               <date when="2021-07-06">July 06, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-M4Saaa">Paris 1509</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-06" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="143-r"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="JM7jmZ-d79178"><!-- l4d24q6 -->
+            <head xml:id="JM7jmZ-d79178-Hd1e108">Quaestio 6</head>
+            <head xml:id="JM7jmZ-d79178-Hd1e111" type="question-title">
+      An prodige
+      exponens bona
+      ecclesiae teneatur
+      eadem restituere
+    </head>
+            <p xml:id="JM7jmZ-d79178-d1e114">
+               <lb ed="#P" n="72"/>¶ Distinctionis vigesime quarte questio sexta. 
+      </p>
+            <p xml:id="JM7jmZ-d79178-d1e119">
+               <lb ed="#P" n="73"/>¶ SExto circa eandem distinctionem vigesimam 
+      <lb ed="#P" n="74"/>quartam queritur an prodige exponens bona 
+      <lb ed="#P" n="75"/>ecclesie teneatur eadem restituere.
+    </p>
+            <p xml:id="JM7jmZ-d79178-d1e128">
+      Pono con 
+      <lb ed="#P" n="76"/>clusiones. ¶ Prima est affirmatiua responsiua ad 
+      <lb ed="#P" n="77"/>titulum questionis.
+    </p>
+            <p xml:id="JM7jmZ-d79178-d1e136">
+      ¶ Secunda conclusio accipiens pe 
+      <lb ed="#P" n="78"/>cuniam a praelato ecclesie sic prodige non acquirit 
+      ve<lb ed="#P" n="79" break="no"/>rum dominium illius.
+    </p>
+            <p xml:id="JM7jmZ-d79178-d1e143">
+      ¶ Tertia conclusio suscipiens tene 
+      <lb ed="#P" n="80"/>illam pecuniam susceptam restituere.
+    </p>
+            <p xml:id="JM7jmZ-d79178-d1e148">
+      ¶ Quarta conclu 
+      <lb ed="#P" n="81"/>sio praelatus exponens bona ecclesie secundum exigentiam 
+      sta<lb ed="#P" n="82" break="no"/>tus praelati non peccat et transfert bona ecclesie in alium 
+      <lb ed="#P" n="83"/>ac si sua res esset venditione / emptione / donatione / per 
+      <lb ed="#P" n="84"/>mutatione et ita in aliis titulis acquirendi dominia 
+      <lb ed="#P" n="85"/>Prima conclusio est correlaria ad conclusionem respon 
+      <lb ed="#P" n="86"/>siuam quaestionis precedentis et probatur conclusio sic 
+      <lb ed="#P" n="87"/>quilibet dans res alterius inuito domino tenetur illas domino 
+      <lb ed="#P" n="88"/>restituere: sed sic est de prelato ecclesie prodige bona 
+      <lb ed="#P" n="89"/>exponente inuito domino: igitur. dat contra regulas canoni 
+      <lb ed="#P" n="90"/>cas omnes probationes ad conclusionem precedentis 
+      <lb ed="#P" n="91"/>questionis hanc inferunt omnes doctores iuris hu 
+      <lb ed="#P" n="92"/>mani vt pote canoniste illud tenuerunt et nullus 
+      fa<lb ed="#P" n="93" break="no"/>megeratus theologus qui in meas manus incidit de 
+      <lb ed="#P" n="94"/>quo memineri tenuit oppositum cathegorice alexan. 
+      <lb ed="#P" n="95"/>de hales. q. xxxvi. tertie partis querit an clericus 
+      pa<lb ed="#P" n="96" break="no"/>trimonium crucifixi inutiliter exponens tenetur ad re 
+      <lb ed="#P" n="97"/>stitutionem. Respondit aliud non video ac si diceret 
+      <lb ed="#P" n="98"/>oppositum non intelligo. beatus thomas istud tenet 
+      <lb ed="#P" n="99"/>licet aliquibus videatur tenere oppositum. patet. secunda 
+      <lb ed="#P" n="100"/>secunde. q. clxxxv. articulo. vii. in corpore questionis di 
+      <lb ed="#P" n="101"/>cit vbi bona sunt distincta episcopus exponens bona fabri 
+      <lb ed="#P" n="102"/>ce vel pauperum peccat et restituere tenetur vbi sunt 
+      <lb ed="#P" n="103"/>vnica si excessus fuerit in modico quia non potest in 
+      tali<lb ed="#P" n="104" break="no"/>bus homo punctualiter accipere illud quod fieri 
+      opor<lb ed="#P" n="105" break="no"/>tet non peccatur si magnus fuerit excessus non potest la 
+      <lb ed="#P" n="106"/>tere bone fidei videtur repugnare et ideo non fit absque 
+      <lb ed="#P" n="107"/>peccato mortali amplius de restitutione in hoc 
+      mem<lb ed="#P" n="108" break="no"/>bro non loquitur sed cum ante oppositum arguendo aucto 
+      <lb ed="#P" n="109"/>ritates alegauerit tenentes nostram conclusionem quam po 
+      <lb ed="#P" n="110"/>suimus vult dicere paruus excessus transit per 
+      igno<lb ed="#P" n="111" break="no"/>rantiam inuincibile vbi excessus est magnus et cognitus 
+      <lb ed="#P" n="112"/>homo peccat multum et restituere tenetur illud oppo 
+      <lb ed="#P" n="113"/>situm non diceret pater ille sanctus quod coniunctio 
+      bono<lb ed="#P" n="114" break="no"/>rum in communi daret ei magis dominium quam eorum separatio 
+      <lb ed="#P" n="115"/>et illud patet secunda secunde im materia de scandalo. q. xliii. 
+      <lb ed="#P" n="116"/>articulo. viii. in corpore quastionis petit in illo articlo 
+      <!--301.xml-->
+      <pb ed="#P" n="143-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>an temporalia sunt dimittenda propter scandalum sic 
+      <lb ed="#P" n="2"/>respondit distingucndum est aut bona temporalia sunt 
+      <lb ed="#P" n="3"/>nostra aut sunt nobis ad conseruandum pro aliis com 
+      <lb ed="#P" n="4"/>missa sicut bona ecclesie committuntur prelatis etc. 
+      <lb ed="#P" n="5"/>hoc viri sue scole tenuerunt. patet de archieprieo 
+      floren<lb ed="#P" n="6" break="no"/>tino licet de palude interdum vacillauerit concludendo 
+      <lb ed="#P" n="7"/>in. xxiiii. d. q. iii. illud tenet et licet iste contemperaneus noitr 
+      <lb ed="#P" n="8"/>gabriel videatur velle vtramque partem tenere probabilem 
+      <lb ed="#P" n="9"/>in hanc partem descendit istam expresse tenet henricus 
+      <lb ed="#P" n="10"/>gandensis. viii. quotlibeto. quest. xxv. ricardus de 
+      <lb ed="#P" n="11"/>media villa. d. xl v. doctores iuris humani hoc 
+      ag<lb ed="#P" n="12" break="no"/>minatim tenuerunt vt raymundus hostiensis panor. et 
+      <lb ed="#P" n="13"/>alii hos in medium citaui vt in materia conscientie ma 
+      <lb ed="#P" n="14"/>ior adhibeatur fides cum viri ecclastiaci prodige exponen 
+      <lb ed="#P" n="15"/>tes et docti accedente affectione cum parua scintilla in op 
+      <lb ed="#P" n="16"/>situm: istum modum falsum vel minus probabilem 
+      reputa<lb ed="#P" n="17" break="no"/>bunt. hic non est sermo de prelatis religiosis quia de 
+      <lb ed="#P" n="18"/>eis numquam erat dubium quin nullius rei dominium habent. io 
+      <lb ed="#P" n="19"/>hannes gerson solus visus est declinare in 
+      opposi<lb ed="#P" n="20" break="no"/>tum in rebus moralibus et in sermone contra bullam 
+      <lb ed="#P" n="21"/>mendicantium in quarta parte: sed hoc refellam si ita foret 
+      <lb ed="#P" n="22"/>non redderet positionem oppositam apparentem recita 
+      <lb ed="#P" n="23"/>ui multos quorumquilibet est maioris fame et doctri 
+      <lb ed="#P" n="24"/>ne apud scolasticos quam ipse sit et per iura hoc 
+      osten<lb ed="#P" n="25" break="no"/>dimus declarantia mentes beati august. grego. e 
+      <lb ed="#P" n="26"/>patrum et facile est videre ex iure. Addo argumentum in 
+      <lb ed="#P" n="27"/>hac parte sicut in secunda questione addidi qui expo 
+      <lb ed="#P" n="28"/>nit se pariculo peccati confundenti peccat non restituens 
+      <lb ed="#P" n="29"/>prodige exposita est huiusmodi: igitur: sed per degersono 
+      <lb ed="#P" n="30"/>constat multa sunt in secundo libro non ab eo composita. patet 
+      <lb ed="#P" n="31"/>de discrimine dissuto ibi posito inter veniale et mor 
+      <lb ed="#P" n="32"/>tale et de multiplici allegatione raymundi siue more 
+      <lb ed="#P" n="33"/>iohannis reor aliqua sub nomine iohis a quodam celesti 
+      <lb ed="#P" n="34"/>no scripta vel codices aliquos inter suos libros re 
+      <lb ed="#P" n="35"/>pertos quia omnia in confuso eis reliquit prout dicit. Ine 
+      <lb ed="#P" n="36"/>super tamen est verosile quod illas regulas morales con 
+      <lb ed="#P" n="37"/>gregauit: sed istius regule eum penituit certe in trata 
+      <lb ed="#P" n="38"/>ctu de temperantia prelatorum dicit non audet diffinire 
+      <lb ed="#P" n="39"/>an restituere tenetur subiungit tene certum relique 
+      <lb ed="#P" n="40"/>incertum nolens sibi contradicere manifeste: sed apud 
+      <lb ed="#P" n="41"/>prudentes reuocauit primo ponendo vnum postea repu 
+      <lb ed="#P" n="42"/>tando oppositum rationabilius. est reuocare sibi non con 
+      <lb ed="#P" n="43"/>tradicendo manifeste. Forte finaliter considerauit pater: 
+      <lb ed="#P" n="44"/>codices et reliquit opinionem quam ante emiserat. pro 
+      <lb ed="#P" n="45"/>batur. etiam sic nisi conclusio foret vera archiepraus ma 
+      <lb ed="#P" n="46"/>guntinensis potest omnia bona illius ecclesie (sque plura sunt 
+      <lb ed="#P" n="47"/>dare nepti vel nepoti / mobilia calices / libros / vestes 
+      <lb ed="#P" n="48"/>et omnia in ecclesia et sufficiet finaliter penitere de pecca 
+      <lb ed="#P" n="49"/>to nichil restituendo quis audebit hoc asserere ge 
+      <lb ed="#P" n="50"/>son si audiuisset hoc illatum et concessum indignato vuls 
+      <lb ed="#P" n="51"/>tu vt opinor dixisset prochdolor non admittamus illud 
+      <lb ed="#P" n="52"/>Mirandum est insuper fundamento cui innititur gerson 
+      <lb ed="#P" n="53"/>vbi bona ecclesie erant diuisa epraus exponens partem 
+      <lb ed="#P" n="54"/>aliorum bonorum peccando restituere tenetur. secus est 
+      <lb ed="#P" n="55"/>vbi omnia sue fidei committuntur. patet de elemosinario 
+      ra<lb ed="#P" n="56" break="no"/>tio et exemplum sunt baltheus hectoris in suum 
+      facto<lb ed="#P" n="57" break="no"/>rem si vnus rex dat sorti elemosinario centum scuta pro 
+      <lb ed="#P" n="58"/>suis laboribus et vt det decem mille scuta pauperibus 
+      <lb ed="#P" n="59"/>et idem rex simili elemosinario daret similem pecuniam puta 
+      <!--301.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="60"/>centum supra decem mille dicens. accipe tibi necessa 
+      <lb ed="#P" n="61"/>ria reliquum pauperibus elargire queso quis diceret 
+      <lb ed="#P" n="62"/>secundum elemosinarium prodige in impios vsus totum ex 
+      <lb ed="#P" n="63"/>ponentem non restringi ad restitutionem plusquam primum. 
+      <lb ed="#P" n="64"/>idem contingit de abbate bona esse indisticta non arguunt 
+      <lb ed="#P" n="65"/>liberius dominium quam antea vt constat intelligenti et bea 
+      <lb ed="#P" n="66"/>tus bernardus tractans verba apostoli. i. ad thimoth. 
+      <lb ed="#P" n="67"/>vi. habentes alimenta et quibus tegamur hiis contem 
+      <lb ed="#P" n="68"/>ti simus. dicit quod quicquid vltra sustentationem necessa 
+      <lb ed="#P" n="69"/>rium habent clerici rapina est imo sacrilegium modo 
+      <lb ed="#P" n="70"/>sacrilegium est furtum mixtum et restituendum vide eum 
+      <lb ed="#P" n="71"/>in epstuola ad falconem et ad henricum archieprieum 
+      senonen<lb ed="#P" n="72" break="no"/>sem et hieronimus aliena conuincitur rapere qui vltra 
+      <lb ed="#P" n="73"/>necessaria retinere. probatur. xlii. d. §. ordinandus. et 
+      <lb ed="#P" n="74"/>xliiii. c. i. Tibi o sacerdos de altari viuere non 
+      lu<lb ed="#P" n="75" break="no"/>xuriari permittitur due alie conclusiones ex hac se 
+      <lb ed="#P" n="76"/>quuntur. Secunda patet accipiens ab alio non domino in ca 
+      <lb ed="#P" n="77"/>su in quo non potest transferre dominium non acquirit illius 
+      <lb ed="#P" n="78"/>rei dominium sed in casu in quo loquimur oportet restitue 
+      <lb ed="#P" n="79"/>re: ergo ibi non acquiritur dominium. Tertia conclusio 
+      <lb ed="#P" n="80"/>patet: detinens alienum inuito domino tenetur illud 
+      resti<lb ed="#P" n="81" break="no"/>tuere acquirens hec bona est huiusmodi: igitur. Quarta 
+      <lb ed="#P" n="82"/>conclusio patet ex declaratis ceterum non est indignum 
+      <lb ed="#P" n="83"/>animaduersione: scilicet status viri non crescit per multipli 
+      <lb ed="#P" n="84"/>cationem beneficiorum iniuste: sed ex isto dependet 
+      <lb ed="#P" n="85"/>oportet videre antequam haberet aliquod beneficium vel 
+      <lb ed="#P" n="86"/>post adepta beneficia imaginarie ab eo separare 
+      om<lb ed="#P" n="87" break="no"/>ne beneficium et videre quam vtilis est reipublice 
+      haben<lb ed="#P" n="88" break="no"/>do aliqualem respectum ad personam illam et ex illo cumu 
+      <lb ed="#P" n="89"/>labitur status viri declaratur exemplo est doctor pro 
+      <lb ed="#P" n="90"/>fundus ecclesie vtilis legendo in scolis et concionan 
+      <lb ed="#P" n="91"/>do in populo vel alterum officium excercens habens centum 
+      <lb ed="#P" n="92"/>francos in beneficio vno qui vix sufficiunt eum honeste 
+      ale<lb ed="#P" n="93" break="no"/>re cum vno famulo opus est instrumentis sue artis scilicet 
+      <lb ed="#P" n="94"/>libris fortem equis tunc talis iudicio meo potest 
+      cape<lb ed="#P" n="95" break="no"/>re ducentos francos in secundo et sufficienter ad suum 
+      <lb ed="#P" n="96"/>statum sit sibi iudex quia melius nouit hoc ad perpen 
+      <lb ed="#P" n="97"/>diculum volutando quod sumus plerumque nobis nimis 
+      pro<lb ed="#P" n="98" break="no"/>picii si sit filius principis mediocris literature vel 
+      im<lb ed="#P" n="99" break="no"/>peratoris oportet habere oculum ad eius familiam et hoc 
+      <lb ed="#P" n="100"/>est licitum potest tueri bona ecclesie plusquam alius 
+      prag<lb ed="#P" n="101" break="no"/>matica sanctio ex determinatione conciliorum 
+      admit<lb ed="#P" n="102" break="no"/>tit aliquos tales ad cardinalatum ergo vbi est eminem 
+      <lb ed="#P" n="103"/>ter eruditus filius principis et bonis moribus 
+      edu<lb ed="#P" n="104" break="no"/>catus potest plus habere nisi sit sic non erit salua om 
+      <lb ed="#P" n="105"/>nis caro ac si sit aliquis cuius frater senior habens 
+      <lb ed="#P" n="106"/>omne patrimonium vix habet tricenta scuta vel quadrim 
+      <lb ed="#P" n="107"/>genta parum potest habere ratione sanguins esto quod 
+      re<lb ed="#P" n="108" break="no"/>mote descenderit de domibus comitum / oportet ad 
+      <lb ed="#P" n="109"/>posterem propinquum habere respectum in aliquibus parti 
+      <lb ed="#P" n="110"/>bus habens tricenta scuta vel quadringenta scuta 
+      ha<lb ed="#P" n="111" break="no"/>bebit filiam comitis vel ducis et potest contingere quod re 
+      <lb ed="#P" n="112"/>gis vel ex muliere in talem consentiente ex leuitate vel 
+      <lb ed="#P" n="113"/>quia pater est mortuus qui debuit eam dotare et 
+      fra<lb ed="#P" n="114" break="no"/>ter nichil dabit in dotem vel quia spuria est vel vbi in pa 
+      <lb ed="#P" n="115"/>tria diuites ignobiles coniunguntur cum nobilibus si ta 
+      <lb ed="#P" n="116"/>les cum filiis regum vel consanguineorum eis ducum vel 
+      <lb ed="#P" n="117"/>comitum compares omnia confundes sed ex parte domus 
+      <lb ed="#P" n="118"/>comparandus est secundo fratri vel tertio laico qui vix 
+      <!--302.xml-->
+      <pb ed="#P" n="144-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>habet quadraginta scuta secundum consuetudinem 
+      commu<lb ed="#P" n="2" break="no"/>nem patrie vel viginti ipe etiam forte est magister in 
+      <lb ed="#P" n="3"/>artibus simpliciter et forte vix congruus palam est 
+      <lb ed="#P" n="4"/>hunc indignum pro quacumque cura in praesentia tot celebrium 
+      <lb ed="#P" n="5"/>virorum nichil habentium in beneficiis ecclesie hec dixerim 
+      <lb ed="#P" n="6"/>propter aliquos quorum abaui et proaui erant agricole 
+      <lb ed="#P" n="7"/>iam per aliquas terras emptas et matrimonia cum 
+      <lb ed="#P" n="8"/>pauperibus nobilibus computant se in sorte nobilium 
+      <lb ed="#P" n="9"/>ad nobilitatem solam modicus est habendus oculus. Si 
+      <lb ed="#P" n="10"/>dixerint suam prudentiam preferendam doctrine 
+      fama<lb ed="#P" n="11" break="no"/>ti viri palam est eos delirare cum prudentiam solum secu 
+      <lb ed="#P" n="12"/>li habent que est stultitia apud deum doctus est mlto 
+      <lb ed="#P" n="13"/>oculatior in sua humilitate quiescens propterea repu 
+      <lb ed="#P" n="14"/>tatus apud irrisores imprudens. insuper prudentia 
+      <lb ed="#P" n="15"/>in cumulandis diuitiis et ad circumueniendum proximum 
+      <lb ed="#P" n="16"/>tantum facit ad regendam curam sicut esse paritum fabrum vel 
+      <lb ed="#P" n="17"/>latomum. insuper aduerte probabile est vt opinor quod si 
+      <lb ed="#P" n="18"/>tertia pars beneficii prelati sufficiat eum alere et suum 
+      <lb ed="#P" n="19"/>statum quod illam partem dissipans non tenetur restituere 
+      <lb ed="#P" n="20"/>sed non habet dominium eiusdem rationis in illa cum laico. 
+      se<lb ed="#P" n="21" break="no"/>cus est de aliis duabus tertiis vtitur prima sicut sua 
+      <lb ed="#P" n="22"/>alie due partes sunt dande in pios vsus interdum in fa 
+      <lb ed="#P" n="23"/>bricam ecclesie potestium in itinere publico vel platearum 
+      <lb ed="#P" n="24"/>et pauperibus sicubi non egeant due partes sunt 
+      dan<lb ed="#P" n="25" break="no"/>de inopibus: apostoli credebant iudam ire ad aliqua emen 
+      <lb ed="#P" n="26"/>da vel ad dandum pauperibus. iohannis. xiii. et illas 
+      <lb ed="#P" n="27"/>prodige consumens tenetur eas restituere si vna me 
+      <lb ed="#P" n="28"/>dietas sufficit pro nutrimento sue familie de alia 
+      di<lb ed="#P" n="29" break="no"/>cimus sicut de duabus tertiis et ita 
+      proportionabi<lb ed="#P" n="30" break="no"/>liter secundum crementum partium nutrire famulos equos et 
+      <lb ed="#P" n="31"/>huiusmodi secundum modum honestum non pompaticum eprius habens 
+      <lb ed="#P" n="32"/>ter mille aureos vel quattuor annue in redditibus 
+      <lb ed="#P" n="33"/>habet quattuordecim vel sexdecim famulos oportet 
+      <lb ed="#P" n="34"/>hos nutriat et eorum equos. Forte mille aurei ad hoc 
+      <lb ed="#P" n="35"/>sufficiunt vtitur mille pro se et sua familia et sic pro 
+      <lb ed="#P" n="36"/>portionabiliter licet consuetudo patrie interpretetur 
+      <lb ed="#P" n="37"/>modum laicorum quo ad numerum hominem et vestium non de 
+      <lb ed="#P" n="38"/>bet sic omniumode interpretari modum viuendi praelatorum 
+      <lb ed="#P" n="39"/>ecclesie: sed constitutiones patrum quas pre manibus ha 
+      <lb ed="#P" n="40"/>bere debent: si in vtroque regno britannorum laicus habens 
+      <lb ed="#P" n="41"/>bis mille aureos in redditibus habet in curia trigin 
+      <lb ed="#P" n="42"/>ta vel quadraginta viros et in tanto numero alit quod 
+      <lb ed="#P" n="43"/>liberis et fratribus nichil relinquit preter rationem. 
+      <lb ed="#P" n="44"/>vbi ex ista parte maris prudentius tamtundem habens 
+      ha<lb ed="#P" n="45" break="no"/>bet quattuor vel quinque an prelati ecclesie debeant sic 
+      <lb ed="#P" n="46"/>exorbitare in seruorum multitudine an deceat epraeos 
+      <lb ed="#P" n="47"/>habere comites se maiores famulos superius dixi et 
+      <lb ed="#P" n="48"/>repeto / effertur prelatus ille ad astra apud britanmnos 
+      <lb ed="#P" n="49"/>qui magna nobilium caterua stipatus incedit et opipere 
+      <lb ed="#P" n="50"/>bona ecclesie exponit in mensa pauca exponentes (qui 
+      <lb ed="#P" n="51"/>rari sunt reputant auaros et de eis oblique loquun 
+      <lb ed="#P" n="52"/>tur communiter delirum vulgus continuo decorum vitium et 
+      in<lb ed="#P" n="53" break="no"/>decorum virtutem existimat.
+    </p>
+            <p xml:id="JM7jmZ-d79178-d1e616">
+      ¶ Ex istis infero 
+      pro<lb ed="#P" n="54" break="no"/>positiones.
+    </p>
+            <p xml:id="JM7jmZ-d79178-d1e621">
+      ¶ Prima est impudice mulieres 
+      acci<lb ed="#P" n="55" break="no"/>pientes pecuniam a prelatis ecclesie ratione impudi 
+      <lb ed="#P" n="56"/>citie vel consanguineti pricipaliter ratione 
+      consangui<lb ed="#P" n="57" break="no"/>nitatis non acquirunt dominium rerum datarum a prelatis 
+      <lb ed="#P" n="58"/>unc est ratione consanguinitatis quando datur eis in 
+      ca<lb ed="#P" n="59" break="no"/>su in quo non possunt tantum concedere si ratione ser 
+      <!--302.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="60"/>uicii vel quia pauperes tantum capiunt sicut alii paupe 
+      <lb ed="#P" n="61"/>res vel quia consanguineus dat pallafredum et accipit 
+      <lb ed="#P" n="62"/>tantumdem vel quia est in sumptibus praelati vno mense 
+      <lb ed="#P" n="63"/>et prelatus totidem secum et sic de eorum famulis illa cau 
+      <lb ed="#P" n="64"/>sa est licita et rationabilis et dominium istarum rerum acquirunt 
+      <lb ed="#P" n="65"/>non acquirunt ratione consanguinitatis hoc a prelatis 
+      <lb ed="#P" n="66"/>Ulterius sequitur prelatus ecclesie potest habere con 
+      <lb ed="#P" n="67"/>sanguineos famulos sicut alios eis tantum dans sicut 
+      <lb ed="#P" n="68"/>aliis ratione seruicii. Tertio sequitur praelatus ecclesie 
+      <lb ed="#P" n="69"/>non debet nec potest plus dare nepti in bonis ecclesie 
+      <lb ed="#P" n="70"/>saltem de partibus pauperibus addictis quam alteri 
+      ex<lb ed="#P" n="71" break="no"/>tranee pauperi. patet. illa pars est debita pauperibus 
+      <lb ed="#P" n="72"/>ergo dando nepti diuiti non dat intuitu paupertatis  
+      <lb ed="#P" n="73"/>et per consequens restituere tenetur et alia non capit dominium 
+      <lb ed="#P" n="74"/>et eodem modo nec fratri nec spurrio si quem habeat quaero 
+      <lb ed="#P" n="75"/>quo titulo dat illi et quotitulo alter accipit tunc est si 
+      <lb ed="#P" n="76"/>gnum quod consanguinitas mouet non paupertas quan 
+      <lb ed="#P" n="77"/>do dat centum scuta interdum quingenta vel mille nepti 
+      <lb ed="#P" n="78"/>vel nepoti et vix denarium vel duodenum alteri paupe 
+      <lb ed="#P" n="79"/>ri. Quarto sequitur multi habentes prelatum 
+      eccle<lb ed="#P" n="80" break="no"/>sie in progenie putantes se esse felices cum augusto in 
+      <lb ed="#P" n="81"/>calamitates priami incidunt sunt fures cum iuda. 
+      <lb ed="#P" n="82"/>Iunsuper de male quesitis vix gaudet tertius heres 
+      <lb ed="#P" n="83"/>vulgariter dicitur paterimonium crucifixi non diu tales 
+      <lb ed="#P" n="84"/>ditat. Quinto sequitur qui nutrit magnam familiam 
+      <lb ed="#P" n="85"/>minus potest dare consanguineis. patet. tunc magis 
+      <lb ed="#P" n="86"/>subtrahit a pauperibus eis debitum et plus de sua parte 
+      <lb ed="#P" n="87"/>vel amplius exponit: ergo minus remanet dandum 
+      <lb ed="#P" n="88"/>consanguineis eodemmoo de illo qui splendidam 
+      men<lb ed="#P" n="89" break="no"/>sam tenet minus potest dare pauperibus. Sexto sequi 
+      <lb ed="#P" n="90"/>tur qui parum exponit in familia magis potest dare 
+      <lb ed="#P" n="91"/>consanguineis diuitibus. patet. de sua parte probabile est 
+      <lb ed="#P" n="92"/>quod illam vel aliquid de illa dans non tenetur restituere 
+      <lb ed="#P" n="93"/>Septimo sequitur quod epraus manens vno mense cum 
+      <lb ed="#P" n="94"/>consanguineo potest tantumdem dare consanguineo in pe 
+      <lb ed="#P" n="95"/>cunia si alter non sit tantum capturus abeo. Octauo pa 
+      <lb ed="#P" n="96"/>tet quod si contingeret casus exponere omnes fructus be 
+      <lb ed="#P" n="97"/>neficii in lite honesta pro defensione bonorum ecclesie 
+      <lb ed="#P" n="98"/>non tenetur ad restitutionem. patet. honeste exponit. 
+      <lb ed="#P" n="99"/>Nono patet quod prelatus ecclesie laborans morbo dif 
+      <lb ed="#P" n="100"/>ficulter curabili egens consilio multorum medicorum 
+      <lb ed="#P" n="101"/>vbi exponit omnes fructus huius anni non tenetur ad 
+      <lb ed="#P" n="102"/>restitutionem capit bona suo statui debita quia prelatus 
+      <lb ed="#P" n="103"/>alias duas vel tres sibi applicat quia pauper. breui 
+      <lb ed="#P" n="104"/>ter quando habet rationabilem causam exponendi fru 
+      <lb ed="#P" n="105"/>ctus omnes beneficii non tenetur restituere aliquid pau 
+      <lb ed="#P" n="106"/>peribus. Decimo patet esse cauendum a 
+      tempora<lb ed="#P" n="107" break="no"/>libus viris ludere cum prelatis ad ludos vetitos 
+      <lb ed="#P" n="108"/>citius ludant cum laicis vt superius dictum est in 
+      ma<lb ed="#P" n="109" break="no"/>teria ludorum in. xv. distin. Vndecimo sequitur quod sa 
+      <lb ed="#P" n="110"/>crilegus est fur beneficiatus capiens bona ecclesie alia 
+      <lb ed="#P" n="111"/>a sua parte et emens agros pro fratribus vel spuriis 
+      <lb ed="#P" n="112"/>vel genitis in legittimo matrimonio ante beneficium 
+      <lb ed="#P" n="113"/>et alter sacrilege cum animae sue iactura hec bona tenet. 
+      <lb ed="#P" n="114"/>Si dicas spurii sunt nutriendi verum est tenuiter mo 
+      <lb ed="#P" n="115"/>re aliorum pauperum sint religiosi et moniales genitiuum 
+      <lb ed="#P" n="116"/>sequitur casus dandi et casum auferendi sequitur accu 
+      <lb ed="#P" n="117"/>satiuus cum vocaberis in iudicio dicit hec michi sunt 
+      <lb ed="#P" n="118"/>lucro addat caudam nobis sunt cetera danno: at di¬ 
+      <!--303.xml-->
+      <pb ed="#P" n="144-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>cis mulieri matri puerorum si contingat aliquid est 
+      dam<lb ed="#P" n="2" break="no"/>dum pro dote vt que est notata infamia bonoretur 
+      <lb ed="#P" n="3"/>dico te non posse illam infamiam abstergere cum omni 
+      <lb ed="#P" n="4"/>bus redditibus beneficii. apud nostrates est hominium lo 
+      <lb ed="#P" n="5"/>quendi modus vnlgaris vxores presbiterorum sedent 
+      <lb ed="#P" n="6"/>post valuas inferni quis magnanimus eas capiet et 
+      <lb ed="#P" n="7"/>toto tempore matrimonii non modo efficiet vxorem 
+      im<lb ed="#P" n="8" break="no"/>pudicam probro sed prelatum danda est abiecte person 
+      <lb ed="#P" n="9"/>cum dote tenui quae illam decet et si abunde eam (vt alio 
+      <lb ed="#P" n="10"/>deliri faciunt) dotauerit pensitet quam horrendum esse in 
+      <lb ed="#P" n="11"/>cidere in manus dei viuentis dissipare bona crucifix 
+      <lb ed="#P" n="12"/>et ex deo datis edificare baal. dicis beatus nic ola 
+      <lb ed="#P" n="13"/>dedit magnum pondus auri cuidam vt mulieres duce 
+      <lb ed="#P" n="14"/>rentur matrimonialiter: ergo prelatus id idem potest 
+      <lb ed="#P" n="15"/>facere si ista et filie non ducantur incontinentes mane 
+      <lb ed="#P" n="16"/>bunt oportet istas praeseruare a peccato eodemmoo de 
+      <lb ed="#P" n="17"/>filiabus. Respondeo beatus nicolaus adhuc non erat 
+      <lb ed="#P" n="18"/>eprus. Secundo dico in simili casu potest similiter facere 
+      modi<lb ed="#P" n="19" break="no"/>ca dos sufficit ad hoc euitandum et magna eam non 
+      prae<lb ed="#P" n="20" break="no"/>seruabit potest honestius plus dare filie quam 
+      impudi<lb ed="#P" n="21" break="no"/>ce mulieri quae non erat in culpa huius generationis. 
+      <lb ed="#P" n="22"/>Sed dicis non culparem si prelatus daret pauperi 
+      ple<lb ed="#P" n="23" break="no"/>bee mille aureos filia eius vel neptis quare erit de 
+      <lb ed="#P" n="24"/>terioris conditionis imo vtrumque culpo. Duodecimo 
+      <lb ed="#P" n="25"/>sequitur non potest cum sana conscientia plus 
+      expone<lb ed="#P" n="26" break="no"/>re addens plura beneficia vni quod suo statui suficiebat 
+      <lb ed="#P" n="27"/>per pluralitatem beneficiorum status viri non augetur sed mi 
+      <lb ed="#P" n="28"/>nuitur et deterior efficitur dixi addens vni. beneficiat 
+      <lb ed="#P" n="29"/>potest plus exponere quam non beneficiatus pauper quar 
+      <lb ed="#P" n="30"/>do sunt ambo eque idonei. Decimotertio patet: qui bene 
+      <lb ed="#P" n="31"/>deseruit in cura efficitur semper magis idoneus et in 
+      <lb ed="#P" n="32"/>fine augetur suus status patet secludendo beneficium 
+      </p>
+            <p xml:id="JM7jmZ-d79178-d1e842">
+               <lb ed="#P" n="33"/>¶ Contra predicta argumentor stat prelatum eccle 
+      <lb ed="#P" n="34"/>sie nichil vel parum habere forte est degradatus vel 
+      <lb ed="#P" n="35"/>si beneficium habeat diu ita diu dissipauit bona ecclesie 
+      <lb ed="#P" n="36"/>non habet aliunde viuere: non potest restituere modo 
+      <lb ed="#P" n="37"/>nemo obligatur ad impossibile: igitur. Item de ele. ne 
+      <lb ed="#P" n="38"/>residen. c. vnico. libro. vi. dicitur quod clericus capiens 
+      <lb ed="#P" n="39"/>quotidianas distributiones qui non interest officio non 
+      <lb ed="#P" n="40"/>acquirit eorum dominium: ergo si intersit per locum a contra 
+      <lb ed="#P" n="41"/>rio sensu acquirit eorum dominium.
+    </p>
+            <p xml:id="JM7jmZ-d79178-d1e865">
+      ¶ Ad primum dico 
+      <lb ed="#P" n="42"/>argumentum est nullum solue argumentum furis vel 
+      ra<lb ed="#P" n="43" break="no"/>ptoris qui tota sua vita sic vixit iam est in vltimo 
+      an<lb ed="#P" n="44" break="no"/>no vite sue quem subit penitudo fede vite preterites 
+      <lb ed="#P" n="45"/>latus debet ita parce viuere sicut potest et rogare co 
+      <lb ed="#P" n="46"/>sanguineos restituere etiam consanguinei tenentur rest 
+      <lb ed="#P" n="47"/>tuere si habeant. Sed tunc dicis ponamus quod epratus 
+      di<lb ed="#P" n="48" break="no"/>dit mille aureos fratri suo vel nepti a epraus tenetur 
+      <lb ed="#P" n="49"/>illam pecuniam restituere et b neptis tenetur illa mille 
+      <lb ed="#P" n="50"/>restituere: ergo ecclesia habebit bis mille scuta. Re 
+      <lb ed="#P" n="51"/>spondeo quilibet eorum obligatur satisfacere: sed 
+      <lb ed="#P" n="52"/>vno scilicet consanguineo soluente alius deobligatur. et 
+      <lb ed="#P" n="53"/>contra. si abbas det de sua portione pro consangui 
+      <lb ed="#P" n="54"/>neo et non alias habeat a nepte restitutionem quam 
+      po<lb ed="#P" n="55" break="no"/>test habere alioquin intimet nepti et quia non 
+      adhibe<lb ed="#P" n="56" break="no"/>bitur fides significari faciat per viros famigera  
+      <lb ed="#P" n="57"/>tos deum timentes quibus dabitur fides restituat 
+      <lb ed="#P" n="58"/>neptis ecclesie vel pauperibus. Secundum argumentu 
+      <lb ed="#P" n="59"/>per locum a contrario sensu est nullum illud probaret 
+      <lb ed="#P" n="60"/> 
+               <!--303.xml-->
+               <cb ed="#P" n="b"/>
+               <lb ed="#P" n="61"/>benedictiuum comedere licite posse perdices et aues 
+      <lb ed="#P" n="62"/>et non bouinas vel ouinas cum comestio 
+      quadrupe<lb ed="#P" n="63" break="no"/>dum eis sit interdicta in regula locus a contrario sen 
+      <lb ed="#P" n="64"/>su iurisconsultorum locum non habet quando oppositum 
+      <lb ed="#P" n="65"/>opponitur legi nature vel diuine vt si prohiberetur 
+      <lb ed="#P" n="66"/>adulterium non propterea admittitur fornicatio 
+      sim<lb ed="#P" n="67" break="no"/>plex. habens distributiones vtitur rebus ac si sue 
+      es<lb ed="#P" n="68" break="no"/>sent in licitis. secus est in illicitis.
+    </p>
+            <p xml:id="JM7jmZ-d79178-d1e930">
+      ¶ Secundo 
+      ar<lb ed="#P" n="69" break="no"/>gumentor sequeretur quod peccaret capiens aliquid a 
+      <lb ed="#P" n="70"/>prelato ecclesie. patet. nescit an de parte debita pau 
+      <lb ed="#P" n="71"/>peribus dat et per consequens an restituere teneatur 
+      <lb ed="#P" n="72"/>et sic exponit se periculo peccati.
+    </p>
+            <p xml:id="JM7jmZ-d79178-d1e941">
+      ¶ Respondetur ner 
+      <lb ed="#P" n="73"/>gando consequentiam plerique vident quod equale dant 
+      prae<lb ed="#P" n="74" break="no"/>lato ecclesie vel seruiunt eidem et non curant de qua parte 
+      <lb ed="#P" n="75"/>impartiatur. patet in simili si quis vsurarius habeat 
+      <lb ed="#P" n="76"/>multa bona promiscua vsure et non vsure ego seruio 
+      <lb ed="#P" n="77"/>illi vel fodio in orto vel facio aliquid per quod non fiet 
+      <lb ed="#P" n="78"/>pauperior ad restituendum bene accipio. Item interdum 
+      <lb ed="#P" n="79"/>ignorantia inuincibilis aliquos excusat: sed frequen 
+      <lb ed="#P" n="80"/>ter est ignorantia crassa et supina et tunc tales non ex 
+      <lb ed="#P" n="81"/>cusantur argumentum de incertitudine nullatenus mo 
+      <lb ed="#P" n="82"/>uet. patet de bonis acceptis a religiosis.
+    </p>
+            <p xml:id="JM7jmZ-d79178-d1e965">
+      ¶ Tertio dua 
+      <lb ed="#P" n="83"/>argumentor in antiquis de donati. c. ceterum. dicit alex. io 
+      <lb ed="#P" n="84"/>tertius rei quantitas est attendenda et consuetudo pa 
+      <lb ed="#P" n="85"/>trie: sed in aliquibus partibus est consuetudo dare tricen 
+      <lb ed="#P" n="86"/>ta scuta cum nepte totidem cum spuria et sic cum aliis 
+      di<lb ed="#P" n="87" break="no"/>uitibus: igitur. Insuper parentes esto quod satis habeant 
+      <lb ed="#P" n="88"/>de quo viuere possunt egent maiorum pecuniarum: 
+      er<lb ed="#P" n="89" break="no"/>go do intuitu paupertatis. Rursus non dicerem esse pec 
+      <lb ed="#P" n="90"/>catum nutrire aliquem in studio theologico dando ei toto 
+      <lb ed="#P" n="91"/>tempore cursus tricenta scuta sed laudabiliter factum 
+      <lb ed="#P" n="92"/>ergo licebit dare nepti tricenta scuta vt coniungatur 
+      <lb ed="#P" n="93"/>cum nobili viro in matrimonium. Ad tertium dicitur 
+      ar<lb ed="#P" n="94" break="no"/>gumentum relinquit solutionem in capite signato dicitur 
+      <lb ed="#P" n="95"/>quae sacris canonibus non obuiet. si dicas consuetudinem 
+      <lb ed="#P" n="96"/>sensim legem humanam abradere: ergo habendus est ocu 
+      <lb ed="#P" n="97"/>lus ad consuetudinem.
+    </p>
+            <p xml:id="JM7jmZ-d79178-d1e1000">
+      ¶ Respondeo hic non est con 
+      <lb ed="#P" n="98"/>stitutio canonica: sed canones et doctorum ecclesie 
+      scri<lb ed="#P" n="99" break="no"/>pta enucleant prelatos ecclesie non esse dominos fructuum 
+      <lb ed="#P" n="100"/>beneficiorum sed loquitur capunt de quantitate potest prela 
+      <lb ed="#P" n="101"/>tus dare huic diuiti parum et huic diuiti tmdem et sic 
+      <lb ed="#P" n="102"/>copulatim quod totum erit in maius molis sicut ex 
+      mini<lb ed="#P" n="103" break="no"/>mis granis fit maxima summa caballi: et sic non debet 
+      <lb ed="#P" n="104"/>intelligi capunt recitatum de donationibus sed de re mo 
+      <lb ed="#P" n="105"/>dica vnica vel duabus per magnum interuallum distan 
+      <lb ed="#P" n="106"/>tibus sicut de ablatione continua granorum vel inter 
+      <lb ed="#P" n="107"/>rupta per intercapedinem vnius anni vel alterius 
+      ma<lb ed="#P" n="108" break="no"/>gni temporis. vnde latitudo quam eprius potest expon 
+      <lb ed="#P" n="109"/>re pro se et sua familia non est impartibilis sed bonam 
+      <lb ed="#P" n="110"/>diuisibilitatem habet secundum magnitudinem beneficii aliqui 
+      <lb ed="#P" n="111"/>prudentes dicunt mille et quingenta vix ei sufficiunt 
+      <lb ed="#P" n="112"/>pro familia quam alere habet: aliqui prudentes dicunt 
+      <lb ed="#P" n="113"/>potest honeste exponere mille et sextingenta aliqui 
+      <lb ed="#P" n="114"/>bis mille: sed nulli hanc summam transcendunt inter 
+      <lb ed="#P" n="115"/>prudentes taceo de sichophantis et nebulonibus tunc 
+      <lb ed="#P" n="116"/>quando epraus videt in fine anni non transcendit 
+      il<lb ed="#P" n="117" break="no"/>los bis mille aureos manet in sua latitudie vbi bis 
+      <lb ed="#P" n="118"/>mille aurei pro famili a archiepi glasguensis suffice 
+      <lb ed="#P" n="119"/>rent totidem archiepreo sancti andree non sufficerent 
+      <!--304.xml-->
+      <pb ed="#P" n="145-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>aliquibus mille et minus sufficit et ita in aliis prela 
+      <lb ed="#P" n="2"/>tis descendendo gradatim secundum magnitudinem 
+      <lb ed="#P" n="3"/>beneficii proportionabiliter opinione mea 
+      sanissi<lb ed="#P" n="4" break="no"/>mum esset consilium prelato ecclesie vocare timen 
+      <lb ed="#P" n="5"/>tes deum et prudentes rogando ab eis quantum eorum 
+      <lb ed="#P" n="6"/>iudicio potest exponere in sua familia annue et quam 
+      <lb ed="#P" n="7"/>tum ei honeste sufficit si non transcendant bis 
+      mil<lb ed="#P" n="8" break="no"/>le iam potest facere magistrum sue domus tenere 
+      <lb ed="#P" n="9"/>se circa talem latitudinem vel minorem ad quattu 
+      <lb ed="#P" n="10"/>or super mille vel quinque super mille et tunc proba 
+      <lb ed="#P" n="11"/>bile est vt supra bis diximus quod dando quingenta vel 
+      <lb ed="#P" n="12"/>sextingenta de illa parte consanguineis diuitibus 
+      <lb ed="#P" n="13"/>non tenetur restituere et etiam quod non peccat 
+      restrin<lb ed="#P" n="14" break="no"/>git statum suum pro eis ausim dicere honestatem 
+      <lb ed="#P" n="15"/>episcopi non stare in splendida mensa vel magna 
+      <lb ed="#P" n="16"/>curia nec tempore pacis nec tempore belli 
+      episco<lb ed="#P" n="17" break="no"/>pi non interest se ponere in disturbine nisi vbi potest 
+      <lb ed="#P" n="18"/>consulere vtilitati reipublice. Ad secundum 
+      argu<lb ed="#P" n="19" break="no"/>mentum diues adhuc aliquibus eget si illud tendas 
+      <lb ed="#P" n="20"/>nunquam habebis finem et tibi concludes oportet ali 
+      <lb ed="#P" n="21"/>qua dare comiti marchioni duci et principi 
+      suma<lb ed="#P" n="22" break="no"/>mo regni si satis habeant secundum consuetudinem 
+      <lb ed="#P" n="23"/>talis domus non sunt pauperes et esset iterum laberyn 
+      <lb ed="#P" n="24"/>thus dedali descendere in particulari relinquo hoc 
+      <lb ed="#P" n="25"/>iudicio prudentum. Ad tertium dico in illo casu po 
+      <lb ed="#P" n="26"/>tes tantum dare consanguineo sicut extraneo vbi 
+      <lb ed="#P" n="27"/>cetera essent paria. Quarto argumentor: ex istis 
+      nul<lb ed="#P" n="28" break="no"/>lum esset discrimen inter religiosum et prelatum alium 
+      <lb ed="#P" n="29"/>ecclesie episcopum decanum vel curatum 
+      conse<lb ed="#P" n="30" break="no"/>quens est falsum ergo et antecedens: falsitas conse 
+      <lb ed="#P" n="31"/>quentis ab omnibus conceditur et consequentia pa 
+      <lb ed="#P" n="32"/>tet: vterque equaliter tenetur ad restitutionem et neu 
+      <lb ed="#P" n="33"/>ter est dominus fructuum ecclesie. Hoc argumentum est 
+      <lb ed="#P" n="34"/>ex superioribus dilutum religiosus prelatus non 
+      <lb ed="#P" n="35"/>habet peculium profecticium et quasi castrense et 
+      <lb ed="#P" n="36"/>bona acquisita intuitu persone quorum est verus do 
+      <lb ed="#P" n="37"/>minus et illa prodige exponens non tenetur ad 
+      re<lb ed="#P" n="38" break="no"/>stitutionem et hoc probabile est de parte suo statui 
+      <lb ed="#P" n="39"/>secundum iudicium prudentum sufficienti. secus est 
+      <lb ed="#P" n="40"/>de bonis ecclesie et licet non deceat virum 
+      haben<lb ed="#P" n="41" break="no"/>tem patrimonium sufficiens pro sua vita capere be 
+      <lb ed="#P" n="42"/>neficium ecclesie presentibus eque idoneis nihil ha 
+      <lb ed="#P" n="43"/>bentibus tamen dato quod beneficium habeat durum 
+      <lb ed="#P" n="44"/>est quod teneatur se alere de patrimonio et deseruire 
+      <lb ed="#P" n="45"/>gratis qui altari seruit de altario viuere debet. 
+      pri<lb ed="#P" n="46" break="no"/>me ad corinthyos nono: sumite psalmum et date 
+      <lb ed="#P" n="47"/>tympanum. psalmo octuagesimo. autotoritates 
+      in<lb ed="#P" n="48" break="no"/>sinuantes oppositum sunt de consilio vt decima sex 
+      <lb ed="#P" n="49"/>ta questione prima. quoniam quicquid. prima questione 
+      <lb ed="#P" n="50"/>secunda. clericos. decima questione tertia. 
+      cauen<lb ed="#P" n="51" break="no"/>dum. At dicis confundo vitam prelatorum per in 
+      <lb ed="#P" n="52"/>certitudinem nesciunt quantum eis sufficiat et quo 
+      <lb ed="#P" n="53"/>ta pars est debita eorum statui: responsum est ad hoc 
+      <lb ed="#P" n="54"/>superius et adhuc dico argumentum est idem 
+      con<lb ed="#P" n="55" break="no"/>tra factorem sicut contra me: nunquid abbates / prieo 
+      <lb ed="#P" n="56"/>res / et prelati religiosi tenentur restituere prodige 
+      <lb ed="#P" n="57"/>exposita nemo adhuc dixit eos dominos fructuum 
+      <lb ed="#P" n="58"/>receptorum secundo nunquid prelatus excessiue 
+      ex<lb ed="#P" n="59" break="no"/>poneus in sumptibus delicatioribus quam par sit in mul 
+      <!--304.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="60"/>titudine nimia famulorum peccat et non in mediocri 
+      <lb ed="#P" n="61"/>nunquid est incertum multis vbi est status quot fa 
+      <lb ed="#P" n="62"/>mulos potest habere et quam delicate potest se et 
+      <lb ed="#P" n="63"/>suos alere / quot frena deaurata et vestes 
+      purpure<lb ed="#P" n="64" break="no"/>as mutatorias potest tenere vide queso ne teipsum 
+      <lb ed="#P" n="65"/>et eos pariter confundas dato quod sciant se 
+      peccatu<lb ed="#P" n="66" break="no"/>ros et non deuinctos restituere omnia dissipabunt 
+      <lb ed="#P" n="67"/>cogitantes postea solum penitere. Quinto argumen 
+      <lb ed="#P" n="68"/>tor: nemo testatur de alienis clerici testantur. patet 
+      <lb ed="#P" n="69"/>paulus. i. heremita reliquit tunicam anthonio et collo 
+      <lb ed="#P" n="70"/>bium palmarum athanasio similiter hylarioni 
+      esi<lb ed="#P" n="71" break="no"/>cio saccum cum palliolo reliquit.
+    </p>
+            <p xml:id="JM7jmZ-d79178-d1e1215">
+      ¶ Ad primum 
+      <lb ed="#P" n="72"/>dicitur erant heremite. Secundo dico vix leuares 
+      <lb ed="#P" n="73"/>illa legata a solo nisi ob sanctimoniam virorum in 
+      <lb ed="#P" n="74"/>magnis festis anthonius et athanasius illas vestes 
+      <lb ed="#P" n="75"/>que sacros artus angelorum in terris tegebant cum 
+      <lb ed="#P" n="76"/>omni honore ( vt par erat) deferebant.
+    </p>
+            <p xml:id="JM7jmZ-d79178-d1e1229">
+      ¶ Potest es 
+      <lb ed="#P" n="77"/>se argumentum non parum ponderandum de testa 
+      <lb ed="#P" n="78"/>mentis prelatorum qui nichil habent nisi de benefi 
+      <lb ed="#P" n="79"/>cio quomodo condant testamenta: sortes habet 
+      tan<lb ed="#P" n="80" break="no"/>tam congeriem pecuniarum quantam habuit iohan 
+      <lb ed="#P" n="81"/>nes vicesimus secundus an potest totam illam 
+      pe<lb ed="#P" n="82" break="no"/>cuniam relinquere in testamento fratri comiti diui 
+      <lb ed="#P" n="83"/>ti et quomodo habet maius dominium in puncto 
+      <lb ed="#P" n="84"/>mortis quam in tota vita in vno die non poterat 
+      expo<lb ed="#P" n="85" break="no"/>nere totam hanc summam: non est questio quin 
+      in<lb ed="#P" n="86" break="no"/>tuitu paupertatis vel ratione seruitii honesti 
+      exhi<lb ed="#P" n="87" break="no"/>biti potest dare: sed de hoc remitto ad iura summi 
+      <lb ed="#P" n="88"/>pontificis: sed quicquid sit hoc non infringit nostram 
+      <lb ed="#P" n="89"/>conclusionem. patet per iura de testamentis et in 
+      a<lb ed="#P" n="90" break="no"/>liis rubricis hanc materiam tangentibus: et fertur ali 
+      <lb ed="#P" n="91"/>qui religiosi procurant eis a maximo pontifice 
+      fa<lb ed="#P" n="92" break="no"/>cultatem testari et constat quod non habent dominium 
+      <lb ed="#P" n="93"/>bropterea an religiosi hoc repererunt in suis 
+      regu<lb ed="#P" n="94" break="no"/>lis queso videant et prosit eis. sed pro beneficiatis 
+      <lb ed="#P" n="95"/>omnibus consulo quod non multa relinquant in 
+      mor<lb ed="#P" n="96" break="no"/>te consanguineis et potissimum diuitibus. At 
+      pe<lb ed="#P" n="97" break="no"/>tis an templarii milites sancti iohannis baptiste pec 
+      <lb ed="#P" n="98"/>cent exponendo prodige et an teneantur ad restitu 
+      <lb ed="#P" n="99"/>tionem more ceterorum: habent se secundum suum 
+      <lb ed="#P" n="100"/>statum alere portionem mittendo ad rodum sedem 
+      <lb ed="#P" n="101"/>capitalem in subsidium vrbis et insule et si non dant 
+      <lb ed="#P" n="102"/>peccant sicut alii beneficiati fundatores fraudendo 
+      <lb ed="#P" n="103"/>si ponas rodum (quod absit) in manus othomanni vel 
+      <lb ed="#P" n="104"/>soldani iri quid tunc erit de hiis fructibus ecclesia pro 
+      <lb ed="#P" n="105"/>uideret. et quia hanc materiam (vt par erat) non cri 
+      <lb ed="#P" n="106"/>brauimus sed summa rerum fastigia sectantes 
+      ve<lb ed="#P" n="107" break="no"/>niam dabis o candidissime lector Quia iam nox 
+      <lb ed="#P" n="108"/>humida celo precipitat suadentque cadentia sydera 
+      <lb ed="#P" n="109"/>somnos. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

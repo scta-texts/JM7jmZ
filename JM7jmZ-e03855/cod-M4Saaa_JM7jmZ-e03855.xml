@@ -1,0 +1,569 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 4</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 4</title>
+               <date when="2021-07-06">July 06, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-M4Saaa">Paris 1509</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-06" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="187-r"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="JM7jmZ-e03855"><!-- l4d41q4 -->
+            <head xml:id="JM7jmZ-e03855-Hd1e108">Quaestio 4</head>
+            <head xml:id="JM7jmZ-e03855-Hd1e111" type="question-title">
+      An adulterium sit grande
+      peccatum
+    </head>
+            <p xml:id="JM7jmZ-e03855-d1e114">
+               <lb ed="#P" n="38"/>¶ Distinctionis quadragesime prime quaestio quarta.  
+      <lb ed="#P" n="39"/>Irca hanc materiam quarto queritur An 
+      <lb ed="#P" n="40"/>andulterium sit grande peccatum. In 
+      pri<lb ed="#P" n="41" break="no"/>mis notabis. Adulterium est volitio qua 
+      <lb ed="#P" n="42"/>coniunctus coniunctam vult cognoscere: 
+      coniun<lb ed="#P" n="43" break="no"/>ctus solutam: vel solutus coniunctam. Dicitur enim 
+      <lb ed="#P" n="44"/>adulterium quia est excessus ad thorum alterius 
+      po<lb ed="#P" n="45" break="no"/>no hanc conclusionem.
+    </p>
+            <p xml:id="JM7jmZ-e03855-d1e134">
+      ¶ Adulterium est grande 
+      <lb ed="#P" n="46"/>peccatum: probatur: est species prohibita de iure 
+      di<lb ed="#P" n="47" break="no"/>uino: ergo est peccatum: consequentia est nota: ante 
+      <lb ed="#P" n="48"/>cedens patet exodi vicesimo moralia veteris legis 
+      <lb ed="#P" n="49"/>manent etiam in noua lege prohibetur qui viderit 
+      <lb ed="#P" n="50"/>mulierem ad concupiscendam eam iam eam mecha 
+      <lb ed="#P" n="51"/>tus est in corde suo mathei quinto et prime 
+      coryn<lb ed="#P" n="52" break="no"/>theorum sexto: nolite errare neque fornicari neque vdo 
+      <lb ed="#P" n="53"/>lis seruientes neque adulteri. Insuper pro 
+      adulte<lb ed="#P" n="54" break="no"/>tio in lege mosayca erat magna pena infligitur mors 
+      <!--388.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="55"/>patet genesis tricesimo octauo de thamar: produci 
+      <lb ed="#P" n="56"/>te eam dixit iudas vt comburatur: ergo peccatum 
+      <lb ed="#P" n="57"/>erat magnum: consequentia tenet in lege qualibet 
+      <lb ed="#P" n="58"/>siue diuina siue humana et potissimum in diuina 
+      si<lb ed="#P" n="59" break="no"/>cut in veteri lege vel noua. Forte dicis hoc 
+      argu<lb ed="#P" n="60" break="no"/>mentum non vincit: ipsa nondum erat tradita sola 
+      <lb ed="#P" n="61"/>debebat comburi quia filia sacerdotis vt patet 
+      leui<lb ed="#P" n="62" break="no"/>tici vicesimo primo: contra illud est littera deutero 
+      <lb ed="#P" n="63"/>nomii vicesimo quinto: sedhoc non obstat: 
+      proba<lb ed="#P" n="64" break="no"/>tio est clara leuitici vicesimo. si quis mechatus fue 
+      <lb ed="#P" n="65"/>rit cum vxore proximi sui et mechus occidatur et 
+      <lb ed="#P" n="66"/>adultera.
+    </p>
+            <p xml:id="JM7jmZ-e03855-d1e186">
+      ¶ Confirmatur quod sit magnum 
+      pecca<lb ed="#P" n="67" break="no"/>tum a posteriore per innumera mala que inde sequum 
+      <lb ed="#P" n="68"/>tur nutritio falsi heredis vxor manebit vallata scru 
+      <lb ed="#P" n="69"/>pulis an viro scelus ipsum pandet vt verus heres 
+      <lb ed="#P" n="70"/>hereditatem habeat pro purganda conscientia vel 
+      <lb ed="#P" n="71"/>eruabit famam quam habet aborsus homicida dis 
+      <lb ed="#P" n="72"/>sipatio domus eneruatio bonorum fortune pro 
+      nu<lb ed="#P" n="73" break="no"/>trienda familia ipsa dedecus progeniei coinquinat 
+      <lb ed="#P" n="74"/>apud vulgus hunc virum innocentem fortasse 
+      ma<lb ed="#P" n="75" break="no"/>gnanimum exponit ludibrio sine eius culpa apud 
+      <lb ed="#P" n="76"/>pyspanos depingunt cornua in limine domus eum 
+      <lb ed="#P" n="77"/>paruuli sequuutur in vico cornitis digitis 
+      illuden<lb ed="#P" n="78" break="no"/>tes vsquequaqueipse est fabula hominibus apud pru 
+      <lb ed="#P" n="79"/>dentes sola mulier est lues non autem vir non est si 
+      <lb ed="#P" n="80"/>tum in facultate sua si non fuerit in causa tabescit 
+      <lb ed="#P" n="81"/>super terram mauult filiam pollui quam vxorem et vxo 
+      <lb ed="#P" n="82"/>rem mauult occidi quam filiam: ergo a fortiori mauult 
+      <lb ed="#P" n="83"/>vxorem occidi quam pollui. hunc discursum 
+      virtuali<lb ed="#P" n="84" break="no"/>ter facit glosa inarginalis Amos septimo vbi pro 
+      <lb ed="#P" n="85"/>magna pena propheta dicebat iudeis viderent 
+      su<lb ed="#P" n="86" break="no"/>as vxores pollutas ante se: preterea adulterans vi 
+      <lb ed="#P" n="87"/>olat fidem quam promisit alteri in facie ecclesie et 
+      <lb ed="#P" n="88"/>suum promissum irritat: ergo est fidefragus vel ip 
+      <lb ed="#P" n="89"/>a fidefraga: secundi regum duodecimo: non 
+      rece<lb ed="#P" n="90" break="no"/>det ait gladius de domo tua vsque in sempiternum 
+      <lb ed="#P" n="91"/>eo quod despexeris me et tuleris vxorem vrie. 
+      </p>
+            <p xml:id="JM7jmZ-e03855-d1e244">
+               <lb ed="#P" n="92"/>¶ Secunda conclusio non omne adulterium est 
+      <lb ed="#P" n="93"/>equalitur graue: patet: si coniunctus coniunctam 
+      co<lb ed="#P" n="94" break="no"/>gnouerit ibi est adulterium: similiter si coniunctus 
+      <lb ed="#P" n="95"/>nolutam cognouerit ibi est adulterium: primum est. 
+      <lb ed="#P" n="96"/>maius: patet: quia vxori proprie facit iniuriam et est 
+      <lb ed="#P" n="97"/>xi fidefragus dans corpus suum alteri viro vxoris 
+      <lb ed="#P" n="98"/>cum qua commiscetur facit iniuriam: ergo in illo 
+      a<lb ed="#P" n="99" break="no"/>ctu est maior difformitas quam in alioactu: similiter 
+      <lb ed="#P" n="100"/>mulier adulterans grauius peccat quam vir adulterans 
+      <lb ed="#P" n="101"/>patet: plura damna sequuntur ex adulterio 
+      mulie<lb ed="#P" n="102" break="no"/>ris quam viri et maior est infamia talis virtus est 
+      ma<lb ed="#P" n="103" break="no"/>gis propria mulieri quam viro seruare. castitatem 
+      se<lb ed="#P" n="104" break="no"/>cundum illud quod dicit quintilianus: pudicitiam 
+      <lb ed="#P" n="105"/>in milite quid laudem feminarum magis est ista vir 
+      <lb ed="#P" n="106"/>tus.
+    </p>
+            <p xml:id="JM7jmZ-e03855-d1e279">
+      ¶ Tertia conclusio crebro vir est 
+      cau<lb ed="#P" n="107" break="no"/>sa quare vxor sua est impudica: quod patet cum 
+      <lb ed="#P" n="108"/>vir est capunt vxoris debet eam dirigere in via 
+      salu<lb ed="#P" n="109" break="no"/>tari non dando mulieri occasionem ruine turpia 
+      <lb ed="#P" n="110"/>proferendo verba enim mouent animos non alias 
+      <lb ed="#P" n="111"/>dido enee adherebat que ante eius aduentum mor 
+      <lb ed="#P" n="112"/>tuo marito cicheo viduitatem suam dicauerat. non intro 
+      <!--389.xml-->
+      <pb ed="#P" n="187-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>ducendo eos quos existimat impudicos saltem in 
+      <lb ed="#P" n="2"/>magna familiaritate non loquatur impudice nec si 
+      <lb ed="#P" n="3"/>gna vnquam impudicitie ei ostendat ei fidem 
+      seruan<lb ed="#P" n="4" break="no"/>do hec conclusio est viri vxorati aristotelis. 
+      exper<lb ed="#P" n="5" break="no"/>to (vt aiunt) credamus roberto et conformis 
+      ratio<lb ed="#P" n="6" break="no"/>ni primi economicorum quarto in quo capite ponit 
+      <lb ed="#P" n="7"/>quinque doctrinas inter virum et mulierem 
+      seruan<lb ed="#P" n="8" break="no"/>das. Prima vt iniuria cesset sic enim nec ipse 
+      iniu<lb ed="#P" n="9" break="no"/>riam patietur ad hoc scientiam pythagoricorum 
+      <lb ed="#P" n="10"/>ad auctorisandum casum in medium citat 
+      inqui<lb ed="#P" n="11" break="no"/>ens. hoc enim et communis lex inducit vt 
+      pytha<lb ed="#P" n="12" break="no"/>gorici dicunt quemadmodum seruam ab lare 
+      du<lb ed="#P" n="13" break="no"/>ctam quam minime decet videri afficere iniuria apud 
+      <lb ed="#P" n="14"/>nostrates britannos est dicterium super pontem lon 
+      <lb ed="#P" n="15"/>doniarum verbum malum pro alio habebis hoc 
+      <lb ed="#P" n="16"/>idem patet de musca et formica esopi dulcia pro dul 
+      <lb ed="#P" n="17"/>ci pro turpi turpia reddi verba solent. Secunda do 
+      <lb ed="#P" n="18"/>ctrina est: caueat se ab externo concubitu. Tertia: 
+      <lb ed="#P" n="19"/>non vtatur impudice vxore vt non curet de 
+      vene<lb ed="#P" n="20" break="no"/>reis in viri absentia. Quarta ducat virginem: ad hoc 
+      <lb ed="#P" n="21"/>notandum hesiodum in medium affert inquiens. 
+      <lb ed="#P" n="22"/>recte vero se habet et illud hesiodi puellam accipe 
+      <lb ed="#P" n="23"/>re oportere vt gratis moribus imbuere possis 
+      di<lb ed="#P" n="24" break="no"/>uersitates enim morum nequaquam ad dilectionem 
+      <lb ed="#P" n="25"/>sunt. Quinta: non sit vxor superba et exuperans in 
+      <lb ed="#P" n="26"/>vestibus et secundi economicorum primo aliquas 
+      <lb ed="#P" n="27"/>leges addit in infortunis sic viro faueat et eum dili 
+      <lb ed="#P" n="28"/>gat sicut in fortuna secunda si vlixes non 
+      pertulis<lb ed="#P" n="29" break="no"/>set dura quis modo laudasset penelopen secundum 
+      <lb ed="#P" n="30"/>illud ouidii: durus vidisset vlixes penelope felix sed 
+      <lb ed="#P" n="31"/>sine laude foret nec tantam gloriam inquit aristote 
+      <lb ed="#P" n="32"/>les adepta fuisset. Aliud secundi economicorum se 
+      <lb ed="#P" n="33"/>cundo precipit capiat bonam mulierem non decet 
+      <lb ed="#P" n="34"/>hominem sane mentis vbicunque semen dispergere 
+      <lb ed="#P" n="35"/>etiam proli facit iniuriam: sitque pudor in verbis in 
+      <lb ed="#P" n="36"/>operibus vero phas et honestas parua peccata igno 
+      <lb ed="#P" n="37"/>scat nec metum incutiat sine verecundia et pudore 
+      <lb ed="#P" n="38"/>hec cum meretrices ad mechos pati decet et tertio 
+      <lb ed="#P" n="39"/>eiusdem introducit homerum quod amor inter eos non 
+      <lb ed="#P" n="40"/>valet sine verecundia et timore propterea 
+      introdu<lb ed="#P" n="41" break="no"/>cit helenam de priamo sic dicentem. O metuende 
+      <lb ed="#P" n="42"/>michi semperque tremende chare socer et vlixes ad 
+      <lb ed="#P" n="43"/>nausitam. Te mulier quidam valde ammiror et me 
+      <lb ed="#P" n="44"/>tuo nam nemo deteriorem se ammiramur et 
+      reue<lb ed="#P" n="45" break="no"/>retur.
+    </p>
+            <p xml:id="JM7jmZ-e03855-d1e399">
+      ¶ Ex hiis sequuntur aliqua: vnum: non 
+      ser<lb ed="#P" n="46" break="no"/>uans fidem vxori frequenter habet fidem violatam 
+      <lb ed="#P" n="47"/>frangenti fidem frangetur fides eidem vide de age 
+      <lb ed="#P" n="48"/>menone et cletemuestra: et a contrario sensu 
+      seruan<lb ed="#P" n="49" break="no"/>ti fidem ei crebro fides seruatur: patet de vlixe qui 
+      <lb ed="#P" n="50"/>noluit habitare cum athlantis filia immortalitatem 
+      <lb ed="#P" n="51"/>promittente nec cum circe salutem sociorum 
+      pro<lb ed="#P" n="52" break="no"/>mittente qui in porcos conuersi erant secundum il 
+      <lb ed="#P" n="53"/>lud carminis. Circe socios mutauit vlixes per 
+      <lb ed="#P" n="54"/>porcos illos non intelligo aliud quam socios vlixes li 
+      <lb ed="#P" n="55"/>xurie deditos et eum castum.
+    </p>
+            <p xml:id="JM7jmZ-e03855-d1e423">
+      ¶ Sequitur secundo 
+      <lb ed="#P" n="56"/>pelirus est senex qui ducit iuuenculam impares sunt 
+      <lb ed="#P" n="57"/>mores cum ipsa iocunda propter sanguinem sit 
+      ip<lb ed="#P" n="58" break="no"/>se propter eius diminutionem tendens ad meleu 
+      <!--389.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="59"/>coliam non bene cohabitant: gaudia semper amat 
+      <lb ed="#P" n="60"/>et ludicra verba iuuentus. opposito modo de 
+      sene<lb ed="#P" n="61" break="no"/>ctute.
+    </p>
+            <p xml:id="JM7jmZ-e03855-d1e443">
+      ¶ Tertio sequitur: homo non debet nec pro 
+      <lb ed="#P" n="62"/>pter nobilitatem nec diuitias nec pulchritudinem. 
+      <lb ed="#P" n="63"/>capere mulierem notam de impudicitia: patet si ali 
+      <lb ed="#P" n="64"/>quid leticie habet a principio extrema gaudii luctus 
+      <lb ed="#P" n="65"/>occupabunt.
+    </p>
+            <p xml:id="JM7jmZ-e03855-d1e454">
+      ¶ Quarto sequitur: debet eniti 
+      cape<lb ed="#P" n="66" break="no"/>re caste mulieris filiam cum talis presumitur bene 
+      <lb ed="#P" n="67"/>erudita ab vnguiculis et teneris annis filia impudi 
+      <lb ed="#P" n="68"/>ce mulieris malum exemplum matris fortasse imi 
+      <lb ed="#P" n="69"/>tabitur.
+    </p>
+            <p xml:id="JM7jmZ-e03855-d1e466">
+      ¶ Quarta conclusio aliquis solutus so 
+      <lb ed="#P" n="70"/>lutam cognoscens committit adulterium. 
+      proba<lb ed="#P" n="71" break="no"/>tur conclusio sortes credit cognoscere vxoratam 
+      <lb ed="#P" n="72"/>et vult talem cognoscere: in illo casu sortes facit 
+      a<lb ed="#P" n="73" break="no"/>dulterium: patet: non peccat peccato simplicis 
+      for<lb ed="#P" n="74" break="no"/>nicationis nec aliqua alia specie luxurie: ergo 
+      pec<lb ed="#P" n="75" break="no"/>cat adulterio. Forte dicis et sic dicit martinus: 
+      sor<lb ed="#P" n="76" break="no"/>tes in casu peccat peccato adulterii sed non adulte 
+      <lb ed="#P" n="77"/>ratur cum non cognoscat coniunctam nec ipse est 
+      <lb ed="#P" n="78"/>coniunctus in hoc est apparentia et videtur quod secum 
+      <lb ed="#P" n="79"/>certandum est de termino postquam conuenit in ratio 
+      <lb ed="#P" n="80"/>ne peccati sed hoc non sufficit: quod probo: si 
+      om<lb ed="#P" n="81" break="no"/>nis copula viri coniugati cum non sua esset 
+      adulte<lb ed="#P" n="82" break="no"/>rium sequitur quod aliquod adulterium erit meritum 
+      <lb ed="#P" n="83"/>et pro aliquo adulterio aliquis premiabitur in celo 
+      <lb ed="#P" n="84"/>hoc inconuenit omne adulterium est peccatum libe 
+      <lb ed="#P" n="85"/>ris verbis loquuntur philosophi nobis est datus cer 
+      <lb ed="#P" n="86"/>tus limes loquendi: probo consequentiam: pono quod 
+      <lb ed="#P" n="87"/>sorti egredienti lectum ingrediatur non sua ex eius 
+      <lb ed="#P" n="88"/>nescientia tunc talis actus erit non peccatum nec in 
+      <lb ed="#P" n="89"/>differens: ergo meritum capiatur casus iacob quod ip 
+      <lb ed="#P" n="90"/>se consenserit in rachaelem et contra et in tenebris 
+      <lb ed="#P" n="91"/>lia erat supposita tunc iacob cognoscendo liam per 
+      <lb ed="#P" n="92"/>aduersarium adulteratur sed non peccat peccato 
+      <lb ed="#P" n="93"/>adulterii sed iacob meruit in illo actu si fecit 
+      pro<lb ed="#P" n="94" break="no"/>pter deum. Si dicas hic non cadit ignorantia inuin 
+      <lb ed="#P" n="95"/>cibilis vt dicit guillermus parisiensis hoc non 
+      ha<lb ed="#P" n="96" break="no"/>bet apparentiam propter hoc missum facio. 
+      </p>
+            <p xml:id="JM7jmZ-e03855-d1e527">
+               <lb ed="#P" n="97"/>¶ Contra primam conclusionem argumentor pro 
+      <lb ed="#P" n="98"/>bando quod adulterium non est peccatum: patet de ruth 
+      <lb ed="#P" n="99"/>que ingressa est ad pedes bocet suadente noemi ruth 
+      <lb ed="#P" n="100"/>tertio similiter hester que intrauit ad assuerum pre 
+      <lb ed="#P" n="101"/>cipiente mardocheo per libellum repudii regina vas 
+      <lb ed="#P" n="102"/>chi non desinebat esse vxor assueri non erat libellus 
+      <lb ed="#P" n="103"/>repudii licitus nisi dispensante deo secundum 
+      quam<lb ed="#P" n="104" break="no"/>cunque positionem modo deus non dispensauit cum 
+      <lb ed="#P" n="105"/>gentilibus.
+    </p>
+            <p xml:id="JM7jmZ-e03855-d1e549">
+      ¶ Et confirmatur: est aliqua que non 
+      <lb ed="#P" n="106"/>cognoscitur a sorte qui putatur esse frigidus vel est 
+      <lb ed="#P" n="107"/>maleficiatus vxor relinquit sortem et ducit 
+      plato<lb ed="#P" n="108" break="no"/>nem postea plato potest illam cognoscere in illo ca 
+      <lb ed="#P" n="109"/>su plato et vxor illa faciunt adulterium et non 
+      pec<lb ed="#P" n="110" break="no"/>cant. simile argumentum potest esse de eis qui pro 
+      <lb ed="#P" n="111"/>bant an possunt seinuicem cognoscere pro 
+      tempo<lb ed="#P" n="112" break="no"/>re et postea est diuortium. Ad primum dicitur quic 
+      <lb ed="#P" n="113"/>quid sit argumentum non probaret ibi esse 
+      adulte<lb ed="#P" n="114" break="no"/>rium cum neuter erat ligatus sed an ipsa 
+      peccaue<lb ed="#P" n="115" break="no"/>rit acquiescens socrui non est opus ruth excusare 
+      <lb ed="#P" n="116"/>a peccato veniali vel mortali argumentum de hester 
+      <!--390.xml-->
+      <pb ed="#P" n="188-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>est ad propositum non est opus hester excusare in i 
+      <lb ed="#P" n="2"/>lo facto si dicatur quod ista facta sunt instinctu diui 
+      <lb ed="#P" n="3"/>no cum questio est de facto non satago illud 
+      im<lb ed="#P" n="4" break="no"/>pugnare tempore legis mosayce gentes 
+      contraue<lb ed="#P" n="5" break="no"/>nientes legi mosayce non peccabant nisi simul con 
+      <lb ed="#P" n="6"/>trauenirent legi nature. quia ad illam non tenebantur 
+      </p>
+            <p xml:id="JM7jmZ-e03855-d1e595">
+               <lb ed="#P" n="7"/>¶ Ad confirmationem dicitur in talibus non est 
+      <lb ed="#P" n="8"/>adulterium ignorantia inuincibilis impedit ne dica 
+      <lb ed="#P" n="9"/>tur adulterium.
+    </p>
+            <p xml:id="JM7jmZ-e03855-d1e604">
+      ¶ Contra secundam conclusionem 
+      <lb ed="#P" n="10"/>et eius probationem sic argumentor: coniunctus co 
+      <lb ed="#P" n="11"/>gnoscens solutam non adulteratur: ergo conclusio 
+      <lb ed="#P" n="12"/>et probationes falsum presupponunt: antecedens 
+      <lb ed="#P" n="13"/>patet querendo quare citius dicatur adulterium 
+      <lb ed="#P" n="14"/>coniuncto quam simplex fornicatio ab alio.
+    </p>
+            <p xml:id="JM7jmZ-e03855-d1e617">
+      ¶ Et 
+      con<lb ed="#P" n="15" break="no"/>firmatur: vel vxoratus plus peccat cognoscendo 
+      <lb ed="#P" n="16"/>solutam vel solutus cognoscendo coniunctam neu 
+      <lb ed="#P" n="17"/>trum est dicendum. simile argumentum potest esse 
+      <lb ed="#P" n="18"/>an vir vel vxor plus peccat.
+    </p>
+            <p xml:id="JM7jmZ-e03855-d1e629">
+      ¶ Ad secundum nege 
+      <lb ed="#P" n="19"/>antecedens: et quando queris quare citius dicatur 
+      <lb ed="#P" n="20"/>adulterium quam simplex fornicatio ratio est facilis: 
+      <lb ed="#P" n="21"/>quandocunque est copula culpabilis cum aliena vel 
+      <lb ed="#P" n="22"/>alieno est adulterium et sic est ibi non habeo pro in 
+      <lb ed="#P" n="23"/>conuenienti quod actus vnius dicatur adulterium et 
+      <lb ed="#P" n="24"/>alterius simplex fornicatio vt si sortes credat 
+      ber<lb ed="#P" n="25" break="no"/>tam esse solutam et berta credat sortem esse coniur 
+      <lb ed="#P" n="26"/>ctum et hoc non intimat ei sortes peccat peccato sim 
+      <lb ed="#P" n="27"/>plicis fornicationis et fornicatur: berta adulteratu 
+      <lb ed="#P" n="28"/>et peccat peccato adulterio.
+    </p>
+            <p xml:id="JM7jmZ-e03855-d1e653">
+      ¶ Ad confirmationem 
+      <lb ed="#P" n="29"/>in qua duo puncta tanguntur semper mulier 
+      pec<lb ed="#P" n="30" break="no"/>cat plusquam vir virum habere plus prudentie non ar 
+      <lb ed="#P" n="31"/>guit eum grauius delinquere quam mulierem: quia 
+      il<lb ed="#P" n="32" break="no"/>lud probaret adam plus peccare quam euam: pruden 
+      <lb ed="#P" n="33"/>tia est circunstantia augens plura inconuenientia se 
+      <lb ed="#P" n="34"/>quuntur ad adulterium mulieris. Ad aliud an con 
+      <lb ed="#P" n="35"/>iunctus plus peccat cognoscens solutam: vel 
+      solu<lb ed="#P" n="36" break="no"/>tus cognoscens coniunctam. martinus dicit quod plus 
+      <lb ed="#P" n="37"/>peccat: ratio est secundum eum quia ipse contraue 
+      <lb ed="#P" n="38"/>nit promissioni quam fecit in facie ecclesie solutus 
+      <lb ed="#P" n="39"/>nullum simile fecit illud habet apparentiam: 
+      vide<lb ed="#P" n="40" break="no"/>tur michi oppositum solutus plus peccat: quod pa 
+      <lb ed="#P" n="41"/>tet: mulier plus peccat adulterans quam vir secundum 
+      <lb ed="#P" n="42"/>martinum et veritatem: ergo consentiens peccato 
+      <lb ed="#P" n="43"/>mulieris et eam instigans ad peccandum plus pec 
+      <lb ed="#P" n="44"/>cat quam vir mulierem solutam instigans etiam non 
+      <lb ed="#P" n="45"/>tot mala sequuntur ex copula cum soluta muliere 
+      <lb ed="#P" n="46"/>a viro coniuncto sicut soluti cum coniuncta. 
+      </p>
+            <p xml:id="JM7jmZ-e03855-d1e695">
+               <lb ed="#P" n="47"/>¶ Contra quartam conclusionem argumentor: vel 
+      <lb ed="#P" n="48"/>quelibet copula inter solutos alienos est adulterium 
+      <lb ed="#P" n="49"/>et hoc non: vel aliqua et aliqua non et detur ratio. 
+      </p>
+            <p xml:id="JM7jmZ-e03855-d1e704">
+               <lb ed="#P" n="50"/>¶ Et confirmatur vbi ex ignorantia inuincibili vit 
+      <lb ed="#P" n="51"/>cognoscens vt supponamus inter iacob et liam in 
+      <lb ed="#P" n="52"/>principio noctis est vtrinque adulterium vel in 
+      alte<lb ed="#P" n="53" break="no"/>ro est non peccatum vt puta in iacob et cum est actus 
+      <lb ed="#P" n="54"/>circa venerea et non castitas vidualis vel 
+      virgina<lb ed="#P" n="55" break="no"/>lis est coniugalis: ergo sunt coniuges.
+    </p>
+            <p xml:id="JM7jmZ-e03855-d1e720">
+      ¶ Ad 
+      pri<lb ed="#P" n="56" break="no"/>mum do secundam partem quelibet copula cum 
+      <lb ed="#P" n="57"/>aliena culpabilis est adulterium puta cum scit 
+      mu<lb ed="#P" n="58" break="no"/>lierem esse coniunctam vel credit vel econuerso vel 
+      <!--390.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="59"/>non inquirit sufficienter an talis est coniunctus vel 
+      <lb ed="#P" n="60"/>coniuncta. Dixi sufficienter et non culpabiliter quia 
+      <lb ed="#P" n="61"/>si sortes transiens ad prostibulum reperiens bertam 
+      <lb ed="#P" n="62"/>coniugatam: sed hoc fugit sortem quod ipsa est alicui 
+      <lb ed="#P" n="63"/>alligata et ipse facit magnamindaginem nolens ean 
+      <lb ed="#P" n="64"/>cognoscere si esset vxorata iam peccat illam cogno 
+      <lb ed="#P" n="65"/>scens et fornicatur fornicatione simplici quamquam det 
+      o<lb ed="#P" n="66" break="no"/>peram rei illicite non videtur adulterari post inda 
+      <lb ed="#P" n="67"/>ginem si nullam fecisset vel insufficientem non ne 
+      <lb ed="#P" n="68"/>go quin tunc adulteratur et peccat peccato 
+      adulte<lb ed="#P" n="69" break="no"/>rio.
+    </p>
+            <p xml:id="JM7jmZ-e03855-d1e757">
+      ¶ Ad confirmationem dico iacob non commi 
+      <lb ed="#P" n="70"/>sit aliquem actum luxurie sed actum castitatis con 
+      <lb ed="#P" n="71"/>iugalis nec ad hoc requiritur coniugium sed 
+      puta<lb ed="#P" n="72" break="no"/>tum ex ignorantia inuincibili et sic iacob facit actum 
+      <lb ed="#P" n="73"/>coniugalem siue petens debitum siue reddens alte 
+      <lb ed="#P" n="74"/>ra autem adulteratur. de iacob gratia exempli sit 
+      di<lb ed="#P" n="75" break="no"/>ctum capiantur alii si volueris si aliquis veniens a 
+      <lb ed="#P" n="76"/>remotis partibus vxoratus in gallia duceret 
+      ber<lb ed="#P" n="77" break="no"/>tam in vxorem insciam criminis berta facit actus ca 
+      <lb ed="#P" n="78"/>stitatis coniugalis toto tempore quo eam latet 
+      su<lb ed="#P" n="79" break="no"/>per casu sortis sortes adulteratur et ita breuiter 
+      ex<lb ed="#P" n="80" break="no"/>pers peccati in hoc actu neo facit adulterium nec for 
+      <lb ed="#P" n="81"/>nicationem et sicut non peccat peccato 
+      fornicatio<lb ed="#P" n="82" break="no"/>nis adulterii vel incestus ita nec fornicatur 
+      adulte<lb ed="#P" n="83" break="no"/>ratur vel facit incestum nec ex hiis sequitur quod 
+      ad<lb ed="#P" n="84" break="no"/>ulterium sit fornicatio vir habet vnum actum qui 
+      <lb ed="#P" n="85"/>frequenter est adulterium et actus exterior 
+      adulte<lb ed="#P" n="86" break="no"/>rium tanquam actus exterior ab interiori adulterio im 
+      <lb ed="#P" n="87"/>peratus dummodo mulier in vtroque actu et interio 
+      <lb ed="#P" n="88"/>ri et exteriori habet castitatem coniugalem quamquam non 
+      <lb ed="#P" n="89"/>habeam illud consequens pro inconuenienti quod idem 
+      <lb ed="#P" n="90"/>actus numero interior simul est fornicatio simplex 
+      <lb ed="#P" n="91"/>et adulterium vt in fronte huius materie 
+      memini<lb ed="#P" n="92" break="no"/>mus de illo qui vult has cognoscere 
+      demonstran<lb ed="#P" n="93" break="no"/>do solutam et coniunctam scitas esse tales fidem nul 
+      <lb ed="#P" n="94"/>lam dabis sciolis asserentibus omne adulterium spe 
+      <lb ed="#P" n="95"/>cie essentiali differre a fornicatione simplici imo nec 
+      <lb ed="#P" n="96"/>doctis viris qui frequenter hoc per constructionem 
+      <lb ed="#P" n="97"/>obiectorum satagunt roborare cognoscere hanc co 
+      <lb ed="#P" n="98"/>iugatam demonstrando solutam quam scio esse 
+      ta<lb ed="#P" n="99" break="no"/>lem est simplex fornicatio et volo cognoscere hanc 
+      <lb ed="#P" n="100"/>solutam demonstrando coniugatam scitam esse 
+      ta<lb ed="#P" n="101" break="no"/>lem est adulterium: ex quo palam est berta reddens 
+      <lb ed="#P" n="102"/>debitum sorti vxorato postquam ei constat de vxore sortis 
+      <lb ed="#P" n="103"/>incipit adulterari vbi an fecit actus castitati coniugalis. 
+      </p>
+            <p xml:id="JM7jmZ-e03855-d1e834">
+               <lb ed="#P" n="104"/>¶ Sed contra illud argumentor: proles genita 
+      in<lb ed="#P" n="105" break="no"/>ter sortem et bertam est illegittima: ergo ex nepha 
+      <lb ed="#P" n="106"/>rio concubitu ipsa est procreata. Respondeo illud 
+      <lb ed="#P" n="107"/>argumentum non est ponderandum licet ille coitus 
+      <lb ed="#P" n="108"/>sit nepharius ex parte vnius est licitus ex parte 
+      al<lb ed="#P" n="109" break="no"/>terius et propter castitatem mulieris virum cogno 
+      <lb ed="#P" n="110"/>scentis non debet dici illegittima esse legittimum 
+      <lb ed="#P" n="111"/>non arguit peccatum in prole: sed si sortes de facto 
+      <lb ed="#P" n="112"/>credidisset vxorem eius defunctam que tamen est 
+      <lb ed="#P" n="113"/>superstes ex ignorantia inuincibili sorti ex parte vtri 
+      <lb ed="#P" n="114"/>usque sortis et berte ille actus est castitas 
+      coniuga<lb ed="#P" n="115" break="no"/>lis et proles est legittima propter bonam fidem 
+      vni<lb ed="#P" n="116" break="no"/>us si matrimonium contraxeriunt in facie ecclesie: 
+      <!--391.xml-->
+      <pb ed="#P" n="188-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>vel quod putabatur ab altero esse matrimonium licet 
+      <lb ed="#P" n="2"/>realiter non sit: hoc patet qui filii sunt legittimi ey 
+      <lb ed="#P" n="3"/>tenore. quanto fortius si anbo habeant igrantiam inuincibili 
+      </p>
+            <p xml:id="JM7jmZ-e03855-d1e878">
+               <lb ed="#P" n="4"/>¶ Quarto sequitur: stat sortem in adulterio et er 
+      <lb ed="#P" n="5"/>concubitu adulterino esse genitum et esse 
+      doctore<lb ed="#P" n="6" break="no"/>parisiensem. patet: facultas aduertit ad legittimam prolem 
+      <lb ed="#P" n="7"/>et non ad adulterium: lex presumit semper filiun 
+      <lb ed="#P" n="8"/>esse genitum a coniuge vxoris licet interim ipsa 
+      a<lb ed="#P" n="9" break="no"/>dulteratur.
+    </p>
+            <p xml:id="JM7jmZ-e03855-d1e894">
+      ¶ Quinto sequitur: adulterium non 
+      dif<lb ed="#P" n="10" break="no"/>finitur per cognoscere coniunctam vel non 
+      coniun<lb ed="#P" n="11" break="no"/>ctam: sed per hanc velle cognoscere quam credit es 
+      <lb ed="#P" n="12"/>se coniunctam vel non habet rationem credendi on 
+      <lb ed="#P" n="13"/>posito.
+    </p>
+            <p xml:id="JM7jmZ-e03855-d1e905">
+      ¶ Sexto sequitur: aliquis est adulter qui 
+      <lb ed="#P" n="14"/>nullam cognoscit: ex quo patet inscicia aliquorum 
+      <lb ed="#P" n="15"/>dicentium virum non teneri ad confessionem de ta 
+      <lb ed="#P" n="16"/>li circunstantia coniuncta vel soluta cum vnum pec 
+      <lb ed="#P" n="17"/>catum est adulterium in specie culpe distinctum  
+      <lb ed="#P" n="18"/>fornicatione simplici.
+    </p>
+            <p xml:id="JM7jmZ-e03855-d1e918">
+      ¶ hiis suppositis descendo 
+      <lb ed="#P" n="19"/>ad vnum argumentum quod facit martinus in hac 
+      <lb ed="#P" n="20"/>questione de adulterio. dicit ipse: non est possibile 
+      <lb ed="#P" n="21"/>quod aliquis credat se velle adorare dyabolum et 
+      cre<lb ed="#P" n="22" break="no"/>dat se adorare dyabolum et deum adoret: non stat 
+      <lb ed="#P" n="23"/>ipse in appellatione rationis nec ego stabo. Et si di 
+      <lb ed="#P" n="24"/>cas cum hiis potest poni deus loco dyaboli talis 
+      <lb ed="#P" n="25"/>adorat deum quamuis dyabolum credat adorare hoc 
+      <lb ed="#P" n="26"/>negat: ille non adoratur ante quem quis flectit 
+      ge<lb ed="#P" n="27" break="no"/>nua: sed ille in quem orationes diriguntur flectens 
+      <lb ed="#P" n="28"/>genua ante simulachrum diue virginis vmaginem 
+      <lb ed="#P" n="29"/>non adorat sed beatam virginem: sed non omnis 
+      <lb ed="#P" n="30"/>credens et volens adorare istum adorat istum non 
+      <lb ed="#P" n="31"/>adoro hunc nisi credo hunc esse dyabolum: et 
+      pro<lb ed="#P" n="32" break="no"/>pterea si non sit dyabolus non adoro hunc facit mi 
+      <lb ed="#P" n="33"/>stice vnum sillogismum practicum sed fiat sic 
+      nul<lb ed="#P" n="34" break="no"/>lus non dyabolus est a me adorandus hic 
+      demon<lb ed="#P" n="35" break="no"/>strando deum est non dyabolus: ergo hic a me non 
+      <lb ed="#P" n="36"/>est adorandus. vel sic nullum non dyabolum inten 
+      <lb ed="#P" n="37"/>do adorare: hic est non dyabolus: ergo hunc non in 
+      <lb ed="#P" n="38"/>tendo adorare: ecce summatim suum modum dicen 
+      <lb ed="#P" n="39"/>di ista disputatio et pars quam martinus fouet fuit 
+      <lb ed="#P" n="40"/>socii holltot qui secum intrauit in licentias patet ex 
+      <lb ed="#P" n="41"/>eius tertio non videtur michi pars illa vera sed ho 
+      <lb ed="#P" n="42"/>hot quo ad aliqua contra socium visus est michi di 
+      <lb ed="#P" n="43"/>cere verum non moreris in hoc quod parum 
+      solidita<lb ed="#P" n="44" break="no"/>tis erat in holloto tempore quo scripsit sententias 
+      <lb ed="#P" n="45"/>non sto pro hollot sed in ea parte que michi vera 
+      <lb ed="#P" n="46"/>apparet supponamus per possibile vel impossibile 
+      <lb ed="#P" n="47"/>casum argumenti qui de facto valet nobis in mate 
+      <lb ed="#P" n="48"/>ria eucharistie et aliis hec stare videntur in compo 
+      <lb ed="#P" n="49"/>sibilitate credo adorare dyabolum et volo adorare 
+      <lb ed="#P" n="50"/>dyabolum et deum adoro et qui vult adorare bunc 
+      <lb ed="#P" n="51"/>efficaciter bunc adorat: si aliqui pharisei vel scribe 
+      <lb ed="#P" n="52"/>dixissent sorti: iste est christus et messias promissus 
+      <lb ed="#P" n="53"/>in lege per iste demonstrando iacobum alphei quos 
+      <lb ed="#P" n="54"/>sortes credebat esse fide dignos videtur quod sortes po 
+      <lb ed="#P" n="55"/>terat cadere pronus in terram et adorare cultu 
+      la<lb ed="#P" n="56" break="no"/>trie iacobum poterat velle adorare bunc: quia hunc 
+      <lb ed="#P" n="57"/>adoro hic est iacobus ergo iacobum adoro: aliquis 
+      <lb ed="#P" n="58"/>vt apparet tunc poterat cum minore motiuo crede 
+      <!--391.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="59"/>re hic est christus tempore quo incedebat in terra 
+      <lb ed="#P" n="60"/>quam nunc: sed si aliquis suscitatus a sorte quent 
+      ado<lb ed="#P" n="61" break="no"/>rasti dixisset christum messiam promissum in lege 
+      <lb ed="#P" n="62"/>et non intendebam alium tali cultu adorare hoc vi 
+      <lb ed="#P" n="63"/>detur sufficere ad saluandum sortem ne peccet 
+      sil<lb ed="#P" n="64" break="no"/>logismi quos feci non iuuant martinum: nullus non 
+      <lb ed="#P" n="65"/>dyabolus est adorandus. etc. maior est falsa siue 
+      a<lb ed="#P" n="66" break="no"/>dorandus exponatur per dignum adorari siue per 
+      <lb ed="#P" n="67"/>futurum adorabitur et sic est conclusio falsa de isto 
+      <lb ed="#P" n="68"/>sillogismo: nullum non dyabolum intendo 
+      adora<lb ed="#P" n="69" break="no"/>re: potes concedere totum discursum et 
+      conclusio<lb ed="#P" n="70" break="no"/>nem: tu adoras quem non intendis adorare si 
+      diri<lb ed="#P" n="71" break="no"/>gas tales sillogismos: nullum non dyabolum 
+      ado<lb ed="#P" n="72" break="no"/>ro: hic est non dyabolus: ergo hunc non adoro: con 
+      <lb ed="#P" n="73"/>clusio est falsa et sic maior: et est simile de illo qui dar 
+      <lb ed="#P" n="74"/>elemosinam ditissimo qui fingit se esse pauperem co 
+      <lb ed="#P" n="75"/>lor nullus est de diua virgine et eius effigie: sed esset 
+      <lb ed="#P" n="76"/>ad propositum exemplum si martha fuisset creditam 
+      <lb ed="#P" n="77"/>ab aliquo esse beata vgo quod volo. de facto hollot 
+      <lb ed="#P" n="78"/>non est explodendus in suo modo quod stat de facto si 
+      <lb ed="#P" n="79"/>ne peccato: vel stabat quando christus erat christ 
+      <lb ed="#P" n="80"/>in terris quod aliquis adorasset iacobum cultu latrie 
+      <lb ed="#P" n="81"/>sine peccato argumentor sic. Quilibet quem 
+      inuin<lb ed="#P" n="82" break="no"/>cibiliter credo esse christum est a me adorandus 
+      cul<lb ed="#P" n="83" break="no"/>tu latrie: sortes est huiusmodi: igitur: vel iacobus al 
+      <lb ed="#P" n="84"/>phei est huiusmodi: ponatur quod sortes venisset ab ex 
+      <lb ed="#P" n="85"/>tremo terre promissionis a bersabea vel dan 
+      visu<lb ed="#P" n="86" break="no"/>rus christum et rogasset ab aliquo apostolorum de 
+      <lb ed="#P" n="87"/>statu et forma christi postea veniens sortes hieroso 
+      <lb ed="#P" n="88"/>lymam et petens a viris multis duobus vel tribus 
+      <lb ed="#P" n="89"/>grauibus vel sic apud populum reputatis est ne 
+      il<lb ed="#P" n="90" break="no"/>le christus demonstrando iacobum illis 
+      mentienti<lb ed="#P" n="91" break="no"/>bus et dicentibus quod sic sicut fallaces pharisei et scri 
+      <lb ed="#P" n="92"/>be crebro fecerunt: numquid sortes credere poterat 
+      <lb ed="#P" n="93"/>et adorare iacobum cultu latrie: dicis deus eum 
+      il<lb ed="#P" n="94" break="no"/>luminasset et hoc non permisisset de hoc ego non cu 
+      <lb ed="#P" n="95"/>ro siue casus hollrot veniat exhibilandus vel ne suf 
+      <lb ed="#P" n="96"/>ficit michi de hoc quod dicebam in sacramento eu 
+      <lb ed="#P" n="97"/>charistie et quod nunc si aliquis diceret se esse deum 
+      <lb ed="#P" n="98"/>non est adhibenda fides quousque sufficienter hoc 
+      fue<lb ed="#P" n="99" break="no"/>rit ostensum solum pro illa parte fecimus argumen 
+      <lb ed="#P" n="100"/>tum.
+    </p>
+            <p xml:id="JM7jmZ-e03855-d1e1103">
+      ¶ Dubitatur an mulier potest occidi pro adul 
+      <lb ed="#P" n="101"/>terio si in illa reperiatur. Respondetur licet in 
+      ve<lb ed="#P" n="102" break="no"/>teri lege leuitici vicesimo comprehensus in adulte 
+      <lb ed="#P" n="103"/>rio occidebatur et secundum leges ciuiles tamen in 
+      <lb ed="#P" n="104"/>lege gratie hoc videtur durum: christus iohannis 
+      <lb ed="#P" n="105"/>octauo pepercit mulieri reperte in adulterio non in 
+      <lb ed="#P" n="106"/>sisto an sit peccatum eas occidere vbi est 
+      consuetu<lb ed="#P" n="107" break="no"/>do patrie vt fertur esse in hyspania illa lex est bene 
+      <lb ed="#P" n="108"/>rigorosa. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

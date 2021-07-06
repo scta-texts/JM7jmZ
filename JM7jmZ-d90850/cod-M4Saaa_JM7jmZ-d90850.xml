@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 1</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 1</title>
+               <date when="2021-07-06">July 06, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-M4Saaa">Paris 1509</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-06" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="-r"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="JM7jmZ-d90850"><!-- l4d36q1 -->
+            <head xml:id="JM7jmZ-d90850-Hd1e108">Quaestio 1</head>
+            <head xml:id="JM7jmZ-d90850-Hd1e111" type="question-title">
+      An servitus impediat
+      matrimonium
+    </head>
+            <p xml:id="JM7jmZ-d90850-d1e114">
+               <lb ed="#P" n="22"/>¶ Distinctionis trigesime sexte questio vnica. 
+      </p>
+            <p xml:id="JM7jmZ-d90850-d1e119">
+               <lb ed="#P" n="23"/>¶ QVeritur circa distin. trigesimam sextam an ser 
+      <lb ed="#P" n="24"/>uitus impediat matrimonium.
+    </p>
+            <p xml:id="JM7jmZ-d90850-d1e126">
+      respondetur sen 
+      <lb ed="#P" n="25"/>Uuitus precedens impedit quando ignoratur vt 
+      <lb ed="#P" n="26"/>prediximus de errore conditionis sed seruitus subse 
+      <lb ed="#P" n="27"/>quens non dirimit matrimonium contractum vel pre 
+      <lb ed="#P" n="28"/>cedens dummodo contrahitur scienter seruus 
+      contra<lb ed="#P" n="29" break="no"/>dicente domino matrimonium contrahere potest vt dicitur 
+      <lb ed="#P" n="30"/>de coniugio seruorum. c. primo vbi adrianus pontifex 
+      al<lb ed="#P" n="31" break="no"/>legat verbum apostoli <ref xml:id="JM7jmZ-d90850-Rd1e143">ad gala. tertio</ref>. in christo iesu ne 
+      <lb ed="#P" n="32"/>que liber neque seruus est a sacramentis ecclesie remo 
+      <lb ed="#P" n="33"/>uendus ita nec inter seruos matrimonia debent 
+      vl<lb ed="#P" n="34" break="no"/>latenus prohiberi et si contradicentibus dominis et inui 
+      <lb ed="#P" n="35"/>tis contracta fuerint nulla ratione sunt propter hoc 
+      <lb ed="#P" n="36"/>dissoluenda dato quod dominus prohibeat seruo manducare 
+      <lb ed="#P" n="37"/>non est ei obtemperandum oportet conseruare indiuiduum sic 
+      <lb ed="#P" n="38"/>potest conseruare speciem renitente domino positiuum ius 
+      ser<lb ed="#P" n="39" break="no"/>uorum non tollit ius nature et diuinum. Sed contra dicis 
+      <lb ed="#P" n="40"/>seruus non potest ordiari in praesbiterum vel monachum. liiii 
+      <lb ed="#P" n="41"/>di. per totum: et tamen est sacramentum ecclese ordo: igitur. 
+      <lb ed="#P" n="42"/>Insuper primo politi. tertio. seruus est omnio domini: ergo  
+      <lb ed="#P" n="43"/>non potest dare mulieri ptantem corpis sui sine 
+      con<lb ed="#P" n="44" break="no"/>sensu domini. propterea dicimus quod vir non potest abdi 
+      <lb ed="#P" n="45"/>care omnia venerea contradicente vxore quae habet dominium cor 
+      <lb ed="#P" n="46"/>poris viri respondetur ad primum non est simile parum seruus 
+      <lb ed="#P" n="47"/>impeditur a seruitio domini: secus est in ordine et 
+      reli<lb ed="#P" n="48" break="no"/>gione vbi est emancipatus cultui diuino et volunta 
+      <lb ed="#P" n="49"/>ti prelati sed si peccet accipiendo ordines realiter ma 
+      <lb ed="#P" n="50"/>net ordinatus et epriatus talem ordinans scienter debet pro eo 
+      <lb ed="#P" n="51"/>satisfacere si ignoranter tradendus est domino et ponatur 
+      <lb ed="#P" n="52"/>in operibus honestis secundum suum statum. Ad aliud 
+      distin<lb ed="#P" n="53" break="no"/>go quod sit domini vel quo ad seruitia corperalia et 
+      concedo<lb ed="#P" n="54" break="no"/>non habet tale dominium in corpus serui sicut vxor. dicis ex 
+      <lb ed="#P" n="55"/>isto sequitur quod vxoratus non habet ita plenum 
+      do<lb ed="#P" n="56" break="no"/>minium in corpus proprium sicut non vxoratus con 
+      <lb ed="#P" n="57"/>ceditur illatum: propterea mortua vxore vir dicitur li 
+      <!--342.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="58"/>beratus a quadam seruitute. potes ponerere casum quod 
+      <lb ed="#P" n="59"/>titius manumutat seruum hac lege quod primus cui 
+      ob<lb ed="#P" n="60" break="no"/>uiat dicat verum et non aliter et obuiet berte cum qua con 
+      <lb ed="#P" n="61"/>trahat et ante ona dicat berta tu es seruus sed de huiusmodi 
+      <lb ed="#P" n="62"/>captiunculis alias dictum est. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

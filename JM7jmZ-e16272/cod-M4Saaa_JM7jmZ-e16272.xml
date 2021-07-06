@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 3</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 3</title>
+               <date when="2021-07-06">July 06, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-M4Saaa">Paris 1509</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-06" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="209-r"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="JM7jmZ-e16272"><!-- l4d49q3 -->
+            <head xml:id="JM7jmZ-e16272-Hd1e108">Quaestio 3</head>
+            <head xml:id="JM7jmZ-e16272-Hd1e111" type="question-title">
+      An fruitio sit potior actus
+      beatitudinis quam visio
+    </head>
+            <p xml:id="JM7jmZ-e16272-d1e114">
+               <lb ed="#P" n="103"/>¶ Distinctionis quadragesime none quaestio tertia. 
+      <lb ed="#P" n="104"/>Vero tertio circa hanc distinctionem an frui 
+      <lb ed="#P" n="105"/>tio sit potior actus beatitudinis quam visio su 
+      <lb ed="#P" n="106"/>uper hoc digladiantur viri: thomistis asseren 
+      <lb ed="#P" n="107"/>tibus intellectum esse nobiliorem potentiam quam 
+      volunta<lb ed="#P" n="108" break="no"/>tem et per consequens dicunt optimum actum 
+      intel<lb ed="#P" n="109" break="no"/>lectus optimo actui voluntatis prestare alexander 
+      <lb ed="#P" n="110"/>haseresi. questione. xcii. quarte partis omnino in fine tenet opi 
+      <lb ed="#P" n="111"/>positum quem imitantur <name xml:id="JM7jmZ-e16272-Nd1e135">ricardus de media villa</name> et <name xml:id="JM7jmZ-e16272-Nd1e138">do 
+      <lb ed="#P" n="112"/>ctor subtilis</name> in hac distinctione non sunt fortes ratio 
+      <lb ed="#P" n="113"/>nes hinc inde allegande facile est vtrinque responde 
+      <lb ed="#P" n="114"/>re. propterea incassum est diutius immorari sed 
+      dicen<lb ed="#P" n="115" break="no"/>do sicut capio. dico quod voluntas est nobilior 
+      poten<lb ed="#P" n="116" break="no"/>tia quam intellectus non dico voluntatem esse meliorem 
+      <!--433.xml-->
+      <pb ed="#P" n="209-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>entitatem quam sit intellectus cum hec est vera voluntas 
+      <lb ed="#P" n="2"/>est intellectus nec distinguntur realiter nec 
+      forma<lb ed="#P" n="3" break="no"/>liter licet isti termini intellectus et voluntas non conin 
+      <lb ed="#P" n="4"/>cidunt formaliter. probatur conclusio voluntas est 
+      re<lb ed="#P" n="5" break="no"/>gina in regno anime secundum <ref xml:id="JM7jmZ-e16272-Rd1e170">
+                  <name xml:id="JM7jmZ-e16272-Nd1e172">anselmum</name> de conceptu 
+      virgi<lb ed="#P" n="6" break="no"/>nali. c. iiii.</ref> maior horum caritas. i. corinth. xiii. xv. de 
+      <lb ed="#P" n="7"/>trinitate cap. xix. in donis dei nullum est maius donum 
+      <lb ed="#P" n="8"/>caritate et imparat aliis potentiis per eius actus sumus 
+      <lb ed="#P" n="9"/>boni et sua opposita mali quare odium dei est peius 
+      in<lb ed="#P" n="10" break="no"/>fidelitate. Insuper caritas praestat fidei ergo optimus 
+      <lb ed="#P" n="11"/>voluntatis habitus est melior optimo habitu intel 
+      <lb ed="#P" n="12"/>lectus. dicis forte intellectus est imparatrix et licet per 
+      <lb ed="#P" n="13"/>actus voluntatis sumus boni in gestone moris per hoc 
+      <lb ed="#P" n="14"/>non probatur quod actus voluntatis sunt meliores 
+      en<lb ed="#P" n="15" break="no"/>titatiue quam actus intellectus et dicis lumen glorie 
+      inhe<lb ed="#P" n="16" break="no"/>rere intellectui quod est melius caritati inherenti voli 
+      <lb ed="#P" n="17"/>tati non in hoc laboro propter inutilitatem cum materie 
+      <lb ed="#P" n="18"/>non habebitur finis.
+    </p>
+            <p xml:id="JM7jmZ-e16272-d1e205">
+      ¶ Contra conclusionem argumen 
+      <lb ed="#P" n="19"/>tor intellectus dirigit voluntatem ergo est nobilior 
+      <lb ed="#P" n="20"/>potentia. Item actus intellectus causat actum volunta 
+      <lb ed="#P" n="21"/>tis ergo est nobilior. tenet consequentia quia in causis equoc 
+      <lb ed="#P" n="22"/>semper causa prestat effectu. et assumptum patet nichil 
+      <lb ed="#P" n="23"/>est volitum nisi cognitum. <ref xml:id="JM7jmZ-e16272-Rd1e218" target="http://scta.info/resource/adt-l10-d1e1112@13-20"> x. de trinitate. c. i.</ref> 
+            </p>
+            <p xml:id="JM7jmZ-e16272-d1e222">
+      Ad primum 
+      <lb ed="#P" n="24"/>dicitur sic voluntas dirigit intellectum et liberius etiam 
+      <lb ed="#P" n="25"/>consequentia est nulla.
+    </p>
+            <p xml:id="JM7jmZ-e16272-d1e230">
+      Ad secundum dicitur 
+      consequentia<lb ed="#P" n="26" break="no"/>est nulla in causis equiuocis partialibus modo 
+      volum<lb ed="#P" n="27" break="no"/>tas est partialis causa sed an actus intellectus con 
+      <lb ed="#P" n="28"/>currat actiue ad productionem actus voluntatis non 
+      <lb ed="#P" n="29"/>est lucidum plerisque placet quod est solum dispositio ad 
+      <lb ed="#P" n="30"/>actum voluntatis ita tenet <ref xml:id="JM7jmZ-e16272-Rd1e243">
+                  <name xml:id="JM7jmZ-e16272-Nd1e245" ref="#AlexanderOfHales">alex. halenerensi.</name> quistio. xcii.</ref> in 
+      <lb ed="#P" n="31"/>fine corporis quaestionis et in solutionibus argumentorum 
+      <lb ed="#P" n="32"/>et multi illius religionis magistri sic putant placet 
+      <lb ed="#P" n="33"/>aliis oppositum sed nunc pertransio recitatiue. Dubita 
+      <lb ed="#P" n="34"/>tur cum gaudium distinguatur a visione dei an possun 
+      <lb ed="#P" n="35"/>inuicem separari similiter a fruitione. respondeo de poten 
+      <lb ed="#P" n="36"/>tia dei absoluta gaudium et visio dei possunt separar 
+      <lb ed="#P" n="37"/>probatio distinguntur et neutra est pars alterius nec 
+      <lb ed="#P" n="38"/>deus ergo deus potest quancumque illarum rerum 
+      conserua<lb ed="#P" n="39" break="no"/>re alia corrupta tristicia summa potest stare cum vi 
+      <lb ed="#P" n="40"/>sione dei. patet. anima christi clare vidit essentiam diuinam 
+      <lb ed="#P" n="41"/>ante mortem et in passione et tamen tristabatur et poterat 
+      <lb ed="#P" n="42"/>deus corrumpere gaudium quod nullum ibi fuisset similiter super 
+      <lb ed="#P" n="43"/>ponendo cum communiter loquentibus quod gaudium est passio 
+      <lb ed="#P" n="44"/>suapte natura sequens dilectionem idem est dicendum ergo 
+      <lb ed="#P" n="45"/>stat tres esse beatos quorum vnus habet noticiam 
+      intui<lb ed="#P" n="46" break="no"/>tiuam dei solum. alter dilectionem paerie non habendo 
+      visio<lb ed="#P" n="47" break="no"/>nem dei si deus cum visione potest producere fruitio 
+      <lb ed="#P" n="48"/>nem patrie in hunc potest sine vssione id idem 
+      produce<lb ed="#P" n="49" break="no"/>re gaudium sine hiis duobus potest produci sed venare 
+      <lb ed="#P" n="50"/>cui eorum esset melius aliqui seriose insistunt an bea 
+      <lb ed="#P" n="51"/>titudo potentiis anime insit vel nude essentie eiusdem sed 
+      <lb ed="#P" n="52"/>hec questio apud me est de lana caprina proinde non 
+      <lb ed="#P" n="53"/>insisto. Si petas an visio dei in prateria est intensior quam 
+      <lb ed="#P" n="54"/>dilectio eius hoc nos latet in via saltem me fugit. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

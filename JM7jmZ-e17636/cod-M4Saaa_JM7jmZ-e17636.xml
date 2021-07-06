@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 6</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 6</title>
+               <date when="2021-07-06">July 06, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-M4Saaa">Paris 1509</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-06" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="211-v"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="JM7jmZ-e17636"><!-- l4d49q6 -->
+            <head xml:id="JM7jmZ-e17636-Hd1e108">Quaestio 6</head>
+            <head xml:id="JM7jmZ-e17636-Hd1e111" type="question-title">
+      An omnes homines
+      summe et de necessitate
+      appetant beatitudinem
+    </head>
+            <p xml:id="JM7jmZ-e17636-d1e114">
+               <lb ed="#P" n="74"/>¶ Distinctionis quadragesime none quaestio sexta. 
+      <lb ed="#P" n="75"/>SExto queramus an omnes homines sum 
+      <lb ed="#P" n="76"/>me et de necessitate appetant beatitudinem 
+      <lb ed="#P" n="77"/>hoc tangit <ref xml:id="JM7jmZ-e17636-Rd1e124">
+                  <name xml:id="JM7jmZ-e17636-Nd1e126" ref="#Lombard">magister</name> in littera</ref> ex <ref xml:id="JM7jmZ-e17636-Rd1e131">
+                  <name xml:id="JM7jmZ-e17636-Nd1e133" ref="#Augustine">beato 
+      au<lb ed="#P" n="78" break="no"/>gustino</name> decimo tertio de trinitate.</ref>
+            </p>
+            <p xml:id="JM7jmZ-e17636-d1e140">
+      ¶ Pro solutione 
+      <lb ed="#P" n="79"/>questionis supponatur distinctio communis duplex 
+      <lb ed="#P" n="80"/>est appetitus scilicet naturalis et electiuus: et 
+      diffe<lb ed="#P" n="81" break="no"/>runt isti duo appetitus secundum rationem et suos 
+      <lb ed="#P" n="82"/>actus an sit discrepantia realis alibi tactum est: ar 
+      <lb ed="#P" n="83"/>petitus electiuus habet velle vel nolle actus 
+      spon<lb ed="#P" n="84" break="no"/>taneos an appetitus naturalis habeat velle et nolle 
+      <lb ed="#P" n="85"/>naturale que apud aristotelem vocatur 
+      prosequu<lb ed="#P" n="86" break="no"/>tio vel fuga incertum est: et probatur quod non: quia da 
+      <lb ed="#P" n="87"/>oppositum sequitur quod qualitates contrarie essent in eodem 
+      <lb ed="#P" n="88"/>ubstantio primo consequens est falsum ergo et antecedens: falsitas consequentis elu 
+      <lb ed="#P" n="89"/>cescet: probatur tamen consequentia: voluntas prout est natura 
+      <lb ed="#P" n="90"/>appetit sibi conueniens et appetibile quod frequenter 
+      <lb ed="#P" n="91"/>voluntas vt ratio refugit et econuerso voluntas vt 
+      <lb ed="#P" n="92"/>est natura appetit cibum delicatum in quadragesima 
+      <lb ed="#P" n="93"/>brohibitum quod voluntas rationalis remnuit natura abhor 
+      <lb ed="#P" n="94"/>ret mortem et martyrium ratio hoc prosequitur: ergo si sit vnu 
+      <lb ed="#P" n="95"/>actus qui est nolle naturale erit alius actus elicitus scilicet 
+      <lb ed="#P" n="96"/>velle simuli: ergo due qualitates contrarie sunt in eodem substantio 
+      pri<lb ed="#P" n="97" break="no"/>moquod erat probandum. dicis voluntas naturalis et ra 
+      <lb ed="#P" n="98"/>tionalis non repugnant: bene velle naturale et nolle na 
+      <lb ed="#P" n="99"/>turale / vel velle rationale et nolle rationale sicut iudicium 
+      <lb ed="#P" n="100"/>sensus quod sol est minor terra et intellectus quod sol est 
+      <lb ed="#P" n="101"/>maior terra similis stant. Contra si voluntas eliciat vnum 
+      <lb ed="#P" n="102"/>nolle in instanti illud continuat naturaliter illud nolle na 
+      <lb ed="#P" n="103"/>turaliter continuatum tantum repugnat velle sicut nolle 
+      <lb ed="#P" n="104"/>pontaneum: ergo non inconuenit actum naturalem 
+      <lb ed="#P" n="105"/>contrariari actui spontaneo quod ille actus naturaliter 
+      <lb ed="#P" n="106"/>continuatus contrarietur cum actu spontaneo patet 
+      <lb ed="#P" n="107"/>actus spontanei scilicet velle et nolle mutuo pugnant 
+      <lb ed="#P" n="108"/>respectu eiusdem obiecti sed idem actus qui erat li 
+      <lb ed="#P" n="109"/>per quando primo eliciebatur postea efficitur naturalis 
+      se<lb ed="#P" n="110" break="no"/>cundum communiter loquentes quod semel alicui contraria 
+      <lb ed="#P" n="111"/>tur semper illi contrariatur rebus stantibus 
+      contrarieta<lb ed="#P" n="112" break="no"/>tis: puta in actibus vitalibus respectu eiusdem  
+      <lb ed="#P" n="113"/>obiecti et in eodem subiecto ad aliud tactum de 
+      <lb ed="#P" n="114"/>nolle et velle: dicis non esse idem cum isti actus 
+      <!--438.xml-->
+      <pb ed="#P" n="212-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>sunt eiusdem potentie: alii actus sunt diuersarum 
+      <lb ed="#P" n="2"/>vel eiusdem rei ac si due potentie essent. 
+      <lb ed="#P" n="3"/>Preterea materia appetit formam tanquam 
+      imperfe<lb ed="#P" n="4" break="no"/>ctum suum perfectibile: sed appetitus materie non 
+      <lb ed="#P" n="5"/>distinguitur a materia: ergo nec appetitus 
+      volun<lb ed="#P" n="6" break="no"/>tatis distinguitur ab ipsa. Insuper inconueniens est 
+      <lb ed="#P" n="7"/>ponere nobilissimos habitus in nobis et illos nos 
+      <lb ed="#P" n="8"/>latere sicut dicit philosophus secundo posteriorum 
+      <lb ed="#P" n="9"/>contra platonem et hoc verum habet potissimum 
+      <lb ed="#P" n="10"/>de operationibus non experimur tales actus in no 
+      <lb ed="#P" n="11"/>bis: ergo non sunt ponendi: amplius omnia 
+      pos<lb ed="#P" n="12" break="no"/>sunt saluari non ponendo nolle et velle naturale su 
+      <lb ed="#P" n="13"/>peraddita ipsi voluntati vt natura est: ergo incassum 
+      <lb ed="#P" n="14"/>est ponere talia accidentia quia hoc esset res 
+      gra<lb ed="#P" n="15" break="no"/>tis multiplicare loquendo de isto appetitu. 
+      Dici<lb ed="#P" n="16" break="no"/>tur affirmatiue ad questionem quod de necessitate 
+      pa<lb ed="#P" n="17" break="no"/>tet quelibet res imperfecta nata perfici ab aliquo 
+      <lb ed="#P" n="18"/>perfectibili naturali appetitu ex necessitate 
+      appe<lb ed="#P" n="19" break="no"/>tit illud per quod perficitur talis appetitus non sequi 
+      <lb ed="#P" n="20"/>tur cognitionem sine qua non est libertas quod 
+      sum<lb ed="#P" n="21" break="no"/>me patet eadem via in cuius potestate non est 
+      ap<lb ed="#P" n="22" break="no"/>betere in eius potestate non est remisse appetere sed 
+      <lb ed="#P" n="23"/>sicut necessario appetit ita toto conatu appetit per 
+      <lb ed="#P" n="24"/>remisse non intelligo remissionem gradualem de vo 
+      <lb ed="#P" n="25"/>luntate libera increata non est questio quin deus ne 
+      <lb ed="#P" n="26"/>cessario vult suam beatitudinem nec de illa 
+      queri<lb ed="#P" n="27" break="no"/>mus in titulo questionis loquendo de voluntate li 
+      <lb ed="#P" n="28"/>bera creata: dicitur quod voluntas vie potest non 
+      vel<lb ed="#P" n="29" break="no"/>le et nolle beatitudinem de non velle non est 
+      diffi<lb ed="#P" n="30" break="no"/>cultas patet de nolle quicquid intellectus dictat es 
+      <lb ed="#P" n="31"/>se nolendum voluntas potest conformare se 
+      dicta<lb ed="#P" n="32" break="no"/>mini intellectus licet non semper requiritur sed 
+      in<lb ed="#P" n="33" break="no"/>tellectus potest credere nullam beatitudinem esse 
+      <lb ed="#P" n="34"/>possibilem vt patet de multis infidelibus et 
+      hereti<lb ed="#P" n="35" break="no"/>cis: ergo voluntas potest beatitudinem nolle. 
+      <lb ed="#P" n="36"/>Item quicunque potest efficaciter velle antecedens 
+      <lb ed="#P" n="37"/>potest velle consequens scitum vel opinatum sequi 
+      <lb ed="#P" n="38"/>ad illud antecedens: aliquis efficaciter potest 
+      vel<lb ed="#P" n="39" break="no"/>le non esse occidendo seipsum vt hannibal 
+      achito<lb ed="#P" n="40" break="no"/>phel et ceteris qui sibi mortem consciscunt. Dicis illud 
+      <lb ed="#P" n="41"/>esse verum si non credat beatitudinem esse 
+      possibi<lb ed="#P" n="42" break="no"/>lem contra siue sit siue non sit quicquid potest esse 
+      di<lb ed="#P" n="43" break="no"/>ctatum a recta ratione potest cadere sub actu volum 
+      <lb ed="#P" n="44"/>tatis. sed recta ratio potest dictare quod sortes carebi 
+      <lb ed="#P" n="45"/>semper beatitudine: igitur damnatus si sue nature 
+      <lb ed="#P" n="46"/>relinquatur potest se conformare in hoc cum videt 
+      <lb ed="#P" n="47"/>voluntatem diuinam ad hoc determinatam. 
+      <lb ed="#P" n="48"/>Vlterius dicitur si aliquis clare videret deum hoc 
+      <lb ed="#P" n="49"/>est haberet noticiam intuitiuam essentie diuine 
+      ta<lb ed="#P" n="50" break="no"/>lis potest nolle fruitionem stante influentia dei 
+      ge<lb ed="#P" n="51" break="no"/>nerali hoc est stante concursu sicut in via concurrit 
+      <lb ed="#P" n="52"/>superius diximus quod deus potest necessitare 
+      volun<lb ed="#P" n="53" break="no"/>tatem ad aliquid et hoc est verum tam in via quam in 
+      <lb ed="#P" n="54"/>patria: sed loquimur nunc stante influentia 
+      genera<lb ed="#P" n="55" break="no"/>li quod ista simul stant sortes clare videt deum et eum 
+      <lb ed="#P" n="56"/>non diligit si voluntas sibi relinquatur ita quod 
+      dilec<lb ed="#P" n="57" break="no"/>tio non est consequens ad visionem: et arguitur sic 
+      <lb ed="#P" n="58"/>hec voluntas sortis potest se conformare volunta¬ 
+      <!--438.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="59"/>ti diuine: sed voluntas diuina potest velle quod stante 
+      <lb ed="#P" n="60"/>visione iste non diligat potest velle prius sine posteriore 
+      <lb ed="#P" n="61"/>ergo voluntas potest non diligere. non voco 
+      visio<lb ed="#P" n="62" break="no"/>nem priorem dilectione beatifica omnimodo deus 
+      <lb ed="#P" n="63"/>potest aliter facere quod quis habeat dilectionem bea 
+      <lb ed="#P" n="64"/>tificam et non noticiam intuitiuam vmo quod 
+      cogno<lb ed="#P" n="65" break="no"/>scat deum abstractiue vel intuitiue voluntas est 
+      li<lb ed="#P" n="66" break="no"/>bera: ergo respectu dei clare visi potest 
+      suspende<lb ed="#P" n="67" break="no"/>re omnem actum suum et respectu miserie non ha 
+      <lb ed="#P" n="68"/>bendo nolle et respectu dei clare visi non 
+      haben<lb ed="#P" n="69" break="no"/>do velle: non sequitur nulla apparet ratio mali 
+      <lb ed="#P" n="70"/>in deo clare viso: ergo voluntas non potest non 
+      di<lb ed="#P" n="71" break="no"/>ligere egre sequitur quod non potest hoc stante deum 
+      <lb ed="#P" n="72"/>prosequi odio sed omnem actum suum potest 
+      sus<lb ed="#P" n="73" break="no"/>pendere et quod amplius est si relinquatur sue libertati 
+      <lb ed="#P" n="74"/>semper stante dei influentia generali potest deum 
+      <lb ed="#P" n="75"/>clare visum odire et nolle: patet: voluntas potest 
+      <lb ed="#P" n="76"/>exire in omnem actum circa suum obiectum volen 
+      <lb ed="#P" n="77"/>do vel nollendo alias non est suum obiectum om 
+      <lb ed="#P" n="78"/>ne incommodum verum vel putatum potest esse ob 
+      <lb ed="#P" n="79"/>ectum voluntatis nolendo sicut commodum 
+      ve<lb ed="#P" n="80" break="no"/>rum vel estimatum potest esse obiectum voluntatis  
+      <lb ed="#P" n="81"/>volendo sed stat de potentia absoluta dei de qua lo 
+      <lb ed="#P" n="82"/>quimur sortem clare videre deum et puniri pena 
+      <lb ed="#P" n="83"/>sensus et hoc potest apparere sorti incommodum 
+      <lb ed="#P" n="84"/>ergo potest si sibi relinquatur nolle eum esse qui eum 
+      <lb ed="#P" n="85"/>punit quod pena et visio dei clara simul stant patet de 
+      <lb ed="#P" n="86"/>christo in via ibi non capitur peua vt dicit culpam 
+      <lb ed="#P" n="87"/>in ipso. Item quicquid voluntas potest nolle 
+      ali<lb ed="#P" n="88" break="no"/>cui indiuiduo alicuius speciei hoc potest nolle sibi 
+      <lb ed="#P" n="89"/>sed sortes potest nolle beatitudinem platoni: ergo  
+      <lb ed="#P" n="90"/>sibi nolle potest.
+    </p>
+            <p xml:id="JM7jmZ-e17636-d1e426">
+      Ad auctoritates <name xml:id="JM7jmZ-e17636-Nd1e428">beati augustini</name> in 
+      <lb ed="#P" n="91"/>
+               <ref xml:id="JM7jmZ-e17636-Rd1e433">variis capitibus decimo tertio de trinitate</ref> quod 
+      om<lb ed="#P" n="92" break="no"/>nes appetant beatitudinem: et similiter <ref xml:id="JM7jmZ-e17636-Rd1e438">
+                  <name xml:id="JM7jmZ-e17636-Nd1e440">anselmus</name> 
+                  <lb ed="#P" n="93"/>
+                  <title>de casu dyaboli</title> capite quarto</ref> dupliciter intelligum 
+      <lb ed="#P" n="94"/>tur de appetitu naturali et etiam elicito communi 
+      <lb ed="#P" n="95"/>ter et de facto quilibet appetit sibi bene fieri et com 
+      <lb ed="#P" n="96"/>modum et resilit ab incommodo sicut pulere 
+      de<lb ed="#P" n="97" break="no"/>clarat <ref xml:id="JM7jmZ-e17636-Rd1e458">
+                  <name xml:id="JM7jmZ-e17636-Nd1e460">augustinus</name> decimo tertio de trinitate capitu 
+      <lb ed="#P" n="98"/>lo tertio</ref> de mimo qui proposuit in crastino dicere 
+      <lb ed="#P" n="99"/>omnium voluntates in foro / et dicebat emptores 
+      <lb ed="#P" n="100"/>velle emere bono foro et venditores velle care 
+      vem<lb ed="#P" n="101" break="no"/>dere et tamen stat secundum omnes ex libertate voluntatis 
+      <lb ed="#P" n="102"/>oppositum. Sed circa predicta sunt aliqua dubia 
+      <lb ed="#P" n="103"/>primum est circa libertatem voluntatis voluntas 
+      <lb ed="#P" n="104"/>bemonstratis minore bono et maiori incompossibi 
+      <lb ed="#P" n="105"/>libus non potest preacceptare minus bonum 
+      reli<lb ed="#P" n="106" break="no"/>cto maiore quando habet plenum iudicium quod hoc 
+      <lb ed="#P" n="107"/>est magis bonum et illud minus saltem pro illo 
+      tem<lb ed="#P" n="108" break="no"/>pore: ad hoc videtur esse <ref xml:id="JM7jmZ-e17636-Rd1e488">
+                  <name xml:id="JM7jmZ-e17636-Nd1e490" ref="#Aristotle">aristote</name>. tertio etbicorum 
+      <lb ed="#P" n="109"/>tapitulo secundo</ref> inquiens. et eligimus quidam quae 
+      <lb ed="#P" n="110"/>maxime scimus esse bona: ergo voluntas non 
+      po<lb ed="#P" n="111" break="no"/>test suspendere omnem actum circa beatitudinem. 
+      <lb ed="#P" n="112"/>Insuper de odio in deo nulla est ratio mali: ergo  
+      <lb ed="#P" n="113"/>non est odibilis nichil est obiectum voluntatis in nol 
+      <lb ed="#P" n="114"/>lendo nisi malum dicis malum apparens contra nec 
+      <lb ed="#P" n="115"/>est malum verum nec apparens in deo. 
+      Rur<lb ed="#P" n="116" break="no"/>sus eodemmodo quis potest velle miseriam con¬ 
+      <!--439.xml-->
+      <pb ed="#P" n="212-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1" break="no"/>tra <name xml:id="JM7jmZ-e17636-Nd1e520" ref="#Augustine">beatum augustinum</name> nemo potest velle malum. 
+      <lb ed="#P" n="2"/>Ad primum respondet buridanus in questionibus 
+      <lb ed="#P" n="3"/>tertii ethicorum et aliqui alii voluntas pro tunc non 
+      <lb ed="#P" n="4"/>potest acceptare minus bonum sed potest omnem 
+      <lb ed="#P" n="5"/>actum suspendere quousque fiat vlterior inquisitio hoc 
+      <lb ed="#P" n="6"/>est reprobatum in articulis parisiensi. et littera philosop 
+      <lb ed="#P" n="7"/>est ad oppositum videtur (inquit philosophus) preterea non 
+      <lb ed="#P" n="8"/>idem homines eligere optima atque etiam opinari et c 
+      <lb ed="#P" n="9"/>Dico quod ex libertate sua pro tunc potest acceptare 
+      <lb ed="#P" n="10"/>minus relicto maiore dignificanda est natura vbi 
+      <lb ed="#P" n="11"/>non constat de opposito secundo de generatione et ad 
+      <lb ed="#P" n="12"/>hoc est experientia. Si dicas si quis habeat 
+      maio<lb ed="#P" n="13" break="no"/>tem et minorem in prima figura circa agibilia 
+      vo<lb ed="#P" n="14" break="no"/>luntas de necessitate conformat se illi iudicio patet 
+      <lb ed="#P" n="15"/>septimo ethicorum. Omne dulce est gustandum li 
+      <lb ed="#P" n="16"/>est dulce boc intelligitur quando voluntas est 
+      con<lb ed="#P" n="17" break="no"/>formis dictamini maioris dicentis omne tale esse 
+      <lb ed="#P" n="18"/>agendum vel respuendum cui concordat commenta 
+      <lb ed="#P" n="19"/>tor sexto ethicorum capitulo vndecimo quando v 
+      <lb ed="#P" n="20"/>ta concordat cum ratione experientia est ad hoc quod 
+      <lb ed="#P" n="21"/>voluntas ex sua libertate potest resilire a iudicio in 
+      <lb ed="#P" n="22"/>tellectus. 
+    </p>
+            <p xml:id="JM7jmZ-e17636-d1e571">
+      Ad secundum fateor in deo nulla est 
+      ra<lb ed="#P" n="23" break="no"/>tio mali nec apparens hoc est quod cum colore appare 
+      <lb ed="#P" n="24"/>at sed a ratione et errante taliter iudicatur sufficit est 
+      <lb ed="#P" n="25"/>sorti displicibile sortes potest nolle omne illud quod si 
+      <lb ed="#P" n="26"/>bi displicet. 
+    </p>
+            <p xml:id="JM7jmZ-e17636-d1e582">
+      Ad tertium dico quancunque rem ponis 
+      <lb ed="#P" n="27"/>miseriam culpam penam vel aggregatum dummo 
+      <lb ed="#P" n="28"/>do voluntati apparet aliqua ratio bonitatis vere vl 
+      <lb ed="#P" n="29"/>sophistice in eo voluntas potest illud velle multi di 
+      <lb ed="#P" n="30"/>cunt se velle esse suspensos vel damnatos ea lege quod 
+      <lb ed="#P" n="31"/>de inimico vlciscerentur: sed dicis et recte si videren 
+      <lb ed="#P" n="32"/>cruciatum inferni retractarent sententiam presen 
+      <lb ed="#P" n="33"/>tia periculorum millies plus mouet quam absentia li 
+      <lb ed="#P" n="34"/>non euitat propositum multi volunt aliquid quod so 
+      <lb ed="#P" n="35"/>unt eis oberit plurimum vt audaces vt in ore 
+      po<lb ed="#P" n="36" break="no"/>puli reputentur vt de illo qui combussit templum 
+      <lb ed="#P" n="37"/>diane in epheso sufficit quod sit quecunque scintilla 
+      ap<lb ed="#P" n="38" break="no"/>parentie ad velle dato quod absolute sit malum sed si 
+      <lb ed="#P" n="39"/>esset aliquid voluntati ostensum in quo nulla est ra 
+      <lb ed="#P" n="40"/>tio boni veri vel sophistici nec boni vtilis honesti vl 
+      <lb ed="#P" n="41"/>delectabilis voluntas non potest diligere vel vell 
+      <lb ed="#P" n="42"/>illud transcendit obiectum voluntatis ad volendum 
+      <lb ed="#P" n="43"/>potest tamen ob libertatem eius omnem actum su 
+      <lb ed="#P" n="44"/>spendere et sic beatus augustinus intelligit miseriam 
+      <lb ed="#P" n="45"/>eodemmodo si esset vnum obiectum in quo nec es 
+      <lb ed="#P" n="46"/>ratio mali veri vel sophistici et nichil prorsus in 
+      il<lb ed="#P" n="47" break="no"/>lo displicibile voluntas non potest exire in suum 
+      a<lb ed="#P" n="48" break="no"/>ctum qui est nolle vt apparet licet sit magna 
+      appa<lb ed="#P" n="49" break="no"/>rentia quod voluntati vt voluntas est nichil est 
+      displi<lb ed="#P" n="50" break="no"/>cibile ex natura rei et potest velle illud vel istud et tunc 
+      <lb ed="#P" n="51"/>est conueniens: vel nolle et sic est disconueniens. ex 
+      <lb ed="#P" n="52"/>natura rei locus inferni non disconuenit angelo dam 
+      <lb ed="#P" n="53"/>nato sed solum quia nolitus secundum istud volum 
+      <lb ed="#P" n="54"/>tas sibi relicta quicquid potest velle potest nolle et 
+      <lb ed="#P" n="55"/>seconuerso sed in hoc non insisto in presentiarum 
+      a<lb ed="#P" n="56" break="no"/>lias loqui proponens.
+    </p>
+            <p xml:id="JM7jmZ-e17636-d1e650">
+      ¶ Hubitatur secundo quia 
+      <lb ed="#P" n="57"/>dictum est quod appetitus naturalis rei non distingui 
+      <lb ed="#P" n="58"/>tur a re ipsa. Contra hoc arguitur inclinatio forme 
+      <!--439.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="59"/>distinguitur a forma: patet habitus non inclinat dor 
+      <lb ed="#P" n="60"/>mientem ad intelligendum inclinat tamen vigilan 
+      <lb ed="#P" n="61"/>tem ad intelligendum ibi est transitus de contradi 
+      <lb ed="#P" n="62"/>ctorio in contradictorium et per consequens aliquid  
+      <lb ed="#P" n="63"/>est in intellectu quando vigilat quod non est in eo quam 
+      <lb ed="#P" n="64"/>do dormit et hoc non potest esse nisi actus. Simili 
+      <lb ed="#P" n="65"/>ter graue in loco proprio non inclinatur ad actum 
+      <lb ed="#P" n="66"/>quia inclinatio est respectu rei absentis non habite 
+      <lb ed="#P" n="67"/>sed quando est extra locum proprium tunc 
+      inclina<lb ed="#P" n="68" break="no"/>tur ad actum: sed grauitas manet vtrobique: ergo in 
+      <lb ed="#P" n="69"/>clinare est actum causare: propter istas rationes 
+      <lb ed="#P" n="70"/>ostan in tertio quodlibeto tenet inclinationem habi 
+      <lb ed="#P" n="71"/>tus distinctam ab habitu non autem inclinationem 
+      <lb ed="#P" n="72"/>materie: propterea equiuocat de inclinatione non est 
+      <lb ed="#P" n="73"/>petenda pluralitas gratis nec aliqua ratio huius vi 
+      <lb ed="#P" n="74"/>ri vincit oppositum teneo vtrobique inclinationem 
+      <lb ed="#P" n="75"/>rei esse rem inclinatam quando argumentatur 
+      ha<lb ed="#P" n="76" break="no"/>bitus non inclinat dormientem verum est nec 
+      vigi<lb ed="#P" n="77" break="no"/>lantem inclinare in morali philosophia tantum va 
+      <lb ed="#P" n="78"/>let sicut agere vel facere habitus inclinat in actun 
+      <lb ed="#P" n="79"/>habitus nullum actum alium causat in habente a 
+      <lb ed="#P" n="80"/>suo actu habitus non producit actum se solo sine ani 
+      <lb ed="#P" n="81"/>ma bomo facilius exit in actum cum habitu quam sine 
+      <lb ed="#P" n="82"/>habitu. Sed dicis citius cum habitu quam sine habitu 
+      <lb ed="#P" n="83"/>vnde hoc emergit dicitur quia habet causam exeum 
+      <lb ed="#P" n="84"/>di in actum quam non habet non habituatus quia 
+      que<lb ed="#P" n="85" break="no"/>ro quid producit aliud ab actu vnigeneo qui erat pro 
+      <lb ed="#P" n="86"/>ductiuus habitus qui accidens producit alterius 
+      spe<lb ed="#P" n="87" break="no"/>ciei ab actu elicito concedo quod est transitus de contra 
+      <lb ed="#P" n="88"/>dictorio in contradictorium per actum elicitum sed 
+      <lb ed="#P" n="89"/>certe per nichil aliud quando arguit de trabe. 
+      Di<lb ed="#P" n="90" break="no"/>co quod graue in loco naturali non exercet suam graui 
+      <lb ed="#P" n="91"/>tatem licet fuerit aqua in sua sphera nichil 
+      actuali<lb ed="#P" n="92" break="no"/>ter ponderat vt patet imponenti pedem manum vel 
+      <lb ed="#P" n="93"/>humeros sub aqua alias descendens ad basim oci 
+      <lb ed="#P" n="94"/>ani non resiliret cuius oppositum experimento no 
+      <lb ed="#P" n="95"/>uerunt nauigantes sed cum graue ponitur super 
+      tra<lb ed="#P" n="96" break="no"/>bem sensim debilitatur trabs non debilitata 
+      graui<lb ed="#P" n="97" break="no"/>tate corporis suprapositi vel minus attennuata tan 
+      <lb ed="#P" n="98"/>dem erit proportio maioris inequalitatis et trabs 
+      <lb ed="#P" n="99"/>frangitur quemadmodum si sortes haberet in 
+      hu<lb ed="#P" n="100" break="no"/>meris vel capite pondus equalis resistentie vel pau 
+      <lb ed="#P" n="101"/>lo minoris cum potentia portatiua sortis pro 
+      tem<lb ed="#P" n="102" break="no"/>pore resistit sed cum est potentia debilitabilis 
+      suc<lb ed="#P" n="103" break="no"/>cumbit ab agente maioris equalitatis quam sit sortes 
+      <lb ed="#P" n="104"/>resistentie. Si petas quid frangit vel debilitat 
+      tra<lb ed="#P" n="105" break="no"/>bem: dico quod grauitas que trabem indisponit si sic 
+      <lb ed="#P" n="106"/>agit dum quiescit debes dicere habitum agere in 
+      <lb ed="#P" n="107"/>dormiente. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

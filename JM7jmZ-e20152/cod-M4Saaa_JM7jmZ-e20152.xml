@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 12</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 12</title>
+               <date when="2021-07-06">July 06, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-M4Saaa">Paris 1509</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-06" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="216-r"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="JM7jmZ-e20152"><!-- l4d49q12 -->
+            <head xml:id="JM7jmZ-e20152-Hd1e108">Quaestio 12</head>
+            <head xml:id="JM7jmZ-e20152-Hd1e111" type="question-title">
+      An sensus beatorum
+      in patria erunt in
+      actibus suis
+    </head>
+            <p xml:id="JM7jmZ-e20152-d1e114">
+               <lb ed="#P" n="68"/>¶ Distinctionis quadragesime none quaestio duodecima. 
+      <lb ed="#P" n="69"/>Uodecimo queritur circa hanc distinctio 
+      <lb ed="#P" n="70"/>Inem an sensus beatorum in patria <sic>erint</sic> in 
+      <lb ed="#P" n="71"/>actibus suis.
+    </p>
+            <p xml:id="JM7jmZ-e20152-d1e128">
+      Respondetur per conclusio 
+      <lb ed="#P" n="72"/>nes duas. ¶ Prima est aliqui sensus non exibunt 
+      <lb ed="#P" n="73"/>in actus suos probatio gustus non exibit in actus suos 
+      <lb ed="#P" n="74"/>in celo odor apprehenditur cum quadam vaporali eua 
+      <lb ed="#P" n="75"/>poratione que a corpore odorifero resoluitur quae non 
+      <lb ed="#P" n="76"/>erit in patria quod sit talis resolutio patet non alias 
+      po<lb ed="#P" n="77" break="no"/>mum vel aliquid multum odoriferum diu in manu de 
+      <lb ed="#P" n="78"/>tentum tabescit et aliqui pereunt odore venenoso 
+      <lb ed="#P" n="79"/>quod non est facile captum si odor tantum intentionaliter 
+      <lb ed="#P" n="80"/>fiat si quis contendat quod nulla est euaporatio per 
+      <lb ed="#P" n="81"/>medium quia non videtur quod tigrides et aquile 
+      veni<lb ed="#P" n="82" break="no"/>rent ad centum leucas vel quingentas solo odore 
+      <lb ed="#P" n="83"/>duce et sicut erat tempore belli grecorum que aues numquam 
+      <lb ed="#P" n="84"/>alias erant vise in grecia odor non tantum multiplica 
+      <lb ed="#P" n="85"/>tur illud non euitat propositum forte non est 
+      adhi<lb ed="#P" n="86" break="no"/>benda veritas illi narrationi forte quia animalia rapacia 
+      <lb ed="#P" n="87"/>sunt acutissimi visus vt a remotis habeant predam 
+      <lb ed="#P" n="88"/>in altis iugis modotium viderunt ad magnam distantiam vs 
+      <lb ed="#P" n="89"/>fertur de aquila alte volante capiente piscem in mari 
+      <lb ed="#P" n="90"/>vel forte ventus differebat illo tempore odorem ad 
+      tam<lb ed="#P" n="91" break="no"/>tam distantiam etiam quid conducit exire in actum 
+      gu<lb ed="#P" n="92" break="no"/>stus in patria cum ibi nec comeditur nec bibitur. 
+      </p>
+            <p xml:id="JM7jmZ-e20152-d1e176">
+               <lb ed="#P" n="93"/>¶ Secunda conclusio aliquis sensus exit in suas 
+      ope<lb ed="#P" n="94" break="no"/>rationes. patet de visu. apocalipsis. v. videbit eum 
+      <lb ed="#P" n="95"/>omnis oculus. hoc patet de sensu auditus vt glosa 
+      <lb ed="#P" n="96"/>et interlinearis et marginalis tenet super illo verbo 
+      <lb ed="#P" n="97"/>psalmi. Exultationes dei in gutture eorum. psal. cxlix. 
+      </p>
+            <p xml:id="JM7jmZ-e20152-d1e190">
+               <lb ed="#P" n="98"/>¶ Sed contra hanc conclusionem argumentor vox 
+      <lb ed="#P" n="99"/>non fit nisi mediante aere. vt patet in de anima. modo 
+      <lb ed="#P" n="100"/>non est aer in celo: igitur. Insuper si sensus exeant 
+      <lb ed="#P" n="101"/>in suos actus impediunt voluntatem et intellectum exire 
+      <lb ed="#P" n="102"/>in suas operationes. propterea cecus melius 
+      aduer<lb ed="#P" n="103" break="no"/>tit quam videns et magnus dolor in vno menbro facit do 
+      <lb ed="#P" n="104"/>lorem paruum in alio apparere nullum. Ad primum dicitur 
+      <lb ed="#P" n="105"/>non requiritur aer ad vocem nisi pro hoc statu sicut 
+      <lb ed="#P" n="106"/>requiritur aer ad viuendum ad inspirationem et respira 
+      <lb ed="#P" n="107"/>tionem et per hoc etiam causatur loquela deus hoc to 
+      <lb ed="#P" n="108"/>tum supplet si deus potest producere vocem cum 
+      <lb ed="#P" n="109"/>aere potest sine aere aer nec est materia nec forma 
+      <lb ed="#P" n="110"/>vocis materia scilicet ex qua ergo deus potest 
+      supple<lb ed="#P" n="111" break="no"/>re vicem aeris deus potest facere quod homo loquatur 
+      <lb ed="#P" n="112"/>et viuat semper in vacuo preter rationem est dicere quod 
+      <lb ed="#P" n="113"/>celum frangitur more aeris in loquendo. Ad secun 
+      <lb ed="#P" n="114"/>dum nego quod se impediant vt supra crebro dictum 
+      <lb ed="#P" n="115"/>est deus omnem defectum supplet.
+    </p>
+            <p xml:id="JM7jmZ-e20152-d1e232">
+      ¶ Sed forte 
+      du<lb ed="#P" n="116" break="no"/>bitas cum beati dotentur suis dotibus videtur per 
+      <!--447.xml-->
+      <pb ed="#P" n="216-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>subtilitatem transeant pre celis et non superferuntur 
+      <lb ed="#P" n="2"/>Respondetur concedendo corpora beatorum erunt 
+      <lb ed="#P" n="3"/>cum celo penetratiue in celo non est vacuum nec est 
+      <lb ed="#P" n="4"/>verosimile quod celum cedat corpori beati sicut aer hie 
+      <lb ed="#P" n="5"/>nobis dat locum sed cum agilia corpora habeant stant 
+      <lb ed="#P" n="6"/>vbicumque locorum voluerint sicut angeli manent in hoc 
+      <lb ed="#P" n="7"/>loco vel illo.
+    </p>
+            <p xml:id="JM7jmZ-e20152-d1e258">
+      ¶ Dubitatur an beati post diem iudicii 
+      <lb ed="#P" n="8"/>erint beatiores quam nunc sint. Respondetur non 
+      in<lb ed="#P" n="9" break="no"/>tensiue puta nec erit intensior visio dei nec dilectio 
+      <lb ed="#P" n="10"/>et sic de gaudio. quod patet vel hoc prouenit a maioritate 
+      <lb ed="#P" n="11"/>gsrtre vel lumine glorie vel roboratione potentie vel ex 
+      <lb ed="#P" n="12"/>presentia obiecti vel propter aliquod impedimentum in 
+      <lb ed="#P" n="13"/>anima ante corpus resumptum nullum istorum est dicen 
+      <lb ed="#P" n="14"/>dum: igitur nec gratia nec lumen glorie augebuntur obie 
+      <lb ed="#P" n="15"/>ctum est nunc presens sicut tunc est eadem potentia 
+      <lb ed="#P" n="16"/>nunc sicut tunc erit et nullum est impedimentum in anima 
+      <lb ed="#P" n="17"/>Preterea tunc erit mutatio hominem a suis ordinibus 
+      <lb ed="#P" n="18"/>detur nunc angelus equaliter beatus cum sancto 
+      pe<lb ed="#P" n="19" break="no"/>tro michael palam est hunc angelum non esse magis bea 
+      <lb ed="#P" n="20"/>tificandum et petrus magis beatificabitur et sic de aliis 
+      <lb ed="#P" n="21"/>hominbus et cum homines assumuntur ad ordines angelo 
+      <lb ed="#P" n="22"/>rum variabunt suas sedes post diem iudicii amplius 
+      <lb ed="#P" n="23"/>da quod petrus et iohannes euangelista discesserunt in 
+      <lb ed="#P" n="24"/>paribus meritis tunc vsque ad diem iudicii iohannes 
+      <lb ed="#P" n="25"/>magis beatificabitur intensiue quam petrus. patet. 
+      sup<lb ed="#P" n="26" break="no"/>ponendo id quod vulgo dicitur quod nunc est in celo in cor 
+      <lb ed="#P" n="27"/>pore et anima.
+    </p>
+            <p xml:id="JM7jmZ-e20152-d1e304">
+      ¶ Contra istud argumentor dannati erunt 
+      <lb ed="#P" n="28"/>miseriores post diem iudicii quam nunc quia tunc punientur 
+      <lb ed="#P" n="29"/>corpore et anima nunc autem anima ergo sic erit de beatis. 
+      <lb ed="#P" n="30"/>Insuper beatitudo moysi et pauli erit maior post rei 
+      <lb ed="#P" n="31"/>surrectionem quam fuerunt ergo beatitudo petri et 
+      an<lb ed="#P" n="32" break="no"/>dree erit maior quam nunc sit. Ad primum dicitur 
+      argu<lb ed="#P" n="33" break="no"/>mentum a simili frequenter claudicat quarto pede 
+      <lb ed="#P" n="34"/>etiam tristicia causata a visione diuine essentie non au 
+      <lb ed="#P" n="35"/>gebitur in dannatis post diem iudicii sicut visio illius 
+      <lb ed="#P" n="36"/>essentie et dilectio non augebitur et ad hoc est simile 
+      <lb ed="#P" n="37"/>si sit sermo de dolore corporis et illo cruciatu quo 
+      <lb ed="#P" n="38"/>ad aliquid est simile cum beatis quia beatorum corpora erunt 
+      <lb ed="#P" n="39"/>dotata suis dotibus et habebunt beatitudinem quam pos 
+      <lb ed="#P" n="40"/>sunt habere conceditur reassumpto corpore erit 
+      ma<lb ed="#P" n="41" break="no"/>ior beatitudo extensiue licet non intensiue et sic 
+      intel<lb ed="#P" n="42" break="no"/>ligitur glosa apocaisiperensis. vi. vidi sub altari dei animas 
+      <lb ed="#P" n="43"/>interfectorum que dicit quod anime sanctorum modo sunt 
+      <lb ed="#P" n="44"/>in minori dignitate quam future sunt post resurrectio 
+      <lb ed="#P" n="45"/>nem et hieronimus vt patet in littera qui dicit peracto 
+      fi<lb ed="#P" n="46" break="no"/>nali iudicio deus ampliorem grartam monstrabit 
+      san<lb ed="#P" n="47" break="no"/>ctis. Ad secundum argumentum de moyse et paulo si tibi 
+      <lb ed="#P" n="48"/>negetur antecedens difficulter ipisum probares sed con 
+      <lb ed="#P" n="49"/>cedo antecedens et nego consequentiam plura 
+      ha<lb ed="#P" n="50" break="no"/>bebant merita in morte quam tempore illo quo deum 
+      <lb ed="#P" n="51"/>viderunt. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

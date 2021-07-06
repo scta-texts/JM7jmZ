@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Prologus</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Prologus</title>
+               <date when="2021-07-06">July 06, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-M4Saaa">Paris 1509</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-06" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="-r"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="JM7jmZ-d17512"><!-- l4d8prol -->
+            <head xml:id="JM7jmZ-d17512-Hd1e108">Prologus</head>
+            <p xml:id="JM7jmZ-d17512-d1e111">
+               <lb ed="#P" n="28"/>¶ Sequitur de sacramento eucharistie. 
+      <lb ed="#P" n="29"/>IStud est tertium sacramentum in ordine 
+      <lb ed="#P" n="30"/>scilicet eucharistia et excellentissimum 
+      in<lb ed="#P" n="31" break="no"/> Vtercetera sacramenta propter existentiam 
+      <lb ed="#P" n="32"/>realem corporis benedicti et sanguinis christi. de 
+      <lb ed="#P" n="33"/>consecratione distinctione quinta. nichil. maior pars 
+      <lb ed="#P" n="34"/>deuotionis in ecclesia est propter hoc sacramentum 
+      <lb ed="#P" n="35"/>plebs in festo pascatis propter eius susceptionem 
+      <lb ed="#P" n="36"/>se melius disponit / et populus qui ter vel pluries 
+      <lb ed="#P" n="37"/>communicat / audimus missam deuotius quam vespe 
+      <lb ed="#P" n="38"/>ras / veneramur plus ecclesias propter hoc 
+      sacra<lb ed="#P" n="39" break="no"/>mentum quam capellas in quibus non est eucharistia 
+      <lb ed="#P" n="40"/>vis vocabuli hoc sonat. eucharistia grece latine bo 
+      <lb ed="#P" n="41"/>na gratia dicitur. prima questione prima. multi in ce 
+      <lb ed="#P" n="42"/>teris sacramentis datur gratia accidens hic autem 
+      <lb ed="#P" n="43"/>corpus christi et gratia accidens hoc sacramentu 
+      <lb ed="#P" n="44"/>plures figure precesserunt oblatio panis et vini mel 
+      <lb ed="#P" n="45"/>chisedech. genef. xiiii. in agno paschali. exodi. xii 
+      <lb ed="#P" n="46"/>in manna. exodi. xvi. in fauo mellis quod ionathas con 
+      <lb ed="#P" n="47"/>uertit ad os eius. primi regum. xiii. In fluxu aque 
+      <lb ed="#P" n="48"/>et sanguinis de latere christi. iohannis. xix. 
+      sacrifia<lb ed="#P" n="49" break="no"/>cium oblationis quando pontifex intrabat semel i 
+      <lb ed="#P" n="50"/>anno cum sanguine in sancta sanctorum quam 
+      figu<lb ed="#P" n="51" break="no"/>ram adducit apostolus. hebreorum nono. in hoc sa 
+      <lb ed="#P" n="52"/>cramento specialiter est deus et christi sacratissimum 
+      <lb ed="#P" n="53"/>corpus. propterea omnia alia sacramenta in digni 
+      <lb ed="#P" n="54"/>tate excellit. dixi specialiter cum vbicumque locorum 
+      <lb ed="#P" n="55"/>est dei essentia et per consequens in baptismo / sed 
+      <lb ed="#P" n="56"/>non specialiter sicut est hic propter plures propri 
+      <lb ed="#P" n="57"/>tates huic sacramento co nuenientes pluribus no¬ 
+      <!--077.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="58"/>minibus appellatur hostia offertur deo patri 
+      via<lb ed="#P" n="59" break="no"/>ticum communio eucharistia sacrificium. illud 
+      io<lb ed="#P" n="60" break="no"/>han. decino nono tangit sedulius. Cuspide perfossum 
+      <lb ed="#P" n="61"/>violat latus ecce patenti Vulnere purpureus cru 
+      <lb ed="#P" n="62"/>or et sic vnda cucurrit Hec sunt quippe sacre pre 
+      <lb ed="#P" n="63"/>religionis honore Corpus sanguis aqua tria vite 
+      <lb ed="#P" n="64"/>munera nostre. Dic magister sententiarum tertio 
+      <lb ed="#P" n="65"/>in loco hoc sacramentum stabiliuit et de eo sex 
+      di<lb ed="#P" n="66" break="no"/>tinctiones posuit numerus ternarius inter 
+      aris<lb ed="#P" n="67" break="no"/>methicos maxime laudatur necte tribus modis / nu 
+      <lb ed="#P" n="68"/>mero deus impari gaudet inquit poeta. triangulus 
+      <lb ed="#P" n="69"/>habet tres angulos equales tribus rectis. tres per 
+      <lb ed="#P" n="70"/>sone se habentes sicut anguli recti: sicut forma 
+      re<lb ed="#P" n="71" break="no"/>ctorum secundum geometras consistit in indiuisibi 
+      <lb ed="#P" n="72"/>li et omnes sunt equales: ita est de personis in diui 
+      <lb ed="#P" n="73"/>nis ex omnibus partibus eius constat aliquota et non 
+      <lb ed="#P" n="74"/>aliquota / golias tertio ictu prostratus. moyses ma 
+      <lb ed="#P" n="75"/>gos pharaonis tertio signo superauit / primo celi de 
+      <lb ed="#P" n="76"/>tribus dicimus omne. funiculus triplex difficile 
+      rum<lb ed="#P" n="77" break="no"/>pitur. tres sunt qui testimonium dant in celis / pater. 
+      <lb ed="#P" n="78"/>verbum / et spiritus sanctus / et hii tres vnum sunt. 
+      <lb ed="#P" n="79"/>prime iohannis quinto. ionas fuit in ventre ceti tri 
+      <lb ed="#P" n="80"/>bus diebus. ione secundo. et mathei duodecino. 
+      moy<lb ed="#P" n="81" break="no"/>ses voluit propilorum ducere in desertum itinere trium dierum 
+      <lb ed="#P" n="82"/>exod. iii. Senarius insuper est numerus perfectus 
+      <lb ed="#P" n="83"/>hoc patet: quia omnes partes aliquote reddunt ip 
+      <lb ed="#P" n="84"/>um totum scilicet sex distinctiones et tertius locus 
+      <lb ed="#P" n="85"/>reddunt nouem qui est quadratus numerus et 
+      no<lb ed="#P" n="86" break="no"/>bilissimus: quia ex trigonis tribus resultans et 
+      ra<lb ed="#P" n="87" break="no"/>dix. ixxxi. numeri non illaudabils apud mathematicos. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

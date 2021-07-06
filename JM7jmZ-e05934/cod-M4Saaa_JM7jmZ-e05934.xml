@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 1</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 1</title>
+               <date when="2021-07-06">July 06, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-M4Saaa">Paris 1509</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-06" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="190-v"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="JM7jmZ-e05934"><!-- l4d42q1 -->
+            <head xml:id="JM7jmZ-e05934-Hd1e108">Quaestio 1</head>
+            <head xml:id="JM7jmZ-e05934-Hd1e111" type="question-title">
+      De cognatione spirituali,
+      adoptione et arrogatione
+    </head>
+            <p xml:id="JM7jmZ-e05934-d1e114">
+               <lb ed="#P" n="91"/>¶ Distinctionis quadragesime secunde questio vnica. 
+      <lb ed="#P" n="92"/>Irca hanc distinctionem quadragesimam 
+      se<lb ed="#P" n="93" break="no"/>n cundam in qua magister loquitur de cogna 
+      <lb ed="#P" n="94"/>tione spirituali adoptione et arrogatione sud 
+      <lb ed="#P" n="95"/>cincte materiam tangemus pro horum intelligentia 
+      <lb ed="#P" n="96"/>aduertendum est. Aliud est impedimentum in cogna 
+      <lb ed="#P" n="97"/>tione spirituali et illud impedimentum declarat boni 
+      <lb ed="#P" n="98"/>facius papa de cogna. spua. c. nedum. Ii. vi. contrahitur 
+      <lb ed="#P" n="99"/>hec cognatio spiritualis in duobus sacramentis scilicet 
+      <lb ed="#P" n="100"/>baptismo et confirmatione baptisare in necessitate 
+      ni<lb ed="#P" n="101" break="no"/>chil prohibet patri licet suum filium baptisare in 
+      necessi<lb ed="#P" n="102" break="no"/>tate et viginti persone simul prohibentur decem in baptis 
+      <lb ed="#P" n="103"/>mo et totidem in confirmatione. propterea decem declara 
+      <lb ed="#P" n="104"/>tis in baptismo mox relique decem patefiunt in confirma 
+      <lb ed="#P" n="105"/>tione patrinus vocatur leuans quia antiquitus 
+      bapti<lb ed="#P" n="106" break="no"/>ans immersit filium in aquam et patrinus leuabat eum de 
+      <lb ed="#P" n="107"/>aqua propterea vocatur leuans et licet propter periculum 
+      <lb ed="#P" n="108"/>mortis in paruulo hoc abit in dissuetudinem nomen 
+      le<lb ed="#P" n="109" break="no"/>uantis adhuc est in honore prime persone impedite in 
+      <lb ed="#P" n="110"/>proposito sunt leuans et baptisatus. Secunde sunt 
+      in<lb ed="#P" n="111" break="no"/>ter leuantem et parentes leuati. Tertie inter baptisatum 
+      <lb ed="#P" n="112"/>et filios leuantis. Quarte inter leuatum et vxorem leuan 
+      <lb ed="#P" n="113"/>tis prius cognitam. Quinte inter vxorem prius 
+      cogni<lb ed="#P" n="114" break="no"/>tam leuantis et parentes leuati. Eodem modo quinque perso 
+      <lb ed="#P" n="115"/>ne prohibentur inter baptisantem et baptisatum totiden 
+      <lb ed="#P" n="116"/>persone inter confirmantem et confirmatum et quinque in 
+      <!--396.xml-->
+      <pb ed="#P" n="191-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>ter confirmatum et leuantem in confirmatione et sic 
+      prohi<lb ed="#P" n="2" break="no"/>bentur viginti persone computando vnum leuantem solum sed 
+      <lb ed="#P" n="3"/>quia solent esse tres leuantes duo mares et vna mulier 
+      <lb ed="#P" n="4"/>respectu masculi due feine et vnus vir respectu femi 
+      <lb ed="#P" n="5"/>ne ex consuetudine proportionabiliter multiplicentur 
+      <lb ed="#P" n="6"/>persone. Ex quo palam est ego non possum habere f 
+      <lb ed="#P" n="7"/>liam sortis leuantis me de fontibus sed frater meus pae 
+      <lb ed="#P" n="8"/>test illam habere et omnes filii sortis meam. sororem pos 
+      <lb ed="#P" n="9"/>sunt habere. Secundo sequitur sortes et berta leuan 
+      <lb ed="#P" n="10"/>tes possunt contrahere inter se similiter vir et vxor. 
+      Ter<lb ed="#P" n="11" break="no"/>tio sequitur filia mea spiritualis potest contrahere cum 
+      <lb ed="#P" n="12"/>filio filii mei cum hic non sit processus in gradibus sic 
+      <lb ed="#P" n="13"/>pater potest contrahere cum illa quam filius eius 
+      leua<lb ed="#P" n="14" break="no"/>uit. Quarto sequitur filius epriei carnalis nullam potest 
+      <lb ed="#P" n="15"/>habere in vxorem quam eprus confirmauit cum baptism 
+      <lb ed="#P" n="16"/>sit ianua multorum sacramentorum non baptisatus non ista 
+      <lb ed="#P" n="17"/>icurrit cum sit ianua ad istam cognationem spiritualem 
+      <lb ed="#P" n="18"/>et communiter putatur. secus est si baptisatus filium non 
+      bapti<lb ed="#P" n="19" break="no"/>sati leuauerit hic sunt paternitas compaternitas et fr 
+      <lb ed="#P" n="20"/>ternitas leuans respectu leuati est pater spualis 
+      si<lb ed="#P" n="21" break="no"/>ue pater carnalis istum genuitita patrinus eum 
+      rege<lb ed="#P" n="22" break="no"/>nerat vel ille qui baptisat vterque eorum regenerat 
+      pa<lb ed="#P" n="23" break="no"/>trinus respectu patris carnalis vocatur compater id 
+      <lb ed="#P" n="24"/>est simul pater vnus est carnalis alius est spualis 
+      ba<lb ed="#P" n="25" break="no"/>ptisatus respectu filiorum leuantis vocatur confrater 
+      <lb ed="#P" n="26"/>inter leuantes simul non est cognatio spumalis propterea 
+      <lb ed="#P" n="27"/>nichil obstat quod vir et vxor leuent eundem puerum 
+      adde<lb ed="#P" n="28" break="no"/>batur prius cognita de vxore quia non inconuenit virum 
+      <lb ed="#P" n="29"/>habere duas comatres successiue. Est autem 
+      cogna<lb ed="#P" n="30" break="no"/>tio legalis que impedit de cogna. lega. c. vnico. sed 
+      <lb ed="#P" n="31"/>ista cognatio legalis est parara pauci arrogant vel 
+      <lb ed="#P" n="32"/>adoptant sibi filios propterea parum ibi insisto etiam 
+      <lb ed="#P" n="33"/>post emancipationem cum filiis vel filiabus adoptantis 
+      <lb ed="#P" n="34"/>contrahitur matrimonium. secus est inter adoptantem 
+      <lb ed="#P" n="35"/>et adoptatum pontifex potest hic dispensare per totun 
+      <lb ed="#P" n="36"/>est ius positiuum humanum pape relictum. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

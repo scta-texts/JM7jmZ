@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 1</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 1</title>
+               <date when="2021-07-06">July 06, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-M4Saaa">Paris 1509</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-06" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="163-r"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="JM7jmZ-d90466"><!-- l4d35q1 -->
+            <head xml:id="JM7jmZ-d90466-Hd1e108">Quaestio 1</head>
+            <head xml:id="JM7jmZ-d90466-Hd1e111" type="question-title">
+      An licet
+      uxorem dimittere
+      ob solam
+      fornicationem
+    </head>
+            <p xml:id="JM7jmZ-d90466-d1e114">
+               <lb ed="#P" n="95"/>¶ Distinctionis trigesime quinte questio vnica. 
+      <lb ed="#P" n="96"/>CIrca istam distin. xxxv. quaero an licet vxorem di 
+      <lb ed="#P" n="97"/>mittere ob solam fornicationem.
+    </p>
+            <p xml:id="JM7jmZ-d90466-d1e123">
+      respondetur diuorti 
+      <lb ed="#P" n="98"/>um procuratur duobus modis: vno quo ad so 
+      <lb ed="#P" n="99"/>lutionem vinculi secundum apparentiam hominem vt inter 
+      con<lb ed="#P" n="100" break="no"/>sanguineos affines vel alias personas illegittimas 
+      <lb ed="#P" n="101"/>putabant homines ibi esse matrionium sed cum est contractum 
+      <lb ed="#P" n="102"/>verum matrinonium per carnalem copulam ex consensu vtri 
+      <lb ed="#P" n="103"/>usque nunquam dissoluitur vinculum. Aliomodo sit diuortium 
+      <lb ed="#P" n="104"/>quo ad thorum inter eos qui vere contraxerut et de illo men 
+      <lb ed="#P" n="105"/>bro in praesentiarum quarimus et affirmatiue respondetur ad titulum 
+      <lb ed="#P" n="106"/>quaestionis quod licet ob foruicationem carnaliter vxorem 
+      di<lb ed="#P" n="107" break="no"/>mittere. patet math. xix. dico ant vobis quod quicunque dimis 
+      <lb ed="#P" n="108"/>tit vxorem suam nisi ob fornicationem et aliam duxerit me 
+      <lb ed="#P" n="109"/>chatur tota conclusio exceptiua probatur per illud dictum christi ide 
+      <lb ed="#P" n="110"/>patet de fornicatione spirituali hoc est si quis labatur in he 
+      <lb ed="#P" n="111"/>resim. patet de diuor. c. de illa. xxviii. q. i. idolatria. et 
+      <lb ed="#P" n="112"/>ratio huius est quia talis peccat contra fedus matrionis 
+      <lb ed="#P" n="113"/>ergo merito venit priuandus vel priuanda iure quod habet 
+      <lb ed="#P" n="114"/>in alio frangenti fidem frangetur fides eidem ipsa 
+      <lb ed="#P" n="115"/>violat fidem quam debet obseruare erga virum 
+      <!--341.xml-->
+      <pb ed="#P" n="163-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>et suum corpus communicat alteri nec sufficit con 
+      <lb ed="#P" n="2"/>sensus viri ad hoc quod ipsa commisceatur alteri cum 
+      <lb ed="#P" n="3"/>actus est iure diuino prohibitus: ergo vir non tenetur ei sen 
+      <lb ed="#P" n="4"/>uare fidem et hoc si ipa culpabiliter alteri commisceatur 
+      <lb ed="#P" n="5"/>et congruum est istud vt pena vnius multis cedat in 
+      <lb ed="#P" n="6"/>exemplum propterea regina vasti repudiata est ab 
+      as<lb ed="#P" n="7" break="no"/>suero vt ceteris cederet in exemplum hester primo 
+      <lb ed="#P" n="8"/>istud patet. tricesima secunda. questione sexta et septima 
+      <lb ed="#P" n="9"/>ad longum in isto casu licet viro ire ad religionem vel here 
+      <lb ed="#P" n="10"/>mum sic paulus simplex heremita cucurrit ad antho 
+      <lb ed="#P" n="11"/>nium. dixi ex culpa si in srptente viri ex errore inuincibili 
+      <lb ed="#P" n="12"/>ipsa esset cognita vel credens virum mortuum contrahe 
+      <lb ed="#P" n="13"/>ret cum alio vel quando violenter opprimitur vel in in fidelita 
+      <lb ed="#P" n="14"/>te dat vxori libellum repudii rediens ad fidem cogetur suan 
+      <lb ed="#P" n="15"/>recipere si ipsa redire voluerit: sed si fuerit vir 
+      adulte<lb ed="#P" n="16" break="no"/>ratus ex altera parte sicut ipsa cogetur eam suscipere quo ad 
+      <lb ed="#P" n="17"/>thorum et redditionem debiti. patet de diuor. c. significasti. 
+      <lb ed="#P" n="18"/>vel si eam suscepit post fornicationem post diuortium ho 
+      <lb ed="#P" n="19"/>modo mulier perdit dotem. patet de dona. inter vi. et vxo 
+      <lb ed="#P" n="20"/>c. plerumque. in diuortio primous cum non erat matrio 
+      <lb ed="#P" n="21"/>nium restituenda est dos et donatio vt clarum est.
+    </p>
+            <p xml:id="JM7jmZ-d90466-d1e217">
+      ¶ Ex i 
+      <lb ed="#P" n="22"/>patent propositiones. prima. homo reperit bonum modum intran 
+      <lb ed="#P" n="23"/>di religionem et in magnam penam vxoris non potentis habere 
+      <lb ed="#P" n="24"/>virum. secundo patet si berta dominica adulteretur sortes lune potest 
+      <lb ed="#P" n="25"/>negare ei debitum et si sortes postea adulteratur non est 
+      <lb ed="#P" n="26"/>ita liber sicut an cum abusus est suo priuilegio et similes 
+      <lb ed="#P" n="27"/>culpe simili pena mulctande veniunt sed si vxoris peccatum 
+      <lb ed="#P" n="28"/>sit publicum et viri occultum male ageret eam relinquen 
+      <lb ed="#P" n="29"/>do licet in foro ecclesie praet ad hoc agere cum mulieri non pre 
+      <lb ed="#P" n="30"/>probatio. Sed dubitatur an virpotet sine auctoritate ecclesie 
+      <lb ed="#P" n="31"/>vxorem fornicantem dimittere distinguitur vel quantum ad tho 
+      <lb ed="#P" n="32"/>rum solum et dicitur quod sic negando ei debitum quousque com 
+      <lb ed="#P" n="33"/>pellatur auctoritate eccle si ante voluntarie reddat 
+      de<lb ed="#P" n="34" break="no"/>bitum incurrit notam irregularitatis et generat sibi praeiu 
+      <lb ed="#P" n="35"/>ditium accusationis si autem compulsus fuerit incurrit 
+      <lb ed="#P" n="36"/>notam irregularitatis sed non gnonat sibi praeiudicium acci 
+      <lb ed="#P" n="37"/>sationis non debet dimittere eam quo ad thorum et cohabi 
+      <lb ed="#P" n="38"/>tationem sine iudicio eccle non debet esse iudex in 
+      propria<lb ed="#P" n="39" break="no"/>cam et publica pena quemadmodm contingit de illa seperatio 
+      <lb ed="#P" n="40"/>ne. Sed subdubitas an vir debet accusare vxorem: respondetur 
+      <lb ed="#P" n="41"/>vel peccatum est occultum et tunc non debet eam accusare quia 
+      <lb ed="#P" n="42"/>subcumberet in probatione summe viro euitandum est 
+      <lb ed="#P" n="43"/>non habere pro leui motiuo malam suspitionem de vxore 
+      <lb ed="#P" n="44"/>proptermlta mala quae ex hoc contingunt. stat eam esse innocen 
+      <lb ed="#P" n="45"/>tem et sic egotis morbo laborabis a quo omnes medici tue 
+      <lb ed="#P" n="46"/>vrbis te curare nequnt et si ipsa sit nocens non min 
+      <lb ed="#P" n="47"/>torquaberis hereditatem et familiam confundes toti vici 
+      <lb ed="#P" n="48"/>nie eris fabula torqueberis tristicia. quocirca non 
+      fa<lb ed="#P" n="49" break="no"/>cias nimis magnam explorationem de sua castitate nec 
+      <lb ed="#P" n="50"/>seruis fidem des leui suspitione ductis qui de ea ma 
+      <lb ed="#P" n="51"/>le loquuntur sed hos argue vt desistant dicas mulieri si 
+      <lb ed="#P" n="52"/>ei consteterit te non credere: prouerbialiter dicitur ille lauat 
+      <lb ed="#P" n="53"/>laterem qui castigat mulierem. existimes filios legittime 
+      <lb ed="#P" n="54"/>a te productos dato quod sit ab alia cognito stat 
+      pue<lb ed="#P" n="55" break="no"/>ros esse tuos erudiantur in moribus et relique eis heredi 
+      <lb ed="#P" n="56"/>tatem te diligent vt patrem dato quod eorum pater non sis in hoc 
+      <lb ed="#P" n="57"/>tu non peccas: proptereanon est magnanimi viri am 
+      <lb ed="#P" n="58"/>plius insistere circa mulierem. si potest illud peccatum 
+      <lb ed="#P" n="59"/>probare et ipa est corrigibilis potest illam accusare sed non 
+      <!--341.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="60"/>tenetur si non videatur corrigibilis debet illam corrigere ne 
+      <lb ed="#P" n="61"/>fautor crimins videatur et sic intelliguntur auctoritates in 
+      <lb ed="#P" n="62"/>lostera. At dicis non potest succumbere in probatione ad 
+      di<lb ed="#P" n="63" break="no"/>uortium si probet erit separatio si non probet per legem 
+      ta<lb ed="#P" n="64" break="no"/>lionis puniendus est illa pena quae voluit mulierem esse puni 
+      <lb ed="#P" n="65"/>endam: g erit diuortium negeturquod erit hec pena talionis 
+      <lb ed="#P" n="66"/>coram iudice quando agit ad correctionem.
+    </p>
+            <p xml:id="JM7jmZ-d90466-d1e322">
+      ¶ Circa eandem 
+      <lb ed="#P" n="67"/>distin. quaero an dimittens vxorem propter fornicationem 
+      <lb ed="#P" n="68"/>potest aliam ducere. respondetur negatiue. probatio in noua le 
+      <lb ed="#P" n="69"/>ge non licet viro habere ptlures vxores sed istud sequeretur si 
+      vi<lb ed="#P" n="70" break="no"/>ro dimittenti vxorem liceret cum alia contrahere vinculum 
+      <lb ed="#P" n="71"/>matrionii non tollitur per sententiam diuortii. patet. xxxii. q. vii. 
+      <lb ed="#P" n="72"/>c. vsque a deo. insuper diuortium est in odium nocentis et in 
+      <lb ed="#P" n="73"/>fauorem innocent sed si per diuortium separetur vinculum matrino 
+      <lb ed="#P" n="74"/>nii tunc esset equae vel plus in fauorem nocenti sicut innocentis 
+      <lb ed="#P" n="75"/>ergo per diuortium non soluitur matrionium quia sic sicut vir no 
+      <lb ed="#P" n="76"/>cens potest mulierem ducere sic mulier fornicans cum vin 
+      <lb ed="#P" n="77"/>culum esset solutum. Sed contra illud argumentor ma 
+      <lb ed="#P" n="78"/>thei. xix. dicit dominus quicunque dimiserit vxorem suam nisiob 
+      <lb ed="#P" n="79"/>fornicationem et aliam duxerit mechatur: ergo propter forni 
+      <lb ed="#P" n="80"/>cationem licet vxorem dimittere et aliam ducere. dicitur loquabatur 
+      <lb ed="#P" n="81"/>christus ad phariseos et pro illo trmptre fornicatrix 
+      lapida<lb ed="#P" n="82" break="no"/>batur et sic licuit viro aliam mulierem cape. Secundo pro 
+      <lb ed="#P" n="83"/>hrate legis gorta dicitur erat dimissio quo ad thorum et solum 
+      <lb ed="#P" n="84"/>bro fornicatione et nisi non excipit secundam partem imo 
+      <lb ed="#P" n="85"/>simpliciter qui aliam duxerit mechatur et qui dimissam duxerit 
+      <lb ed="#P" n="86"/>mechatur marci. x. non ponitur exceptio. dicitur quicunque 
+      di<lb ed="#P" n="87" break="no"/>miserit vxorem suam et aliam duxerit adulterium committit 
+      <lb ed="#P" n="88"/>super eam et si vxor dimiserit virum suum et alteri nupserit 
+      <lb ed="#P" n="89"/>mechatur. idem patet luce. xvi. Sed hoc dubitatur an adulte 
+      <lb ed="#P" n="90"/>ra post praesentiam potest dicere se non esse adulteram. 
+      Se<lb ed="#P" n="91" break="no"/>cundo an licet vxorem compartam in adulterio occidere 
+      <lb ed="#P" n="92"/>Tertio dubitatur an virpoest reconciliare vxorem dimis 
+      <lb ed="#P" n="93"/>sam. Ad primum dicitur quod sic postquam penituit sufficienter 
+      <lb ed="#P" n="94"/>et constat ei quod iam habet bonum propositum castitatis seruan 
+      <lb ed="#P" n="95"/>de potest se negare esse adulteram quia nec est actu vel ha 
+      <lb ed="#P" n="96"/>bitu adultura et dato quod habitum adulterii habuerit 
+      remis<lb ed="#P" n="97" break="no"/>sum vel intensum cum actum castitatis coniugalis oppons 
+      <lb ed="#P" n="98"/>habeat non reffert. Secundo dicitur non licet liuore vindicte 
+      <lb ed="#P" n="99"/>et auctoritate propria sicut ad cirurgicum partinet 
+      ampu<lb ed="#P" n="100" break="no"/>tare membrum quod reliquum corpus inficit cui est 
+      commis<lb ed="#P" n="101" break="no"/>sa cura corporis veri sic in corpore mistico occidere per 
+      <lb ed="#P" n="102"/>sonam singularem quae est membrum communitatis non licet nisi illa 
+      <lb ed="#P" n="103"/>cui est comissa cura communitatis vt persona quae vtitur aucto 
+      <lb ed="#P" n="104"/>ritate publica in politia paterfamilias tamen in congre 
+      <lb ed="#P" n="105"/>gatione iconomica cui praesidet potest deffectus emer 
+      <lb ed="#P" n="106"/>gentes alia via quam per interuetium corrigere si eam repe 
+      <lb ed="#P" n="107"/>riat non debet eam occidere licet in aliquo casu liceat 
+      secum<lb ed="#P" n="108" break="no"/>dum legem humanam vt glo. dicit. xxxiii. q. ii. inter hec. 
+      <lb ed="#P" n="109"/>argu. est ad hoc. C. ad leg. iul. de adul. l. graccus.: Ter 
+      <lb ed="#P" n="110"/>tio dicitur quod modus ille est rigorosus quo adultera 
+      <lb ed="#P" n="111"/>brobata talis occiditur in foro exteriori scilicet ciuili quia in 
+      <lb ed="#P" n="112"/>foro canonico non licet vt est in multis locis hispania 
+      <lb ed="#P" n="113"/>rum et durum in lege gratie viso quod christus liberauit 
+      <lb ed="#P" n="114"/>mulierem dephensam in adulterio ioh. viii. sed ex illa non 
+      <lb ed="#P" n="115"/>conuincitur quod perperam agant vbi est lex statuens mu 
+      <lb ed="#P" n="116"/>lieres taliter debere puniri dummoo proceditur coram 
+      <lb ed="#P" n="117"/>iudice competente et mediis licitis nec hoc est iudaisare 
+      <lb ed="#P" n="118"/>obligatio non venit a lege mosaica sed a lege scripta 
+      <!--342.xml-->
+      <pb ed="#P" n="164-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>principis vel consuetudinis paterie. Ad tertiam dubitatio 
+      <lb ed="#P" n="2"/>nem dicitur quod aut mulier est corrigibilis aut non: si secundum non 
+      <lb ed="#P" n="3"/>est reconcilianda si est correcta potest eam reconliare diuortium 
+      <lb ed="#P" n="4"/>est introductum in fauorem innocentis et iure suo re 
+      <lb ed="#P" n="5"/>nunciare potest in casu in quo potest fieri reconciliatio 
+      <lb ed="#P" n="6"/>aut vterque concordat in reconciliationem aut vterque 
+      di<lb ed="#P" n="7" break="no"/>scordat aut vnus concordat et alter discordat: si 
+      pri<lb ed="#P" n="8" break="no"/>mum debet fieri reconciliatio si secundum non debet 
+      <lb ed="#P" n="9"/>si tertium dupliciter: aut innocens petit 
+      reconcilia<lb ed="#P" n="10" break="no"/>tionem et tunc debet fieri cum innocens per 
+      diuor<lb ed="#P" n="11" break="no"/>tium non amisit ius quod habet in altero aut nocens pe 
+      <lb ed="#P" n="12"/>tit innocentem et tunc non debet cogi innocens quia 
+      <lb ed="#P" n="13"/>penitentia non tollit actionem. xxxiiii. q. ii. c. 
+      admo<lb ed="#P" n="14" break="no"/>nere. et multo minus exceptionem cum facilius tollitur ac 
+      <lb ed="#P" n="15"/>tio quam exceptio aut nocens petit nocentem vt mul 
+      <lb ed="#P" n="16"/>er que prius fornicata est petit virum qui post diuor 
+      <lb ed="#P" n="17"/>tium fornicatus est videtur quod vir non est cogendus 
+      <lb ed="#P" n="18"/>redire ad vxorem sed in foro conscientie videtur quod 
+      <lb ed="#P" n="19"/>sic nisi eat ad ordines vel ad religionem si velit 
+      ali<lb ed="#P" n="20" break="no"/>quod eorum non tenetur quia tunc preiudicaret sibi co 
+      <lb ed="#P" n="21"/>gnoscendo vxorem plus fornicatam. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

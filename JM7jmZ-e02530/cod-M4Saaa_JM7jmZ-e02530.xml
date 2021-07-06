@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 2</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 2</title>
+               <date when="2021-07-06">July 06, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-M4Saaa">Paris 1509</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-06" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="184-v"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="JM7jmZ-e02530"><!-- l4d41q2 -->
+            <head xml:id="JM7jmZ-e02530-Hd1e108">Quaestio 2</head>
+            <head xml:id="JM7jmZ-e02530-Hd1e111" type="question-title">
+      An fornicatio simplex
+      sit magnum peccatum
+    </head>
+            <p xml:id="JM7jmZ-e02530-d1e114">
+               <lb ed="#P" n="68"/>¶ Distinctionis quadragesime prime quaestio secunda. 
+      <lb ed="#P" n="69"/>SEcundo quaeritur circa hanc materiam an 
+      for<lb ed="#P" n="70" break="no"/>nicatio simplex sit magnum peccatum.
+    </p>
+            <p xml:id="JM7jmZ-e02530-d1e123">
+      Pro 
+      <lb ed="#P" n="71"/>ps solutione notabis fornicatio dicitur simplex 
+      <lb ed="#P" n="72"/>ad discrimen fornicationis quae interdum extenditur vt cum 
+      <lb ed="#P" n="73"/>luxuria conuertatur ad significandum discrimen additur sim 
+      <lb ed="#P" n="74"/>plex. Dicitur etiam simplex ad seperandas alias spnes 
+      <lb ed="#P" n="75"/>luxurie ab actu et quia solent esse hic alique difficul 
+      <lb ed="#P" n="76"/>tates vna an naturaliter potest probari quod fornicatio 
+      <lb ed="#P" n="77"/>simplex est peccatusm mortale. secunda difficultas an 
+      <lb ed="#P" n="78"/>potest hoc ostendi ex sacris licteris. tertia de eius 
+      <lb ed="#P" n="79"/>magnitudine in ordine ad furtum: de omnibus istis pauca 
+      <lb ed="#P" n="80"/>tangam. In primis videtur michi difficile ostendere quod 
+      <lb ed="#P" n="81"/>fornicatio simplex est peccatum mortale in lumine 
+      na<lb ed="#P" n="82" break="no"/>turali hoc est seclusa fide et sit illa prima conclusio. 
+      <lb ed="#P" n="83"/>Secunda conclusio potest probari quod est fornicatio 
+      sim<lb ed="#P" n="84" break="no"/>plex prohibita de iure diuino. In primis ista declara 
+      <lb ed="#P" n="85"/>buntur et demum descendam in tertiam difficultatem ratio 
+      <lb ed="#P" n="86"/>nes aliorum non concludunt quod omnis talis concubitus est con 
+      <lb ed="#P" n="87"/>tra ius nature saltem ex argumentis eorum quod proles 
+      reli<lb ed="#P" n="88" break="no"/>ligiose educabitur hoc non vincitur. patet in muliere 
+      se<lb ed="#P" n="89" break="no"/>ne vel quando conueniunt pater et mater quod puer bene edu 
+      <lb ed="#P" n="90"/>cabitur. Si dicas peccat mulier senex sinendo se 
+      co<lb ed="#P" n="91" break="no"/>gnosci hoc fateor quod nobis constat per ius diuinum 
+      <lb ed="#P" n="92"/>sed non probatur hoc naturaliter non est contra vitam 
+      <lb ed="#P" n="93"/>hominis nascituri possunt tamen adduci rationes apparen 
+      <lb ed="#P" n="94"/>tes quod fornicatio simplex est contra ius nature in 
+      qui<lb ed="#P" n="95" break="no"/>bus non insisto cum non sit necesse. Secunda conclusio 
+      <lb ed="#P" n="96"/>est fornicatio simplex est probibita iure diuino in vtro 
+      <lb ed="#P" n="97"/>que testamento. in veteri patet deuteronomii. xxiii. non 
+      <lb ed="#P" n="98"/>erit meretrix de filiabus israel. in nouo patet in 
+      praece<lb ed="#P" n="99" break="no"/>ptis et prohibitionibus decalogi per mechiam. si dicas per 
+      <lb ed="#P" n="100"/>mechiam intelligitur adulterium etiam per fornicationes 
+      <lb ed="#P" n="101"/>intelligitur adulterium vt patet per illud. mathei. xix. 
+      qui<lb ed="#P" n="102" break="no"/>cunque vxorem dimiserit excepta causa fornicationis 
+      <lb ed="#P" n="103"/>ibi fornicatio valet adulterium: sed hic dicit beatus au 
+      <lb ed="#P" n="104"/>gustinus: an omnis fornicatio potest dici mechia non oc 
+      <lb ed="#P" n="105"/>currit ei exemplum et est difficile ei ostendere vbi sim 
+      <lb ed="#P" n="106"/>plex fornicatio prohibeatur in praeceptis decalogi si non 
+      <lb ed="#P" n="107"/>mechia omns sit simplex fornicatio postea dicit per 
+      <lb ed="#P" n="108"/>furtum prohibetur omnis contrectatio rei aliene rapina 
+      <lb ed="#P" n="109"/>in furto includitur sic simplex fornicatio includitur in 
+      <lb ed="#P" n="110"/>adulterio et statim dicit non esse simile bene ad prohibitio 
+      <lb ed="#P" n="111"/>nem minoris prohibetur maius vtualiter in illo 
+      inclu<lb ed="#P" n="112" break="no"/>sum quemadmodum est inter furtum et rapinam non tamen 
+      <lb ed="#P" n="113"/>econuerso vt est inter mechiam et fornicationem simplicem 
+      <lb ed="#P" n="114"/>fateor probatio esset inefficax sed eam pro probatione 
+      <lb ed="#P" n="115"/>non adducit sed aliqualem similitudinem ostendens et videns pro 
+      <lb ed="#P" n="116"/>bationem inefficacem concludendo dixit. michi videtur per 
+      <!--384.xml-->
+      <pb ed="#P" n="185-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>mechiam intelligitur omnis concubitus non vxorarius 
+      pro<lb ed="#P" n="2" break="no"/>hibitus considera vlterius non dixit non occurrit 
+      mi<lb ed="#P" n="3" break="no"/>chi in scriptura sed in praeceptis decalogi vbi prohibeatur 
+      <lb ed="#P" n="4"/>sunt alia loca que ego introducam. vt. i. corinth. vii. 
+      <lb ed="#P" n="5"/>bropter fornicationem autem vnusquisque suam vxorem 
+      ha<lb ed="#P" n="6" break="no"/>peat et vnaqueque suum virum engo ibi prohibetur sim 
+      <lb ed="#P" n="7"/>plex fornicatio. Forte dicis per fornicationem adulte 
+      <lb ed="#P" n="8"/>rium intelligitur hoc est contra intentionem illius capitis 
+      <lb ed="#P" n="9"/>manifeste paulopost sequitur quod si se non continent nu 
+      <lb ed="#P" n="10"/>pant et constat simplicem fornicationem non vocat 
+      continen<lb ed="#P" n="11" break="no"/>tiam et melius est nubere quam vri profecto cuilibet con 
+      <lb ed="#P" n="12"/>tat si reputasset simplicem fornicationem licitam non fuis 
+      <lb ed="#P" n="13"/>set opus vri cuicumque neque nubere per fornicationem 
+      <lb ed="#P" n="14"/>simplicem daretur remedium si ipsa esset licita. Insuper 
+      <lb ed="#P" n="15"/>prime corinthi. vi. nolite errare neque fornicari neque 
+      <lb ed="#P" n="16"/>dolis seruientes neque adulteri neque molles regnum 
+      <lb ed="#P" n="17"/>dei possidebunt non adiunxisset cum adulterio si non pro 
+      <lb ed="#P" n="18"/>simplici accepisset. hoc patet ad galath. v. ad 
+      ephe<lb ed="#P" n="19" break="no"/>seos. v. et ad tessa. iiii. patet consideranti literam quia 
+      gem<lb ed="#P" n="20" break="no"/>tiles existimabant aliquam licitam crebro vetuit aposto 
+      <lb ed="#P" n="21"/>lus non est opus introducere determinationes huma 
+      <lb ed="#P" n="22"/>nas est error centesimus octuagesimus sextus in 
+      articu<lb ed="#P" n="23" break="no"/>lis perisiensibus dicere simplicem fornicationem non esse 
+      <lb ed="#P" n="24"/>peccatum. Ex isto infero quod greci tenentes inconcusse sim 
+      <lb ed="#P" n="25"/>plicem fornicationem non esse peccatum sunt heretici 
+      <lb ed="#P" n="26"/>hoc correlarium est contra martinum. questi. iii. de luxu 
+      <lb ed="#P" n="27"/>ria. probo correlarium omnis tenens heresim cum 
+      parti<lb ed="#P" n="28" break="no"/>nacia est hereticus: omnis grecus tenens simplicem forni 
+      <lb ed="#P" n="29"/>cationem non esse peccatum tenet heresim cum partinacia: ergo 
+      <lb ed="#P" n="30"/>omnis grecus tenens simplicem fornicationem non esse 
+      <lb ed="#P" n="31"/>peccatum est hereticus: consequentia est in barbara et ma 
+      <lb ed="#P" n="32"/>ior est clara quia in ea praedicatur diffinitum de diffinitione 
+      <lb ed="#P" n="33"/>heresis est dogma falsum fidei orthodoxe contrarium 
+      <lb ed="#P" n="34"/>non quilibet tenens heresim est hereticus sed requiritur 
+      <lb ed="#P" n="35"/>partinacia: tunc est partinacia quando homo tenet illud quod 
+      <lb ed="#P" n="36"/>peberet non tenere postquam est grecis ostensum 
+      rationa<lb ed="#P" n="37" break="no"/>biliter quod simplex fornicatio est peccatum ergo 
+      tenen<lb ed="#P" n="38" break="no"/>tes oppositum sunt pertinaces quod sit dogma falsum 
+      <lb ed="#P" n="39"/>sidei orthodoxe contrarium. patet ex locis allegatis  
+      <lb ed="#P" n="40"/>martinus nititur euacuare aliquas rationes 
+      guido<lb ed="#P" n="41" break="no"/>nis carmelite vide eum in hoc non videtur martino quod 
+      <lb ed="#P" n="42"/>potest accipi vnus locus in sacris licteris in quo proba 
+      <lb ed="#P" n="43"/>retur contra grecum vel gentilem quod fornicatio simplex 
+      <lb ed="#P" n="44"/>est peccatum quod est falsum. Insuper ostendam quod 
+      pa<lb ed="#P" n="45" break="no"/>rum vel nichil in eadem questione martinus distat a 
+      com<lb ed="#P" n="46" break="no"/>tradictione incompossibilia coadunans martinus postquam 
+      <lb ed="#P" n="47"/>nulla ei occurrit ratio ex sacris licteris ad probandum 
+      <lb ed="#P" n="48"/>quod simplex fornicatio est peccatum accipit vnam quod 
+      <lb ed="#P" n="49"/>fornicatio est peccatum mortale sic arguit. Nam 
+      <lb ed="#P" n="50"/>non solum illa de necessitate fidei sunt credenda que 
+      <lb ed="#P" n="51"/>sunt expressa in sacris scripturis sed etiam que sine 
+      <lb ed="#P" n="52"/>scripturis per successiuam relationem paterum vsque ad  
+      <lb ed="#P" n="53"/>nos peruenerunt sed a christo vsque ad hec tempora praeteres 
+      <lb ed="#P" n="54"/>ecclesie semper posterioribus fornicationem simplicem 
+      <lb ed="#P" n="55"/>iter mortalia peccata tradiderunt et illa semper in ed 
+      <lb ed="#P" n="56"/>clesia pro certo et indubitato habitum est: igitur: si in hac 
+      <lb ed="#P" n="57"/>ratione quieuisset non luctatus fuissem cum viro sed vide 
+      <lb ed="#P" n="58"/>quid dicat in solutione ad quartum guidonis 
+      carmeli<lb ed="#P" n="59" break="no"/>te et quas fingit equiuocationes et ad tergeuerisan¬ 
+      <!--384.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="60"/>dum fornicationem simplicem non esse peccatum vel dato 
+      <lb ed="#P" n="61"/>quod sit peccatum greci non sunt heretici. dirigam suum quartum 
+      <lb ed="#P" n="62"/>argumentum in forma et maiore fortitudine vt nichil ro 
+      <lb ed="#P" n="63"/>boris amittat sed potius acquirat. non solum illud est de 
+      <lb ed="#P" n="64"/>iure diuino quod continetur in sacris litteris vel ex hiis 
+      <lb ed="#P" n="65"/>sequitur sed etiam omne illud quod accepimus a deo 
+      in<lb ed="#P" n="66" break="no"/>pubitanter per apostolos et patres nostros. secundum illud 
+      <lb ed="#P" n="67"/>iohannis vltimo. multa quidam signa fecit iesus quae non 
+      <lb ed="#P" n="68"/>sunt scripta in libro hoc ille est secundus gradus iuris 
+      <lb ed="#P" n="69"/>piuini secundum alios quintus quorum multiplicatio est inanis 
+      <lb ed="#P" n="70"/>ed in hoc non multum refert est vnus gradus iuris 
+      di<lb ed="#P" n="71" break="no"/>uini quicquid sit sed nullus in ecclesia latina tenuit quod for 
+      <lb ed="#P" n="72"/>nicatio simplex non est peccatum et cum homines sint 
+      <lb ed="#P" n="73"/>procliues ad illecebram signum est manifestissimum quod hoc 
+      <lb ed="#P" n="74"/>venit a christo ad apostolos ab apostolis ad patres no 
+      <lb ed="#P" n="75"/>stros et maiores et ab eis ad nos: ergo illud est de 
+      <lb ed="#P" n="76"/>iure diuino. de gannionibus non instandum est dicerent 
+      <lb ed="#P" n="77"/>psi adulterium non esse peccatum nec de grecis refert 
+      <lb ed="#P" n="78"/>vt patet ex eorum erroribus quam plorimis omnia ista mar 
+      <lb ed="#P" n="79"/>tinus concedere habet et per consequens tenens oppo 
+      <lb ed="#P" n="80"/>situm huius gradus tenet heresim ostensam ei esse ta 
+      <lb ed="#P" n="81"/>lem ergo est partinax tenens heresim ergo est 
+      hereti<lb ed="#P" n="82" break="no"/>cus quod erat probandum quod parum vel nichil a contradi 
+      <lb ed="#P" n="83"/>ctione differebat.
+    </p>
+            <p xml:id="JM7jmZ-e02530-d1e416">
+      ¶ Sed contra hanc conclusionem ar 
+      <lb ed="#P" n="84"/>gumentor probando quod simplex fornicatio non est pec 
+      <lb ed="#P" n="85"/>catum. Tum primo ius ciuile admittit concubinatum. 
+      <lb ed="#P" n="86"/>Tum secundo deus precepit osee fornicari. patet osee 
+      <lb ed="#P" n="87"/>primo. sume tibi vxorem fornicariam et fac tibi filios 
+      <lb ed="#P" n="88"/>fornicationum. Tum tertio enumeratur cum hiis que non 
+      <lb ed="#P" n="89"/>sunt peccata. patet actuum. xv. Ad primum dicitur ius 
+      <lb ed="#P" n="90"/>ciuile admittit aliqua contra ius diuinum vt est 
+      vsu<lb ed="#P" n="91" break="no"/>ra incantatio contra ventos et nubes. patet in lege eorum 
+      <lb ed="#P" n="92"/>C. de male. et mat. de prescriptione male fidei sed 
+      ex<lb ed="#P" n="93" break="no"/>illo coloratur quod simplex fornicatio non est peccatum 
+      <lb ed="#P" n="94"/>contra legem nature dixi coloratur non est sufficiens argu 
+      <lb ed="#P" n="95"/>mentum. Si petas an dominus iustinianus erat propterea 
+      he<lb ed="#P" n="96" break="no"/>reticus. dico quod non esto quod christianus erat ipse libros 
+      <lb ed="#P" n="97"/>uris non composuit sed approbauitsupponens eos 
+      <lb ed="#P" n="98"/>qui eruditi erant in legibus bene composuisse. Et si 
+      di<lb ed="#P" n="99" break="no"/>cas supponitur quod omnes leges sunt in corde 
+      prici<lb ed="#P" n="100" break="no"/>pis. Ad hoc duo dico primum est vix cortex legum 
+      <lb ed="#P" n="101"/>est in archa eius. Secundum est sunt in corde eius 
+      <lb ed="#P" n="102"/>id est in corde assistentium qui etiam possunt dici 
+      <lb ed="#P" n="103"/>eius cor supposito quod bene regat. Ad secundum 
+      <lb ed="#P" n="104"/>negatur quod deus precepit prophete fornicari: sed  
+      <lb ed="#P" n="105"/>deus praecepit ei capere mulierem fornicariam hoc est ido 
+      <lb ed="#P" n="106"/>latram vel fornicatricem carnaliter et illam caperet in 
+      vxo<lb ed="#P" n="107" break="no"/>rem et acciperet ei per adoptionem filios illius 
+      mulie<lb ed="#P" n="108" break="no"/>ris. Ad tertium dicitur quod illa ibi enumerata non 
+      enume<lb ed="#P" n="109" break="no"/>rantur propter culpam sed propter discidium inter gentes 
+      <lb ed="#P" n="110"/>et iudeos gentiles putabant simplicem fornicationem esse 
+      <lb ed="#P" n="111"/>licitam cuius oppositum tenuerunt iudei et abhominabant 
+      <lb ed="#P" n="112"/>vsum immolaticii cruoris. propterea apostolus ista 
+      interdi<lb ed="#P" n="113" break="no"/>cit gentibus vt iudei et gentiles pacifice cohabitarent 
+      <lb ed="#P" n="114"/>sed aduerte quod concubine interdum in scriptura loco vera 
+      <lb ed="#P" n="115"/>rum vxorum accipiuntur vide iudith. xix. et. ii. regum. xvi 
+      <lb ed="#P" n="116"/>vbi architofel consuluit absaloni ingredi ad 
+      concubi<lb ed="#P" n="117" break="no"/>nas dauid et tamen erant vere vxores dauid licet minus 
+      <lb ed="#P" n="118"/>brincipales sicut erant ancile abrahe et iacob. De ter 
+      <!--385.xml-->
+      <pb ed="#P" n="185-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>tia difficultate beatus thomas dicit fornicationem 
+      <lb ed="#P" n="2"/>simplicem esse maius peccatum quam furtum martinus 
+      <lb ed="#P" n="3"/>tenet oppositum non est facile in peccatis distinctis sem 
+      <lb ed="#P" n="4"/>per ostendere quod est maius quod vero minus et sic arguo 
+      <lb ed="#P" n="5"/>Furari turonum est minus peccatum quam cognoscere 
+      <lb ed="#P" n="6"/>hanc solutam demonstrando solutam honestam mulierem 
+      <lb ed="#P" n="7"/>ergo furtum aliquod est minus peccatum quam hec simpley 
+      <lb ed="#P" n="8"/>fornicatio tu hoc concedis sed cetera sunt imperia. quaero 
+      <lb ed="#P" n="9"/>a te quid vocas hic cetera peria. si dicas maximum indi 
+      <lb ed="#P" n="10"/>uiduum furti comparare oportet ad maximum indiuiduum 
+      for<lb ed="#P" n="11" break="no"/>nicationis peto a te vt des michi pessimum indiuiduu 
+      <lb ed="#P" n="12"/>fornicationis simplicis et pessimum furti in istis non potest 
+      <lb ed="#P" n="13"/>dari regula generalis de cremento vnius peccati suf 
+      <lb ed="#P" n="14"/>aliud. Rursus quando habes quod pessimum indiuiduum vnius 
+      <lb ed="#P" n="15"/>peccati est peius pessimo indiuiduo alterius non potes 
+      <lb ed="#P" n="16"/>aliud concludere nisi vnam totam multitudinem cathego 
+      <lb ed="#P" n="17"/>reumatice esse alia peiorem cum qua conclusione dabis 
+      <lb ed="#P" n="18"/>mlta indiuidua fornicationis mltis indiuiduis furti pe 
+      <lb ed="#P" n="19"/>iora et econuerso et sic remanebis dubius an hoc pec 
+      <lb ed="#P" n="20"/>catum est illo maius minus vel equale in omnibus 
+      tali<lb ed="#P" n="21" break="no"/>bus considerande sunt circustantie et secundum hoc 
+      theolo<lb ed="#P" n="22" break="no"/>gus consideret: quare opus est theologo in audiend 
+      <lb ed="#P" n="23"/>confessione nec regule generales satisfaciunt sicut in mei 
+      <lb ed="#P" n="24"/>dicina non omnes regule date a galieno vel principi 
+      <lb ed="#P" n="25"/>abohali sufficiunt curare hunc patientem nisi medicus 
+      <lb ed="#P" n="26"/>consideret et patriam et complexionem et multa alia sic 
+      <lb ed="#P" n="27"/>crebro est in theologia non nego quin sint regule tenen 
+      <lb ed="#P" n="28"/>tes in multis per quas cognoscere poteris vnum pecce 
+      <lb ed="#P" n="29"/>tum aliud excedere regule moralis philosophie currunt pe 
+      <lb ed="#P" n="30"/>ri passu cum dant hic in vs facta. sed quicquid beatus  
+      <lb ed="#P" n="31"/>thomas dicat de fornicatione multe fornicationes 
+      <lb ed="#P" n="32"/>pluribus furtis sunt peiores hoc est verum nec 
+      mar<lb ed="#P" n="33" break="no"/>tinus sufficienter hoc improbat capiam potissimas ra 
+      <lb ed="#P" n="34"/>tiones suas quibus boc astruere elaborat argumen 
+      <lb ed="#P" n="35"/>tatur sic martinus expressius prohibetur furtum in 
+      praece<lb ed="#P" n="36" break="no"/>ptis decalogi datis moysi quam simplex fornicatio es 
+      <lb ed="#P" n="37"/>est prohibita per quandam sequelam quae non valet nisi aliquid 
+      <lb ed="#P" n="38"/>addatur: igitur. huic argumento respondetur concedendo 
+      <lb ed="#P" n="39"/>antecedens et nego consequentiam si dixisset sic non est fornica 
+      <lb ed="#P" n="40"/>tio simplex prohibita expresse in iure diuino antec 
+      <lb ed="#P" n="41"/>dens est negandum argumentum illud probaret quod fu 
+      <lb ed="#P" n="42"/>tum esset maius peccatum quam rapina que non est prohibi 
+      <lb ed="#P" n="43"/>ta nisi per sequelam similiter in decem preceptis decalogi 
+      <lb ed="#P" n="44"/>non prohibetur peccatum contra naturam in forma sed es 
+      <lb ed="#P" n="45"/>multo maius scelus quam furtum.
+    </p>
+            <p xml:id="JM7jmZ-e02530-d1e599">
+      ¶ Secundo argumen 
+      <lb ed="#P" n="46"/>tatur qui furatur facit contra preceptum diuinum et cum hoc 
+      <lb ed="#P" n="47"/>iniuriam proposito certo et determinato et toti reipubli 
+      <lb ed="#P" n="48"/>ce inquantum turbat statum eius pacificum hoc non contingi 
+      <lb ed="#P" n="49"/>in fornicatione.
+    </p>
+            <p xml:id="JM7jmZ-e02530-d1e610">
+      ¶ Respondetur fornicatio est contra 
+      <lb ed="#P" n="50"/>preceptum dei sicut furtum et violatur templum spiri 
+      <lb ed="#P" n="51"/>tus sancti scilicet homo et iniuria fit mulieri et mulier 
+      vi<lb ed="#P" n="52" break="no"/>ro facit iniuriam: esto quod ambo consentiant. Si dicas. v. 
+      <lb ed="#P" n="53"/>ethicorum. consentienti nulla fit iniuria verum est causis 
+      <lb ed="#P" n="54"/>superioribus et inferioribus consentientibus adde mu 
+      <lb ed="#P" n="55"/>ta alia mala inuoluuntur vt mendacia commessationes 
+      <lb ed="#P" n="56"/>et huiusmodi. facit aliquas alias rationes ad improbam 
+      <lb ed="#P" n="57"/>dum fornicationem esse peccatum eo quod nou fit contra 
+      <lb ed="#P" n="58"/>vitam hominis generandi ille currunt viis suis nolo 
+      di<lb ed="#P" n="59" break="no"/>cere fornicationem omnem esse peccatum eo quod est con 
+      <!--385.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="60"/>tra vitam hominis nascituri. Vlterius dicit furtum 
+      <lb ed="#P" n="61"/>nullam vtilitatem dicit / fornicatio vtilitatem interdum 
+      po<lb ed="#P" n="62" break="no"/>nit quia vitam hominis nascituri ponit hec ratio dependet 
+      <lb ed="#P" n="63"/>in falso numquam vtile separatur ab honesto secundum 
+      aristote<lb ed="#P" n="64" break="no"/>lem et tullium omne bonum vtile est honestum. si 
+      pe<lb ed="#P" n="65" break="no"/>tas quae fornicatio simplex est minus mala opinor quod 
+      <lb ed="#P" n="66"/>vaga cum vilibus personis et communibus propter minc 
+      <lb ed="#P" n="67"/>rem voluptatem pauca alia peccata inuoluuntur licet 
+      <lb ed="#P" n="68"/>maior sit allectio ex parte obiecti cum pulcra quam cum 
+      fe<lb ed="#P" n="69" break="no"/>da et minor libido cum turpi primum est multo 
+      pericu<lb ed="#P" n="70" break="no"/>losius secundo cui in remedio amoris astipulatur 
+      poe<lb ed="#P" n="71" break="no"/>ta consulens habere plures citius quam vnam vt amor 
+      di<lb ed="#P" n="72" break="no"/>minuatur. Si dicas plus peccat sortes cum tribus quam cum 
+      <lb ed="#P" n="73"/>vna: distingo vel plus extensiue conceditur intensiue nega 
+      <lb ed="#P" n="74"/>tur quod dixi de remedio amoris bene intelligas ma 
+      <lb ed="#P" n="75"/>le dat remedium ad fugiendum ab vno peccato saltando 
+      <lb ed="#P" n="76"/>in aliud meliora remedia superius data sunt. Si 
+      di<lb ed="#P" n="77" break="no"/>cas ouidius insequitur doctrinam aristotelis in 
+      secum<lb ed="#P" n="78" break="no"/>do ethicorum de illo qui vno vicio est irretitus consulit 
+      <lb ed="#P" n="79"/>aristoteles viro in aliud incidere: exemplum est de re 
+      <lb ed="#P" n="80"/>gula tortuosa que flectitur in oppositum ad hoc in 
+      ter<lb ed="#P" n="81" break="no"/>tio responsum est in materia vertutum quodo aristoteles 
+      <lb ed="#P" n="82"/>est intelligendus. Si dicas si ouidius propterea non 
+      <lb ed="#P" n="83"/>est legendus quia lasciuus et impudicus nec aliquis alius 
+      <lb ed="#P" n="84"/>de venereis tractans et per consequens nec sacre histo 
+      <lb ed="#P" n="85"/>rie vt de ouan et thamar de loth et filiabus eius de 
+      <lb ed="#P" n="86"/>dauid et bersabea de sodoma et gomorra et similibus 
+      <lb ed="#P" n="87"/>quia illa impudicitiam recitant. Respondetur duplices 
+      <lb ed="#P" n="88"/>sunt libri siue poete historici vel alii quidam multa 
+      <lb ed="#P" n="89"/>vicia recitant carnis et lasciua et turpiter 
+      reprehen<lb ed="#P" n="90" break="no"/>dunt more iuuenalis et prolixi sunt in recitatione sic 
+      <lb ed="#P" n="91"/>quod aures prurientes iuuenum commouent prohibentes 
+      vi<lb ed="#P" n="92" break="no"/>cia eadem docent scintillam talium non admitteret eenophon 
+      <lb ed="#P" n="93"/>apud cirum persarum et fateor tales libri non sunt 
+      <lb ed="#P" n="94"/>legendi potissimum ab adolescentibus dicente 
+      bapti<lb ed="#P" n="95" break="no"/>sta contra immpudice loquentes. Suntquibus eloquii 
+      <lb ed="#P" n="96"/>datur aurea vena poete: et cadit in sordes inficitur 
+      <lb ed="#P" n="97"/>que luto. Id caue quod tetrici possint audire catones. 
+      <lb ed="#P" n="98"/>Quod probet hippoliti penelopes que pudor esto quod 
+      <lb ed="#P" n="99"/>in fine carpant vicia libri tales parum vtilitatis 
+      am<lb ed="#P" n="100" break="no"/>plectuntur. alii sunt libri qui succinte vicia recitan 
+      <lb ed="#P" n="101"/>de viciis carnis loquor et modo honesto illa 
+      partra<lb ed="#P" n="102" break="no"/>ctant et in fine reprehendunt tales libri non sunt dan 
+      <lb ed="#P" n="103"/>di contemptui propter pauca inhonesta siue honesta 
+      <lb ed="#P" n="104"/>pertractata de sacris historiis omnia diuinitus 
+      in<lb ed="#P" n="105" break="no"/>spirata sunt et eloquia domini eloquia casta. Et si dicas 
+      <lb ed="#P" n="106"/>iudas. gener. xxxviii. non horruit fornicationem et tamen 
+      <lb ed="#P" n="107"/>horruit mendacium: ergo mendacium est maius 
+      pecca<lb ed="#P" n="108" break="no"/>tum quam simplex fornicatio sed aliquod mendacium est 
+      ve<lb ed="#P" n="109" break="no"/>niale peccatum: ergo aliqua fornicatio simplex est ve 
+      <lb ed="#P" n="110"/>niale vel non peccatum. Respondetur horrere vnum 
+      <lb ed="#P" n="111"/>peccatum plusquam aliud non arguit vnum esse maius sal 
+      <lb ed="#P" n="112"/>tem in male horrente ex illa littera nichil habetur nisi 
+      <lb ed="#P" n="113"/>quod iudas noluit esse mendax respectu hedi quem 
+      pro<lb ed="#P" n="114" break="no"/>misit ipsi thamar etiam aliqua sunt mendacia 
+      mor<lb ed="#P" n="115" break="no"/>talia grandia vt perniciosa inuenies aliquos facere con 
+      <lb ed="#P" n="116"/>cientiam de rebus minutis et tamen de magnis 
+      nul<lb ed="#P" n="117" break="no"/>lam formabunt prelati ecclesie non faciunt conscien 
+      <lb ed="#P" n="118"/>tiam dare sorori vel consanguineo mille aureos mi 
+      <!--386.xml-->
+      <pb ed="#P" n="186-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>nummos et tamen faciunt conscientiam amittendi ius 
+      <lb ed="#P" n="2"/>leuandi decem ab vno paupere. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

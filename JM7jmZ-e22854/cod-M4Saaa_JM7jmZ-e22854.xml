@@ -1,0 +1,760 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 17</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 17</title>
+               <date when="2021-07-06">July 06, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-M4Saaa">Paris 1509</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-06" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="221-r"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="JM7jmZ-e22854"><!-- l4d49q17 -->
+            <head xml:id="JM7jmZ-e22854-Hd1e108">Quaestio 17</head>
+            <head xml:id="JM7jmZ-e22854-Hd1e111" type="question-title">
+      Cuius virtutis sit actus
+      martyrii vel ille cui debetur
+      aureola martyrum
+    </head>
+            <p xml:id="JM7jmZ-e22854-d1e114">
+               <lb ed="#P" n="29"/>¶ Distin. quadragesime none quaestio decina septima. 
+      <lb ed="#P" n="30"/>REstat decimo septimo inquirere cuius vir 
+      <lb ed="#P" n="31"/>um tutis sit actus martirii vel ille cui debetur 
+      </p>
+            <p xml:id="JM7jmZ-e22854-d1e123">
+               <lb ed="#P" n="32"/>¶aureola martirum. Circa hanc questionem 
+      va<lb ed="#P" n="33" break="no"/>rii variomodo opinantur aliquibus dicentibus omne mai 
+      <lb ed="#P" n="34"/>tirium est actus fortitudinis aliis dicentibus nullum 
+      <lb ed="#P" n="35"/>martyrium esse actum fortitudinis sed solum spectare ad 
+      <lb ed="#P" n="36"/>illam virtutem gratia cuius actum facit: sed pono conclu 
+      <lb ed="#P" n="37"/>siones.
+    </p>
+            <p xml:id="JM7jmZ-e22854-d1e139">
+      ¶ Prima conclusio aliquod martyrium spectat 
+      <lb ed="#P" n="38"/>ad iusticiam. probatur aliquis est actus martyrii quem 
+      <lb ed="#P" n="39"/>homo tenetur facere sed talis actus est actus 
+      iusti<lb ed="#P" n="40" break="no"/>cie. probatio habitus iusticie inclinat habentem ad dan 
+      <lb ed="#P" n="41"/>dum cuilibet quod suum est deo que dei sunt et cesari est 
+      <lb ed="#P" n="42"/>cesaris sunt sed interdum homo tenetur reddere dec 
+      <lb ed="#P" n="43"/>honorem exteriorem et eum confiteri coram hominbus 
+      <lb ed="#P" n="44"/>et ad boc inclinat habitus iusticie si non fuerit in vo 
+      <lb ed="#P" n="45"/>luntate talis habitus voluntas in primum actum 
+      iusti<lb ed="#P" n="46" break="no"/>cie exit mediante dictamine prudentiali dittante nunc 
+      <lb ed="#P" n="47"/>dandum esse deo honorem coram aliis.
+    </p>
+            <p xml:id="JM7jmZ-e22854-d1e164">
+      ¶ Secunda 
+      <lb ed="#P" n="48"/>conclusio aliquod martyrium spectat ad temperantiam 
+      <lb ed="#P" n="49"/>probatur si aliqua habeat ita firmum propositum quod 
+      per<lb ed="#P" n="50" break="no"/>mittit se occidi antquam consentiat in adulterium in prae 
+      <lb ed="#P" n="51"/>sentia pariculorum iam talis habet actum temperantis 
+      <lb ed="#P" n="52"/>habet propositum circa venera que cadunt in 
+      obie<lb ed="#P" n="53" break="no"/>cto temperantie.
+    </p>
+            <p xml:id="JM7jmZ-e22854-d1e180">
+      ¶ Tertia conclusio aliquod 
+      marty<lb ed="#P" n="54" break="no"/>rium est actus caritatis. probatur de caritate infu 
+      <lb ed="#P" n="55"/>sa quia ad omnem actum meritorium concurrit caritas 
+      <lb ed="#P" n="56"/>infusa martyrium est actus meritorius: igitur: imo ali 
+      <lb ed="#P" n="57"/>quod martyrium est actus caritatis acquisite patet ex 
+      <!--456.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="58"/>questione precedenti.
+    </p>
+            <p xml:id="JM7jmZ-e22854-d1e198">
+      ¶ Quarta conclusio aliquod 
+      <lb ed="#P" n="59"/>mart vrium est fortitudo. probatur aliquod martyrium 
+      <lb ed="#P" n="60"/>est actus quo quis non vult relinquere opus 
+      hone<lb ed="#P" n="61" break="no"/>stum non obstante morte actualiter illata ergo 
+      ali<lb ed="#P" n="62" break="no"/>quis actus martyrii est fortituto. patet. fortitudo est 
+      <lb ed="#P" n="63"/>circa pericula mortis in bello. Insuper per illud ci 
+      <lb ed="#P" n="64"/>priani in epstola ad martyres et confessores. O beati 
+      <lb ed="#P" n="65"/>mart vres quibus vos laudibus praedicem. O milites 
+      <lb ed="#P" n="66"/>fortissimi robur corporis vestri quo praeconio votis 
+      <lb ed="#P" n="67"/>explicem hoc tenet leo papa et illum modum ecclesia ob 
+      <lb ed="#P" n="68"/>seruat de martyribus. forte dicis ad has auctorita 
+      <lb ed="#P" n="69"/>tes martyres non habent bellum cum non contrapugnant 
+      <lb ed="#P" n="70"/>hoc non obstat falsum est quod requiritur 
+      contrapugna<lb ed="#P" n="71" break="no"/>tio manibus et viribus corporis ad bellum quando 
+      auto<lb ed="#P" n="72" break="no"/>res ponunt fortitudinem bellicam esse virtutem cardi 
+      <lb ed="#P" n="73"/>nalem sufficit expectare tempore mortis et in presentia 
+      <lb ed="#P" n="74"/>periculorum secundum dictamen recte rationis contrapugnan 
+      <lb ed="#P" n="75"/>do ratione vel sustinendo vt contingit de martyribus 
+      <lb ed="#P" n="76"/>sed non curamus de illo fortitudo vt est circa ardua 
+      <lb ed="#P" n="77"/>parte est virtus cardinalis ergo licet martyres non 
+      per<lb ed="#P" n="78" break="no"/>titerunt in bello non habes negare eos esse fortes 
+      <lb ed="#P" n="79"/>et habuisse actum fortitudis proprie dicte nisi aliud oc 
+      <lb ed="#P" n="80"/>currat. Contra hanc quartam conclusionem obiicitur 
+      ra<lb ed="#P" n="81" break="no"/>tionibus martini et in solutionibus ponentur repli 
+      <lb ed="#P" n="82"/>ce contra eum probatiue huius quarte conclusionis 
+      <lb ed="#P" n="83"/>in primo argumento vult probare aliquod martyrium 
+      <lb ed="#P" n="84"/>esse iusticiam quod concedimus et aliquod esse liberalitatem 
+      <lb ed="#P" n="85"/>quando martyrium est opus consilii.
+    </p>
+            <p xml:id="JM7jmZ-e22854-d1e259">
+      ¶ Secundo 
+      argui<lb ed="#P" n="86" break="no"/>tur volitio cum contemptu mortis et cruciatuum ne de 
+      <lb ed="#P" n="87"/>seratur iusticia imparatiua formaliter exequutionis aut 
+      <lb ed="#P" n="88"/>partinet ad iusticiam tantum / aut ad fortitudinem tantum 
+      <lb ed="#P" n="89"/>aut ad vtrumque si primum intentum vel secundum quia 
+      vir<lb ed="#P" n="90" break="no"/>tus fortitudinis non inclinat in actum iusticie per se et 
+      <lb ed="#P" n="91"/>immediate ille autem actus est actus iusticie nec potest 
+      <lb ed="#P" n="92"/>quod ad vtrumque. Tum primo quia ille actus est vnus ergo 
+      <lb ed="#P" n="93"/>partinet ad vnum genus virtutis et non ad duo. Tum 
+      <lb ed="#P" n="94"/>secundo omnis actus qui fertur in aliqua duo in vnum 
+      <lb ed="#P" n="95"/>tanque in substantiam actus et in alterum tanquam in circun 
+      <lb ed="#P" n="96"/>stantiam ille pertinet ad illud genus virtutis ad quod 
+      per<lb ed="#P" n="97" break="no"/>tinet substantia actus sed ista volitio que dicta est 
+      <lb ed="#P" n="98"/>fertur in opus iusticie tanquam in substantiam actus et 
+      <lb ed="#P" n="99"/>tanquam in obiectum primum et principale et fertur in mor 
+      <lb ed="#P" n="100"/>tem et cruciatus tanquam in circunstantiam actus quia vt 
+      <lb ed="#P" n="101"/>ponitur in casu facienti iusticiam proponitur condi 
+      <lb ed="#P" n="102"/>cio mortis et cruciatuum ergo iste actus non ad 
+      for<lb ed="#P" n="103" break="no"/>titudinem sed ad solam iusticiam pertinet. maior 
+      pa<lb ed="#P" n="104" break="no"/>tet quia alias idem actus potest ratione substantie eius 
+      <lb ed="#P" n="105"/>partinere ad vnum genus virtutis et ratione huius circum 
+      <lb ed="#P" n="106"/>stantie ad aliud et ratione alterius ad aliud quod est 
+      omni<lb ed="#P" n="107" break="no"/>no absurdum et contra omnem doctrinam philosophorum mora 
+      <lb ed="#P" n="108"/>lium et sanctorum qui in doctrinis suis declarant 
+      ma<lb ed="#P" n="109" break="no"/>nifeste actum virtutis per nullas circunstantias 
+      va<lb ed="#P" n="110" break="no"/>riare genus virtutis. Ad hoc argumentum respondeo 
+      <lb ed="#P" n="111"/>quod partinet ad vtrumque et ille actus est fortitudo et iu 
+      <lb ed="#P" n="112"/>sticia realiter et concedo quod habitus fortitudinis incli 
+      <lb ed="#P" n="113"/>nat in actum iusticie per se quando ille habitus est 
+      reali<lb ed="#P" n="114" break="no"/>ter iusticia non inclinat in actum iusticie quia fortitudo 
+      <lb ed="#P" n="115"/>sed quia iusticia hic habitus iusticie per se inclinat in 
+      <lb ed="#P" n="116"/>actum iusticie hic habitus iusticie est fortitudo: igitur 
+      <!--457.xml-->
+      <pb ed="#P" n="221-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>consequentia est lucida nisi fugias ad modalem con 
+      <lb ed="#P" n="2"/>positam vel ad aliquod quod non impedit propositum et quan 
+      <lb ed="#P" n="3"/>do dicis ille actus est vnus ergo partinet ad vnum 
+      ge<lb ed="#P" n="4" break="no"/>nus virtutis et non ad duo genera nego consequentis 
+      <lb ed="#P" n="5"/>vna res significatur per varia predicabilia et 
+      predi<lb ed="#P" n="6" break="no"/>camenta idem actus numero spectat ad varias shpines 
+      <lb ed="#P" n="7"/>luxurie vt superius dictum est et sicut incestus est ge 
+      <lb ed="#P" n="8"/>nus sic est fortitudo et temperantia neutrum est gen 
+      <lb ed="#P" n="9"/>gndalissimum et quod tu habes hoc concedere probo quod vn 
+      <lb ed="#P" n="10"/>actus numero spectat ad duas virtutes cardinales 
+      <lb ed="#P" n="11"/>capio bunc actum volo expectare in acie belli quia 
+      di<lb ed="#P" n="12" break="no"/>ctatum est a recta ratione expectare et quia teneor da m 
+      <lb ed="#P" n="13"/>chi finem iusticie et finem fortitudinis et ordino vnum 
+      <lb ed="#P" n="14"/>actum propter illos duos fines quero a te quare citius 
+      <lb ed="#P" n="15"/>denominabitur ab vno partiali fine quam ab alio si 
+      ha<lb ed="#P" n="16" break="no"/>beas rationem in promptu edissere similiter idem act 
+      <lb ed="#P" n="17"/>numero est iusticia et temperantia. quod patet. volo 
+      ho<lb ed="#P" n="18" break="no"/>die comedere solum seml vt seruem ieiunium ad quod obli 
+      <lb ed="#P" n="19"/>gor et vt temperate comedam ille actus est temperantia es 
+      <lb ed="#P" n="20"/>iusticia quia in ratione finis cadunt iusticia et temperantia 
+      <lb ed="#P" n="21"/>sufficit distinctio rationis hoc est dictu alia est ratio 
+      <lb ed="#P" n="22"/>quare vocatur temperantia alia quare denominatur 
+      <lb ed="#P" n="23"/>iusticia quando secundo argumentatur omnis actus qui fertur in 
+      <lb ed="#P" n="24"/>aliqua duo in vnum tanquam in substantiam actus etc. oba 
+      <lb ed="#P" n="25"/>quem insequitur et ipse abutuntur in modo loquendi de circum 
+      <lb ed="#P" n="26"/>stantiis quia circunstantia proprie actum circunstat et non 
+      <lb ed="#P" n="27"/>cadit in ratione obiecti sed hoc est luctari ad nomen 
+      <lb ed="#P" n="28"/>loquar cum loquentibus veniendo ad rem distingo illam 
+      <lb ed="#P" n="29"/>maiorem vel in circunstantiam cadentem in ratione 
+      ob<lb ed="#P" n="30" break="no"/>iecti et sic negatur vel in circunstantiam circunstantem 
+      <lb ed="#P" n="31"/>et sic conceditur hic autem obiectum fortitudinis cadit in 
+      <lb ed="#P" n="32"/>ratione obiecti sicut obiectum iusticie vtrumque partiali 
+      <lb ed="#P" n="33"/>ter cadit et sic capiendo concedo quod idem actus nume 
+      <lb ed="#P" n="34"/>ro potest esse temperantia fortitudo et iusticia vbi di 
+      <lb ed="#P" n="35"/>cit illud esse contra omnem moralem philosophiam et 
+      do<lb ed="#P" n="36" break="no"/>ctrinam sanctorum demiror quare hoc dicat cum 
+      mora<lb ed="#P" n="37" break="no"/>les loquentes de hiis materiis vtuntur opposito tanquae 
+      <lb ed="#P" n="38"/>eis trito et sancti vocant martyres fortes quare volunta 
+      <lb ed="#P" n="39"/>rium est propter aliqua sophismata dicere sanctons 
+      cape<lb ed="#P" n="40" break="no"/>re methaforice terminos. Tertio omnis actus qui est 
+      <lb ed="#P" n="41"/>circa duo circa vnum tamquam circa finem et circa aliud tanquam 
+      <lb ed="#P" n="42"/>circa id quod est ad finem partinet ad illud genus vertutis 
+      <lb ed="#P" n="43"/>ad quod partinet actus ille qui est circa finem vt velle adul 
+      <lb ed="#P" n="44"/>terari causa diuitiarum acquirendarum quod partiet ad auari 
+      <lb ed="#P" n="45"/>ciam et velle furari vt intemperate viuatur ad intempe 
+      <lb ed="#P" n="46"/>rantiam concedo quod partinet ad illud genus vertutis ad quod 
+      <lb ed="#P" n="47"/>partinet actus ille qui est circa finem sed non tantum 
+      dili<lb ed="#P" n="48" break="no"/>go sortem propter deum eodem actu ille actus realiter 
+      <lb ed="#P" n="49"/>est vsus et fruitio bene volo quod potius denominetur 
+      frui<lb ed="#P" n="50" break="no"/>tio quam vsus tanquam a nobiliore vel a pricipaliore 
+      inten<lb ed="#P" n="51" break="no"/>to sicut aristoteles dicit de illo qui mechatur propte 
+      <lb ed="#P" n="52"/>lucrum quod potius est dicendus auarus quam mecus cum 
+      <lb ed="#P" n="53"/>illud principaliter intendat tamen non sequitur quim ill 
+      <lb ed="#P" n="54"/>actus realiter est mechia et auaricia cum est actus cis 
+      <lb ed="#P" n="55"/>ca venerea partialiter et non est castitas ergo est luxu 
+      <lb ed="#P" n="56"/>ria et quia cum coniugata ergo est mechia non potes ha 
+      <lb ed="#P" n="57"/>bere refugium nisi curras ad nomen currendo ad cau 
+      <lb ed="#P" n="58"/>sam fi nalem quae denominabit totum actum sed hac via 
+      <lb ed="#P" n="59"/>abire nequis vt supra ostensum est etiam sic nullus actus 
+      <!--457.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="60"/>dicetur vsus et fruitio cuius oppositum clamat 
+      to<lb ed="#P" n="61" break="no"/>ta scola copulatim et copulatiue saltem ponendo actum 
+      <lb ed="#P" n="62"/>vnum vt martinus facit cum communiter loquentibus et ratio 
+      <lb ed="#P" n="63"/>nabilius. Quo fit licet quis patiatur pro actu fidei tamen 
+      <lb ed="#P" n="64"/>martyrium non est actus fidei primum est actus intelle 
+      <lb ed="#P" n="65"/>ctus / secundum est actus voluntatis.
+    </p>
+            <p xml:id="JM7jmZ-e22854-d1e480">
+      ¶ Dubitatur quae au 
+      <lb ed="#P" n="66"/>reolarum est suprema dicitur martyrum debetur operi 
+      <lb ed="#P" n="67"/>heroico et beatus augustinus in libro de sancta virgi 
+      <lb ed="#P" n="68"/>nitate dicit. nemo quam puto ausus fuit praeferre 
+      virgi<lb ed="#P" n="69" break="no"/>nitatem martyrio. Item in letania martyres aliis 
+      pro<lb ed="#P" n="70" break="no"/>feruntur de aliis duabus possunt se habere sicut 
+      ex<lb ed="#P" n="71" break="no"/>cedentia et excessa sed communiter doctorum videtur maior 
+      <lb ed="#P" n="72"/>iuxta illud ad ephesios. vi. non est nobis colluctatio 
+      <lb ed="#P" n="73"/>aduersus carnem et sanguinem sed aduersus potestates 
+      <lb ed="#P" n="74"/>pugna tamen virginum est periculosa et victoria gloriosa. 
+      </p>
+            <p xml:id="JM7jmZ-e22854-d1e502">
+               <lb ed="#P" n="75"/>¶ Distinctio. quadragesime none quaestio decina octaua. 
+      <lb ed="#P" n="76"/>Ecimo octauo queritur an doctoribus debea 
+      <lb ed="#P" n="77"/> tur aureola. Respondetur affirmatiue. probatur 
+      <lb ed="#P" n="78"/> / conclusio secundum glo. can. vlt. ephe. i. danie. xii. 
+      <lb ed="#P" n="79"/>Qui autem docti fuerint fulgebunt quasi splendor 
+      fir<lb ed="#P" n="80" break="no"/>mamenti et qui ad iusticiam erudiunt mltos quasi stel 
+      <lb ed="#P" n="81"/>le in perpetuas eternitates. conclusio hec intelligitur 
+      <lb ed="#P" n="82"/>de hiis qui discedunt in gratra ad habere aureolam sed si 
+      <lb ed="#P" n="83"/>dannentur meruerunt aureolam quam nunquam habebunt 
+      si<lb ed="#P" n="84" break="no"/>cut multi dannati meruerunt vitam eternam et non 
+      intel<lb ed="#P" n="85" break="no"/>ligitur hec conclusio de graduatis in theologia multi 
+      <lb ed="#P" n="86"/>horum alios non docent et multi non graduati alios eru 
+      <lb ed="#P" n="87"/>diunt et intelligitur istud de doctoribus qui docuerunt 
+      <lb ed="#P" n="88"/>vel efficaciter docere proponebant siue scripto siue 
+      <lb ed="#P" n="89"/>verbo.
+    </p>
+            <p xml:id="JM7jmZ-e22854-d1e538">
+      ¶ Contra conclusionem argumentor vel hec 
+      <lb ed="#P" n="90"/>aureola datur omnibus doctoribus alios erudientibus 
+      <lb ed="#P" n="91"/>in quacumque facultate vel tantum hiis qui legunt scribunt in the 
+      <lb ed="#P" n="92"/>ologia vel contionantur ad populum si secundum non dabitur 
+      <lb ed="#P" n="93"/>doctoribus qui quaestiones peregrinas scribunt in theolo 
+      <lb ed="#P" n="94"/>gia et circa illas insudant saltem ratione illarum quaestio 
+      <lb ed="#P" n="95"/>num quod videtur inconueniens stat tales questiones in 
+      <lb ed="#P" n="96"/>terdum conducere ad intelligentiam theologie. si dicas 
+      <lb ed="#P" n="97"/>eis debetur aureola doctorum sic regentibus in 
+      arti<lb ed="#P" n="98" break="no"/>bus in grammatica dummodo illam doctrinam ordinant ad 
+      <lb ed="#P" n="99"/>salutem proximi non obstat quod capiant pecuniam pro 
+      la<lb ed="#P" n="100" break="no"/>boribus sic facit curatus capit decimas et oblationes 
+      <lb ed="#P" n="101"/>Respondetur datur omnibus doctoribus 
+      ordinanti<lb ed="#P" n="102" break="no"/>bus doctrinam in proximi edificationem quia nisi sic si vnus 
+      <lb ed="#P" n="103"/>scriberet vnam breuem questionem theologicam in primo 
+      <lb ed="#P" n="104"/>vel secundo sententiarum et omnia phisicalia partractaret 
+      <lb ed="#P" n="105"/>illi debetur aureola doctorum et non scribenti in phisi 
+      <lb ed="#P" n="106"/>ca qui magis theologicale forte partractat vt an 
+      de<lb ed="#P" n="107" break="no"/>potest facere vacuum an potest facere infinitum quod est praeter 
+      <lb ed="#P" n="108"/>rationem.
+    </p>
+            <p xml:id="JM7jmZ-e22854-d1e582">
+      ¶ Sed contra istud argumentor vel cuilibut 
+      <lb ed="#P" n="109"/>docenti respondet hec aureola ad salutem proximi et tunc 
+      <lb ed="#P" n="110"/>faciens anthetema cum parua doctrina duorum 
+      vbo<lb ed="#P" n="111" break="no"/>rum habebit hanc aureolam et eodemmoo faciens vnum ar 
+      <lb ed="#P" n="112"/>gumentum et erudiens alium in veritate huius non 
+      tan<lb ed="#P" n="113" break="no"/>tum chimera non est chimera. Insuper ponatur quod quis 
+      <lb ed="#P" n="114"/>ob inanem gloriam praedicaret vel doceret et postea talis 
+      <lb ed="#P" n="115"/>discedit in gratra petitur an habebit aureolam doctorum. 
+      <lb ed="#P" n="116"/>Ad primum dicitur vnus martyr habebit maiorem 
+      <!--458.xml-->
+      <pb ed="#P" n="222-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>aureolam quam alius sic vnus virgo habebit maiorem 
+      <lb ed="#P" n="2"/>aureolam quam alius sic erit de aureola doctorum qui multum 
+      <lb ed="#P" n="3"/>erudit magnam aureolam doctorum habebit qui parum 
+      <lb ed="#P" n="4"/>proportionabiliter habebit aureolam. Ad secundum 
+      <lb ed="#P" n="5"/>dicitur vel inanis gloria cadit in ratione obiecti et ra 
+      <lb ed="#P" n="6"/>tione illius actus temolis non habebit aureolam nullus ha 
+      <lb ed="#P" n="7"/>bebit aureolam nisi ratione boni actus dato quod de illa 
+      <lb ed="#P" n="8"/>predicatione peniteat nichil habebit ratione illius actus 
+      <lb ed="#P" n="9"/>mali si fuerit inanis gloria venialis circunstantia 
+      solu<lb ed="#P" n="10" break="no"/>circunstans et non cadens in ratione obiecti ratione illius 
+      <lb ed="#P" n="11"/>actus dabitur aureola semper ratione melioris do 
+      <lb ed="#P" n="12"/>ctrine dabitur maior aureola propterea parum aured 
+      <lb ed="#P" n="13"/>le vel nichil dabitur pro eruditione tricarum homines 
+      impe<lb ed="#P" n="14" break="no"/>dientium a solida doctrina vt sunt multe quaestiones steri 
+      <lb ed="#P" n="15"/>les tractate et in logica et in theologia quae auditores non 
+      <lb ed="#P" n="16"/>erudiunt sed a veritate vtili impediunt ad titum. ii. stul 
+      <lb ed="#P" n="17"/>tas autem questiones et genealogias et contentiones et 
+      <lb ed="#P" n="18"/>pugnas legis deuita sunt enim inutiles et vane.
+    </p>
+            <p xml:id="JM7jmZ-e22854-d1e647">
+      ¶ Se 
+      <lb ed="#P" n="19"/>cundo argumentor vel soli docenti dabitur aureola 
+      <lb ed="#P" n="20"/>doctorum vel cuilibet volenti docere si secundum aureola 
+      <lb ed="#P" n="21"/>doctorum dabitur laico cum is forte libentius vult do 
+      <lb ed="#P" n="22"/>cere quam homo eruditus cantat qui nescit qui scit 
+      canta<lb ed="#P" n="23" break="no"/>re quiescit. si primum contra volenti pati mortem dabitur 
+      <lb ed="#P" n="24"/>aureola martyrum et corrupte violente cum faciat quod in 
+      <lb ed="#P" n="25"/>se est ad habendam virginitatem ergo eodemmoo volenti 
+      <lb ed="#P" n="26"/>predicare dabitur aureola doctorum. Respondetur 
+      <lb ed="#P" n="27"/>aureola doctorum non dabitur cuilibet habenti 
+      volun<lb ed="#P" n="28" break="no"/>tetem praedicandi tunc dabitur ignaro et mulierculis sed 
+      <lb ed="#P" n="29"/>dabitur cuilibet habenti scientiam et volenti exire in actum 
+      <lb ed="#P" n="30"/>exteriorem efficaciter nisi impediatur vel quia non mittitur 
+      <lb ed="#P" n="31"/>et est religiosus cuius voluntas a superioris 
+      volun<lb ed="#P" n="32" break="no"/>tate dependet vel quia impeditur a tyranno vel aliunde 
+      <lb ed="#P" n="33"/>de indocto forte non potest habere actum voluntatis  
+      <lb ed="#P" n="34"/>bredicandi eiusdem speciei cum docto vt pauper nichil 
+      <lb ed="#P" n="35"/>pabens non habet simile propositum in specie ad dandum 
+      <lb ed="#P" n="36"/>scutum cum diuite sed habet vnum propositum conditiona 
+      <lb ed="#P" n="37"/>le si scirem predicare ego praedicarem et si cathegoricum ha 
+      <lb ed="#P" n="38"/>beret est preter rationem iliud propositum et requiritur 
+      <lb ed="#P" n="39"/>quod habeat scientiam praedicandi nunc in potentia propin 
+      <lb ed="#P" n="40"/>qua alioquin septenmnis habens propositum contionandi 
+      <lb ed="#P" n="41"/>in trigesimo anno etatis sue habebit aureolam docto 
+      <lb ed="#P" n="42"/>rum si homo sit elinguis vel in paeteria in qua nescit 
+      lo<lb ed="#P" n="43" break="no"/>qui idem est ac si non haberet scientiam apud illos inter 
+      <lb ed="#P" n="44"/>quos est bona sua proposita conditionalia praedicandi 
+      ali<lb ed="#P" n="45" break="no"/>bi non erunt irremunerata potes insistere quod modica 
+      <lb ed="#P" n="46"/>scientia sufficit interdum aliqui dicunt aliquos simo 
+      <lb ed="#P" n="47"/>nes memoriter bono animo qui nesciunt congrue loqui 
+      <lb ed="#P" n="48"/>sed hii non vacabunt primio aureole dummoo vtiliter in 
+      <lb ed="#P" n="49"/>sistunt non semper doctiori dabitur maior aureola 
+      <lb ed="#P" n="50"/>sed plus et vtilius laboranti siue conuertat ad 
+      fide<lb ed="#P" n="51" break="no"/>et bonos mores siue non quia hoc non est situm in 
+      facul<lb ed="#P" n="52" break="no"/>tate eius.
+    </p>
+            <p xml:id="JM7jmZ-e22854-d1e723">
+      ¶ Tertio arguitur vel dabitur aureola 
+      <lb ed="#P" n="53"/>pro actu docendi falsum vel solum pro actu docendi 
+      <lb ed="#P" n="54"/>verum non primum quia tunc pro heresi dabitur 
+      aureo<lb ed="#P" n="55" break="no"/>la quod est absurdum non secundum si vnus in materia probabili 
+      <lb ed="#P" n="56"/>credat dicere verum vt puta si adam non peccasset christus 
+      <lb ed="#P" n="57"/>fuisset incarnatus et vnus praedicando oppositum alter 
+      pri<lb ed="#P" n="58" break="no"/>dicat verum et alter falsum et non est maior ratio quod 
+      da<lb ed="#P" n="59" break="no"/>bitur aureola pro actu praedicandi verum quam praedicandi falsum 
+      <!--458.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="60"/>cum non constat vter eorum praedicat verum.
+    </p>
+            <p xml:id="JM7jmZ-e22854-d1e747">
+      ¶ Respon 
+      <lb ed="#P" n="61"/>detur dummodo homo habet rationes apparentes pro se 
+      <lb ed="#P" n="62"/>et non constat de opposito habebit aureolam pro tali 
+      <lb ed="#P" n="63"/>dogmate est ignorantia ei inuincibilis sed si quis 
+      prae<lb ed="#P" n="64" break="no"/>dicet minus probabile quod pautiores tenent et minores 
+      <lb ed="#P" n="65"/>sunt rationes et cum hoc relinquendo certum non 
+      appa<lb ed="#P" n="66" break="no"/>ret quod ratione telolis concionis dabitur aureola nec illi da 
+      <lb ed="#P" n="67"/>bitur aureola qui plebicule indocte tractat subtilia quae 
+      <lb ed="#P" n="68"/>a plebe capi nequeunt secundum exigentiam auditoris debet 
+      <lb ed="#P" n="69"/>esse sermo docentis secundum illud apostoli. i. corinth. iii. Ego  
+      <lb ed="#P" n="70"/>fratres non potui loqui vobis quasi spiritualibus sed quasi 
+      <lb ed="#P" n="71"/>carnalibus tanquam paruulis in christo lac dedi vobis non 
+      es<lb ed="#P" n="72" break="no"/>cam nondum poteratis. Dubitatur primo an licet petere 
+      <lb ed="#P" n="73"/>gradum in theologia vel in alia facultate. Secundo 
+      dubi<lb ed="#P" n="74" break="no"/>tatur quid cause est quare vocantur doctores in 
+      theo<lb ed="#P" n="75" break="no"/>logia phisica et in vtroque iure et tamen in artibus magister 
+      <lb ed="#P" n="76"/>et non doctores appellantur. Tertio dubitatur an magi 
+      <lb ed="#P" n="77"/>conducat viro legere in vniuersitate vel contionari 
+      <lb ed="#P" n="78"/>populo.
+    </p>
+            <p xml:id="JM7jmZ-e22854-d1e789">
+      ¶ Ad primum respondetur per propositiones 
+      </p>
+            <p xml:id="JM7jmZ-e22854-d1e793">
+               <lb ed="#P" n="79"/>¶ Prima est bene factum est studere theologie patet 
+      <lb ed="#P" n="80"/>hoc prima contione prologi inter apostlolum et discipulos 
+      <lb ed="#P" n="81"/>eius titum et thimotheum.
+    </p>
+            <p xml:id="JM7jmZ-e22854-d1e802">
+      ¶ Secunda propositio licet pete 
+      <lb ed="#P" n="82"/>re gradum in theologia et in quauis alia facultate 
+      <lb ed="#P" n="83"/>dummoo quis est gradu dignus et debito modo petat probat 
+      <lb ed="#P" n="84"/>magnanimitas inclinat habentem ad petendos honores 
+      <lb ed="#P" n="85"/>quibus est dignus et quibus quis se dignum censet sortes 
+      <lb ed="#P" n="86"/>vt supponitur est huiusmoni igitur. Insuper licet in 
+      ca<lb ed="#P" n="87" break="no"/>su pro seiprio petere beneficium vt superius diximus in. xxiiii. 
+      <lb ed="#P" n="88"/>distinctione ergo et gdum qui est multo minus pericu 
+      <lb ed="#P" n="89"/>losus. Tertio licitum est petere debite omne illud quod con 
+      <lb ed="#P" n="90"/>ducit ad gloriam dei et ad exaltationem eius nominis sed 
+      <lb ed="#P" n="91"/>sic est quod grgodus conducit crebro ad gloriam dei maior 
+      <lb ed="#P" n="92"/>fides datur concionanti populo si cognoscatur admissus in 
+      <lb ed="#P" n="93"/>vniuersitate in qua solet esse examen rigoris et sic popu 
+      <lb ed="#P" n="94"/>lus auidius sermonem talis audit et auditum tenatius con 
+      <lb ed="#P" n="95"/>seruat.
+    </p>
+            <p xml:id="JM7jmZ-e22854-d1e835">
+      ¶ Sed contra illud arguitur beatus benedictus 
+      <lb ed="#P" n="96"/>volauit sponte ad antra deserti nolens addiscere et 
+      <lb ed="#P" n="97"/>curiositatem discendi reprobat beatus franciscus in regula 
+      <lb ed="#P" n="98"/>et adhuc apud minores (quos de bulla vocant fuatur 
+      <lb ed="#P" n="99"/>ne capiatur ergodus in theologia. amplius in istis ergodibus 
+      <lb ed="#P" n="100"/>sunt multi abusus et incidit superbia in petitione lo 
+      <lb ed="#P" n="101"/>corum interdum vnus querit praeponi alteri multo eo 
+      <lb ed="#P" n="102"/>eruditiori non modo in artibus et ceteris facultatibus 
+      <lb ed="#P" n="103"/>sed in theologia vt patet de proximo licenciandis mentiuntur 
+      <lb ed="#P" n="104"/>de sociis dicunt eos indoctos conscientia tamen 
+      remur<lb ed="#P" n="105" break="no"/>nurante constat eis de opposito vel si assentiant ita 
+      <lb ed="#P" n="106"/>esse hoc est propter prauam affectionem quam habent de socio 
+      <lb ed="#P" n="107"/>et nimis affectam de seipsis fiunt preces pro inidoneo et 
+      a<lb ed="#P" n="108" break="no"/>pud cancellarium quiclaudit et aperit in hac parte et apud 
+      <lb ed="#P" n="109"/>theologie professores / fiunt conbinationes maiore per 
+      <lb ed="#P" n="110"/>ticulari in prima figura pro propris bachalariis. 
+      <lb ed="#P" n="111"/>Respondetur beatus benedictus vidit multos malos 
+      <lb ed="#P" n="112"/>n studio quorum conuersatio eum retractabat a bono pro 
+      <lb ed="#P" n="113"/>pterea volauit ad heremum vt sue saluti succurreret 
+      <lb ed="#P" n="114"/>sic adhuc dicimus vbi quispiam non potest stare bene 
+      <lb ed="#P" n="115"/>tum salute anime in studio et videt quod ei prodest se 
+      <lb ed="#P" n="116"/>elongare a studio probe agit abeundo pater 
+      franci<lb ed="#P" n="117" break="no"/>scus loquebatur de laicis et prohibuit curiositatem 
+      <lb ed="#P" n="118"/>hoc sonat in malam partem sed sanctuns bonauentura et alii 
+      <!--459.xml-->
+      <pb ed="#P" n="222-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>valentes pateres regule obseruatores et doctrine et 
+      ergo<lb ed="#P" n="2" break="no"/>dibus curam impenderunt et in graduatos viros abie 
+      <lb ed="#P" n="3"/>re quod nunc aliqui eorum gradum in theologia relinquant 
+      <lb ed="#P" n="4"/>non reprobo sufficit quod non male agant alii vt illi quos 
+      <lb ed="#P" n="5"/>de familia vocant accipientes gradum dummoo a 
+      supe<lb ed="#P" n="6" break="no"/>rioribus mittantur vel si ostendant se superioribus 
+      <lb ed="#P" n="7"/>dicentes ecce pater et meam doctrinam et prudentiam quam 
+      <lb ed="#P" n="8"/>dominus concessit (quam melius tu t alii nouerunt quam ego) si 
+      <lb ed="#P" n="9"/>videar idoneus vellem admitti si mihi suppeterent facl 
+      <lb ed="#P" n="10"/>tates pro gradu vel a parentibus vel a tali domino non re 
+      <lb ed="#P" n="11"/>probamus illud si videant se idoneos et faciant probos 
+      <lb ed="#P" n="12"/>viros pro eis intercedere ad superiores vt admittam 
+      <lb ed="#P" n="13"/>tur dummoo non sit in preiudicium aliorum magis idoneo 
+      <lb ed="#P" n="14"/>rum quia in vna licentia duo solum minores ad licentie mi 
+      <lb ed="#P" n="15"/>nus in theologia admittuntur et quattuor praedicatores 
+      <lb ed="#P" n="16"/>tunc minus idoneus non debet intercedere sed vocatus 
+      <lb ed="#P" n="17"/>a superiore potest locum capere a superiore oblatum 
+      <lb ed="#P" n="18"/>sine peccato sicut in. xxiiii. distin. superius diximus de 
+      <lb ed="#P" n="19"/>minus idoneo respectu magis idonei de secularibus 
+      <lb ed="#P" n="20"/>maior est latitudo procedendi dantur omnibus in theologia 
+      <lb ed="#P" n="21"/>examinatores anquam ad primum cursum admittantur et postea 
+      <lb ed="#P" n="22"/>in scola bachalarii si ab hiis admittantur praesupponum 
+      <lb ed="#P" n="23"/>tur idonei ad bunc gradum et perperam agunt inidoneos 
+      <lb ed="#P" n="24"/>admittentes in facultatis sacre ignominiam et 
+      impedi<lb ed="#P" n="25" break="no"/>mentum grande doctorum gradum petunt vt potiantur bene 
+      <lb ed="#P" n="26"/>ficiis. ad aliud argumentum in quo tanguntur inconuenien 
+      <lb ed="#P" n="27"/>tia que herent ossibus graduum quae egre euelluntur 
+      <lb ed="#P" n="28"/>ab omnibus dicitur id verum esse quod aliqua inconuenientia 
+      <lb ed="#P" n="29"/>regulariter reuoluuntur sed hoc est de per accidens ab 
+      <lb ed="#P" n="30"/>ambitione et non a gradu ipso sequuntur sed hoc non suf 
+      <lb ed="#P" n="31"/>ficienter eneruat obiectionem transeat quod sequantur in 
+      <lb ed="#P" n="32"/>conuenientia aliqua sed ex altera parte metiri oportet 
+      <lb ed="#P" n="33"/>vtilitatem emergentem ex gradu et doctrinam que 
+      col<lb ed="#P" n="34" break="no"/>ligitur ex locatione et non desistendum a magno bono 
+      <lb ed="#P" n="35"/>quod sequitur per se ex gradu et locatione licentiandorum 
+      <lb ed="#P" n="36"/>propter pauca inconuenientia quae per accidens sequuntur ex 
+      <lb ed="#P" n="37"/>ambitione si locarentur eo ordine quo inceperunt 
+      es<lb ed="#P" n="38" break="no"/>se bachalarii vt oxonie et alibi vel vt de legistis et ca 
+      <lb ed="#P" n="39"/>nonistis contingit minor esset excercitatio et minus 
+      <lb ed="#P" n="40"/>studium non alias duo concurrentes in italia legunt eadem 
+      <lb ed="#P" n="41"/>hora nisi vt lectori calcar currendi porrigatur in 
+      theo<lb ed="#P" n="42" break="no"/>logia raro excessiuus error committitur stat indoctum pre 
+      <lb ed="#P" n="43"/>poni se doctiori sine peccato minus doctus forte est 
+      <lb ed="#P" n="44"/>magis ostensiuus vel prudentior in agibilibus et in 
+      ml<lb ed="#P" n="45" break="no"/>tis aliis non habetur respectus ad solam doctrinam sed 
+      <lb ed="#P" n="46"/>ad prudentiam si sint duo pares in doctrina et alter pru 
+      <lb ed="#P" n="47"/>dentior ille est preponendus vel equaliter sunt pru 
+      <lb ed="#P" n="48"/>dentes et docti vnus habet donum concionandi et docen 
+      <lb ed="#P" n="49"/>di non alius ille est preponendus sed si sint duo equali 
+      <lb ed="#P" n="50"/>ter docti et prudentes et alter bene praedicat sed de alio 
+      <lb ed="#P" n="51"/>uescitur quia est alienigena et lingue ignarus non est pro 
+      <lb ed="#P" n="52"/>pterea praeponendus nisi in quantum certum incertum 
+      exu<lb ed="#P" n="53" break="no"/>perat si ponas duos equales theologos prudentes 
+      <lb ed="#P" n="54"/>et concionatores sed alter est multitudine scientie 
+      stipa<lb ed="#P" n="55" break="no"/>tus peritior rethor mathematicus vel legista quam alius 
+      <lb ed="#P" n="56"/>plura habens est praeponendus vt opinor licet in oppo 
+      <lb ed="#P" n="57"/>situm sit aliquid rationis in theologia confertur gradus erg 
+      <lb ed="#P" n="58"/>non respiciendum est ad extrinsecum quia sic peritum 
+      gramma<lb ed="#P" n="59" break="no"/>ticum doctiori theologo preponeres quod est absurdum 
+      <!--459.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="60"/>respondetur non inconuenire quod peritus rethor 
+      doctio<lb ed="#P" n="61" break="no"/>ri theologo in paruo excessu praeponatur sed si fuerit no 
+      <lb ed="#P" n="62"/>tabilis excessus negatur potissimum considerandum hic 
+      <lb ed="#P" n="63"/>est theologia dummodo constat de bonitate vite hoc est 
+      <lb ed="#P" n="64"/>non constat tibi de opposito paulus simplex heremita 
+      <lb ed="#P" n="65"/>hic non est preponendus theologo erudito rotunde 
+      <lb ed="#P" n="66"/>vite vt aiunetm spes futuri profectus non colligitur ex fu 
+      <lb ed="#P" n="67"/>turis tenebrosis sed ex iam presentibus et praeteritis non 
+      <lb ed="#P" n="68"/>presumendum est quod is qui ignauam vitam in ocio partransit 
+      <lb ed="#P" n="69"/>hactenus quod vnquam exuperabit in profectu laboriosum 
+      <lb ed="#P" n="70"/>et eruditum virum. Sed dicis ponamus duos quorum vnus 
+      <lb ed="#P" n="71"/>paruo excessu alium superat an tenetur iudex doctio 
+      <lb ed="#P" n="72"/>rem praeponere et est dubitationis causa in. xxiiii. distin 
+      <lb ed="#P" n="73"/>ctione huius diximus iudicem deuinctum esse conferre be 
+      <lb ed="#P" n="74"/>neficium magis idoneo alio relicto ergo eodemmoo 
+      te<lb ed="#P" n="75" break="no"/>netur conferre altiorem sedem optime merito vt contin 
+      <lb ed="#P" n="76"/>git in isto casu. sed in oppositum arguitur latitudo me 
+      <lb ed="#P" n="77"/>dii non est impartibilis de duobus equalibus potest 
+      iu<lb ed="#P" n="78" break="no"/>dex preponere quem vult sed quando iudicia magistrorum 
+      <lb ed="#P" n="79"/>nostrorum sunt equalia potest pro quacumque parte iudica 
+      <lb ed="#P" n="80"/>re cancellarius. forte dicis non respiciet ad 
+      equalita<lb ed="#P" n="81" break="no"/>tem suffragiorum sed equalitatem ponderis suffragiorum 
+      <lb ed="#P" n="82"/>viginti deuoti sunt praeferendi. xxiiii. indeuotis in primis 
+      <lb ed="#P" n="83"/>hoc non euitat propositum nostrum sed cum in illud 
+      incidi<lb ed="#P" n="84" break="no"/>mus loquamur quis erit iudex vtra pars est sanior 
+      <lb ed="#P" n="85"/>videatur ne iudex non fallatur affectione sicut de aliis 
+      <lb ed="#P" n="86"/>dicit pro vtraque parte reperiet bonos et forte quos 
+      <lb ed="#P" n="87"/>reputat meliores non sunt. si dicas vocandos esse ba 
+      <lb ed="#P" n="88"/>chalarios in illo casu omnia confundis et nouissimus 
+      er<lb ed="#P" n="89" break="no"/>ror erit peior priore faciunt inter se conmbinationes ex pu 
+      <lb ed="#P" n="90"/>ris particularibus proprio commodo insudantes mlto 
+      <lb ed="#P" n="91"/>magis in propria causa sunt excecati quam eorum magistri 
+      <lb ed="#P" n="92"/>et nimirum horum honor tangitur mediate illorum immedia 
+      <lb ed="#P" n="93"/>te et iureiurando bis astricti fidele testimonium presta 
+      <lb ed="#P" n="94"/>re de bachalariis magistri non sunt ad boc addicti 
+      <lb ed="#P" n="95"/>bachalarii nec assistens vulgus non tamen nego vbi omnes 
+      <lb ed="#P" n="96"/>reputati boni qui communiter sunt boni essent in vna par 
+      <lb ed="#P" n="97"/>te et alii rotundi (quod numquam contingit sententia mea in nostra 
+      <lb ed="#P" n="98"/>facultate ) ex altera et esset paruus excessus non debet 
+      <lb ed="#P" n="99"/>esse deliberatio pro maiore parte quicquid sit de plu 
+      <lb ed="#P" n="100"/>ralitate suffragiorum in electionibus epaeorum et aliorum 
+      <lb ed="#P" n="101"/>prelatorum sed vbi reputati meliores sunt permixti 
+      <lb ed="#P" n="102"/>vt semper contingit cum viris rotundioribus vt aiunt 
+      <lb ed="#P" n="103"/>debet esse conclusio pro maiore parte et sic sententia mea 
+      <lb ed="#P" n="104"/>ue conscientie satisfaciet cancellarius et euadet 
+      mur<lb ed="#P" n="105" break="no"/>nur et maliuolentiam licentiandorum dicendo publice 
+      co<lb ed="#P" n="106" break="no"/>tam deo et hominibus se a maiore parte magistrorum 
+      <lb ed="#P" n="107"/>nostrorum conclusisse cum aliorum depositio est secreta et 
+      <lb ed="#P" n="108"/>tius sententia ab eis dependet nec illi nec magistris uostris 
+      <lb ed="#P" n="109"/>iliquid imputabitur redeundo vne digressi sumus dicamus 
+      <lb ed="#P" n="110"/>ad dubitationem propositam consilium esset praeponere illum 
+      <lb ed="#P" n="111"/>cuius aggregatum quantumlibet alterius congeriem exuperat 
+      <lb ed="#P" n="112"/>Secundo dicitur forte homo non tenetur praeponere do 
+      <lb ed="#P" n="113"/>ctiorem altero in paruo excessu dummoo excessus 
+      ma<lb ed="#P" n="114" break="no"/>net in medio sed sicut de duobus equalibus potest iudex 
+      <lb ed="#P" n="115"/>vnum alteri preponere ad eius arbitrium sic quando sunt 
+      <lb ed="#P" n="116"/>puo quorum alter iudicatur alterum asnenre paululum potest 
+      <lb ed="#P" n="117"/>minus doctum praeponere sine mortali peccato et forte sine 
+      <lb ed="#P" n="118"/>peccato sicut in prima quaestione huius diximus iudicem posse ad  
+      <!--460.xml-->
+      <pb ed="#P" n="223-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>arbitrium concludere inter duas partes pares quarum 
+      <lb ed="#P" n="2"/>vtraque dicit partem oppositam erroneam sed non propriam 
+      <lb ed="#P" n="3"/>et sint vtrinque octo et adhuc per ablationem vnius potest 
+      <lb ed="#P" n="4"/>id idem facere nec est idem decura animarum et loco in gradu 
+      <lb ed="#P" n="5"/>aliqui tenent hominem non posse petere curam animarum 
+      <lb ed="#P" n="6"/>sed posse petere gradum et vlterius multi tenent monstra 
+      <lb ed="#P" n="7"/>tis duobus minus idoneo et idoneo iudex non tenetur 
+      <lb ed="#P" n="8"/>conferre beneficium non curatum magis idoneo sufficit con 
+      <lb ed="#P" n="9"/>ferre ipisum idoneo. insuper si sit hic peccatum non 
+      vi<lb ed="#P" n="10" break="no"/>detur esse mortale dicunt alii secus est vbi esset 
+      benefi<lb ed="#P" n="11" break="no"/>cium curatum. rursus apud aliquos vt in. xxiiii. dist. 
+      <lb ed="#P" n="12"/>diximus sufficit quodcumque beneficium conferre idoneo nec 
+      <lb ed="#P" n="13"/>homo tenetur conferre magis idoneo propter multas 
+      <lb ed="#P" n="14"/>fractiones que hic sunt forte nescis probare quod in 
+      ca<lb ed="#P" n="15" break="no"/>su proposito quod homo deuinciatur dare priorem sedem 
+      <lb ed="#P" n="16"/>doctiori de quo loquuti sumus qui exiguo excessu alium 
+      <lb ed="#P" n="17"/>exuperat et sic interdum erit locus gratificationis inter 
+      <lb ed="#P" n="18"/>quattuor vel quinque imo inter sex vel septem primos 
+      <lb ed="#P" n="19"/>interdum est notabile discrimen inter duos et tunc 
+      gran<lb ed="#P" n="20" break="no"/>de esset peccatum preponere indoctiorem tollitur 
+      cal<lb ed="#P" n="21" break="no"/>car a studio et daretur fomentum volare ad amicos in 
+      <lb ed="#P" n="22"/>tercessores relicto studio: sed quia probationes quas su 
+      <lb ed="#P" n="23"/>perius citauimus videntur hic equaliter concludere quod 
+      <lb ed="#P" n="24"/>si honor est premium virtutis more philosophi hoc dixerim 
+      <lb ed="#P" n="25"/>aliud premium a deo expectamus maiori virtuti 
+      ma<lb ed="#P" n="26" break="no"/>ius premium debetur iste cognoscitur alium exuperare 
+      <lb ed="#P" n="27"/>vt supponitur: gitur: et sic esset apparentia adherendum 
+      <lb ed="#P" n="28"/>fore in paruo excessu partium oppositarum. dixi dummon 
+      <lb ed="#P" n="29"/>cognoscitur non me fugit frequenter erit tenebrosa 
+      <lb ed="#P" n="30"/>aqua in nubibus aeris iudicare inter quintum 
+      sextu<lb ed="#P" n="31" break="no"/>vel septimum et primum nec consequentia est aliqua iste est primus 
+      <lb ed="#P" n="32"/>vel secundus iste sextus vel septimus ergo ille es 
+      <lb ed="#P" n="33"/>doctior isto vidimus antecedens verum et consequens 
+      ambi<lb ed="#P" n="34" break="no"/>guum et cum isto toto et magistri nostri et cancellarius 
+      <lb ed="#P" n="35"/>equissime iudicauit locus erat gratificationis ob va 
+      <lb ed="#P" n="36"/>rias circunstantias bachalarios extollentes et 
+      depri<lb ed="#P" n="37" break="no"/>mentes. ceterum non est idem de prepositione vnius re 
+      <lb ed="#P" n="38"/>spectu alterius in calce et in fronte inter vltimum et pe 
+      <lb ed="#P" n="39"/>nultimum summa debet esse indago reputarem solum 
+      <lb ed="#P" n="40"/>veniale vel non peccatum preponere sortem platoni in 
+      <lb ed="#P" n="41"/>primis sedibus mortalem noxam inter penultimum et vl 
+      <lb ed="#P" n="42"/>timum existimarem est actus in gradu temperantie vel 
+      he<lb ed="#P" n="43" break="no"/>roico equanimiter id ferre sed ponderet quod nouissimum 
+      <lb ed="#P" n="44"/>locum habens crebro non est minus vtilis reipublice quam 
+      <lb ed="#P" n="45"/>multi eum precedentes et inter multos pares sub 
+      iu<lb ed="#P" n="46" break="no"/>dice lis est quis eorum est doctior vnum dare vltimum ne 
+      <lb ed="#P" n="47"/>cesse est quid profuit andree quod ante petrum vocaretir 
+      <lb ed="#P" n="48"/>ad apulatum quid nocuit paulo quod omnium erat nouissimus 
+      <lb ed="#P" n="49"/>non minus aliis laborauit in vinea domini sic de voca 
+      <lb ed="#P" n="50"/>tione in licentiis frequenter contingit. Sed dicis 
+      po<lb ed="#P" n="51" break="no"/>namus titum primo loco indignum est pro tertio loco vel 
+      <lb ed="#P" n="52"/>quarto dignus et hoc constat deponenti de eo 
+      testi<lb ed="#P" n="53" break="no"/>monium an deponens tenetur dare ei quartum locun 
+      <lb ed="#P" n="54"/>supposito quod videat si det ei certum locum cum suis 
+      ad<lb ed="#P" n="55" break="no"/>herentibus quod preter rationem habebit primum locun 
+      <lb ed="#P" n="56"/>respondetur in casu apparet quod tenetur dare illi 
+      quar<lb ed="#P" n="57" break="no"/>tum locum ratio debet cum est partialis iudex 
+      suffraga<lb ed="#P" n="58" break="no"/>ri optime merito et tollere omne impedimentum 
+      me<lb ed="#P" n="59" break="no"/>dio licito ne optime meritus suo iure fraudetur et ini¬ 
+      <!--460.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="60"/>doneus promoueatur sed hoc medium est licitum sicut 
+      <lb ed="#P" n="61"/>in simili casu superius in. xxiiii. distin. diximus de 
+      benefi<lb ed="#P" n="62" break="no"/>tiatis de illo qui est beneficium relicturus debet pro 
+      <lb ed="#P" n="63"/>curare quod idoneus habeat et non relinquere onus 
+      col<lb ed="#P" n="64" break="no"/>latori et etiam deponens est partialis iudex. Sed  
+      <lb ed="#P" n="65"/>dicis quid cause est quod bachalarii proximo 
+      licentian<lb ed="#P" n="66" break="no"/>di sic inhiant ad primas sedes et videtur quod nullum est 
+      <lb ed="#P" n="67"/>pecimen honestatis ad sic faciendum cum sint homines iam 
+      <lb ed="#P" n="68"/>prouecte etatis quorum aliqui duos cursus in artibus 
+      <lb ed="#P" n="69"/>iam compleuerunt.
+    </p>
+            <p xml:id="JM7jmZ-e22854-d1e1314">
+      ¶ Respondetur a multis mouentur 
+      <lb ed="#P" n="70"/>vident bonam equitatem communiter in theologia seruatam et 
+      <lb ed="#P" n="71"/>eam ob rem magis anhelant ad sedem altam vt loco 
+      <lb ed="#P" n="72"/>eminenti digni iudicentur quis est qui honorem aspernatur 
+      <lb ed="#P" n="73"/>vtutem fouet honor ad studium incendimur gloria et 
+      ho<lb ed="#P" n="74" break="no"/>nos alit artes secundum ciceronem et magis in senibus quam iu 
+      <lb ed="#P" n="75"/>uenibus circa passiones corporeas laborantibus an 
+      <lb ed="#P" n="76"/>diem clauso componet vesper olympo quam historias vi 
+      <lb ed="#P" n="77"/>rorum illustrium recitem qui preclara facinora gesseruni 
+      <lb ed="#P" n="78"/>honore illecti tempus senectutis ad boc insudat 
+      me<lb ed="#P" n="79" break="no"/>mini me apud iacobum foriliniensem in primo canonis 
+      <lb ed="#P" n="80"/>auicenne legisse quod homines circa quinquagesimum annum 
+      <lb ed="#P" n="81"/>lam student honoribus hoc declarauit per bentiuolam 
+      <lb ed="#P" n="82"/>qui bononiensibus in tali etate imperare studebat id 
+      <lb ed="#P" n="83"/>idem in nostris beneficiatis t aliis videmus nec in hoc 
+      <lb ed="#P" n="84"/>nostros hachalarios singulares opineris si esses in 
+      <lb ed="#P" n="85"/>prima licentia cum eis non minus laborares multi in 
+      <lb ed="#P" n="86"/>tertia licentia stupebant de modo faciendi prime et re 
+      <lb ed="#P" n="87"/>putabant extremam dementiam postea conscendentes 
+      <lb ed="#P" n="88"/>gradatim multo impetuosiores erant primis secundum 
+      il<lb ed="#P" n="89" break="no"/>lud comici facile egrotis dum bene valemus 
+      consi<lb ed="#P" n="90" break="no"/>lium damus. Insuper multos equaenimes eorum 
+      vi<lb ed="#P" n="91" break="no"/>des preficientes eis quandam latitudinem inter primos 
+      <lb ed="#P" n="92"/>octo vel in secunda ierarchia senaria vel quinaria / qui mo 
+      <lb ed="#P" n="93"/>re taxilli non possunt oblique cadere rationibus 
+      cadu<lb ed="#P" n="94" break="no"/>cis quibusdam mouetur iohannes vicleffus quod non licet 
+      <lb ed="#P" n="95"/>petere gradum qui tamen graduatus erat dicit beatum 
+      <lb ed="#P" n="96"/>augustinum non acceptasse gradum et quercus et fagos 
+      <lb ed="#P" n="97"/>docuisse bernardum pitagoras sapiens appellari 
+      eru<lb ed="#P" n="98" break="no"/>buit sed sufficiebat amator sapientie vocari quod nomen 
+      <lb ed="#P" n="99"/>phi importat quomodo sortes vocatur magister in an 
+      <lb ed="#P" n="100"/>tibus plato doctor theologus fatemur aliquos non 
+      <lb ed="#P" n="101"/>graduatos eruditos interdum sed rarius quam gradua 
+      <lb ed="#P" n="102"/>tos non modicam excercitationem habebat augustinus 
+      <lb ed="#P" n="103"/>et si gradum non ceperit non sequitur quod alii indigne ac 
+      <lb ed="#P" n="104"/>ceptant. ad secundum magister non est nomen ven 
+      <lb ed="#P" n="105"/>osum prout vicleff et eius dogmatistes putat dicti 
+      <lb ed="#P" n="106"/>sunt magistri quia magis ceteris possint vel quod magis 
+      <lb ed="#P" n="107"/>quam ceteri diligentiam rebus quibus presunt habere 
+      <lb ed="#P" n="108"/>debent nec ad esse magistrum in artibus requiritur scire 
+      <lb ed="#P" n="109"/>omnia que occurrunt in artibus dicebat saluator iohan 
+      <lb ed="#P" n="110"/>nis. xiii. vos vocatis me magister et domine et bene dicitius 
+      <lb ed="#P" n="111"/>sum etemm et dixit nichodemo. iohannis. iii. loquendo 
+      <lb ed="#P" n="112"/>de baptismo. Tu es magister in israel et hec 
+      igno<lb ed="#P" n="113" break="no"/>ras et ita de doctore sicut aplus erat doctor gentium 
+      <lb ed="#P" n="114"/>in fide et veritate. i. ad thimotheum. ii. et christus sedebat 
+      <lb ed="#P" n="115"/>in medio doctorum. luce. ii.
+    </p>
+            <p xml:id="JM7jmZ-e22854-d1e1416">
+      ¶ Hubitatur secundo quare 
+      <lb ed="#P" n="116"/>in artibus non vocantur doctores sicut in ceteris fa 
+      <lb ed="#P" n="117"/>cultatibus dicitur interdum sic vocantur alicubi est 
+      <lb ed="#P" n="118"/>vsus in oppositum et quia solent graduati in aliis fa¬ 
+      <!--461.xml-->
+      <pb ed="#P" n="223-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>cultatibus esse in maiore hominium reputatione vel a sci 
+      <lb ed="#P" n="2"/>entia vel ex diuitiis nomen doctoris celebrius apparet 
+      <lb ed="#P" n="3"/>cum maioribus attribuatur theologi et phisici 
+      docto<lb ed="#P" n="4" break="no"/>res artes viderunt et sic eruditiores regulariter sunt 
+      <lb ed="#P" n="5"/>simplicibus artistis legiste si doctiores non extiterint 
+      <lb ed="#P" n="6"/>pluribus bonis fortune habundant et sic apud vulgus 
+      <lb ed="#P" n="7"/>preferuntur. Ad tertium dubium quo querebatur an 
+      <lb ed="#P" n="8"/>magis conducat legere in studio quam concionari 
+      popu<lb ed="#P" n="9" break="no"/>lo. Respondetur aliquis est aptior ad legendum quam ad con 
+      <lb ed="#P" n="10"/>cionandum aliquis econuerso: gratrarum diuisiones sunt 
+      <lb ed="#P" n="11"/>seiuncte aliquis est equaliter aptus ad vtrumque officium 
+      <lb ed="#P" n="12"/>interdum pauci legunt in studio et multi praedicant inter 
+      <lb ed="#P" n="13"/>dum econuerso periforma aliquis habet beneficium 
+      cura<lb ed="#P" n="14" break="no"/>tum aliquis nullum habet. secundum hoc respondetur per 
+      pro<lb ed="#P" n="15" break="no"/>positiones.
+    </p>
+            <p xml:id="JM7jmZ-e22854-d1e1464">
+      ¶ Prima propositio male agit qui 
+      relin<lb ed="#P" n="16" break="no"/>quit continuo beneficium extra vniuersitatem si nullum ha 
+      <lb ed="#P" n="17"/>bet in vniuersitate dato quod in illa legat vbi sunt suffi 
+      <lb ed="#P" n="18"/>cientes lectores talis relinquit curam ei commissam et 
+      <lb ed="#P" n="19"/>ponit se in impaertinens suo officio dans thura sabeo. di 
+      <lb ed="#P" n="20"/>xi non habens beneficium in vniuersitate et continuo ne 
+      <lb ed="#P" n="21"/>mo potest semper residere in suo beneficio et ex hac pro 
+      <lb ed="#P" n="22"/>positione sequitur quod non bene agit qui continuo 
+      resi<lb ed="#P" n="23" break="no"/>det in vniuersitate non habens beneficium in illa et ali 
+      <lb ed="#P" n="24"/>bi vnum habens non legens stat virum stare pro tempore vt 
+      <lb ed="#P" n="25"/>disponat de rebus suis anquam adeat beneficium suum.
+    </p>
+            <p xml:id="JM7jmZ-e22854-d1e1489">
+      ¶ Se 
+      <lb ed="#P" n="26"/>cunda propositio habens beneficium curatum licet in pri 
+      <lb ed="#P" n="27"/>cipio videatur esse minus idoneus ad predicandum 
+      <lb ed="#P" n="28"/>quam ad legendum debet se ponere ad predicandum vix 
+      <lb ed="#P" n="29"/>tat dare virum eruditum et prudentem quin successu tempo 
+      <lb ed="#P" n="30"/>ris bene praedicabit scit discernere lepram a non lepra 
+      <lb ed="#P" n="31"/>scit peccata regnantia in subditis et qua via oues sunt 
+      <lb ed="#P" n="32"/>scabie purgande et ad pascua salutaria ducende et hec 
+      <lb ed="#P" n="33"/>dicens est peritus contionator et plus fidei ei dabitur 
+      <lb ed="#P" n="34"/>quam centum recitantibus compositos sermones memo 
+      <lb ed="#P" n="35"/>riter.
+    </p>
+            <p xml:id="JM7jmZ-e22854-d1e1513">
+      ¶ Tertia propositio vbi homo esset in patria in 
+      <lb ed="#P" n="36"/>qua pauci essent lectores in vniuersitate melius 
+      fa<lb ed="#P" n="37" break="no"/>cit relinquendo pro maiore parte curam et legendo quam 
+      <lb ed="#P" n="38"/>econuerso. patet. talis creat theologos et alios doces 
+      <lb ed="#P" n="39"/>raedicare oportet vnam paruam partem corporis mistici pa 
+      <lb ed="#P" n="40"/>ti vt bene sit toti corpori et potioribus menbris et sic 
+      <lb ed="#P" n="41"/>dicendum est quando homo est aptus ad vtrumque et sunt suf 
+      <lb ed="#P" n="42"/>ficientes et ad predicandum et ad legendum et nullum 
+      <lb ed="#P" n="43"/>beneficium habet eque sentiunt saeculares interdum in aliqui 
+      <lb ed="#P" n="44"/>bus partibus soli religiosi pro maiore parte theologie in 
+      <lb ed="#P" n="45"/>sistunt et talem legunt saecularibus qualem ipsi nouerunt et 
+      <lb ed="#P" n="46"/>sic saeculares et religiosi aliarum religionum interdum cap 
+      <lb ed="#P" n="47"/>unt hanc doctrinam et non illam. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

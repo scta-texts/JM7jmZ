@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 1</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 1</title>
+               <date when="2021-07-06">July 06, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-M4Saaa">Paris 1509</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-06" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="154-v"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="JM7jmZ-d85531"><!-- l4d29q1 -->
+            <head xml:id="JM7jmZ-d85531-Hd1e108">Quaestio 1</head>
+            <head xml:id="JM7jmZ-d85531-Hd1e111" type="question-title">
+      An consensus
+      coactus sufficiat ad
+      matrimonium
+    </head>
+            <p xml:id="JM7jmZ-d85531-d1e114">
+               <lb ed="#P" n="21"/>¶ Distinctionis vigesime none questio vnica. 
+      <lb ed="#P" n="22"/>CIrca distinctionem vigesimam nonam quero an 
+      <lb ed="#P" n="23"/>consensus coactus sufficiat ad matrimonium 
+      <lb ed="#P" n="24"/> supponamus aliqua quae alias explicantur 
+      luci<lb ed="#P" n="25" break="no"/>dius quod voluntas non potest cogi nec ad eius actum 
+      eli<lb ed="#P" n="26" break="no"/>citum nec ad actum imparatum si quis quempiam mea ma 
+      <lb ed="#P" n="27"/>nu percutiat illa percussio non est a me imparata sed et 
+      <lb ed="#P" n="28"/>mouente manum potest tamen voluntas induci ad aliqua per 
+      <lb ed="#P" n="29"/>penas vel blandicias ita quod consentiat et actum eliciat 
+      <lb ed="#P" n="30"/>qui eum non haberet si sibi esset relicta. patet de abscim 
+      <lb ed="#P" n="31"/>dente pedem ne inficiatur reliquum corpus. patet de 
+      proii<lb ed="#P" n="32" break="no"/>ciente merces in mare ad exonerandam nauim nimis 
+      <lb ed="#P" n="33"/>refertam tempore pariculi incumbentis hic est voluntarium 
+      <lb ed="#P" n="34"/>alicui nolito in mixtum vt patet. iii. ethicorum: sed plus est 
+      <lb ed="#P" n="35"/>de voluntario quam nolito vt dicit aristoteles cum 
+      mer<lb ed="#P" n="36" break="no"/>tator res proprias eiicit cuius actus voluntatis im 
+      <lb ed="#P" n="37"/>perat menbris nauim euacuare vocabimus conactionem 
+      <lb ed="#P" n="38"/>inductionem ad aliquod siue per metum vt in exemplo 
+      <lb ed="#P" n="39"/>tacto siue per blandicias. Supponatur vlterius 
+      du<lb ed="#P" n="40" break="no"/>plex est metus quidem cadens in constantem virum per 
+      vi<lb ed="#P" n="41" break="no"/>rum etiam mulierem complectimur earum alique plerisque 
+      vi<lb ed="#P" n="42" break="no"/>ris in animositate praestabant vt tonuris pantasilea smi 
+      <lb ed="#P" n="43"/>ramis. Alius est metus cadens in inconstantem 
+      viru<lb ed="#P" n="44" break="no"/>id est metus leuis et floccipendendus constans ab 
+      in<lb ed="#P" n="45" break="no"/>constante secernitur quia constas sequitur rectam rationem 
+      <lb ed="#P" n="46"/>per quam scit quid pro quo sit faciendum vel omittendum 
+      <lb ed="#P" n="47"/>se elongat a magis malo et adheret minori malo pe 
+      <lb ed="#P" n="48"/>ne quando separatur a culpa. secundo quantum ad estimationem peri 
+      <lb ed="#P" n="49"/>culi leue periculum aspernatur et non mouetur. quo fit con 
+      <lb ed="#P" n="50"/>stans pro nullo puro malo pene eligit culpam magna 
+      <lb ed="#P" n="51"/>mala pene pro nostro casu in hoc carmine includuntur 
+      <lb ed="#P" n="52"/>Stuprum sine status verberum atque necis hoc est 
+      perde<lb ed="#P" n="53" break="no"/>re castitatem. Susanna maluit perdere vitam et lapidari 
+      <lb ed="#P" n="54"/>quam castitatem culpabiliter amittere incurrere 
+      seruitu<lb ed="#P" n="55" break="no"/>tem gouia verbera vel mortem. hiis in epitomate recita 
+      <lb ed="#P" n="56"/>tis pono duas conclusiones.
+    </p>
+            <p xml:id="JM7jmZ-d85531-d1e195">
+      ¶ Prior est metus 
+      ca<lb ed="#P" n="57" break="no"/>dens in constantem virum impedit matrimonium. patet de 
+      <!--323.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="58"/>sponsali. c. cum locum vbi alex. tertius dicit cum locum non 
+      <lb ed="#P" n="59"/>habeat consensus vbi metus vel coactio intercedit 
+      <lb ed="#P" n="60"/>necesse est vt vbi assensus cuiusquam requiritur 
+      coa<lb ed="#P" n="61" break="no"/>ctionis materia impellatur hoc patet. c. veniens in eodem 
+      <lb ed="#P" n="62"/>titulo et fli. quod metus causa metum non valet dicere 
+      co<lb ed="#P" n="63" break="no"/>ram deo est matrimonium sed non est presumptum ab 
+      <lb ed="#P" n="64"/>ecclesia quia ecclesia presumit quod non consenserit. 
+      Con<lb ed="#P" n="65" break="no"/>tra ecclesia interpretatur casum fratris in meliorem 
+      <lb ed="#P" n="66"/>partem vbi non constat ei de opposito: ergo 
+      interpri<lb ed="#P" n="67" break="no"/>tatur quod homo non vult mentiri presentialiter 
+      dicen<lb ed="#P" n="68" break="no"/>do. capio te in meam quin consentiat. Item iustum 
+      <lb ed="#P" n="69"/>est quod iura subueniant hiis qui faciunt in discrimine 
+      il<lb ed="#P" n="70" break="no"/>lud quod possunt puta sortes est inter duo vel 
+      contra<lb ed="#P" n="71" break="no"/>here cum filia tiranni vel occidi minus malum est 
+      contra<lb ed="#P" n="72" break="no"/>pere et hoc facit sortes rationabile est quod fauore 
+      in<lb ed="#P" n="73" break="no"/>nocentis et odio nocentis contractus ille irritetur 
+      alio<lb ed="#P" n="74" break="no"/>quin plerique cogerent tirannice matrimonia et multa 
+      <lb ed="#P" n="75"/>mala sequerentur.
+    </p>
+            <p xml:id="JM7jmZ-d85531-d1e243">
+      ¶ Secunda conclusio consensus 
+      <lb ed="#P" n="76"/>causatus per timorem non cadentem in constantem virum non 
+      <lb ed="#P" n="77"/>irritat matrimonium imo sufficit ad matrimonium. patet 
+      <lb ed="#P" n="78"/>non est intentio ecclesie talem consensum irritare sicut le 
+      <lb ed="#P" n="79"/>ges subueniunt restituentes in integrum illum qui passus 
+      <lb ed="#P" n="80"/>est iustum metum non illum qui est nimis miticulosus 
+      <lb ed="#P" n="81"/>patet illud de hiis que vi metus ve causa fiunt. c. cum di 
+      <lb ed="#P" n="82"/>ectus. Ex istis sequintur quod ista irritatio venit ab ec 
+      <lb ed="#P" n="83"/>clesia ante omnem prohibitionem ecclesie fuisset matrimonium 
+      <lb ed="#P" n="84"/>et hoc patet cosensum esse pure liberum explicatum per 
+      <lb ed="#P" n="85"/>signa nec sufficit ad matrimonium nec inuoluntarium 
+      <lb ed="#P" n="86"/>voluntario mixtum impedit matrimonium. primum patet 
+      <lb ed="#P" n="87"/>de consensu maris in tertiodecimo anno qui ratione 
+      <lb ed="#P" n="88"/>vtitur talis consensus non sufficit propter irritationem. 
+      <lb ed="#P" n="89"/>maximi pontificis similiter in miticuloso ita impurus est 
+      <lb ed="#P" n="90"/>consensus et non liber pro leui causa sicut in constante 
+      <lb ed="#P" n="91"/>ex magna causa nouit constans non semper moriuntur 
+      <lb ed="#P" n="92"/>aues quibus insidiantur. Contra ista argumentor 
+      <lb ed="#P" n="93"/>ortes dicit capio te in meam vel ita est sicut dicit et 
+      <lb ed="#P" n="94"/>sic est matrimonium vel non est ita et sic mentitur dicendo 
+      <lb ed="#P" n="95"/>falsum. Forte dicis dicere falsum est impartinens men 
+      <lb ed="#P" n="96"/>datio credit dicere verum. Contra ponatur titius 
+      do<lb ed="#P" n="97" break="no"/>ctus canonista vel theologus sciens illum contractum 
+      <lb ed="#P" n="98"/>inualidum ad matrimonium videtur quod debet pati se ci 
+      <lb ed="#P" n="99"/>tius occidi quam mentiri culpa non cadit in constantem vl 
+      <lb ed="#P" n="100"/>rum citius est ferenda mors quam mentiendum 
+      veniali<lb ed="#P" n="101" break="no"/>ter. Respendetur dicit capio te in meam hoc est quantum 
+      <lb ed="#P" n="102"/>est ex parte mea sic intelligitur hoc est facio quod in me 
+      <lb ed="#P" n="103"/>est in ista ambage ad te capiendam et si cogatur a tiran 
+      <lb ed="#P" n="104"/>no dicere capio te libere hoc non videtur cadere in con 
+      <lb ed="#P" n="105"/>stantem virum ostendat tiranno consensus quem habet in il 
+      <lb ed="#P" n="106"/>lo casu est inualidus.
+    </p>
+            <p xml:id="JM7jmZ-d85531-d1e314">
+      ¶ Secundo arguitur blandicie 
+      <lb ed="#P" n="107"/>aliquos ceruicosos vel gnoosi animi tantum mouent 
+      <lb ed="#P" n="108"/>sicut mine non impediunt ergo nec mine cadentes in illi 
+      <lb ed="#P" n="109"/>constantem virum. Insuper consensus coactus a deo ti 
+      <lb ed="#P" n="110"/>more peccati sufficit ad matrimonium ergo in 
+      propo<lb ed="#P" n="111" break="no"/>sito timor cadens in constantem virum. Ad primum dico 
+      <lb ed="#P" n="112"/>ecclesia non illegittimauit consensum per blandicias 
+      <lb ed="#P" n="113"/>quia illa non est regulariter vehemens nemo est qui non 
+      <lb ed="#P" n="114"/>potest eis obuiare nullomodo tantum mouetur sicut 
+      <lb ed="#P" n="115"/>mors vel grandis verberatio. vt dicit aristoteles 
+      <lb ed="#P" n="116"/>iii. ethicorum. i. quod si quispiam ideo iocunda violenta di¬ 
+      <!--324.xml-->
+      <pb ed="#P" n="155-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>xerit esse quia et extra sunt et compellunt omnia erunt eius 
+      <lb ed="#P" n="2"/>sententia violenta vult aristoteles dicere non tantum mouent 
+      <lb ed="#P" n="3"/>iocunda sicut violenta nec demostenis eloquentia 
+      <lb ed="#P" n="4"/>nec ciceronis facundia tantum aliquem in consensum 
+      <lb ed="#P" n="5"/>flexissent sicut dionisii tiranni alexandri aut hanniba 
+      <lb ed="#P" n="6"/>lis crudelitas. Ad secundum concedo quod timor de pecca 
+      <lb ed="#P" n="7"/>to praecipiente deo non inualidat consensum matrimo 
+      <lb ed="#P" n="8"/>nialem nec hoc intendit pontifex et si intenderet deo 
+      <lb ed="#P" n="9"/>precipiente oppositum iam deo parendum est. sed dicis 
+      <lb ed="#P" n="10"/>si qua mulier sic contraxit tempore raptus vt solet 
+      <lb ed="#P" n="11"/>esse alicubi locorum vbi minus iusticie seruatur quam hic 
+      <lb ed="#P" n="12"/>an est matrimonium presumptum per carnalem 
+      copu<lb ed="#P" n="13" break="no"/>lam et an stante timore valeat matrimonium dicitur con 
+      <lb ed="#P" n="14"/>sensus quem ipsa habet non sufficit et non debet 
+      redde<lb ed="#P" n="15" break="no"/>re debitum quia nichil debet / debet omnifariam reniti nec presu 
+      <lb ed="#P" n="16"/>mitur matrimonium stante illo casu si non consentiat 
+      <lb ed="#P" n="17"/>in matrimonium aliquo modo neget se vltro 
+      consen<lb ed="#P" n="18" break="no"/>sisse in copulam sed violentam esse asserat sed si ipa per 
+      <lb ed="#P" n="19"/>mittat se cognosci cum restituta est libertati erit ma 
+      <lb ed="#P" n="20"/>trimonium presumptum. Tertio arguitur consensus 
+      <lb ed="#P" n="21"/>coactus sufficit ad baptismum de baptismo et eius 
+      <lb ed="#P" n="22"/>effectu. maiores. ergo talis sufficit ad matrimonium. for 
+      <lb ed="#P" n="23"/>te dicis vnum est de necessitate salutis et non aliud. 
+      <lb ed="#P" n="24"/>Contra ordo non est de necessitate salutis et tamen in 
+      or<lb ed="#P" n="25" break="no"/>dine consensus mixtus sufficit igitur. dicitur superius 
+      <lb ed="#P" n="26"/>ecclesia vnum illegittimat et contractum viciat nec hoc 
+      <lb ed="#P" n="27"/>inconuenit in matrimonio quod praesupponit tempore vel 
+      <lb ed="#P" n="28"/>natura contractum naturalem. Quarto arguitur fortius 
+      <lb ed="#P" n="29"/>est vinculum per consensum de presenti cum verbis de 
+      <lb ed="#P" n="30"/>presenti quam per verba de futuro ceteris paribus hinc 
+      <lb ed="#P" n="31"/>inde puta coacte et coacte sed contractus sponsalium 
+      <lb ed="#P" n="32"/>eoactus iuramento vallatus obligat iurantem. patet de 
+      <lb ed="#P" n="33"/>hiis que vi metus ve causa fiunt ad aures. ergo contra 
+      <lb ed="#P" n="34"/>ctus sponsalium iuramento vallatus. probatur de 
+      re<lb ed="#P" n="35" break="no"/>nunciatio. capitulo. insuper. Respondetur non esse si 
+      <lb ed="#P" n="36"/>mile cum vnus contractus est inualidus et ipso iure 
+      <lb ed="#P" n="37"/>nullus vt in proposito. extra de sponsali. cum locum. 
+      <lb ed="#P" n="38"/>hoc patet de voto de hiis quae vi metus ve causa fiunt 
+      <lb ed="#P" n="39"/>c. i. quedam per metum facta tenent ipso iure quousque 
+      <lb ed="#P" n="40"/>subueniatur metum passo autotoritate superioris qui sud 
+      <lb ed="#P" n="41"/>officio implorato et metu probato debet a promissione 
+      <lb ed="#P" n="42"/>absoluere et datum facere restitui si collatum fuerit. 
+      </p>
+            <p xml:id="JM7jmZ-d85531-d1e436">
+               <lb ed="#P" n="43"/>¶ Dubitatur an requiratur consensus parentum ad 
+      <lb ed="#P" n="44"/>hoc quod sit matrimonium. hic martinus de magistris in 
+      <lb ed="#P" n="45"/>materia raptus conclusione sexta facit magnum proces 
+      <lb ed="#P" n="46"/>sum et tenet quod non valet matrimonium quousque ipa rei 
+      <lb ed="#P" n="47"/>stituatur et parentes consenserint et ipse sit solutus 
+      <lb ed="#P" n="48"/>ab exconicatione ad boc introducit concilium meldense 
+      <lb ed="#P" n="49"/>et gratianum in aliquibus passibus et in octaua conclu 
+      <lb ed="#P" n="50"/>sione dicit non sufficere mulieris consensum sexta es 
+      <lb ed="#P" n="51"/>octaua conclusiones sunt false: et in probatione 
+      fal<lb ed="#P" n="52" break="no"/>litur leges ciuiles hoc statuerunt et aliqui antiqui 
+      ca<lb ed="#P" n="53" break="no"/>nones hoc pretendunt licet non alleget. vide. xxvi. o 
+      <lb ed="#P" n="54"/>ii. per totum et institu. §. iustas autem nuptias inter se 
+      <lb ed="#P" n="55"/>ciues romani contrahunt que secundum precepta legum 
+      <lb ed="#P" n="56"/>coeut masculi quidem puberes et femine viri potentes 
+      <lb ed="#P" n="57"/>siue patresfamilias siue filifamilias sint et 
+      consen<lb ed="#P" n="58" break="no"/>sum habeant parentum quorum in potestate sunt nam hoc 
+      <lb ed="#P" n="59"/>fieri debere et ciuilis et naturalis ratio suadet in tantum 
+      <!--324.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="60"/>vt iussus parentum precedere debet si qui antiqui 
+      <lb ed="#P" n="61"/>canones fuerint reuocantur per nouos patet de ra 
+      <lb ed="#P" n="62"/>ptori capite penultio et antepenultimo congruum est ha 
+      <lb ed="#P" n="63"/>bere consensum parentum vt rebeca fecit sed non est de 
+      <lb ed="#P" n="64"/>necessitate sacramenti leges ciuiles locum non habent 
+      <lb ed="#P" n="65"/>in materia sacramentorum. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

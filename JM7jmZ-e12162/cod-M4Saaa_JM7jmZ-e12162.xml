@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 4</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 4</title>
+               <date when="2021-07-06">July 06, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-M4Saaa">Paris 1509</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-06" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="202-r"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="JM7jmZ-e12162"><!-- l4d45q4 -->
+            <head xml:id="JM7jmZ-e12162-Hd1e108">Quaestio 4</head>
+            <head xml:id="JM7jmZ-e12162-Hd1e111" type="question-title">
+      An anima
+      separata cognoscat
+      aliqua quae cognovit
+      in hoc corpore et
+      an sancti pro nobis
+      orent
+    </head>
+            <p xml:id="JM7jmZ-e12162-d1e114">
+               <lb ed="#P" n="21"/>¶ Distinctionis quadragesime quinte questio quarta. 
+      <lb ed="#P" n="22"/>Am quarto loco consequenter petamus an anima 
+      <lb ed="#P" n="23"/>separata cognoscat aliqua que cognouit in 
+      <lb ed="#P" n="24"/>hoc corpore et an sancti pro nobis oret quod ma 
+      <lb ed="#P" n="25"/>gister tangit in vltimo capite huius distinctionis. 
+      </p>
+            <p xml:id="JM7jmZ-e12162-d1e127">
+               <lb ed="#P" n="26"/>¶ Pro solutione quaestionis notabis non est facile osten 
+      <lb ed="#P" n="27"/>dere quomodo anima separata cognoscat illa per memo 
+      <lb ed="#P" n="28"/>riam que in hoc mortali corpore cognouit licet scien 
+      <lb ed="#P" n="29"/>tia sit noticia intellectiua tamen videmus ad alterationem 
+      <lb ed="#P" n="30"/>corporum perit scientia. patet. in egritudine 
+      longe<lb ed="#P" n="31" break="no"/>ua frenesi ebrietate vl lesura cerebri si ledatur occi 
+      <lb ed="#P" n="32"/>put perit memoria senes et iuuenes propter alteratio 
+      <lb ed="#P" n="33"/>nem carnis et morbo laborantes vel multum flegma 
+      <lb ed="#P" n="34"/>tici non sunt fecunde memorie propter superfluos 
+      hu<lb ed="#P" n="35" break="no"/>mores. Aliqui celeriter recipiunt et receptum 
+      ocissi<lb ed="#P" n="36" break="no"/>me amittunt vt multi ingeniosi. Aliqui tarde 
+      imbi<lb ed="#P" n="37" break="no"/>butnit et bene imbibitum tenaciter memorie heret non 
+      <lb ed="#P" n="38"/>nulli praue recipiunt et receptum mox effundunt ergo 
+      <lb ed="#P" n="39"/>indicium est quod et memoria hoc est habitus 
+      memoran<lb ed="#P" n="40" break="no"/>di non est pure intellectiuus sed potius sensitiuus et sic 
+      <lb ed="#P" n="41"/>de scientia diceretur et ceteris noticiis in hoc mortali 
+      <lb ed="#P" n="42"/>corpore congestis hoc non obstante iste rationes non 
+      <lb ed="#P" n="43"/>conuincunt abraham dicebat diuiti epuloni 
+      recorda<lb ed="#P" n="44" break="no"/>re bona que recepisti in vita tua et beatus hieronimus 
+      <lb ed="#P" n="45"/>in prologo biblie discamus in terris quorum scientia 
+      <lb ed="#P" n="46"/>manet in celis. insuper alias inane esset studere si quand 
+      <lb ed="#P" n="47"/>homo excedit e vita tota scientia per tot excubias et lu 
+      <lb ed="#P" n="48"/>cubrationes congesta in ita breui tempore 
+      tabesce<lb ed="#P" n="49" break="no"/>ret. propterea hic duo sunt. vnum quod anima separata 
+      <lb ed="#P" n="50"/>potest acquirere noticias intuitiuas et abstractiuas 
+      <lb ed="#P" n="51"/>nouas formare complexum et incomplexum vanum est ire 
+      <lb ed="#P" n="52"/>ad influxos dei sicut nonnulli faciunt omnis ratio 
+      con<lb ed="#P" n="53" break="no"/>tra illud concludit angelos nichil posse intelligere si 
+      <lb ed="#P" n="54"/>sue nature relinquantur potest candidius intelligere qua 
+      <lb ed="#P" n="55"/>in hoc mortali corpore sed non quam in corpore beato. si 
+      <lb ed="#P" n="56"/>dicas ergo quare deus facit animam esse corporis 
+      <lb ed="#P" n="57"/>formam dicitur ordinauit vt totum compositum mereretur 
+      <!--418.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="58"/>vel demereretur dedit ei carnem sociam ad excercitandum 
+      <lb ed="#P" n="59"/>se in virtute et vicio. Ad rationes adductas dicitur 
+      <lb ed="#P" n="60"/>non concludunt bene verum est pro hoc statu 
+      altera<lb ed="#P" n="61" break="no"/>to corpore scientia alteratur et perit vt aristoteles 
+      <lb ed="#P" n="62"/>dicit in predicamentis et hoc docet experientia de me 
+      <lb ed="#P" n="63"/>moria que tempore infirmitatis et paulopost depraua 
+      <lb ed="#P" n="64"/>tur propter humores complexionem bonam impedientes 
+      <lb ed="#P" n="65"/>habentes magnum occipunt sunt bone memorie sed hoc 
+      <lb ed="#P" n="66"/>est solum pro isto statu sicut dicere oportet in anims cor 
+      <lb ed="#P" n="67"/>pus nunc patitur ab igne corrumpendo non post diem 
+      <lb ed="#P" n="68"/>iudicii peccatum primi parentis erat huius nebule 
+      cau<lb ed="#P" n="69" break="no"/>sa secundum illud sapientie. ix. corpus quod corrumpitur 
+      agem<lb ed="#P" n="70" break="no"/>uat animam. Ex isto potes respondere ad formas 
+      ra<lb ed="#P" n="71" break="no"/>tionum antetactarum: sed contra scientia cum qua quis ab hac 
+      <lb ed="#P" n="72"/>luce emigrat in patria euanescit habitus non solum cor 
+      <lb ed="#P" n="73"/>rumpitur a contrario formali vel vertuali sed a causa con 
+      <lb ed="#P" n="74"/>seruante vt lumen lune a sole sed etiam per decisionem actus 
+      <lb ed="#P" n="75"/>vt in nobis intuemur. Item vel qualibet sciet omnia 
+      <lb ed="#P" n="76"/>que sciebat vnquam vel solum illa quae scit tempore mortis 
+      <lb ed="#P" n="77"/>si secundum grande detrimentum erit cum senes et decrep 
+      <lb ed="#P" n="78"/>ti sunt multo minus docti quam erant in florida etate sal 
+      <lb ed="#P" n="79"/>tem in theorica et multis aliis desipiscunt. Rursus 
+      ex<lb ed="#P" n="80" break="no"/>isto dabis minus beatum plura scientem quam magis bea 
+      <lb ed="#P" n="81"/>tum quod videtur inconueniens rationabile videtur quod ma 
+      <lb ed="#P" n="82"/>gis beatus semper plura cognoscat cum infinita deus 
+      <lb ed="#P" n="83"/>cognoscat et beata vgo plurima et sic de aliis per or 
+      <lb ed="#P" n="84"/>dinem. Item quid prodest hec scientia dannatis cum ea 
+      <lb ed="#P" n="85"/>vti nequeant. Ad primum dicitur nunc scientia 
+      corrum<lb ed="#P" n="86" break="no"/>pitur a contrario in celo non est hec contrarietas volo 
+      <lb ed="#P" n="87"/>a obiectum nunc cum nolitione illud volendi alio 
+      tem<lb ed="#P" n="88" break="no"/>pore non contrariantur nec ibi est deceptio et error 
+      pra<lb ed="#P" n="89" break="no"/>ue dispositionis non inconuenit beatum habere ignoram 
+      <lb ed="#P" n="90"/>tiam pure negationis de aliquo quod non spectat ad 
+      <lb ed="#P" n="91"/>suam beatitudinem. Alioquin dabis quemlibet beatum 
+      <lb ed="#P" n="92"/>simul infinita scire actu vel habitu proprie dicto quod non 
+      <lb ed="#P" n="93"/>opinor nunc corrumpitur habitus quia non conseruatur 
+      <lb ed="#P" n="94"/>hoc est fortasse est aliqua qualitas corporea qua 
+      amo<lb ed="#P" n="95" break="no"/>ta vel posita habitus fluit vel manet vel sic deus in 
+      <lb ed="#P" n="96"/>isto statu in quo sumus non vult nos esse inertes et 
+      tor<lb ed="#P" n="97" break="no"/>pere segnitur cum sardanapalo sed laborare secundum illud 
+      <lb ed="#P" n="98"/>maronis primo georgicorum. labor omnia vincit 
+      im<lb ed="#P" n="99" break="no"/>probus et duris vrgens in rebus egestas. Remittit 
+      <lb ed="#P" n="100"/>habitum vt nos simus propensi illum fouere et augere 
+      <lb ed="#P" n="101"/>non erit ita cum anima viam vniuerse carnis intrabit deus 
+      <lb ed="#P" n="102"/>non concurrit ad corruptionem quorumcumque habituum 
+      sal<lb ed="#P" n="103" break="no"/>tem in beatis de actibus apparet quod beatus non semper 
+      <lb ed="#P" n="104"/>equales habet. Ad secundum an quilibet sciet omnia illa 
+      <lb ed="#P" n="105"/>quae vnquam sciebat hercule me latet vtrumque potest deffen 
+      <lb ed="#P" n="106"/>di dico sciet omnia que vnquam sciebat saltem vbi non erat 
+      <lb ed="#P" n="107"/>corruptio a contrario et de illis dubium est et suasio est 
+      <lb ed="#P" n="108"/>cum habitus naturaliter ipsius intellectus non corrum 
+      <lb ed="#P" n="109"/>patur nisi a contrario et nos improbo labore pro illis 
+      <lb ed="#P" n="110"/>bonis habitibus laborauimus videtur quod illos det omnes 
+      <lb ed="#P" n="111"/>multi erant habitus in pateria qui non exibunt in actus vt 
+      <lb ed="#P" n="112"/>de temperantia fortitudine castitate coniugali propter 
+      <lb ed="#P" n="113"/>solum ornatum manebunt apparet idem esse in habitibus 
+      <lb ed="#P" n="114"/>bonis speculatiuis dixi bonis non est visimile quod 
+      ha<lb ed="#P" n="115" break="no"/>bitus inutiles vel saltem pegrini ad bene beateque 
+      vi<lb ed="#P" n="116" break="no"/>uendum maneant citius impediunt a tramite recto ta¬ 
+      <!--419.xml-->
+      <pb ed="#P" n="202-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>les in patria remanere non videntur eo tendit beatus 
+      <lb ed="#P" n="2"/>hieronius Discamus in terris quorum scientia manes 
+      <lb ed="#P" n="3"/>in celis tales quisquillie hominis a asinus non est 
+      asi<lb ed="#P" n="4" break="no"/>nus omnis homo preter sortem inquantum rationalis 
+      <lb ed="#P" n="5"/>incipit differre a platone relinquantur apud manes in 
+      <lb ed="#P" n="6"/>erebo. Ad vltimum argumentum vbi dicis minus 
+      bea<lb ed="#P" n="7" break="no"/>tus plus sciet quam magis beatus secundum quod aliquis minus 
+      <lb ed="#P" n="8"/>beatus in terris habet plures eum rogantes quam vnus 
+      <lb ed="#P" n="9"/>magis beatus beatitudo non consistit in isto malo 
+      ha<lb ed="#P" n="10" break="no"/>bere beatitudiem pauli primi heremite cum scientia sua 
+      <lb ed="#P" n="11"/>quam cum paruulis circuncisis sedere in equali beatitudi 
+      <lb ed="#P" n="12"/>ne et eripere de manu orphei citharam a pithagora 
+      cal<lb ed="#P" n="13" break="no"/>culum ab albumasar horoscopum ab enclide circinum a 
+      <lb ed="#P" n="14"/>campano perpendiculum a ptolomeo astrolabium. Si 
+      <lb ed="#P" n="15"/>dicas beatus hieronimus introducit ad paulam illud 
+      <lb ed="#P" n="16"/>danielis. xii. fulgebunt iusti sicut firmamentum. Et 
+      <lb ed="#P" n="17"/>dico quod illa auctoritas est aliena nostro proposito est pro 
+      <lb ed="#P" n="18"/>magno hieronimo vel similibus qui milies vicerunt car 
+      <lb ed="#P" n="19"/>nem et mundum et sua doctrina rediuina alios ad dei 
+      <lb ed="#P" n="20"/>gloriam erudierunt. Si dicas aristoteles in suo libello 
+      <lb ed="#P" n="21"/>de memoria et reminiscentia videtur dicere memoriam 
+      <lb ed="#P" n="22"/>esse potentie sensitiue. Respondeo ratio magis ten 
+      <lb ed="#P" n="23"/>dit ad hoc quod memoria est partes intellectiue pecca 
+      <lb ed="#P" n="24"/>torem subit penitudo de actibus voluntatis a se 
+      com<lb ed="#P" n="25" break="no"/>missis quos recordatur se perperam commisisse alioqui 
+      <lb ed="#P" n="26"/>se confiteri nequiret diceretur vlterius bruta non habe 
+      <lb ed="#P" n="27"/>re memoriam capram sel visitasse granum et postea ocissi 
+      <lb ed="#P" n="28"/>me granum adire non concludit memoriam nec 
+      morde<lb ed="#P" n="29" break="no"/>re percutientem vrsum vel lupum post iniuriam 
+      repercu<lb ed="#P" n="30" break="no"/>tere hoc non concludit dicetur hoc esse a virtute 
+      fan<lb ed="#P" n="31" break="no"/>tastica vel influentia vel natura communi sicut de ape vel 
+      <lb ed="#P" n="32"/>formica. colligenti grana ante expertam hiemen sicut 
+      <lb ed="#P" n="33"/>hiberno frigore sensato sed quia aliqua animalia parum de 
+      <lb ed="#P" n="34"/>preterito considerant dicimus illa vel nullam vel prauam 
+      <lb ed="#P" n="35"/>memoriam habere depono cattum a lecto et eum verberi 
+      <lb ed="#P" n="36"/>bus percutio ter vel quater semper redibit ac si 
+      ver<lb ed="#P" n="37" break="no"/>berum preteritorum esset immemor fastiga canem vix cum 
+      <lb ed="#P" n="38"/>blanditiis redibit ergo aliqua animalia videntur 
+      ha<lb ed="#P" n="39" break="no"/>bere memoriam. Propterea dicamus duplex est 
+      me<lb ed="#P" n="40" break="no"/>moria quedam sensitiua quadam intellectiua de priore lo 
+      <lb ed="#P" n="41"/>quitur aristoteles. Potentia memoratiua 
+      principa<lb ed="#P" n="42" break="no"/>lis est ipsa anima sed suam sedem tenet in parte postica ca 
+      <lb ed="#P" n="43"/>pitis in quodam ventriculo qui specierum est conseruat 
+      <lb ed="#P" n="44"/>uus conseruatio illius partis multum facit ad bene me 
+      <lb ed="#P" n="45"/>morandum sicut etiam aliqua alia vt lotio pedum et capit 
+      <lb ed="#P" n="46"/>ad expellendos humores superfluos memoriam 
+      praepe<lb ed="#P" n="47" break="no"/>dientes actus memorandi presupponit actum 
+      preces<lb ed="#P" n="48" break="no"/>sisse vt visionem auditionem vel volitionem et quod maneat 
+      <lb ed="#P" n="49"/>habitus ex talibus genitus tunc actus recordandi super 
+      <lb ed="#P" n="50"/>hoc cadit et super vnum complexum tanquam in obiectum 
+      <lb ed="#P" n="51"/>vt recordor me vidisse talem audiuisse talem. Istis sup 
+      <lb ed="#P" n="52"/>positis pono conclusiones.
+    </p>
+            <p xml:id="JM7jmZ-e12162-d1e450">
+      ¶ Prima est licet 
+      san<lb ed="#P" n="53" break="no"/>cti in celo ex eorum naturis oftrones nostras non 
+      cogno<lb ed="#P" n="54" break="no"/>scant tamen deus ostendit preces eorum deprecantium 
+      </p>
+            <p xml:id="JM7jmZ-e12162-d1e458">
+               <lb ed="#P" n="55"/>¶ Secunda conclusio sancti pro nobis ad dominum 
+      <lb ed="#P" n="56"/>intercedunt prioris conclusionis. prior pars patet est 
+      <lb ed="#P" n="57"/>immoderata distantia a celo ad terram modo beati 
+      <lb ed="#P" n="58"/>non possunt cognoscere orationes per immoderatam 
+      di<lb ed="#P" n="59" break="no"/>stantiam: igitur. Et confirinatur per illud esaie: sed abra 
+      <!--419.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="60"/>ham nesciuit vos et israel ignorauit vos. glo. 
+      inter<lb ed="#P" n="61" break="no"/>linearis dicit. mortui nesciunt quid faciunt viui. secunda 
+      <lb ed="#P" n="62"/>pars patet quod hoc est congruum quia oramus sanctos vt 
+      <lb ed="#P" n="63"/>intercedant pro nobis et est communis consuetudo matris 
+      <lb ed="#P" n="64"/>ecclesie ergo non est dubitandum qui pro nobis orent sed 
+      <lb ed="#P" n="65"/>non orarent nisi constat eis quod eos oramus plusquam pro aliis 
+      <lb ed="#P" n="66"/>et naturaliter scire non possunt nostras orationes 
+      o<lb ed="#P" n="67" break="no"/>portet dicere quod deus eis reuelat. Secunda couclusio 
+      <lb ed="#P" n="68"/>patet ecclesia hoc impetrat patet in letaniis et in aliis 
+      <lb ed="#P" n="69"/>brationibus et bene habendo semper vnum sanctum ge 
+      <lb ed="#P" n="70"/>neratur fastidium in nobis queadnodum de vno cibo 
+      <lb ed="#P" n="71"/>tiborum pluralitas fastidium euiscerat sic in proposito de 
+      <lb ed="#P" n="72"/>brationibus. Secundo vni sancto est concessa aliqua vit 
+      <lb ed="#P" n="73"/>tus ab aliquo morbo curare vt dicunt sancte apollo 
+      <lb ed="#P" n="74"/>nie de morbo dentium curare datum est sancto 
+      antho<lb ed="#P" n="75" break="no"/>nio de igne sancto anthonio de padua ad succurren 
+      <lb ed="#P" n="76"/>dum de perditis. diua genouefa nunc pluuiam procreat 
+      <lb ed="#P" n="77"/>nunc suis precibus inundationibus aquarum 
+      stabilita<lb ed="#P" n="78" break="no"/>tem imponit ergo prodest varios orare.
+    </p>
+            <p xml:id="JM7jmZ-e12162-d1e517">
+      ¶ Contra 
+      <lb ed="#P" n="79"/>tertiam conclusionem arguitur vel sancti vident deum vel 
+      <lb ed="#P" n="80"/>le exaudire eos pro quibus sunt oraturi vel nolle si 
+      <lb ed="#P" n="81"/>primum superuacanee orant quia nichilominus sine eorum 
+      <lb ed="#P" n="82"/>intercessionibus haberent illud pro quibus orant si 
+      <lb ed="#P" n="83"/>vident deum nolle numquam eum orabant quia nichil per eorum 
+      <lb ed="#P" n="84"/>intercessionem vel rogationem impetrabunt. Et 
+      confir<lb ed="#P" n="85" break="no"/>matur non possunt mereri sibiipsis ergo neque aliis prae 
+      <lb ed="#P" n="86"/>terea sunt sufficienter primiati pro eorum meritis ergo 
+      <lb ed="#P" n="87"/>essent ingrati plus premii pro se vel aliis petere. Re 
+      <lb ed="#P" n="88"/>spondetur quod sancti neque vident deum velle exaudire 
+      <lb ed="#P" n="89"/>istos orantes neque nolle saltem non oportet et tunc 
+      in<lb ed="#P" n="90" break="no"/>tercedunt quousque videant eius voluntatem etiam si 
+      <lb ed="#P" n="91"/>constaret eis de voluntate dei quod vult eos exaudire non 
+      <lb ed="#P" n="92"/>est inane quod intercedant pro viatoribus quando prima 
+      <lb ed="#P" n="93"/>rius scolasticis temporibus constituti solet refrigerium 
+      <lb ed="#P" n="94"/>campestrale impartiri vult etiam quod intrantes qui de littera 
+      <lb ed="#P" n="95"/>tura bene meruerunt intercedant. Ad confirmationem 
+      <lb ed="#P" n="96"/>nego consequentiam quemadmodm strennuus miles qui meruit 
+      <lb ed="#P" n="97"/>toto tempore quo miliciam exercere potest nunc quando 
+      ve<lb ed="#P" n="98" break="no"/>nit ad senectam incipit esse veteranus et emeritus 
+      primia<lb ed="#P" n="99" break="no"/>bitur pro omnibus suis meritis licet non magis 
+      exalta<lb ed="#P" n="100" break="no"/>bitur in curia regis a rege. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

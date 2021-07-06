@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 12</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 12</title>
+               <date when="2021-07-06">July 06, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-M4Saaa">Paris 1509</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-06" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="90-v"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="JM7jmZ-d50033"><!-- l4d15q12 -->
+            <head xml:id="JM7jmZ-d50033-Hd1e108">Quaestio 12</head>
+            <head xml:id="JM7jmZ-d50033-Hd1e111" type="question-title">
+      An accusatus de aliquo
+      crimine tenetur illud
+      crimen prodere non
+      obstante fama
+    </head>
+            <p xml:id="JM7jmZ-d50033-d1e114">
+               <lb ed="#P" n="50"/>¶ Distinctionis decime quinte quaestio duodecima. 
+      <lb ed="#P" n="51"/>DUodecimo queritur an accusatus de aliqu 
+      <lb ed="#P" n="52"/>crimine tenetur illud crimen propalare.
+    </p>
+            <p xml:id="JM7jmZ-d50033-d1e123">
+      Pro solu 
+      <lb ed="#P" n="53" break="no"/>tione questionis notabis aliquod est crimen 
+      <lb ed="#P" n="54"/>publicum et etiam aliquis est infamatus circa tale 
+      cri<lb ed="#P" n="55" break="no"/>men vt est vnus occisus in vico et sortes est male fa 
+      <lb ed="#P" n="56"/>matus de illo vt contigit de homicidio aiacis thei 
+      <lb ed="#P" n="57"/>lamonii et vlixis superuenientis nonnumquam crimen est pu 
+      <lb ed="#P" n="58"/>blicum et nescitur quis tale crimen commisit vt sortes re¬ 
+      <!--195.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="59"/>peritur occisus in vico nescitur quis illum occidit nec 
+      <lb ed="#P" n="60"/>habetur maior suspicio de vno quam alio quandoque crimen 
+      <lb ed="#P" n="61"/>est occultum ex parte facti et facientis.
+    </p>
+            <p xml:id="JM7jmZ-d50033-d1e149">
+      ¶ Istis nota 
+      <lb ed="#P" n="62"/>tis pono conclusiones. Prima est vbi casus est 
+      omni<lb ed="#P" n="63" break="no"/>no occultus vt in tertio menbro homo non tenetur suum 
+      <lb ed="#P" n="64"/>peccatuum occultum prodere. patet non tenetur peccatum 
+      <lb ed="#P" n="65"/>occultum fratris sui manifestare imo tenetur non ma 
+      <lb ed="#P" n="66"/>nifestare. ergo proprium peccatum cum secundum ordinem car 
+      <lb ed="#P" n="67"/>tatis homo debet plus se diligere quam proximum debet 
+      <lb ed="#P" n="68"/>plus suam propriam famam seruare quam proximi contra ta 
+      <lb ed="#P" n="69"/>les loquitur. Esaias. iii. capite sui libri. Et peccatum suum 
+      <lb ed="#P" n="70"/>quasi sodoma predicauerunt. ad istud homo tenetur ordi 
+      <lb ed="#P" n="71"/>ne caritatis. Quo fit religiosus non tenetur peccatum 
+      <lb ed="#P" n="72"/>suum secretum dicere in capitulo nec suo prelato 
+      ex<lb ed="#P" n="73" break="no"/>tra confessionem nec alterius crimen debet dicere 
+      occul<lb ed="#P" n="74" break="no"/>tum: et dato quod iuraret superiori dicere veritatem de in 
+      <lb ed="#P" n="75"/>terrogandis et postea prelatus peteret de tali occul 
+      <lb ed="#P" n="76"/>to non debet dicere: suum iuramentum debet intelligi 
+      <lb ed="#P" n="77"/>dicam que possum dicere: hoc est nisi fortiori vinculo 
+      <lb ed="#P" n="78"/>astringor ad oppositum et intelligo vbi secretum fris 
+      <lb ed="#P" n="79"/>mei non tendit contra ruinam publicam si esset conbustu 
+      <lb ed="#P" n="80"/>rus cenobium hac nocte vel traditurus vrbem hoc reue 
+      <lb ed="#P" n="81"/>labo si sciam in secreto aliter quam per confessionem et si sim 
+      <lb ed="#P" n="82"/>accusatus coram iudice de tali crimine dicam. domine 
+      iu<lb ed="#P" n="83" break="no"/>dex nolite querere talia transcenditis vestrum forum 
+      <lb ed="#P" n="84"/>querendo illa cum nec sum infamatus de talibus nec 
+      fa<lb ed="#P" n="85" break="no"/>ctum est publicum istud patet. xxxii. distin. c. erubescant 
+      <lb ed="#P" n="86"/>xxxiii. q. v. christiana. ii. q. v. consuluisti. talis iudex assi 
+      <lb ed="#P" n="87"/>milatur illi qui solem facibus studet iuuare. dicit 
+      a<lb ed="#P" n="88" break="no"/>drianus. vi. q. i. c. si omnia. non est procedendum ad 
+      in<lb ed="#P" n="89" break="no"/>quisitionem contra aliquem nisi contra infamatum de ac 
+      <lb ed="#P" n="90"/>cusant. c. inquisitionis. et. c. qualiter. Sed pone quod 
+      <lb ed="#P" n="91"/>iudex secularis vel alius dicat ei responde ad 
+      inter<lb ed="#P" n="92" break="no"/>rogata alias habebo te pro conuicto et ipse dicit ne 
+      <lb ed="#P" n="93"/>go proposita intelligens nego ea esse facta vt 
+      pro<lb ed="#P" n="94" break="no"/>ponis vel nego me fecisse hec ad tibi apperiendum an 
+      <lb ed="#P" n="95"/>iste peccat. dicitur in primis non mentitur non dicit 
+      <lb ed="#P" n="96"/>vuum exterius et habet aliud in mente sed an fallat 
+      <lb ed="#P" n="97"/>imputabiliter: apparet quod non cum alter interrogat 
+      in<lb ed="#P" n="98" break="no"/>iuste et materia est odiosa ex parte iudicis datur ei 
+      <lb ed="#P" n="99"/>responsio amphibologica: ergo non imputatur ista falsi 
+      <lb ed="#P" n="100"/>tas dicenti. de aliis menbris vbi factum est publicum vl 
+      <lb ed="#P" n="101"/>iste est famatus. videtur quod tenetur suum peccatum aliquo 
+      <lb ed="#P" n="102"/>modo occultum propalare iudici interroganti: iuridi 
+      <lb ed="#P" n="103"/>ce dato quod ad hoc condannetur ipe non est causa sed 
+      <lb ed="#P" n="104"/>lex. aliqui adducunt probationem ad hoc 
+      euidentiaper<lb ed="#P" n="105" break="no"/>petrati sceleris non eget accusatore: sed hec probatio 
+      <lb ed="#P" n="106"/>est inutilis quia boc intelligitur quando factum est notorium 
+      <lb ed="#P" n="107"/>et cuilibet constat quis commisit tale delictum: sed pro 
+      <lb ed="#P" n="108"/>bo per factum illius qui clanculum dimisit libellum 
+      con<lb ed="#P" n="109" break="no"/>tra castorium in publico quem anathemisauit grego. 
+      <lb ed="#P" n="110"/>vt crimen confiteretur. v. questione prima. c. quidem. 
+      <lb ed="#P" n="111"/>maligni spus. et si dicas in capitulo quis aliquando de 
+      <lb ed="#P" n="112"/>pen. d. prima. §. Econtra non tibi dicone te publice ac 
+      <lb ed="#P" n="113"/>cuses. boc intelligitur dicit apparatus. v. q. i. c. quidem 
+      <lb ed="#P" n="114"/>quando crimen est omnino occultu. sed dicis esto quod 
+      ac<lb ed="#P" n="115" break="no"/>cusor adhuc mea fama non est lacerata realiter nam 
+      <lb ed="#P" n="116"/>multi multa loquuntur mea confessio meam famam la 
+      <lb ed="#P" n="117"/>cerabit: ergo in illo casu non teneor me prodere. re¬ 
+      <!--196.xml-->
+      <pb ed="#P" n="91-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>spondeo si realiter sum innocens meam innocentiam 
+      <lb ed="#P" n="2"/>concedam: si autem nocens fama non gratis est 
+      ex<lb ed="#P" n="3" break="no"/>citata debeo parere iudici interroganti iuridice et ad 
+      <lb ed="#P" n="4"/>hoc mouet factum beati gregori: sed si mea confer 
+      <lb ed="#P" n="5"/>sio vrgat in periculum mee vite dato quod negem hoc 
+      <lb ed="#P" n="6"/>diminuit a tanto dummodo intendo reparare deli 
+      <lb ed="#P" n="7"/>ctum. Sed dicis si queratur innocens ab homicida 
+      <lb ed="#P" n="8"/>et domum meam ingrediatur homicide petenti vbi 
+      <lb ed="#P" n="9"/>est innocens. dico non est hic intelligens tertiam per 
+      <lb ed="#P" n="10"/>sonam de edo non comedit hic licet persequens in 
+      <lb ed="#P" n="11"/>telligat tertiam personam de sum sine peccato: 
+      er<lb ed="#P" n="12" break="no"/>go pro seruanda mea vita sic intelligo in 
+      proposi<lb ed="#P" n="13" break="no"/>to non est simile fugiens est innocens vel si nocuit 
+      <lb ed="#P" n="14"/>occidendo est innocens quod occidatur illo modo: 
+      se<lb ed="#P" n="15" break="no"/>cus est in proposito cum iste est iudex et petit iuridi 
+      <lb ed="#P" n="16"/>ce. Ex quo patet si homo concedit se fecisse crime 
+      <lb ed="#P" n="17"/>quod non fecit in tortura peccat propriam famam lace 
+      <lb ed="#P" n="18"/>rando sed metus diminuit a tanto: sed si confessus 
+      <lb ed="#P" n="19"/>fuerit ipso soluto a tortura tenetur preconcessum ne 
+      <lb ed="#P" n="20"/>gare nec est redargutio cum non est in eadem 
+      dis<lb ed="#P" n="21" break="no"/>putatione et sibi famam restituere et penitere quod in 
+      <lb ed="#P" n="22"/>seipsum peccauerit pro prima confessione in 
+      tortu<lb ed="#P" n="23" break="no"/>ra non occidetur licet sit suspitio contra eum. Sed 
+      <lb ed="#P" n="24"/>petis an homo tenetur seruare suam famam: respon 
+      <lb ed="#P" n="25"/>detur fama non est necessaria homini propter 
+      seip<lb ed="#P" n="26" break="no"/>sum sed solum propter proximi edificationem. 
+      ap<lb ed="#P" n="27" break="no"/>petere famam propter proximi edificationem 
+      cha<lb ed="#P" n="28" break="no"/>ritatis est propter suiipsius exaltationem est inanis 
+      <lb ed="#P" n="29"/>glorie auiditas. propterea illis quibus incumbit ex 
+      <lb ed="#P" n="30"/>officio vel ex statu perfectionis aliorum saluti 
+      pro<lb ed="#P" n="31" break="no"/>uidere tenentur omnibus mediis licitis infamiam 
+      <lb ed="#P" n="32"/>repellere. illud eccle. xvii. ibi maxime verum habtet 
+      <lb ed="#P" n="33"/>vnicuique mandauit deus de proximo suo vt scilicet ei pro 
+      <lb ed="#P" n="34"/>sit exemplo et verbo: crudelis est ille in talibus qui 
+      <lb ed="#P" n="35"/>famam negligit alii sedent sub modio quibus 
+      custo<lb ed="#P" n="36" break="no"/>dia proprie salutis sufficit. talibus sufficit bona con 
+      <lb ed="#P" n="37"/>scientia negligendo famam etiam est eis interdum 
+      <lb ed="#P" n="38"/>causa humilitatis exemplo multorum in vitis 
+      pa<lb ed="#P" n="39" break="no"/>trum quibus dum multa falsa imponebantur quie 
+      <lb ed="#P" n="40"/>uerunt: patet de illa que finxit se virum monachum 
+      <lb ed="#P" n="41"/>cui imponebatur a quadam impudica quod ex ipsa ge 
+      <lb ed="#P" n="42"/>nuit prolem quod non cognoscebatur ante mortem et 
+      <lb ed="#P" n="43"/>pena ab abbate pro illo tanquam delicto capiebatur. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

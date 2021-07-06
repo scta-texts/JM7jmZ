@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 5</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 5</title>
+               <date when="2021-07-06">July 06, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-M4Saaa">Paris 1509</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-06" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="142-r"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="JM7jmZ-d78609"><!-- l4d24q5 -->
+            <head xml:id="JM7jmZ-d78609-Hd1e108">Quaestio 5</head>
+            <head xml:id="JM7jmZ-d78609-Hd1e111" type="question-title">
+      An praelati
+      ecclesiae sunt
+      domini bonorum
+      ecclesiae
+    </head>
+            <p xml:id="JM7jmZ-d78609-d1e114">
+               <lb ed="#P" n="61"/>¶ Distinctionis vigesime quarte quaestio quinta. 
+      <lb ed="#P" n="62"/>Veritur quinto circa hanc materiam an pre 
+      <lb ed="#P" n="63"/>lati ecclesie sunt domini bonorum ecclesie.
+    </p>
+            <p xml:id="JM7jmZ-d78609-d1e123">
+      ¶ 
+      Po<lb ed="#P" n="64" break="no"/>Por¬atus no conclusionem praelatus nullus est dominus 
+      bo<lb ed="#P" n="65" break="no"/>norum ecclesie. conclusio patet. xii. questio. i. et sequenti 
+      <lb ed="#P" n="66"/>pus. luculenter. prima questio. prima. expedit cum 
+      <lb ed="#P" n="67"/>quis prepositus factus fuerit ecclesie omnium quae habet 
+      ec<lb ed="#P" n="68" break="no"/>clesia efficitur dispensatrix vbi querit apparatus  
+      <lb ed="#P" n="69"/>quis est dominus illorum bonorum recitat tres modos 
+      <lb ed="#P" n="70"/>hincinde in gratiano dispersos inter quos non est ma 
+      <lb ed="#P" n="71"/>gnum discrimen vnus modus tenet quod deus est dominus bo 
+      <lb ed="#P" n="72"/>norum ecclesie ad hoc est capitulum qui christi. et cap. qui 
+      ab<lb ed="#P" n="73" break="no"/>stulit. i. q. ii. alius modus tenet quod pauperes. xvi. q. i. 
+      <lb ed="#P" n="74"/>quicquid. Tertius modus dicit quod ecclesia sit domina. xvi 
+      <lb ed="#P" n="75"/>q. iii. inter memoratos potest dici quod deus et specialius 
+      <lb ed="#P" n="76"/>dominium habet in eis quam in bonis laicorum sicut specialius domini 
+      <lb ed="#P" n="77"/>um sibi seruauit in terra promissionis quam inter persas 
+      <lb ed="#P" n="78"/>vel medos. patet. leuitici. xxv. terra quoque non 
+      ven<lb ed="#P" n="79" break="no"/>datur in perpetuum quia mea est et vos aduene et 
+      co<lb ed="#P" n="80" break="no"/>loni mei estis dominium gotonale deus habet in omnibus 
+      re<lb ed="#P" n="81" break="no"/>bus in bonis ecclesie speciale pauperes sunt citius 
+      fo<lb ed="#P" n="82" break="no"/>uendi ex bonis ecclesie quam ex bonis laicorum et quia praela 
+      <lb ed="#P" n="83"/>tus ecclesie tenetur omnia dare pauperibus quae habet 
+      vl<lb ed="#P" n="84" break="no"/>tra suum statum vbi fabrica ecclesie non eget tenetur 
+      pau<lb ed="#P" n="85" break="no"/>peres alere pauperes possunt dici domini. Insuper potest 
+      <lb ed="#P" n="86"/>dici quod ecclesia est domina id est ecclesiastici. secundum illud treno 
+      <lb ed="#P" n="87"/>rum. i. quomodo sedet sola ciuitas facta est quasi 
+      vi<lb ed="#P" n="88" break="no"/>dua domina gentium. Volo tenere illos duos modos 
+      <lb ed="#P" n="89"/>indifferenter quod ecclesia vel deus habet dominium in hiis 
+      <lb ed="#P" n="90"/>rebus et satius est dicere deum dominum istorum bona pre 
+      <lb ed="#P" n="91"/>latorum dicuntur patrimonium crucifixi ex quocumque 
+      <lb ed="#P" n="92"/>illorum modorum sequitur quod prelatus ecclesie non est dominus 
+      <lb ed="#P" n="93"/>sed solum dispensator ad bunc finem iura omnia conueniunt. 
+      <lb ed="#P" n="94"/>prosequamur cepta de prima conclusione si prelatus 
+      <lb ed="#P" n="95"/>sit dominus bonorum ecclesie sequitur quod emens redditus cal 
+      <lb ed="#P" n="96"/>lide ex bonis ecclesie et dans consanguineis dat eis do 
+      <lb ed="#P" n="97"/>minium et ecclesia non potest reuocare. consequens est seclum 
+      <lb ed="#P" n="98"/>ergo et antecedens. consequentia patet. licet peccet dominus alicuius rei 
+      <lb ed="#P" n="99"/>per prodigalitatem dans potenti suscipere dominium non tamen 
+      <lb ed="#P" n="100"/>tenetur restituere quia quero cui tenetur flitas 
+      conse<lb ed="#P" n="101" break="no"/>quentis patet ex historia eusebi chrieti cesariensis et reci 
+      <lb ed="#P" n="102"/>tatur. xii. q. ii. c. quisquis. vbi dicitur omnium rerum 
+      ecclesia<lb ed="#P" n="103" break="no"/>sticarum epus habeat sollicitudinem et dispenset eas tamquam 
+      <lb ed="#P" n="104"/>deo contemplante non liceat ei autem fraudare quicque 
+      <lb ed="#P" n="105"/>ex illis vel cognatis propriis dare que dei sunt quod si 
+      <lb ed="#P" n="106"/>pauperes fuerint vt pauperibus elargiatur sed non 
+      <lb ed="#P" n="107"/>sub horum occasione quae sunt ecclesie defraudentur. Quod  
+      <lb ed="#P" n="108"/>si calliditate vsus excusationem praetenderit epraus dannum 
+      <lb ed="#P" n="109"/>facere et nichil ad profectum agrum vel locum existere et 
+      <lb ed="#P" n="110"/>sequitur sit irrita venditio et restituatur epraeo vel 
+      mona<lb ed="#P" n="111" break="no"/>sterio. Epus vel abbas hoc faciens abiiciatur tanquam 
+      <lb ed="#P" n="112"/>qui dispersit qui non collegit. Insuper alex. iii. scribens 
+      <lb ed="#P" n="113"/>epreo parisiensi in antiquis de donati. c. fraternitatem 
+      <lb ed="#P" n="114"/>dicit prelatos ecclesie esse procuratores non dominos sic 
+      <lb ed="#P" n="115"/>inquiens fraternitatem tuam credimus non latere quod cum 
+      <lb ed="#P" n="116"/>epus et quilibet praelatus ecclesiasticarum rerum esse 
+      pro<lb ed="#P" n="117" break="no"/>curatores non dominos et que sequuntur. Prelati ecclesie 
+      <!--299.xml-->
+      <pb ed="#P" n="142-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>dicuntur communiter procuratores bonorum ecclesie quandoque 
+      <lb ed="#P" n="2"/>domini extenso termino abbas more domini defendit bona 
+      <lb ed="#P" n="3"/>eccle. xvi. q. i. temporis. quandoque defensores. xvi. q. 
+      <lb ed="#P" n="4"/>i. in canonibus quandoque patres vt. lxviii. d. quorum 
+      vi<lb ed="#P" n="5" break="no"/>ces. breuiter loco domini habentur cum bene ministrant 
+      lo<lb ed="#P" n="6" break="no"/>co predonis cum male. Sed dicis quodo potest praelatus ec 
+      <lb ed="#P" n="7"/>clesie secularis dicere hic equus est meus: hec vestis 
+      <lb ed="#P" n="8"/>est mea cum non sit plus dominus illius rei quam religiosus 
+      <lb ed="#P" n="9"/>est dominus rei cuius vsum habet. dico non luctandum esse 
+      <lb ed="#P" n="10"/>de nomnibus praelatus non religiosus habet peculium 
+      pro<lb ed="#P" n="11" break="no"/>fecticium vel quasi castrense et probabile est quod vtitur 
+      <lb ed="#P" n="12"/>dominio in portione suo statui sufficienti sit scilicet quod il 
+      <lb ed="#P" n="13"/>lam vel eius partem inutiliter exponens non deuincitur 
+      re<lb ed="#P" n="14" break="no"/>stituere propterea vocat equum suum nec vtitur plurali 
+      <lb ed="#P" n="15"/>more religiosi. bona ecclesie glasguensis sunt ecclesie qui 
+      <lb ed="#P" n="16"/>fundauit ecclesiam in honore dei et sancti heutigerni 
+      <lb ed="#P" n="17"/>patroni illius loci dedit prouentus tales ecclesie glas 
+      <lb ed="#P" n="18"/>guensi hoc est ministris illius ecclesie pro eis 
+      nutrien<lb ed="#P" n="19" break="no"/>dis et quia supponebat eos esse probos cum essent voca 
+      <lb ed="#P" n="20"/>ti in sortem domini sicut in illa aurea etate erant maluit re 
+      <lb ed="#P" n="21"/>linquere eis curam dande elemosine de superfluis quam 
+      <lb ed="#P" n="22"/>aliis laicis bona erant illius ecclesie addita epro et 
+      ca<lb ed="#P" n="23" break="no"/>nonices copulatim epreo tanquam iconomo et dispensatori 
+      <lb ed="#P" n="24"/>principali postea canonici suas portiones et 
+      episco<lb ed="#P" n="25" break="no"/>pus suam accepit dominium mansit apud eosdem apud quos 
+      <lb ed="#P" n="26"/>antea licet cuilibet dabatur vsus aliquorum reddituum 
+      <lb ed="#P" n="27"/>nec simile erat eorum quando vixerunt in communi cum religiosis ca 
+      <lb ed="#P" n="28"/>paces erant tunc sicut nunc domini rerum eis datarum vel 
+      <lb ed="#P" n="29"/>aliunde iustis titulis acquisitarum si ponas eos omnes 
+      <lb ed="#P" n="30"/>efflare animam peste vel martirio. Iam petis quis est 
+      <lb ed="#P" n="31"/>dominus harum rerum vel loqueris de rebus possessis ab vno 
+      <lb ed="#P" n="32"/>beneficiato in loco verbi causa petis quis est dominus horum 
+      <lb ed="#P" n="33"/>bonorum demonstrando bona que leuat rector vallis 
+      <lb ed="#P" n="34"/>et cum ipse solus est in sua rectoria non potes 
+      curre<lb ed="#P" n="35" break="no"/>re ad multitudinem et ipso mortuo antequam dominus habens 
+      <lb ed="#P" n="36"/>iuspatronatum aliquem archieprieo sancti andree praesen 
+      <lb ed="#P" n="37"/>tat queritur quis iam est dominus illorum bonorum dicebam 
+      <lb ed="#P" n="38"/>propterea a principio omnia melius soluuntur quod deus 
+      <lb ed="#P" n="39"/>est illorum dominus sed argumentum ad hoc non vrget dico 
+      <lb ed="#P" n="40"/>dominium rectore mortuo esse penes ecclesiam cuius 
+      cu<lb ed="#P" n="41" break="no"/>ram et tuitionem debet capere eprus vbi esset certamen 
+      <lb ed="#P" n="42"/>spoliandi ecclesiam propter vnitatem ad capunt 
+      om<lb ed="#P" n="43" break="no"/>nes diocesani partinent ad eandem communitatem specialius quae 
+      <lb ed="#P" n="44"/>diocesani diuersarum diocesium sicut dantur decani sub 
+      <lb ed="#P" n="45"/>centurione nec licebit ecclesie vel eius praelato spolia 
+      <lb ed="#P" n="46"/>re hanc ecclesiam et inuestiendo aliam intentio domini 
+      ec<lb ed="#P" n="47" break="no"/>clesiam fundantis erat quod hec bona darentur deo et 
+      <lb ed="#P" n="48"/>sancto baldredo vel eorum honori pro nutritione mi 
+      <lb ed="#P" n="49"/>nistri in hoc loco quiquidem minister superintenderet 
+      gre<lb ed="#P" n="50" break="no"/>gi verbo et exemplo nec eidem domino licet sibi id vendi 
+      <lb ed="#P" n="51"/>care cum in vsus dei iam dedit hec bona. Ex isto 
+      pa<lb ed="#P" n="52" break="no"/>tet. licet bona ecclesie ad eam partineant tamquam ad dominium 
+      <lb ed="#P" n="53"/>non licet transferre bona vni particulari ecclesie data 
+      <lb ed="#P" n="54"/>alteri vbi non est rationabilis causa et consensu eorum 
+      <lb ed="#P" n="55"/>quorum interest et dico hic sicut in materia collationum 
+      <lb ed="#P" n="56"/>beneficii et appellationum ordinarii iudicis proximi est 
+      <lb ed="#P" n="57"/>beneficium conferre nec debet esse saltus in 
+      appella<lb ed="#P" n="58" break="no"/>tionibus ad iudicem supremum primo sed ad proximum 
+      <lb ed="#P" n="59"/>immediatum sic in tuitione bonorum ecclesie vbi opus 
+      <!--299.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="60"/>fuerit immediatus prelatus debet illa bona 
+      protege<lb ed="#P" n="61" break="no"/>re vt rector dictus de auth bona sue ecclesie eo 
+      defi<lb ed="#P" n="62" break="no"/>ciente suus ordinarius superior proximus et sic 
+      gra<lb ed="#P" n="63" break="no"/>datim conscendendo. Secundo patet quando aliquid mortificatur 
+      eccle<lb ed="#P" n="64" break="no"/>sie tota ecclesia est ditior. Tertio patet non sic habet 
+      <lb ed="#P" n="65"/>dominium praelatus ecclesie in bonis ecclesie sicut laicus in bonis 
+      <lb ed="#P" n="66"/>ab eo possessis. patet. laici sibi succedunt iure cogna 
+      <lb ed="#P" n="67"/>tionis prodigi dant et datum est dominium terras 
+      <lb ed="#P" n="68"/>vendunt et omnia bona eorum sine ratione dissipant 
+      <lb ed="#P" n="69"/>heredibus nichil relinquendo hoc non contingit de bo 
+      <lb ed="#P" n="70"/>nis ecclesie. Quarto patet non est penitus idem de bonis 
+      <lb ed="#P" n="71"/>possessis a communitate venetorum et bonis ecclesie. probatur. 
+      <lb ed="#P" n="72"/>veneti possunt cretam vel ciprum prodige dare et datum 
+      <lb ed="#P" n="73"/>erit non sic de bonis ecclesie imo si per possibile vel im 
+      <lb ed="#P" n="74"/>possibile praelati ecclesie consentirent dare omnia bona 
+      ec<lb ed="#P" n="75" break="no"/>clesie laicis non teneret illa datio penes eos 
+      rema<lb ed="#P" n="76" break="no"/>net dominium in edificationem et non in destructionem non 
+      va<lb ed="#P" n="77" break="no"/>let eorum donatio nisi quando est secundum leges iuri consentaneas 
+      <lb ed="#P" n="78"/>et propterea semper magis adhesi modo dicendi quod deus 
+      <lb ed="#P" n="79"/>est verus dominus istorum bonorum fundamentalis sed argumen 
+      <lb ed="#P" n="80"/>tum per possibile vel impossibile non cogit constat quod eccle 
+      <lb ed="#P" n="81"/>sia nunquam assentiet quod omnia bona ecclesie dentur laicis. 
+      <lb ed="#P" n="82"/>Quinto sequitur error pauperum de lugduno et 
+      imitan<lb ed="#P" n="83" break="no"/>tium eos dicentium ecclesiam nichil debere tenere 
+      male<lb ed="#P" n="84" break="no"/>dicunt constantino qui primo dotauit ecclesiam et ille 
+      <lb ed="#P" n="85"/>error fuit iterum dannatus in sacro sancta sinodo 
+      con<lb ed="#P" n="86" break="no"/>stantiensi contra aliquos herisiarchas beatus thomas 
+      <lb ed="#P" n="87"/>cantuarienerics. gloriosus martir pro rebus ecclesie et eius li 
+      <lb ed="#P" n="88"/>bertatibus conseruandis vitam in mortem probe 
+      com<lb ed="#P" n="89" break="no"/>mutauit qui altari seruit de eodem viuere debet et si ecclesia 
+      <lb ed="#P" n="90"/>non haberet prouentus male prouideretur a laicis mini 
+      <lb ed="#P" n="91"/>stris ecclesie. secus erat in principio nascentis ecclesie pro 
+      <lb ed="#P" n="92"/>pter feruorem qui tunc erat. vne beatus augustinus in ser 
+      <lb ed="#P" n="93"/>mone de communi vita clericorum dicit. Exemplum domini acci 
+      <lb ed="#P" n="94"/>bite conuersantes in terra quare habuit loculos cul 
+      <lb ed="#P" n="95"/>angeli ministrabant nisi quia ecclesia ipsius loculos ha 
+      <lb ed="#P" n="96"/>bitura erat. Sexto sequitur quod romanus pontifex non 
+      <lb ed="#P" n="97"/>est dominus beneficiorum ecclesie et omnium fructuum eius sed. 
+      <lb ed="#P" n="98"/>est supremus dispensator ad quem confugiendum est in re 
+      <lb ed="#P" n="99"/>bus dubiis tamquam ad capunt ecclesie probationes inducte 
+      <lb ed="#P" n="100"/>equaliter de eo concludunt et aliis quo ad non habere 
+      <lb ed="#P" n="101"/>omnium fructuum ecclesie dominium sed est summus dispensator 
+      <lb ed="#P" n="102"/>in eis. Septimo sequitur quod quicumque confert bons ec 
+      <lb ed="#P" n="103"/>clesie guiter peccat. et patet. xii. q. ii. c. nulli. dicit 
+      boni<lb ed="#P" n="104" break="no"/>facius liceat ignorare omne quod domino consecratur siut 
+      <lb ed="#P" n="105"/>fuerit homo siue animal siue ager vel quicquid fuerii 
+      <lb ed="#P" n="106"/>semel consecratum sanctantum sanctorum erit domino et ad ius per 
+      <lb ed="#P" n="107"/>tinet sacerdotum. propterea inexcusabilis erit omnis 
+      <lb ed="#P" n="108"/>qui aufert vastat vel inuadit non valet argumentum 
+      <lb ed="#P" n="109"/>iohannis vicleffi abutuntur istis bonis et sunt eis in 
+      <lb ed="#P" n="110"/>ruinam: ergo res iste sunt auferende ab eis sicut 
+      me<lb ed="#P" n="111" break="no"/>ritorie eis dabantur quando eis bene vsi sunt propter vnum 
+      <lb ed="#P" n="112"/>malum non oportet auferre hec bona ab ecclesia succe 
+      <lb ed="#P" n="113"/>det alius bonus et si adhuc malus bona dantur hinc 
+      <lb ed="#P" n="114"/>ecclesie et ad eam spectant qui hec bona dedit omne 
+      <lb ed="#P" n="115"/>dominium a se abdicauit alteri non spectant nisi ad hanc con 
+      <lb ed="#P" n="116"/>munitatem vel ministris huius ecclesie quibus cathe 
+      <lb ed="#P" n="117"/>gorice data sunt et non eam data causa no sequuta vel 
+      <lb ed="#P" n="118"/>ob causam datorum sicut alter falso existimat sic numquam 
+      <!--300.xml-->
+      <pb ed="#P" n="143-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>esset tranquillitas in bonis ecclesie et quod deo dicatum 
+      <lb ed="#P" n="2"/>est in vsus humanos reucari non potest non me fugit 
+      <lb ed="#P" n="3"/>male vtentibus bona ecclesie sunt in ruinam secundum vulga 
+      <lb ed="#P" n="4"/>re dictum diuitias deuotio peperit sed parentem filia suf 
+      <lb ed="#P" n="5"/>focauit reprobis omnia cooperantur in malum sed ali 
+      <lb ed="#P" n="6"/>qui semper bene illa bona exponunt. Forte dicis non 
+      <lb ed="#P" n="7"/>potest defendi quod deus est dominus omnium bonorum ecclesie. quod 
+      <lb ed="#P" n="8"/>patet sic esset dominus omnium bonorum in mundo quia domini est 
+      <lb ed="#P" n="9"/>terra et plenitudo eius et tunc falsum esset quod aliqua es 
+      <lb ed="#P" n="10"/>sent in nullius potestate vt de gemmis in littore 
+      ma<lb ed="#P" n="11" break="no"/>ris cum omnia dei essent. Insuper nemo hac via in ec 
+      <lb ed="#P" n="12"/>clesia scit quando dat alteri dominium alicuius rei et quando non. patet. 
+      <lb ed="#P" n="13"/>quia nescit voluntatem dei in omnibus. Ad primum 
+      di<lb ed="#P" n="14" break="no"/>citur deus est gratialis dominus omnium sicut causa 
+      principa<lb ed="#P" n="15" break="no"/>lis et si suam causalitatem generalem conseruatiuam subtra 
+      <lb ed="#P" n="16"/>heret ab omnibus bonis et breviter creaturis per vnum 
+      <lb ed="#P" n="17"/>instans in illo desinerent esse sicut consumpto oleo 
+      ta<lb ed="#P" n="18" break="no"/>bescit candela sic in omnibus rebus possessis dominium 
+      <lb ed="#P" n="19"/>generalem habet et secum condignum et eiusdem rei sunt duo domini 
+      <lb ed="#P" n="20"/>scilicet supremus dominus qui solus potest transferre dominium quan 
+      <lb ed="#P" n="21"/>do eilibet vt israeliticis respectu bonorum egiptio 
+      <lb ed="#P" n="22"/>rum alii eo irritante translationem nichil conferre possunt 
+      <lb ed="#P" n="23"/>Illa dicuntur in nullius potestate qua in nullius hominis 
+      <lb ed="#P" n="24"/>creati potestate sunt vel hominum creatorum. Ad secundum 
+      <lb ed="#P" n="25"/>nego quis potest scire per regulas canonicas humanas 
+      <lb ed="#P" n="26"/>et diuinas quando transfert dominium rerum sicut voluntas 
+      <lb ed="#P" n="27"/>dei manifestatur nobis per internam inspirationem et scri 
+      <lb ed="#P" n="28"/>pturam sicut concurrit cum secunda causa vt igne ad calefa 
+      <lb ed="#P" n="29"/>ciendum sic transfert et ratificat translationem dominii cum do 
+      <lb ed="#P" n="30"/>mino particulari. interdum tamen dominus particularis nititur 
+      <lb ed="#P" n="31"/>tranfferre dominum cum quo deus non ratificat licet 
+      con<lb ed="#P" n="32" break="no"/>currit ad actum dandi interiorem vel exteriorem exem 
+      <lb ed="#P" n="33"/>pli causa prelatus dat nepti diuiti mille aureos ex 
+      <lb ed="#P" n="34"/>manum ad illum actum interiorem volendi dare et 
+      ex<lb ed="#P" n="35" break="no"/>teriorem ad extra deus actiue concurrit sed non 
+      ratifi<lb ed="#P" n="36" break="no"/>cat translationem: et propterea translatio est nulla dominii 
+      <lb ed="#P" n="37"/>in illo casu si deus non concurrit ad substautiam actus 
+      <lb ed="#P" n="38"/>siue sit peccatum siue non praelatus nesciret actum habe 
+      <lb ed="#P" n="39"/>re ac si diues laicus det histrioni vel meretricule pe 
+      <lb ed="#P" n="40"/>cuniam deo voluntati signi illud displicet quod taliter 
+      <lb ed="#P" n="41"/>fiat sed ad translationem domini deus concurit vt nobis con 
+      <lb ed="#P" n="42"/>stat. Sed dicis cum praelatus non est dominus horum bono 
+      <lb ed="#P" n="43"/>rum quomodo transfert translationem harum rerum in 
+      <lb ed="#P" n="44"/>alium nemo dat quod non habet. Respondeo frequen 
+      <lb ed="#P" n="45"/>ter aliquis non habens dominium alicuius rei alteri confert 
+      <lb ed="#P" n="46"/>dominium illius rei non possesse ab eo. patet de elemosina 
+      <lb ed="#P" n="47"/>rio regis qui non est dominus illius elemosine date et 
+      <lb ed="#P" n="48"/>tamen in alium transfert verum dominium. pauper est dominus 
+      <lb ed="#P" n="49"/>elemosine date abbas dat laboranti in orto vel in agris 
+      <lb ed="#P" n="50"/>pecuniam pro suo labore et alter vere suscipit et palam 
+      <lb ed="#P" n="51"/>est abbatem non esse dominum illarum rerum sicut consensus 
+      <lb ed="#P" n="52"/>interpretatiuus veri domini vel formalis sufficit elemo 
+      <lb ed="#P" n="53"/>sinario transferendo dominium rerum sic in proposito quando 
+      <lb ed="#P" n="54"/>homo dat non repugnanter regulis bonorum ecclesie 
+      <lb ed="#P" n="55"/>tunc est consensus dei principalis domini vel ecclesie secundum alium 
+      <lb ed="#P" n="56"/>modum quod sufficit sic homo dat quod habet ab alio et 
+      com<lb ed="#P" n="57" break="no"/>missa est ei cura dandi. Ex isto patet. praelatus ecclesie 
+      <lb ed="#P" n="58"/>non est vsu fructuarius. patet. fructuarius ex fructibus 
+      <lb ed="#P" n="59"/>collectis emit agros et pro eo manebunt. secus est de 
+      <!--300.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="60"/>prelato ecclesie nec est vsuarius cum is non potest alie 
+      <lb ed="#P" n="61"/>nare fructus nec eis vti vltra propriam necessitatem 
+      <lb ed="#P" n="62"/>non refert licet dicatur proprietarius in rebus vsu 
+      com<lb ed="#P" n="63" break="no"/>sumptibilibus cum vsufructuario communicat qui vtitur et frui 
+      <lb ed="#P" n="64"/>tur rebus alienis salua rerum substantia. ff. eodem. l. i 
+      <lb ed="#P" n="65"/>et. l. ii. in signum cuius episcopus vincestrie in anglia primo 
+      <lb ed="#P" n="66"/>die episcopatus eius dat satisdationem pro triginta mille 
+      <lb ed="#P" n="67"/>ouibus quas recipit conuenit cum vsuario in hoc quod 
+      <lb ed="#P" n="68"/>necessaria suo statui solum capere potest: sed quia vsus 
+      <lb ed="#P" n="69"/>est ius vtendi alienis rebus salua rerum substantia si 
+      <lb ed="#P" n="70"/>ne facultate alienandi per hoc vsuarius est inferior 
+      <lb ed="#P" n="71"/>beneficiato. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 2</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 2</title>
+               <date when="2021-07-06">July 06, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-M4Saaa">Paris 1509</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-06" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="196-r"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="JM7jmZ-e08917"><!-- l4d44q2 -->
+            <head xml:id="JM7jmZ-e08917-Hd1e108">Quaestio 2</head>
+            <head xml:id="JM7jmZ-e08917-Hd1e111" type="question-title">
+      An ignis inferni sit
+      eiusdem speciei
+      cum igne nostro
+    </head>
+            <p xml:id="JM7jmZ-e08917-d1e114">
+      <!--406.xml-->
+               <cb ed="#P" n="b"/>
+               <lb ed="#P" n="59"/>¶ Distinctionis quadragesime quarte questio secunda. 
+      <lb ed="#P" n="60"/>Ecundo circa eandem quadragesimam quartam 
+      <lb ed="#P" n="61"/>distinctionem Quero an ignis inferni sit eiui 
+      <lb ed="#P" n="62"/>dem speciei cum igne nostro. Respondetur affirma 
+      <lb ed="#P" n="63"/>tiue probatio ignis est species specialissima et quilibet 
+      <lb ed="#P" n="64"/>cum quolibet idem in specie sicut de aere aqua et terra. 
+      <lb ed="#P" n="65"/>insuper inane est volare ad alietatem specificam nec 
+      au<lb ed="#P" n="66" break="no"/>ctoritates sanctorum ad hoc sonant ergo conclusio est 
+      <lb ed="#P" n="67"/>vera. Contra quam arguitur sit iohannes 
+      damasce<lb ed="#P" n="68" break="no"/>nus li. iiii. cap. xxviii. dicit ille ignis non est materia 
+      <lb ed="#P" n="69"/>lis qualis est apud nos sed qualis sit nouit deus cum ibi 
+      <lb ed="#P" n="70"/>non sit ponendus ignis nisi spiritualis ergo non est eius 
+      <lb ed="#P" n="71"/>dem speciei cum igne nostro non loquimur de specie sub 
+      <lb ed="#P" n="72"/>alterna. Et confirmatur assumptum de diuite 
+      epulo<lb ed="#P" n="73" break="no"/>ne. luce. xvi. qui dicebat linguam suam cruciari flam 
+      <lb ed="#P" n="74"/>ma cum constat illum non habuisse linguam corporalem sed 
+      <lb ed="#P" n="75"/>spiritualem videtur quod methaphorice de vtroque loquitur 
+      <lb ed="#P" n="76"/>Ad primum dicitur concedendo assumptum vt praedicatum sit 
+      <lb ed="#P" n="77"/>hoc totum materialis qualis apud nos sicut achilles 
+      <lb ed="#P" n="78"/>non fuit homo talis qualis tersites ignis apud nos 
+      <lb ed="#P" n="79"/>eget fomentis non autem ille. Ad secundum nego quod ignis in 
+      <lb ed="#P" n="80"/>ferni sit solum methaphoricus. vnde. iiii. dialogorum 
+      <lb ed="#P" n="81"/>dicit beatus gregorius ignem gehenne corporeum esse non 
+      <lb ed="#P" n="82"/>ambigo licet diues epulo vel eius anima quod pro eodem 
+      <lb ed="#P" n="83"/>ibi accipio non habebat linguam proprie dictam nec cor 
+      <lb ed="#P" n="84"/>pus non sequitur ex illo quod in inferno nullus est ignis 
+      </p>
+            <p xml:id="JM7jmZ-e08917-d1e177">
+               <lb ed="#P" n="85"/>¶ Secundo argumentor ignis apud nos est corru 
+      <lb ed="#P" n="86"/>ptibilis ille autem est incorruptibilis. mathei. xxv. Ite 
+      <lb ed="#P" n="87"/>maledicti in ignem eternum modo corruptibile et incorru 
+      <lb ed="#P" n="88"/>ptibile differunt secundum genus. x. methace. Insuper ignis 
+      <lb ed="#P" n="89"/>rnguitur suapte natura appetit ascendere ille numquam ascen 
+      <lb ed="#P" n="90"/>dit similiter non augetur ex materia. secundum illud 
+      prouer<lb ed="#P" n="91" break="no"/>biorum. iii. ignis numquam dicit sufficit. Ad secundum dicitur 
+      <lb ed="#P" n="92"/>eandem corruptibilitatem habent nec omnis ignis 
+      appe<lb ed="#P" n="93" break="no"/>tit ascendere. patet de igne immediato concauo lune si fue 
+      <lb ed="#P" n="94"/>rit hic inferius appetit adire suam spheram etiam non 
+      ap<lb ed="#P" n="95" break="no"/>paret quod ignis prope spheram lune quoquam pacto cor 
+      <lb ed="#P" n="96"/>rumpatur dummoo ibi est non est contrarietas intrinseca 
+      <lb ed="#P" n="97"/>cum caliditas et siccitas ei non aduersantur nec est con 
+      <lb ed="#P" n="98"/>trarietas extrinseca licet aliqua influentia saturni vel 
+      <lb ed="#P" n="99"/>lune sit frigefactiua in illa parte non poterit frigeface 
+      <lb ed="#P" n="100"/>re vel saltem corrumpere ignem et si sic quando non esset contra 
+      <lb ed="#P" n="101"/>rietas extrinseca agens continuo maneret. dicitur quod 
+      <lb ed="#P" n="102"/>in inferno deus non concurrit cum aliquo ad 
+      corrumpen<lb ed="#P" n="103" break="no"/>dum ignem inferni quare perpetuo manet non opus est 
+      <lb ed="#P" n="104"/>quod noua materia ministretur siue sit in materia intrin 
+      <lb ed="#P" n="105"/>seca vel extrinseca <ref xml:id="JM7jmZ-e08917-Rd1e224">beatus augustinus dat 
+      manudu<lb ed="#P" n="106" break="no"/>ctiones. xxi. de ciuitate dei. c. xlv. et. vi.</ref> de monte 
+      <lb ed="#P" n="107"/>ethna et chimera monte sed pondus in hiis est reducen 
+      <lb ed="#P" n="108"/>dum ad dei actionem. at subdubitas quare ignis in no 
+      <lb ed="#P" n="109"/>stro foco non euestigio conscendit cum suapte natura ap 
+      <lb ed="#P" n="110"/>petat transcendere fastigium aeris. dico sic facit sed con 
+      <lb ed="#P" n="111"/>tinuo nouus procreatur qui insequitur nec 
+      instanta<lb ed="#P" n="112" break="no"/>nee ascendit propter aerem resistentem si nullus 
+      pona<lb ed="#P" n="113" break="no"/>tur aer et relinquatur sue nature iam habes maiorem 
+      <lb ed="#P" n="114"/>causam dubitandi. Si dicas vehementius ignis 
+      ca<lb ed="#P" n="115" break="no"/>lefacit eum qui est super ignem pedaliter quam illum qui est 
+      <lb ed="#P" n="116"/>ad latus. enaliter tendentiam impetuosam sursi¬ 
+      <!--407.xml-->
+      <pb ed="#P" n="196-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>de hoc erit sermo statim ignis in variis materis mi 
+      <lb ed="#P" n="2"/>rabiles habet naturas ignis sulphureus penetrat on 
+      <lb ed="#P" n="3"/>sa carne molli conseruata. ex isto patet quod numquam calor 
+      <lb ed="#P" n="4"/>cordis in dannatis remittet frigus vel econuerso qui 
+      <lb ed="#P" n="5"/>semper manebunt dannati propter non concursum dei 
+      <lb ed="#P" n="6"/>ad illud. Tertio arguitur sequitur quod corpora 
+      dam<lb ed="#P" n="7" break="no"/>natorum erunt calefacta in summo et prope 
+      summu<lb ed="#P" n="8" break="no"/>post diem iudicii et sic non erit qualitas conueniens ad  
+      <lb ed="#P" n="9"/>vitam. et consequentia patet si ignis inferni sit eiusde: 
+      <lb ed="#P" n="10"/>speciei cum igne nostro. Respodetur partita est posum 
+      <lb ed="#P" n="11"/>tio in hoc argumento beato thoma et mltis aliis 
+      opi<lb ed="#P" n="12" break="no"/>nantibus quod ignis non calefaciet corpora dannatorum 
+      <lb ed="#P" n="13"/>post mortem sola intentionalis actio sufficit ad penam 
+      <lb ed="#P" n="14"/>patet nunc in animis separatis et demonibus. alius est 
+      <lb ed="#P" n="15"/>modus oppositus cui magis assentimus quod ignis agat 
+      <lb ed="#P" n="16"/>in corpora dannatorum ipa calefaciendo. ratio ignis 
+      <lb ed="#P" n="17"/>est agens naturale corpus humanum passum disposi 
+      <lb ed="#P" n="18"/>tum ad suscipiendum auctoritates sanctorum ad hoc so 
+      <lb ed="#P" n="19"/>nant nec rationes aduersariorum mouent ergo ista pars 
+      <lb ed="#P" n="20"/>est rationabilior non propterea inferas aliam partem 
+      <lb ed="#P" n="21"/>ex dictis nostris rationabilem tanquam a copulatiua vir 
+      <lb ed="#P" n="22"/>tualiter affirmatiua ad alteram eius partem cum in 
+      <lb ed="#P" n="23"/>modo loquendi interdum vulgariter et non logice 
+      vti<lb ed="#P" n="24" break="no"/>mur comparatiuo non valet ratio beati thome cessante 
+      <lb ed="#P" n="25"/>celo non erit actio ipsius ignis cum causalitas causarum 
+      <lb ed="#P" n="26"/>secundarum a celo dependeat hoc inquam non valet et re 
+      <lb ed="#P" n="27"/>probatur in articulis parisiensibus et etiam tunc non esset 
+      <lb ed="#P" n="28"/>actio intentionalis numquid ad preces iosue sol stetit 
+      <lb ed="#P" n="29"/>et ezechie et si ceteri celi non stetissent non fuisset 
+      ar<lb ed="#P" n="30" break="no"/>monia in aspectibus celorum et tamen iosue mouebatur. 
+      in<lb ed="#P" n="31" break="no"/>super celum agit in hec inferiora per influentiam aliter qua 
+      <lb ed="#P" n="32"/>per motum nec valet quod alii dicunt illud iob non potest 
+      <lb ed="#P" n="33"/>saluari hoc modo ibunt de calore nimio ad frigus 
+      ni<lb ed="#P" n="34" break="no"/>uium et tamen hoc potest saluari per actionem intentiona 
+      <lb ed="#P" n="35"/>lem. actio intentionalis non est calor nec frigus. dice 
+      <lb ed="#P" n="36"/>transire possunt vicissim de calore ad frigus vt ma 
+      <lb ed="#P" n="37"/>ior sit pena opposita iuxta se posita magis apparent 
+      <lb ed="#P" n="38"/>et sic simpliciter sunt penaliora et magis cruciatiua 
+      <lb ed="#P" n="39"/>et apparet vicissim ex verbo ibunt. Secundo dico pos 
+      <lb ed="#P" n="40"/>sunt hiis penis simul cruciari secundum varias partes 
+      si<lb ed="#P" n="41" break="no"/>cut cerebrum est frigidum et cor calidum. Dico tertio 
+      <lb ed="#P" n="42"/>nulla est repugnantia caloris et frigoris in summo secundum 
+      <lb ed="#P" n="43"/>omnem positionem et potissimum apud tenentes 
+      opposi<lb ed="#P" n="44" break="no"/>tum cum calor et frigus se compatiuntur in grgodibus remissis 
+      <lb ed="#P" n="45"/>quid obstat quin simul sint de potentia dei quicquio 
+      <lb ed="#P" n="46"/>dicatur sunt miracula facile possumus ostendere tot mi 
+      <lb ed="#P" n="47"/>racula ad oppositum sicut ad hoc quod tenemus et quando 
+      <lb ed="#P" n="48"/>plura essent ad hunc modum argumentum est debile pos 
+      <lb ed="#P" n="49"/>sumus negare in omnibus istis esse miraculum cum 
+      <lb ed="#P" n="50"/>iprsium debeat esse insolitum vltra vires causarum 
+      natura<lb ed="#P" n="51" break="no"/>lium illud quod secundum communem legem fit per diem iudicii non 
+      <lb ed="#P" n="52"/>debet dici miraculum sicut nunc esset miraculum pone 
+      <lb ed="#P" n="53"/>re duo corpora in eodem loco adequato post diem 
+      iudi<lb ed="#P" n="54" break="no"/>cii in corporibus beatis non est miraculum sed hoc est de 
+      <lb ed="#P" n="55"/>termino procedere.
+    </p>
+            <p xml:id="JM7jmZ-e08917-d1e378">
+      ¶ Sed contra illud argumentor 
+      <lb ed="#P" n="56"/>sequitur quod cruciatus dannandorum hominum augebitur 
+      <lb ed="#P" n="57"/>post diem iudicit hoc est inconreniens cum non sit sic in 
+      bea<lb ed="#P" n="58" break="no"/>tis augmentatio glorie transeat illud quod cruciatus 
+      proue<lb ed="#P" n="59" break="no"/>tiens ex parte corporis augebitur sicut post diem 
+      <!--407.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="60"/>iudicii habebunt corpora assumpta dannate anime et non 
+      <lb ed="#P" n="61"/>ante et dato quod corpora dannandorum nunc multum ca 
+      <lb ed="#P" n="62"/>lefient nunc multum frigefiant non oportet quod aliquid 
+      re<lb ed="#P" n="63" break="no"/>moueatur ab illis corporibus. Sed petis an omnia 
+      <lb ed="#P" n="64"/>corpora dannandorum equaliter calefiant vel frigefiant 
+      <lb ed="#P" n="65"/>et an tantum calefiant primo instanti in quo sunt in infer 
+      <lb ed="#P" n="66"/>no vel in vltimo in quo non sunt et tunc ignis non 
+      pro<lb ed="#P" n="67" break="no"/>ducit illum calorem ex sua natura cum est agens 
+      extrin<lb ed="#P" n="68" break="no"/>secum citius calefacit partes vicinas quam remotas es 
+      <lb ed="#P" n="69"/>citius introducit gradum vt vnum quam vt duo citius vt 
+      <lb ed="#P" n="70"/>duo quam vt tria et sic consequenter ergo successiue ei: t 
+      <lb ed="#P" n="71"/>calefactio et sic de frigefactione. Respondeo sicut 
+      <lb ed="#P" n="72"/>aulopost dicimus questione vltima huius distinctionis 
+      <lb ed="#P" n="73"/>licet omnes anime equaliter detineantur in orco tamen inequalitur 
+      <lb ed="#P" n="74"/>puniuntur possumus id idem dicere de calore et 
+      frigo<lb ed="#P" n="75" break="no"/>re deus permittit ignem introducere aliquos gradus 
+      <lb ed="#P" n="76"/>caloris secundum demerita neronis et ille calor non amplius 
+      <lb ed="#P" n="77"/>augetur non concurrit cum igne ad amplius calefaciet 
+      <lb ed="#P" n="78"/>dum. cum vno iudeo vel machometista mediocriter 
+      <lb ed="#P" n="79"/>malo concurrit ad pautiores gradus hoc est cum igne 
+      <lb ed="#P" n="80"/>puniente eos et stat quod ille calor remittatur gradualiter 
+      <lb ed="#P" n="81"/>per frigus quando proiiciuntur corpora in frigus niuium de 
+      <lb ed="#P" n="82"/>isto cruciatu corporeo non inconuenit quod varietur et 
+      <lb ed="#P" n="83"/>non est necesse dicere quod cumprimum dannatus est in infer 
+      <lb ed="#P" n="84"/>no ita rigide cruciatur sicut vnquam cruciabitur in 
+      cor<lb ed="#P" n="85" break="no"/>pore deus per mittit agentia naturalia suis dispositio 
+      <lb ed="#P" n="86"/>nibus quo ad hoc ad calefaciendum vel frigefacien 
+      <lb ed="#P" n="87"/>dum vsque ad vnum certum gradum vt diximus et cum 
+      <lb ed="#P" n="88"/>brobabile est quod calor interdum remittitur a frigore qua 
+      <lb ed="#P" n="89"/>re non postea calor producitur successiue et si sic in primo 
+      <lb ed="#P" n="90"/>tempore quo erat in inferno augebitur calor de 
+      ca<lb ed="#P" n="91" break="no"/>lore frigore et huiusmoni penis non inane poete genti 
+      <lb ed="#P" n="92"/>lium cecinerunt dicebant apud inferos esse stigen 
+      <lb ed="#P" n="93"/>acherontem lethen cochytum phlegetontem stix est aqua 
+      <lb ed="#P" n="94"/>prope nouacrim archadie regionem tam immense 
+      fri<lb ed="#P" n="95" break="no"/>giditatis vt nec vas argenteum vel ereum in ea subsi 
+      <lb ed="#P" n="96"/>stere possit sed frangetur lucanus de lethe loquens 
+      di<lb ed="#P" n="97" break="no"/>cit. Quam iuxta lethes tacitus praelabitur amnis infernis 
+      <lb ed="#P" n="98"/>vt fama trahens obliuia venis poete vmbratice 
+      di<lb ed="#P" n="99" break="no"/>cerunt illud quod in lucem abiit primo a sanctis patribus 
+      <lb ed="#P" n="100"/>ignis inferni debet esse fumosus propter terrestrie 
+      <lb ed="#P" n="101"/>tates et clausuram secundum illud. math. xxii. ligatis mani 
+      <lb ed="#P" n="102"/>bus et pedibus proiicite eum in tenebras exteriores gre 
+      <lb ed="#P" n="103"/>gorius illud exponens dicit. parum luminis est vt 
+      pe<lb ed="#P" n="104" break="no"/>nas videant idem dicit nono mora. exponens illud 
+      <lb ed="#P" n="105"/>iob. x. sed sempiternus horror inhabitat. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

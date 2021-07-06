@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 2</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 2</title>
+               <date when="2021-07-06">July 06, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-M4Saaa">Paris 1509</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-06" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="63-v"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="JM7jmZ-d35246"><!-- l1d13q2 -->
+            <head xml:id="JM7jmZ-d35246-Hd1e108">Quaestio 2</head>
+            <head xml:id="JM7jmZ-d35246-Hd1e111" type="question-title">De modo celebrandi</head>
+            <p xml:id="JM7jmZ-d35246-d1e114">
+               <lb ed="#P" n="78"/>¶ Distinctionis decime tertie questio secunda. 
+      <lb ed="#P" n="79"/>QVeritur de modo celebrandi.
+    </p>
+            <p xml:id="JM7jmZ-d35246-d1e121">
+      ¶ Respon 
+      <lb ed="#P" n="80"/>detur multa de modo celebrandi 
+      tangun<lb ed="#P" n="81" break="no"/>tur. <ref xml:id="JM7jmZ-d35246-Rd1e127">de consecra. dist. prima.</ref> sicut nullus nisi a 
+      <lb ed="#P" n="82"/>iacerdos potest consecrare / ita non debet esse celebra 
+      <lb ed="#P" n="83"/>tio nisi in locis consecratis nisi summa coegerit 
+      ne<lb ed="#P" n="84" break="no"/>cessitas. patet in capitulo sicut non alii. ista 
+      necessi<lb ed="#P" n="85" break="no"/>tas exponitur in c. concedimus. ibi dicitur in conct 
+      <lb ed="#P" n="86"/>lio tribariensi si ecclesie fuerint destructe incendio in 
+      <lb ed="#P" n="87"/>capellis permittitur consecrare quousque ecclesie 
+      re<lb ed="#P" n="88" break="no"/>sartiantur etiam in itinere si ecclesia defuerit sub di 
+      <lb ed="#P" n="89"/>uo licet celebrare dummodo tabula altaris consecra 
+      <lb ed="#P" n="90"/>ta cetera sacra misteria ad illud officium 
+      pertinen<lb ed="#P" n="91" break="no"/>tia affuerint: et illud permittitur secundum legem com 
+      <lb ed="#P" n="92"/>munem: non videtur idem in naui que est in mariquam 
+      <lb ed="#P" n="93"/>tocunque tempore dummodo non patet accessus ad 
+      ter<lb ed="#P" n="94" break="no"/>ram tales excusantur ab auditione misse esset 
+      peri<lb ed="#P" n="95" break="no"/>culum effusionis sanguinis christi: vbi caueretur ab 
+      <lb ed="#P" n="96"/>illo periculo potest celebrari. dixi dummodo non pa 
+      <lb ed="#P" n="97"/>tet accessus ad terram ob piratas et tales qui non ex 
+      <lb ed="#P" n="98"/>cusantur a sanctificatione diei dominice de audienda mis 
+      <lb ed="#P" n="99"/>sa nisi quando habent rationabilem causam ibi ma 
+      <lb ed="#P" n="100"/>nendi. tortasse descendendo in terram essent inique per 
+      <lb ed="#P" n="101"/>empti sufficit etiam facultas episcopi patet inc. missa 
+      <lb ed="#P" n="102"/>rum: corporale debet esse in puro lineo vel lintheo 
+      <lb ed="#P" n="103"/>ab episcopo consecrato et non in serico vel 
+      aliopan<lb ed="#P" n="104" break="no"/>no: patet in ca. consulto omnium. hoc sigeit sindonem 
+      mun<lb ed="#P" n="105" break="no"/>dam qua christus inuolutus est in sepulchro. Calix 
+      <lb ed="#P" n="106"/>sit de auro / argento / vel stanno: es et auricalcum eru 
+      <lb ed="#P" n="107"/>ginem faciunt et vomitum causant. ca. vt calix. quare 
+      <lb ed="#P" n="108"/>nec lignum nec vitrum nec alia materia ab illis tri 
+      <lb ed="#P" n="109"/>bus enumeratis est sufficiens licet in capite hoc 
+      di<lb ed="#P" n="110" break="no"/>catur duo debent interesse celebrationi quia dicitur 
+      <lb ed="#P" n="111"/>ominens vobiscum / et orate pro me: consuetudo iuris po 
+      <lb ed="#P" n="112"/>sitiui humani optima interpres hoc euacuauit: alta 
+      <lb ed="#P" n="113"/>re debet esse de lapide. ca. altaria. sine sacnis 
+      vesti<lb ed="#P" n="114" break="no"/>pus non debet celebrari. ca. vestimenta. specialiter 
+      <lb ed="#P" n="115"/>sine manipulo et stola. non debet celebrari sine lunie 
+      <lb ed="#P" n="116"/>ili quis propterea sacerdos fuit priuatus beneficio. de 
+      <!--142.xml-->
+      <pb ed="#P" n="64-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>celebratione missarum cap. vltimo. eucharistia debet 
+      <lb ed="#P" n="2"/>seruari in loco mundo et honesto firmiter clauso cum 
+      <lb ed="#P" n="3"/>lampade vel cera illuminata. qui sequitur me non 
+      am<lb ed="#P" n="4" break="no"/>bulat in tenebris sed habebit lumen vite quam Ioam. viii. 
+      </p>
+            <p xml:id="JM7jmZ-d35246-d1e222">
+               <lb ed="#P" n="5"/>¶ Preterea aduerte iacobus frater domini modum ce 
+      <lb ed="#P" n="6"/>lebrationis primus instituit de consecratione. d. i. c 
+      <lb ed="#P" n="7"/>acobus. propter casualem infirmitatem 
+      superue<lb ed="#P" n="8" break="no"/>nientem presbiter finire non valens alter vbi 
+      fini<lb ed="#P" n="9" break="no"/>uit perficiat. vii. q. ii. nichil de tempore ruri vbi non 
+      <lb ed="#P" n="10"/>habetur horologium sufficit celebrare hora duodeci 
+      <lb ed="#P" n="11"/>ma et ob deuotionem persone magne audientis vel 
+      <lb ed="#P" n="12"/>celebrantis etiam quando dubitaretur an finietur ante 
+      <lb ed="#P" n="13"/>duode cimam.
+    </p>
+            <p xml:id="JM7jmZ-d35246-d1e245">
+      ¶ Sed probas quod stola non debet esse 
+      <lb ed="#P" n="14"/>consecrata: sit pentepedalis et vna pedalitas 
+      vetu<lb ed="#P" n="15" break="no"/>state consumitur potest resarciri et tota erit 
+      benedi<lb ed="#P" n="16" break="no"/>cta. patet de consecratione ecclesie. c. quod in dubiis. ium 
+      <lb ed="#P" n="17"/>cta glosa. sicut de oleo non benedicto et aqua non 
+      <lb ed="#P" n="18"/>benedicta addita benedicte quo facto tota stola est 
+      <lb ed="#P" n="19"/>adhuc benedicta remoueatur alia pedalitas b et ad 
+      <lb ed="#P" n="20"/>datur alia loco eius per lapsum temporis et sic 
+      gra<lb ed="#P" n="21" break="no"/>datim vsque ad c. inclusiue. tunc sic in fine non est opus 
+      <lb ed="#P" n="22"/>quod hec stola consacretur: ergo male dictum est nulla 
+      <lb ed="#P" n="23"/>pedalitas huius stole fuit consecrata a presule quia 
+      <lb ed="#P" n="24"/>numquam illam vidit vel nunquam habuit partem vicinam 
+      <lb ed="#P" n="25"/>huius stole ad decem leucas hoc supponamus. 
+      <lb ed="#P" n="26"/>Respondetur si simul et semel maior pars stole ve 
+      <lb ed="#P" n="27"/>tustate consumitur tota esset benedicenda / sed vbi est 
+      <lb ed="#P" n="28"/>magna intercapedo temporis prout supponitur in abla 
+      <lb ed="#P" n="29"/>tione partium tota est sufficienter consecrata vt in 
+      <lb ed="#P" n="30"/>aluuione est sic eadem identitate morali 
+      identita<lb ed="#P" n="31" break="no"/>tis licet non identitate phisica cum sola benedicta ab epreo 
+      <lb ed="#P" n="32"/>et hoc sufficit cum partes succedant in simili situ et 
+      <lb ed="#P" n="33"/>figura et semper reputabatur eadem vt in corre 
+      <lb ed="#P" n="34"/>ctione nauis sensim hoc mense reparando vnum 
+      as<lb ed="#P" n="35" break="no"/>serem in alio mense alium et sic successiue quo ad nullui 
+      <lb ed="#P" n="36"/>asser relinquatur in tota naui illud patet. vii. q. i. de 
+      <lb ed="#P" n="37"/>nique. xvi. distin. cap. habeo. et ad longum. f. de 
+      iudi<lb ed="#P" n="38" break="no"/>ciis. l. proponebatur et de seruituti. rus. predi. i. 
+      ser<lb ed="#P" n="39" break="no"/>uitutes. §. Si sublatum.
+    </p>
+            <p xml:id="JM7jmZ-d35246-d1e304">
+      ¶ Potes applicare 
+      diffi<lb ed="#P" n="40" break="no"/>cultates in consecratione quas habes sub aliis 
+      ter<lb ed="#P" n="41" break="no"/>minis in de baptismo vt ego volo consecrare hanc 
+      <lb ed="#P" n="42"/>hostiam si nullus alius eam consecrat et non aliter 
+      <lb ed="#P" n="43"/>sortes habet idem propositum vel vult 
+      cathegori<lb ed="#P" n="44" break="no"/>ce consecrare vel demonstrando quattuor hostias 
+      <lb ed="#P" n="45"/>sortes vult consecrare illas duas quas plato non con 
+      <lb ed="#P" n="46"/>secrat et econuerso plato vult consecrare duas 
+      ho<lb ed="#P" n="47" break="no"/>stias quas sortes non consecrat. Si anima presbiteri 
+      <lb ed="#P" n="48"/>ponatur in corpore laici an potest consecrare sicut 
+      <lb ed="#P" n="49"/>superius diximus de anima christiani in corpore agareni 
+      <lb ed="#P" n="50"/>si anima vnius presbiteri ponatur in corpore alterius 
+      <lb ed="#P" n="51"/>presbiteri et contra an quilibet eorum est presbiter: 
+      <lb ed="#P" n="52"/>sic. Contra nullus istorum fuit consecratus vel factus 
+      <lb ed="#P" n="53"/>presbiter ab aliquo episcopo nec ab episcopo 
+      acce<lb ed="#P" n="54" break="no"/>pit ordines et hoc est verum videtur tamen sufficere ad 
+      <lb ed="#P" n="55"/>consecrandum cum caracter sacerdotalis indelebilis 
+      <lb ed="#P" n="56"/>manet in anima non alias dicimus praesbiterum 
+      resu<lb ed="#P" n="57" break="no"/>scitatum esse presbiterum et religiosum vel vxore 
+      <lb ed="#P" n="58"/>resuscitatam non esse astringendam adherere viro 
+      <lb ed="#P" n="59"/>vel reintrare religionem. dicis tunc si anima vnius 
+      <!--142.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="60"/>bresbiteri ponatur in mille corporibus mille erunt 
+      <lb ed="#P" n="61"/>presbiteri distincti realiter quod concedimus pone 
+      <lb ed="#P" n="62"/>animam presbiteri in corpus laici: et contra. sint quinque 
+      <lb ed="#P" n="63"/>postie due signate lictera a / due littera b / tertia 
+      sigi<lb ed="#P" n="64" break="no"/>ta et littera b et assortes vult consecrare signatas lit 
+      <lb ed="#P" n="65"/>tera a plato listera b / quita consecratur ab vtroque et sic 
+      <lb ed="#P" n="66"/>tres ab vno presbitero et tres ab alio quae realiter 
+      di<lb ed="#P" n="67" break="no"/>stinguntur hoc non est mirum cum est vna commuicans 
+      <lb ed="#P" n="68"/>sortes vult consecrare partem hostie iuxta se vsque ad  
+      <lb ed="#P" n="69"/>a lineam plato aliam medietatem vsque ad a lieam: 
+      <lb ed="#P" n="70"/>a linea panis non est consecrata pono lineam non 
+      distin<lb ed="#P" n="71" break="no"/>gui a substantia qualitate vel quantitate continua. 
+      cete<lb ed="#P" n="72" break="no"/>rum dicis volo consecrare quanlibet partem hostie 
+      <lb ed="#P" n="73"/>non terminatam ad a punctum vel ad pedem 
+      cali<lb ed="#P" n="74" break="no"/>cis vel quelibet est consecrata et hoc est contra eius 
+      <lb ed="#P" n="75"/>intentionem: si aliqua non est consecrata sub qua non 
+      <lb ed="#P" n="76"/>est corpus christi signetur illa est diuisibilis: ergo vna 
+      <lb ed="#P" n="77"/>pars illius non tangit pedem calicis et illa est 
+      con<lb ed="#P" n="78" break="no"/>secrata et per consequens ibi est corpus christi. 
+      di<lb ed="#P" n="79" break="no"/>cis nulla pars est consecrata demonstrando 
+      quantamli<lb ed="#P" n="80" break="no"/>bet partem paruam prope me reliqua pars tangit 
+      <lb ed="#P" n="81"/>pedem calicis vel a punctum ratione partis eius: ergo 
+      <lb ed="#P" n="82"/>sub nulla tali parte erit corpus christi ex casu et quia 
+      <lb ed="#P" n="83"/>implicat dare maximam partem bostie non potes 
+      <lb ed="#P" n="84"/>signare ad tuam imaginationem partem non conse 
+      <lb ed="#P" n="85"/>cratem a consecrata. Pro solutione vt res sit 
+      luci<lb ed="#P" n="86" break="no"/>dior sit hostia quadrata vel quadrangularis 
+      parti<lb ed="#P" n="87" break="no"/>bus minoribus terminatis ad pedem calicis 
+      ponun<lb ed="#P" n="88" break="no"/>tur propositiones que prima frotite alicui 
+      appare<lb ed="#P" n="89" break="no"/>rent postea loquemur sicut putamus ad questionem 
+      <lb ed="#P" n="90"/>Prima quelibet pars huius non terminata ad 
+      pe<lb ed="#P" n="91" break="no"/>dem calicis est consecrata secundum se et quodlibet sui. 
+      Se<lb ed="#P" n="92" break="no"/>cunda propositio cuiuslibet partis aliqua pars huius 
+      <lb ed="#P" n="93"/>quadranguli est consecrata. patet. si esset instantia esset 
+      <lb ed="#P" n="94"/>in parte terminata ad pedem calicis et hoc non quia 
+      <lb ed="#P" n="95"/>quacumque parua parte data prope calicem aliqua pars 
+      <lb ed="#P" n="96"/>illius est consecrata. patet de remotiori medietate tertia 
+      <lb ed="#P" n="97"/>vel quarta a calice. Tertia propositio qualibet pars 
+      pro<lb ed="#P" n="98" break="no"/>portionalis hostie secundum illam diuisionem est consecra 
+      <lb ed="#P" n="99"/>ta. patet. quacumque data illa distat a calice et aliquid pa 
+      <lb ed="#P" n="100"/>nis mediat: dixi secundum illam diuisionem quia si oppo 
+      <lb ed="#P" n="101"/>sitos caperes partes proportionales non quaelibet esset 
+      <lb ed="#P" n="102"/>consecrata secundum quodlibet sui saltem si esset sermo quod 
+      <lb ed="#P" n="103"/>ad consecrationem totius sufficit quod maior pars con 
+      <lb ed="#P" n="104"/>secretur iam qualibet pars illius hostie esset consecra 
+      <lb ed="#P" n="105"/>ta. Quarta propositio deus non videt maximam par 
+      <lb ed="#P" n="106"/>tem illius hostie consecratam secundum se et quodlibet suf 
+      <lb ed="#P" n="107"/>patet. nulla talis est nec dari potest. Quinta 
+      proposi<lb ed="#P" n="108" break="no"/>tio non omnes partes illius hostie sunt consecrate 
+      <lb ed="#P" n="109"/>iualiscumque sit partitio in partibus proportionalibus 
+      <lb ed="#P" n="110"/>incipiendo a calice vel ab opposito. patet. tunc 
+      ho<lb ed="#P" n="111" break="no"/>stia esset complete consecrata contra ipotesim. 
+      Sex<lb ed="#P" n="112" break="no"/>ta propositio corpus christi est praesens calici. patet. 
+      <lb ed="#P" n="113"/>bene sequitur in infinitum propinque calici est aliqua 
+      <lb ed="#P" n="114"/>pars proportionalis istius hostie capiendo minores 
+      <lb ed="#P" n="115"/>prope calicem et qualibet harum partium corpus christi 
+      <lb ed="#P" n="116"/>est vicinius: ergo infinitum propinque est corpus christi 
+      <lb ed="#P" n="117"/>calici et per consequens non distat ab illo. Sed con 
+      <lb ed="#P" n="118"/>tra ista argumentor casus implicat ergo non est ad¬ 
+      <!--143.xml-->
+      <pb ed="#P" n="64-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>mittendus: antecedens patet vel remanet aliquis 
+      <lb ed="#P" n="2"/>panis non consecrandus vel nullus si secundum: contra iste 
+      <lb ed="#P" n="3"/>non intendit consecrare totum panem: ergo aliquis 
+      <lb ed="#P" n="4"/>panis manet consecrandus quod si concedas vel ille pa 
+      <lb ed="#P" n="5"/>nis est diuisibilis vel non: secundum non est dicendum tunc 
+      <lb ed="#P" n="6"/>panis componitur ex indiuisibilibus si primum iam 
+      <lb ed="#P" n="7"/>non consecrauit quemlibet panem non terminatum ad 
+      pe<lb ed="#P" n="8" break="no"/>dem calicis cum medietates remotior illius panis non 
+      <lb ed="#P" n="9"/>tangit pedem calicis / relinquitur quod illa intentio non 
+      <lb ed="#P" n="10"/>sufficit pro consecratione vt ponebatur in casu quod 
+      <lb ed="#P" n="11"/>concedimus. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

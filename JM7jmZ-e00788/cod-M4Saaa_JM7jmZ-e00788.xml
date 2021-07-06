@@ -1,0 +1,555 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 2</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 2</title>
+               <date when="2021-07-06">July 06, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-M4Saaa">Paris 1509</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-06" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="181-v"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="JM7jmZ-e00788"><!-- l4d40q2 -->
+            <head xml:id="JM7jmZ-e00788-Hd1e108">Quaestio 2</head>
+            <head xml:id="JM7jmZ-e00788-Hd1e111" type="question-title">
+      An consanguinitas
+      impediat
+      matrimonium
+    </head>
+            <p xml:id="JM7jmZ-e00788-d1e114">
+               <lb ed="#P" n="53"/>¶ Distinctionis quadragesime questio secunda. 
+      <!--377.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="54"/>CIrca hanc distinctionem quadragesimam 
+      <lb ed="#P" n="55"/>d quero secundo an consanguineitas 
+      impe<lb ed="#P" n="56" break="no"/>diat matrimonium.
+    </p>
+            <p xml:id="JM7jmZ-e00788-d1e130">
+      ¶ Pro solutione que 
+      <lb ed="#P" n="57"/>stionis pono conclusionem vpoteticam: licet an 
+      di<lb ed="#P" n="58" break="no"/>es innocentii tertii non poterat contrahi 
+      matrimo<lb ed="#P" n="59" break="no"/>nium citra septimum gradum post eum matrimonium 
+      <lb ed="#P" n="60"/>est licitum supra quartum gradum et non citra: 
+      pri<lb ed="#P" n="61" break="no"/>ma pars patet per vsidorum ethimologiarum libro 
+      <lb ed="#P" n="62"/>xi. c. vi. et hoc patet. xxxv. q. v. per totum. beatus gregi 
+      <lb ed="#P" n="63"/>dispensauit cum angelis et non tenuit legem communem 
+      <lb ed="#P" n="64"/>quia de nouo erant conuersi ad fidem vt citra septimum 
+      <lb ed="#P" n="65"/>contrahere possint. secunda pars patet de consangui. et aff. 
+      <lb ed="#P" n="66"/>non debet. vtrumque erat rationabile in principio 
+      na<lb ed="#P" n="67" break="no"/>scentis ecclesie homines diutius seruarunt amiciti 
+      <lb ed="#P" n="68"/>am quam postea: ideo tempore innocentii ampliata est 
+      <lb ed="#P" n="69"/>materia matrimonii a generaliconcilio de 
+      consan<lb ed="#P" n="70" break="no"/>guinei. et affi. c. non debet. non semper conueniunt 
+      <lb ed="#P" n="71"/>eedem leges. Sed petis si duo contraxissent in 
+      quin<lb ed="#P" n="72" break="no"/>to gradu per annum ante determinationem 
+      conci<lb ed="#P" n="73" break="no"/>lii. An post determinationem fuisset verum matrio 
+      <lb ed="#P" n="74"/>nium: dicitur quod sic si de nouo consensissent ante con 
+      <lb ed="#P" n="75"/>stitutionem sine dispensatione non erat matrimoni 
+      <lb ed="#P" n="76"/>um si disensissent vel horum alter non fuisset matri 
+      <lb ed="#P" n="77"/>monium ista prohibitio personarum est 
+      rationabi<lb ed="#P" n="78" break="no"/>lis cum consanguinei satis se diligunt pro augenda 
+      <lb ed="#P" n="79"/>amicitia in policia oportunum erat contrahere cum 
+      <lb ed="#P" n="80"/>aliis etiam fuisset confusio consanguineorum vt ide 
+      <lb ed="#P" n="81"/>esset auunculus et pater vt fertur de farolo magno 
+      <lb ed="#P" n="82"/>et rollando: moab ad filiam loth erat frater quia ex 
+      <lb ed="#P" n="83"/>eodem patre filius nepos et filius ipsi loth et hoc pa 
+      <lb ed="#P" n="84"/>tet secundum questionem carminis. Salue nepos 
+      <lb ed="#P" n="85"/>frater filio dixit sua mitur. Item esset excessiuus amor 
+      <lb ed="#P" n="86"/>vnitus scilicet per sanguinem et copulam.
+    </p>
+            <p xml:id="JM7jmZ-e00788-d1e198">
+      ¶ Con 
+      <lb ed="#P" n="87"/>tra hanc conclusionem argumentor: pauce sunt per 
+      <lb ed="#P" n="88"/>sone excepte leuitici decino octauo capite: ergo 
+      om<lb ed="#P" n="89" break="no"/>nes alie erant relicte idonee ad contrahendum ma 
+      <lb ed="#P" n="90"/>trimonium: ergo ecclesia non poterat illam 
+      mate<lb ed="#P" n="91" break="no"/>riam sacramentorum artare quia pari ratione 
+      po<lb ed="#P" n="92" break="no"/>test facere quod non sit consecratio in vino subrubeo 
+      <lb ed="#P" n="93"/>vel non sit baptismus in aqua puteali vel fontali. 
+      <lb ed="#P" n="94"/>Rursus iudei contrahunt in secundo gradu et in ter 
+      <lb ed="#P" n="95"/>tio in linea collaterali nec est dicendum quod in hoc pec 
+      <lb ed="#P" n="96"/>cant: patet de diuor. gaudemus. ergo christiani con 
+      <lb ed="#P" n="97"/>trahere possunt. Respondetur negando quod 
+      ponti<lb ed="#P" n="98" break="no"/>fex non potest inhabilitare bunc virum in ordine ad 
+      <lb ed="#P" n="99"/>hanc mulierem: et distingo quod materiam 
+      sacramen<lb ed="#P" n="100" break="no"/>talem restringere potest: vel dummodo illud depen 
+      <lb ed="#P" n="101"/>det ab vno contractu naturali antequam sacramentum con 
+      <lb ed="#P" n="102"/>pleatur et sic conceditur vt est in matrimonio in 
+      a<lb ed="#P" n="103" break="no"/>liis sacramentis a christo institutis non 
+      dependen<lb ed="#P" n="104" break="no"/>tibus ab vno contractu naturali non potest impedi 
+      <lb ed="#P" n="105"/>re quin homines sacramentum perficiunt licet 
+      in<lb ed="#P" n="106" break="no"/>terdum male agunt materia baptismi confirmationis 
+      <lb ed="#P" n="107"/>eucharistie sacerdotii extreme vnctionis non 
+      depen<lb ed="#P" n="108" break="no"/>dent ab vno contractu naturali: aliquis est 
+      sacer<lb ed="#P" n="109" break="no"/>dos in cunabulis vt communiter dicitur licet dissen 
+      <lb ed="#P" n="110"/>sus impedit ordies in adulto in sacramento peniten 
+      <lb ed="#P" n="111"/>tie potest subtrahere materiam vel quo ad hoc peccatum et si 
+      <lb ed="#P" n="112"/>panis triticeus fuerit subtractus consecrare ne  
+      <!--378.xml-->
+      <pb ed="#P" n="182-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>quit presbyter et illud est rationabile cum totum 
+      <lb ed="#P" n="2"/>corpus christi misticum a matrimonio dependeat 
+      <lb ed="#P" n="3"/>relicta est cura ecclesie de dispositione illius. Ad se 
+      <lb ed="#P" n="4"/>cundum conceditur antecedens ergo christiani consequentia est 
+      <lb ed="#P" n="5"/>nulla: nos illegittimat illos autem non secundum illud apostoli 
+      <lb ed="#P" n="6"/>prime corith. quinto. quid ad me de hiis que foris sunt 
+      </p>
+            <p xml:id="JM7jmZ-e00788-d1e277">
+               <lb ed="#P" n="7"/>¶ Sed contra illud argumentor: ducat isaac iude 
+      <lb ed="#P" n="8"/>annam iudeam in secundo gradu et conuertantur ad s 
+      <lb ed="#P" n="9"/>dem iam dabis duos christianos in secundo gradu 
+      consam<lb ed="#P" n="10" break="no"/>guineitatis coniunctos sine dispensatione. Rursus qui 
+      <lb ed="#P" n="11"/>libet non christianus rationis compos tenetur 
+      susci<lb ed="#P" n="12" break="no"/>pere legem christianam: ergo tenetur suscipere omne illud quod se 
+      <lb ed="#P" n="13"/>quitur ad legem christianam: sed talia statuta humana sei 
+      <lb ed="#P" n="14"/>quuntur ad legem christianam: igitur quicunque obliga 
+      <lb ed="#P" n="15"/>tur ad antecedens non deobligatur a consequente.
+    </p>
+            <p xml:id="JM7jmZ-e00788-d1e299">
+      ¶ 
+      Re<lb ed="#P" n="16" break="no"/>spondetur concedendo conclusionem quando illi contraxs 
+      <lb ed="#P" n="17"/>runt ane christiani nomins susceptionem: nec propterea da 
+      <lb ed="#P" n="18"/>tur occasio aliquibus non venire ad fidem vt habean 
+      <lb ed="#P" n="19"/>con sanguineas vxores.
+    </p>
+            <p xml:id="JM7jmZ-e00788-d1e310">
+      ¶ Ad confirmationem 
+      fate<lb ed="#P" n="20" break="no"/>or quilibet et c. tenetur suscipere legem christianam. E 
+      <lb ed="#P" n="21"/>distingo quod tenetur ad omne consequens ad legem chr 
+      <lb ed="#P" n="22"/>stianam vel ad omne illud quod sequitur in bona con 
+      <lb ed="#P" n="23"/>sequentia materiali vel formali et sic conceditur ve 
+      <lb ed="#P" n="24"/>ad illud quod est superadductum ab hominbus et sic non 
+      <lb ed="#P" n="25"/>oportet sicut sunt multe constitutiones. non tamen ne 
+      <lb ed="#P" n="26"/>go quin iudei pariter et machometiste obligantur sol 
+      <lb ed="#P" n="27"/>uere vectigalia principibus more christianorum et de 
+      <lb ed="#P" n="28"/>cimas tenentur seruare proximos indemnes in eorum 
+      <lb ed="#P" n="29"/>locis essent boni christiani: sed aliud est de iure diu 
+      <lb ed="#P" n="30"/>no quod eos obligat fi aliquis iudeus repudiauerit vxo 
+      <lb ed="#P" n="31"/>rem quam duxit in iudaismo et superinducat aliam 
+      <lb ed="#P" n="32"/>tebergam veniendo ad fidem cogetur capre priman 
+      <lb ed="#P" n="33"/>si ipsa redire voluerit nullatenus secunda est vxor eius 
+      <lb ed="#P" n="34"/>vel si habeat duas vel tres vxores more eorum cogetur 
+      <lb ed="#P" n="35"/>omnes relinquere preter primam. Et si ponas quod si 
+      <lb ed="#P" n="36"/>contraxit cum duabus vel tribus quarum quelibet 
+      <lb ed="#P" n="37"/>erat habilis tempore contractus seorsum nulla illarum est 
+      <lb ed="#P" n="38"/>ei vxor. Si ponas quod dicat iudeus copulatiue capio 
+      <lb ed="#P" n="39"/>te in vxorem te et te et vna respondeat et consentiat sed 
+      <lb ed="#P" n="40"/>la illa est vera vxor sed dices ergo mutuus clamor et 
+      <lb ed="#P" n="41"/>consensus non impedit quin aliqua earum est eius vxo 
+      <lb ed="#P" n="42"/>cum est mutuus consensus explicatus per verba quad 
+      <lb ed="#P" n="43"/>ad matrimonium sufficere videntur consequentia est nulla cum 
+      <lb ed="#P" n="44"/>equa sit ratio de omnibus nulla est eius vxor vi illius con 
+      <lb ed="#P" n="45"/>tractus. Ex isto sequitur quod quilibet infidelis 
+      dan<lb ed="#P" n="46" break="no"/>libellum repudii sue vxori et cognoscens aliam adui 
+      <lb ed="#P" n="47"/>teratur cum secunda secundo sequitur habens plures 
+      <lb ed="#P" n="48"/>successiue inductas cognoscendo secundam vel 
+      ter<lb ed="#P" n="49" break="no"/>tiam adulteratur non tamen oportet quod peccet pri 
+      <lb ed="#P" n="50"/>mam cognoscendo.
+    </p>
+            <p xml:id="JM7jmZ-e00788-d1e380">
+      ¶ Secundo principaliter 
+      ar<lb ed="#P" n="51" break="no"/>gumentor: nulli sunt consanguinei: ergo questio fa 
+      <lb ed="#P" n="52"/>sum supponit: antecedens patet: vel omnes qui descenderunt de 
+      <lb ed="#P" n="53"/>eodem patre vel matre sunt consanguinei. et si sic sum 
+      <lb ed="#P" n="54"/>consanguineus enoch et helve contra modum loquendi 
+      </p>
+            <p xml:id="JM7jmZ-e00788-d1e391">
+               <lb ed="#P" n="55"/>¶ Pro solutione argumenti pono duplicem modum opi 
+      <lb ed="#P" n="56"/>nandi: elige quem volueris: et quo ad priorem pono pro 
+      <lb ed="#P" n="57"/>positiones.
+    </p>
+            <p xml:id="JM7jmZ-e00788-d1e400">
+      ¶ Prima est: oportet ponere statum in aliqud 
+      <lb ed="#P" n="58"/>gradu in quo saluatur ratio consanguineitatis vltri 
+      <lb ed="#P" n="59"/>quem desinit esse consanguineitas.
+    </p>
+            <p xml:id="JM7jmZ-e00788-d1e408">
+      ¶ Secunda pro¬ 
+      <!--378.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="60"/>positio dabiles sunt duo consanguinei: et tamen filii 
+      <lb ed="#P" n="61"/>eorum vel filius vnius cum alio non est consanguineus 
+      <lb ed="#P" n="62"/>heec propositiones clarent.
+    </p>
+            <p xml:id="JM7jmZ-e00788-d1e421">
+      ¶ Tertia propositio con 
+      <lb ed="#P" n="63"/>sanguineitas insequitur ordinationem ecclesie sicut 
+      <lb ed="#P" n="64"/>solsequium solem: patet interdum transit in plures gradus 
+      <lb ed="#P" n="65"/>sicut ante innocentium tertium post suam 
+      constitu<lb ed="#P" n="66" break="no"/>tionem in pautiores rationabilius est ponere statum 
+      <lb ed="#P" n="67"/>in termino matrimonii quam in aliqua alia persona et cum ali 
+      <lb ed="#P" n="68"/>qui ponunt in linea recta esse statum sicut in collato 
+      <lb ed="#P" n="69"/>rali abauus meus est michi consanguineus proauus 
+      <lb ed="#P" n="70"/>auus et pater tritauus non est michi sanguine iunctus 
+      <lb ed="#P" n="71"/>habent dicere: sed rationabilior et communior est positio quan 
+      <lb ed="#P" n="72"/>insequor consanguineitas protenditur in linea recta 
+      <lb ed="#P" n="73"/>in abyssum. patet de nup. §. secundo. f. de ritu nup. l. nu 
+      <lb ed="#P" n="74"/>pte. quo fit si adam et enoch essent nullam mulierem pos 
+      <lb ed="#P" n="75"/>sunt habere in vxorem.
+    </p>
+            <p xml:id="JM7jmZ-e00788-d1e452">
+      ¶ Quarta propositio aliquis 
+      <lb ed="#P" n="76"/>est michi consanguineus an meridiem et post meridie 
+      <lb ed="#P" n="77"/>desinit michi esse consanguineus: et tamen tota die est: patet 
+      <lb ed="#P" n="78"/>si innocentius ponat statutum in meridie.
+    </p>
+            <p xml:id="JM7jmZ-e00788-d1e461">
+      ¶ 
+      Quin<lb ed="#P" n="79" break="no"/>ta propositio aliquis mulierem cognoscens an merid 
+      <lb ed="#P" n="80"/>em facit incestum: et tamen post meridiem illa cognoscens 
+      <lb ed="#P" n="81"/>non facit incestum. patet de illo qui cognoscit mulierem 
+      <lb ed="#P" n="82"/>ante meridiem vel post distantem in quinto ergodu consanguineita 
+      <lb ed="#P" n="83"/>tis.
+    </p>
+            <p xml:id="JM7jmZ-e00788-d1e474">
+      ¶ Sexta propositio stat aliquem esse heredem vni 
+      <lb ed="#P" n="84"/>qui non est consanguineus eius per legem comunem sine 
+      <lb ed="#P" n="85"/>adoptione vel alio contractu: patet inter tritauum 
+      <lb ed="#P" n="86"/>et vnum multum distantem.
+    </p>
+            <p xml:id="JM7jmZ-e00788-d1e483">
+      ¶ Septia propous: aliqui sunt 
+      <lb ed="#P" n="87"/>in gradu consanguineitatis quae non consanguinei. 
+      </p>
+            <p xml:id="JM7jmZ-e00788-d1e489">
+               <lb ed="#P" n="88"/>¶ Octaua propositio potest dici cum est 
+      dispensa<lb ed="#P" n="89" break="no"/>tio pro duobus in secundo gradu desinunt esse consan 
+      <lb ed="#P" n="90"/>guinei: sed illud non est valde rationabile prestat 
+      di<lb ed="#P" n="91" break="no"/>cere tales ante dispensationem et post sunt consangui 
+      <lb ed="#P" n="92"/>nei prohibiti contrahere per legem conunem sunt consam 
+      <lb ed="#P" n="93"/>guinei admissi per legem comunem non sunt consanguinei. se 
+      <lb ed="#P" n="94"/>cus est per dispensationem et si ecclesia tunc ordinaret quod 
+      <lb ed="#P" n="95"/>homines praesent contrahere in quarto per legem connem tmles 
+      <lb ed="#P" n="96"/>desinerent esse consanguinei. Sed dices tunc ante 
+      <lb ed="#P" n="97"/>omnem prohibitionem ecclesie stando in praecepto diuinc 
+      <lb ed="#P" n="98"/>nulli essent consanguinei in tertio gradu nec in secundo 
+      <lb ed="#P" n="99"/>gradu in linea collaterali et descendenti sed ista appa 
+      <lb ed="#P" n="100"/>rent in parte extranea. Dicas secundo et forte ratio 
+      <lb ed="#P" n="101"/>nabilius: consanguinei dicuntur illi supra nos quos 
+      <lb ed="#P" n="102"/>possumus probare eundo a parentibus immediate 
+      <lb ed="#P" n="103"/>eodemmodo in linea collaterali et descendente et 
+      <lb ed="#P" n="104"/>tunc reges qui deducunt genealogias a nembroth 
+      <lb ed="#P" n="105"/>vel ab alexandro sunt consanguinei.
+    </p>
+            <p xml:id="JM7jmZ-e00788-d1e531">
+      ¶ Tertio 
+      pri<lb ed="#P" n="106" break="no"/>cipaliter arguitur contra eandem conclusionem: tim 
+      <lb ed="#P" n="107"/>cius in quarto non potest ducere tebergam in quar 
+      <lb ed="#P" n="108"/>to vt patet ex dictis quia est gradus prohibitus: er 
+      <lb ed="#P" n="109"/>go sempronius in quinto non potest ducere bertam 
+      <lb ed="#P" n="110"/>in secundo gradu: consequens est falsum ergo et an 
+      <lb ed="#P" n="111"/>tecedens: falsitas consequentis patet ex dictis: es 
+      <lb ed="#P" n="112"/>probo consequentiam quia maiori vinculo constrin 
+      <lb ed="#P" n="113"/>guntur et sunt plus consanguineitate coniuncti in 
+      <lb ed="#P" n="114"/>secundo gradu primo vel quinto quam duo in quarto quia 
+      <lb ed="#P" n="115"/>ex vtraque parte si ille due linee simul adderentur quinque 
+      <lb ed="#P" n="116"/>et vnum facerent sex vel quinque et duo faciunt 
+      se<lb ed="#P" n="117" break="no"/>ptem quattuor et quattuor faciunt octo et hoc 
+      pa<lb ed="#P" n="118" break="no"/>tet in philosophia: si esset vnum lignum latum duo 
+      <!--379.xml-->
+      <pb ed="#P" n="182-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>bus pedibus et vna medietas haberet in longitudi 
+      <lb ed="#P" n="2"/>ne decem pedes / altera octo illud lignum non es 
+      <lb ed="#P" n="3"/>ita longum sicut latus longius puta decem pedum 
+      <lb ed="#P" n="4"/>eadem ratione esset ita breue sicut latus breuius opor 
+      <lb ed="#P" n="5"/>tet ergo reducere ad vniformitatem remouendo pe 
+      <lb ed="#P" n="6"/>dem ad vmaginationem a latere longiore et 
+      adde<lb ed="#P" n="7" break="no"/>re coste breuiori et sic totum esset longum nouem pe 
+      <lb ed="#P" n="8"/>dibus et per consequens non erat maius longum an 
+      <lb ed="#P" n="9"/>tea: ergo debemus tollere quintum gradum ad vma 
+      <lb ed="#P" n="10"/>ginationem et superaddere secundo gradui et tunc 
+      <lb ed="#P" n="11"/>erunt in tertio et in quarto et magis propinqui quam alii 
+      <lb ed="#P" n="12"/>illud potest colorari de qualitate difformi et de mo 
+      <lb ed="#P" n="13"/>bili cuius partes difformiter mouentur propter ar 
+      <lb ed="#P" n="14"/>gumentum probabile esset dicere nisi quia deterina 
+      <lb ed="#P" n="15"/>tio romani pontificis et loquentium in hac parte es 
+      <lb ed="#P" n="16"/>set ad oppositum quod argumentum persuaderet 
+      ra<lb ed="#P" n="17" break="no"/>tionabiliter quod quintus et primus essent in tertio gra 
+      <lb ed="#P" n="18"/>du copulatim remouendo ad intellectum duo a quin 
+      <lb ed="#P" n="19"/>que et addendo primo et exponere omnes decretales 
+      <lb ed="#P" n="20"/>epistolas oportet respicere ad remotiorem quando 
+      <lb ed="#P" n="21"/>vnus est in quarto et alter in quinto quia ibi poterat 
+      <lb ed="#P" n="22"/>esse dubitatio quid faciendum esset an esset quartus 
+      <lb ed="#P" n="23"/>gradus computandus vel quintus in aliis si esset in 
+      <lb ed="#P" n="24"/>gradibus equalibus et tunc res est clara vel in 
+      ine<lb ed="#P" n="25" break="no"/>qualibus et sic superaddere per calculationem vel 
+      <lb ed="#P" n="26"/>remouerem secundum quod gradus se offerrent sed te 
+      <lb ed="#P" n="27"/>neo oppositum: nolo opinatiue restringere materiam 
+      <lb ed="#P" n="28"/>Dico ad argumentum duo: primo oportet 
+      respice<lb ed="#P" n="29" break="no"/>re ad gradum remotiorem non habendo respectum 
+      <lb ed="#P" n="30"/>ad alium: et causa est. quia tediosum esset vulgaribus 
+      <lb ed="#P" n="31"/>sic calculare. Et fortassis romanus pontifex illam 
+      <lb ed="#P" n="32"/>calculationem euadere volens illud ordinauit. Se 
+      <lb ed="#P" n="33"/>cundo dico quod illud lignum cuius vna medietas est 
+      <lb ed="#P" n="34"/>longa decem pedibus et alia longa octo est tota 
+      ca<lb ed="#P" n="35" break="no"/>thegoce longa decem oportet respicere ad partem 
+      <lb ed="#P" n="36"/>longiorem: quia ab illa totam denominationem in 
+      <lb ed="#P" n="37"/>longitudine accipit et in latitudie duorum pedum et consequen 
+      <lb ed="#P" n="38"/>concedo quod si pars digitalis latitudinis esset longa decen 
+      <lb ed="#P" n="39"/>et totum residuum nisi vno pede totum est longum decen 
+      <lb ed="#P" n="40"/>pedibus et celum saturni ita velociter mouetur sicut 
+      <lb ed="#P" n="41"/>superficies conuexa eius: et nego quod oportet metiri 
+      <lb ed="#P" n="42"/>velocitatem motus penes punctum medium eius 
+      <lb ed="#P" n="43"/>diametri vsus obtinuit quod velocitas motus localis 
+      <lb ed="#P" n="44"/>mensuratur per punctum in eo velocissime motum cui ra 
+      <lb ed="#P" n="45"/>tio suffragatur sicut penes hominem mensuratur nobili 
+      <lb ed="#P" n="46"/>tas omnium animalium collectiue et si esset lignum decem pedum 
+      <lb ed="#P" n="47"/>cuius prima pedalitas est lata vno pede: et quelibet 
+      <lb ed="#P" n="48"/>alia pedalitas lata digitaliter totum lignum est la 
+      <lb ed="#P" n="49"/>tum pedaliter: et istud coloratur reducendo ad vni 
+      <lb ed="#P" n="50"/>formitatem dabitur linea nullius latitudinis de po 
+      <lb ed="#P" n="51"/>tentia dei absoluta quod non videtur admittendum: pa 
+      <lb ed="#P" n="52"/>tet signando vnam ligneam terminatam in porta san 
+      <lb ed="#P" n="53"/>cti victoris que protenditur in infinitum orientem 
+      <lb ed="#P" n="54"/>versus et pars interiecta inter romam et parisium sit 
+      <lb ed="#P" n="55"/>latitudine vnius leuce equalis pars extra romam 
+      <lb ed="#P" n="56"/>ephesum versus sit latitudinis subduple puta vni 
+      <lb ed="#P" n="57"/>miliaris et sic consequenter in infinitum decrescen 
+      <lb ed="#P" n="58"/>do geometrice. Si oportet reducere ad vniformita 
+      <lb ed="#P" n="59"/>tem quero quante latitudinis est hec linea si non eas 
+      <!--379.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="60"/>ad partem latissimam. si dicas nullius latitudinis est 
+      <lb ed="#P" n="61"/>linea data auferatur excessus latitudinis primi inter 
+      <lb ed="#P" n="62"/>ualli super secundum in prima parte proportionali ho 
+      <lb ed="#P" n="63"/>re future in secunda parte proportionali hore capiatur 
+      <lb ed="#P" n="64"/>excessus duorum interuallorum supra tertium: et sic per 
+      <lb ed="#P" n="65"/>omns partes proportionales hore future tunc linea 
+      <lb ed="#P" n="66"/>remanens erit alicuius latitudinis et magna 
+      latitu<lb ed="#P" n="67" break="no"/>do est ablata: ergo prius erat latior quam nunc. dicis 
+      ar<lb ed="#P" n="68" break="no"/>gumentum hoc est contra factorem querendo quanta est 
+      <lb ed="#P" n="69"/>latitudo in fine a me mea pro nunc non interest de ve 
+      <lb ed="#P" n="70"/>ritate illius dicti phisicalis sed impedire argumentum 
+      <lb ed="#P" n="71"/>quod nostro proposito obuiare videtur: sed in praesentiarum 
+      <lb ed="#P" n="72"/>hec missa faciamus. Petis an absolute duo 
+      quo<lb ed="#P" n="73" break="no"/>rum vnus est in quarto et alia in tertio sunt in 
+      quar<lb ed="#P" n="74" break="no"/>to gradu: dico perinde erit de eorum matrimonio ac 
+      <lb ed="#P" n="75"/>si essent in quarto: et sic debet regula intelligi de vir 
+      <lb ed="#P" n="76"/>tute sermonis sunt in tertio et quarto copulatim sed 
+      <lb ed="#P" n="77"/>reputantur in quarto et petenda est dispensatio pro 
+      <lb ed="#P" n="78"/>quarto.
+    </p>
+            <p xml:id="JM7jmZ-e00788-d1e742">
+      ¶ Quarto arguitur probando quod duo in 
+      <lb ed="#P" n="79"/>primo gradu possunt coniungi accipio rebeccam et 
+      <lb ed="#P" n="80"/>vsaac Arguitur sic ex dictis secundus gradus est 
+      <lb ed="#P" n="81"/>primus: ergo rebecca et vsaac erant in primo 
+      gra<lb ed="#P" n="82" break="no"/>du. quod probo: bene sequitur: vsaac erat in primo 
+      <lb ed="#P" n="83"/>gradu ad abraham / et rebecca ad bathuelem: ergo erant 
+      <lb ed="#P" n="84"/>in primo gradu: et eodemmodo arguam de rege et re 
+      <lb ed="#P" n="85"/>gina.
+    </p>
+            <p xml:id="JM7jmZ-e00788-d1e760">
+      ¶ Respondetur negando consequentiam in antedte est relatio 
+      <lb ed="#P" n="86"/>intrinseca in consequente extrinseca quemadmodum non sec 
+      <lb ed="#P" n="87"/>tur: cayn erat frater abelis / et isaac frater ismaelis: qrgo 
+      <lb ed="#P" n="88"/>saac et cayn erant fratres: in consequente denotatur quod erant 
+      <lb ed="#P" n="89"/>fratres inter se / in astecedente quod erant fratres ad ali 
+      <lb ed="#P" n="90"/>os: et hoc patet quando sequitur obliquus.
+    </p>
+            <p xml:id="JM7jmZ-e00788-d1e773">
+      ¶ Quinto ar 
+      <lb ed="#P" n="91"/>guitur: ticius in quarto gradu potest ducere bertam 
+      <lb ed="#P" n="92"/>in quinto: esto quod ex parte patris et matris 
+      descende<lb ed="#P" n="93" break="no"/>runt et maior est coniunctio sanguinis in eis in illo 
+      <lb ed="#P" n="94"/>gradu quam duorum in quarto gradu ex vna parte tantum puta 
+      <lb ed="#P" n="95"/>vel patris vel matris negatur minor ecclesia non curat 
+      <lb ed="#P" n="96"/>siue ex vna parte descendant vel duabus.
+    </p>
+            <p xml:id="JM7jmZ-e00788-d1e789">
+      ¶ 
+      Sex<lb ed="#P" n="97" break="no"/>to arguitur: sortes potest contrahere cum sorore sua 
+      <lb ed="#P" n="98"/>ergo male dictum est non dubitas consequentiam. probatur 
+      an<lb ed="#P" n="99" break="no"/>cedens: sortes et plato contrahunt cum sororibus su 
+      <lb ed="#P" n="100"/>is: posito quod sortes capiat sororem platonis et econuer 
+      <lb ed="#P" n="101"/>so.
+    </p>
+            <p xml:id="JM7jmZ-e00788-d1e803">
+      ¶ Respondetur sortes est frater berte / et plato 
+      <lb ed="#P" n="102"/>frater teberge: ergo sortes et plato sunt fratres ista 
+      <lb ed="#P" n="103"/>rum: eodemmodo berta et teberga sunt sorores istorum 
+      <lb ed="#P" n="104"/>cum vna est soror vnius et alia soror alterius. 
+      </p>
+            <p xml:id="JM7jmZ-e00788-d1e812">
+               <lb ed="#P" n="105"/>¶ Tertia propositio duo viri habent sorores suas 
+      <lb ed="#P" n="106"/>sine dispensatione in vxores.
+    </p>
+            <p xml:id="JM7jmZ-e00788-d1e819">
+      ¶ Quarta 
+      proposi<lb ed="#P" n="107" break="no"/>tio due mulieres habent fratres suos in legittimos 
+      <lb ed="#P" n="108"/>coniuges.
+    </p>
+            <p xml:id="JM7jmZ-e00788-d1e826">
+      ¶ Quinta propositio nulli licet in lege 
+      <lb ed="#P" n="109"/>gratie habere sororem eius in vxorem / nec cum 
+      di<lb ed="#P" n="110" break="no"/>spensatione / nec sine dispensatione loquor humana 
+      <lb ed="#P" n="111"/>hic ecclesia dispensare nequit: nunc sortes cognoscit 
+      <lb ed="#P" n="112"/>mulierem et generat mulierem occulte et non 
+      con<lb ed="#P" n="113" break="no"/>stat aliis: stat quod filius eius ducat illam: ergo tunc fra 
+      <lb ed="#P" n="114"/>ter habet sororem in coniugem: nego quod sit eius 
+      com<lb ed="#P" n="115" break="no"/>iunx: sed ignorantia inuincibilis eos excusat vel 
+      il<lb ed="#P" n="116" break="no"/>lum quem latet si solum alterum fugiat. 
+      </p>
+            <p xml:id="JM7jmZ-e00788-d1e846">
+               <lb ed="#P" n="117"/>¶ Septimo arguitur: thamar dixit suo fratri 
+      am<lb ed="#P" n="118" break="no"/>modo pete me a patre et dabit me tibi: ergo non est pro 
+      <!--380.xml-->
+      <pb ed="#P" n="183-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>hibitum iure diuino ducere sororem. 
+      Responde<lb ed="#P" n="2" break="no"/>tur quod thamar erat genita ex alio viro quam dauid. et sic 
+      <lb ed="#P" n="3"/>dauid non erat pater naturalis eius. secundo potest 
+      <lb ed="#P" n="4"/>dici quod in hoc thamar aberrauit. Dubitatur an papa 
+      <lb ed="#P" n="5"/>potest dispensare in omnibus gradibus prohibitis 
+      <lb ed="#P" n="6"/>contrahere. Respondetur: aliqui sunt gradus 
+      pro<lb ed="#P" n="7" break="no"/>hibiti a iure pure humano: et in talibus papa 
+      dispen<lb ed="#P" n="8" break="no"/>sare potest. Alii sunt gradus prohibiti iure nature 
+      <lb ed="#P" n="9"/>iure diuino et illi termini conuertuntur prohibitio 
+      <lb ed="#P" n="10"/>nulla est nunc in iure diuino alia a iure nature aliqua 
+      <lb ed="#P" n="11"/>persone prohibentur contrahere leuitici decimo oc 
+      <lb ed="#P" n="12"/>tauo capitulo: sed illa prohibitio nunc robur non 
+      ha<lb ed="#P" n="13" break="no"/>bet inquantum iudiciale vel cerimoniale sed 
+      quan<lb ed="#P" n="14" break="no"/>tum innititur iuri nature plerisque visum est quod 
+      om<lb ed="#P" n="15" break="no"/>nes persone que prohibentur leuitici decimo 
+      octa<lb ed="#P" n="16" break="no"/>uo que sunt duodecim prohibentur de iure nature 
+      <lb ed="#P" n="17"/>et per consequens papa non potest dispensare in gra 
+      <lb ed="#P" n="18"/>dibus ibi numeratis sed quia in iure nature sunt gra 
+      <lb ed="#P" n="19"/>dus et in eorum aliquibus certatur an sint de iure 
+      <lb ed="#P" n="20"/>nature inter doctos nec facile est descendere in 
+      ra<lb ed="#P" n="21" break="no"/>dicem difficultatis: propterea in hoc pullulant posi 
+      <lb ed="#P" n="22"/>tiones de linea recta superius dictum est probabili 
+      <lb ed="#P" n="23"/>or est sententia quod non potest papa ibi dispensare. et 
+      <lb ed="#P" n="24"/>si adam nunc esset vxorem nullam habere posset in 
+      <lb ed="#P" n="25"/>ter patrem et filiam est contra ius nature et magis 
+      <lb ed="#P" n="26"/>filii ad matrem: refert aristoteles octauo de anima. 
+      <lb ed="#P" n="27"/>quidam camelus ingeninatus qui matrem cognouit frau 
+      <lb ed="#P" n="28"/>de detecta occidit ingeniatorem et cum bruta hoc ab 
+      <lb ed="#P" n="29"/>horrebant hominibus illud abhorrere debere explo 
+      <lb ed="#P" n="30"/>ratum est: simiramis erat peior bruto et penas a 
+      fi<lb ed="#P" n="31" break="no"/>lio condignas pro scelere meruit iste persone prohi 
+      <lb ed="#P" n="32"/>bentur mater nouerca / soror siue ex parte patris / ma 
+      <lb ed="#P" n="33"/>tris / vel vtriusque neptis / amita vxor patrui qui est tibi 
+      <lb ed="#P" n="34"/>affinis nurus soror vxoris tue filia vxoris tue: probable 
+      <lb ed="#P" n="35"/>est pontificem posse dispensare cum vno viro qui 
+      succes<lb ed="#P" n="36" break="no"/>siue ducet duas vxores: sic fecit alexander sextus in 
+      <lb ed="#P" n="37"/>diebus istis cum rege lusitanie emanuele qui duas 
+      <lb ed="#P" n="38"/>filias ferdinandi regis aragonie duxit. Eodemmo 
+      <lb ed="#P" n="39"/>do videtur quod duo fratres possunt eandem mulieren 
+      <lb ed="#P" n="40"/>ducere successiue alter post mortem alterius: iohan 
+      <lb ed="#P" n="41"/>nes dicebat herodi: non licet tibi habere vxorem fra 
+      <lb ed="#P" n="42"/>tris tui fratre viuente dicit glosa interlinearis: et vs 
+      <lb ed="#P" n="43"/>detur equa ratio in istis duobus casibus: secundus 
+      <lb ed="#P" n="44"/>est licitus: ergo et primus: tu negas vtrunque licitum 
+      <lb ed="#P" n="45"/>patet genesis tricesimo octauo de thamar que 
+      ha<lb ed="#P" n="46" break="no"/>buit her primogenitum iude et postea onam: idem pa 
+      <lb ed="#P" n="47"/>tet deuteronomii vicesimo quinto: quando 
+      habita<lb ed="#P" n="48" break="no"/>uerint fratres simul et vnus ex eis absque liberis mor 
+      <lb ed="#P" n="49"/>tuus fuerit vxor defuncti non nubet alteri sed 
+      acci<lb ed="#P" n="50" break="no"/>piet eam frater eius et suscitabit semen fratris sui 
+      <lb ed="#P" n="51"/>etc. Rursus sara erat filia fratris abrahe scilicet aram 
+      <lb ed="#P" n="52"/>et iacob habuit duas sorores hec argumenta non con 
+      <lb ed="#P" n="53"/>cludunt: dicetur quod deus dispensabit cum patribus 
+      <lb ed="#P" n="54"/>sicut de vxorum pluralitate: similis casus erat in 
+      <lb ed="#P" n="55"/>diebus martini quinti et sapientibus congregatis 
+      <lb ed="#P" n="56"/>contrarie sapiebant sed propter scandalum quia iam 
+      <lb ed="#P" n="57"/>erat matrimonium admiserunt cum non sunt vrgen 
+      <lb ed="#P" n="58"/>tes rationes in oppositum et a summis pontificibus 
+      <lb ed="#P" n="59"/>est attentatum non est facile reprobandum nec quo 
+      <!--380.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="60"/>quam pacto nisi pro causis arduissimis admittendum 
+      <lb ed="#P" n="61"/>vt pro eomponenda pace inter castellanos et lusita 
+      <lb ed="#P" n="62"/>mos qui inter se crebro belligerabant vt inter 
+      vici<lb ed="#P" n="63" break="no"/>nos plerumque fit et vt vniti expeditius inuaderent 
+      <lb ed="#P" n="64"/>agarenos in africa. Ex quo sequitur quod pontifex po 
+      <lb ed="#P" n="65"/>test dispensare in secundo gradu in linea collaterali 
+      <lb ed="#P" n="66"/>et per consequens in tertio et in quarto patet. ille per 
+      <lb ed="#P" n="67"/>sone non reperiuntur prohibite leuitici decimo 
+      oc<lb ed="#P" n="68" break="no"/>tauo et omnes prohibende videntur ibi prohibite 
+      <lb ed="#P" n="69"/>vel saltem non constat tibi de opposito ius ciuile li 
+      <lb ed="#P" n="70"/>admittit sed illa probatio non est efficax tibi cum ius 
+      <lb ed="#P" n="71"/>ciuile interdum obuiat iuri diuino et iuri nature vt 
+      <lb ed="#P" n="72"/>de concubinatu sufficit non constat tibi de opposito 
+      <lb ed="#P" n="73"/>patet: potest dispensare cum duobus in linea descen 
+      <lb ed="#P" n="74"/>denti vt inter filium iacob et filiam esau non tamen 
+      <lb ed="#P" n="75"/>quod manasses haberet dinam amita et matertera 
+      lo<lb ed="#P" n="76" break="no"/>co matris habentur etiam citius potest esse dispeu 
+      <lb ed="#P" n="77"/>satio quod esau habeat dinam quam manasses eam habeat li 
+      <lb ed="#P" n="78"/>cet sit idem gradus: mulier est subiecta viro: ergo 
+      <lb ed="#P" n="79"/>non debet esse in linea ascendente et mas in descen 
+      <lb ed="#P" n="80"/>dente. othouiel habuit axam filiam fratris sui: iudicum 
+      <lb ed="#P" n="81"/>primo.
+    </p>
+            <p xml:id="JM7jmZ-e00788-d1e1039">
+      ¶ Dubitatur an prescriptio locum habeat 
+      <lb ed="#P" n="82"/>in matrimonio dicitur quod non prescriptio datius ex 
+      <lb ed="#P" n="83"/>constitutione hominum et secundum eorum 
+      inten<lb ed="#P" n="84" break="no"/>tum ius redet: modo casus matrimonialis 
+      exemi<lb ed="#P" n="85" break="no"/>tur a prescriptione. patet de consang. et affi. 
+      capi<lb ed="#P" n="86" break="no"/>tulo. non debet.
+    </p>
+            <p xml:id="JM7jmZ-e00788-d1e1053">
+      ¶ Dubitatur secundo: berta est co 
+      <lb ed="#P" n="87"/>gnita a sorte: postea ipsa contrahit matrimonium 
+      <lb ed="#P" n="88"/>cum platone fratre sortis iuris ignara vel aliter ex 
+      <lb ed="#P" n="89"/>malicia ipsa ad cor rediens confitetur peccatum ci 
+      <lb ed="#P" n="90"/>ceroni curato eius an berta tenetur reddere debitum 
+      <lb ed="#P" n="91"/>platoni vel prodere suum peccatum occultum. Re 
+      <lb ed="#P" n="92"/>spondetur non est verisimile quod secum 
+      dispensabi<lb ed="#P" n="93" break="no"/>tur cum principibus pro pace communi illud reuo 
+      <lb ed="#P" n="94"/>catur in dubium an papa possit: dicitur quod non 
+      de<lb ed="#P" n="95" break="no"/>bet reddere debitum scit alium non esse virum eius 
+      <lb ed="#P" n="96"/>fingat aliquod incompossibile reddendi debiti ipsa 
+      <lb ed="#P" n="97"/>non habebit aliam pacem quousque casum officiali 
+      <lb ed="#P" n="98"/>et viris grauibus et secretis ostendat cogetur redi 
+      <lb ed="#P" n="99"/>re ad virum nisi excipiat per affinitatem. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

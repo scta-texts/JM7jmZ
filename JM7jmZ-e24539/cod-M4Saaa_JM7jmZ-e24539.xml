@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 2</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 2</title>
+               <date when="2021-07-06">July 06, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-M4Saaa">Paris 1509</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-06" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="224-r"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="JM7jmZ-e24539"><!-- l4d50q2 -->
+            <head xml:id="JM7jmZ-e24539-Hd1e108">Quaestio 2</head>
+            <head xml:id="JM7jmZ-e24539-Hd1e111" type="question-title">
+      An damnati possunt
+      velle aliquem
+      actum bonum
+    </head>
+            <p xml:id="JM7jmZ-e24539-d1e114">
+               <lb ed="#P" n="21"/>¶ Distinctionis quinquagesime quaestio secunda. 
+      <lb ed="#P" n="22"/>CIrca hanc distinctionem quinquagesimam et 
+      fi<lb ed="#P" n="23" break="no"/>nalem queritur secundo an dannati possunt 
+      vel<lb ed="#P" n="24" break="no"/>le aliquem actum bonum non intendimus 
+      inquire<lb ed="#P" n="25" break="no"/>re de bonitate entis nec de bono meritorio illa duo 
+      <lb ed="#P" n="26"/>menbra sunt lucida quod primam bonitatem habere possunt 
+      <lb ed="#P" n="27"/>et non posteriorem cum finaliter sunt sine gratia si 
+      er<lb ed="#P" n="28" break="no"/>go questio debet esse ambigua sicut debet ex sua ra 
+      <lb ed="#P" n="29"/>tione esse omnis quaestio debet intelligi de bonitate morali et 
+      <lb ed="#P" n="30"/>super hoc partita est positio vna tenens eos nullum actum 
+      <lb ed="#P" n="31"/>bonum habere posse. secundum illud Esaie. xiiii. surrexerunt. 
+      <lb ed="#P" n="32"/>de soliis suis dicit glosa. Solatium est dannatis socios 
+      <lb ed="#P" n="33"/>habere sue miserie. et Ezechiel. xxxii. de nuptiis 
+      di<lb ed="#P" n="34" break="no"/>citur quod cum armis suis ad inferna descenderunt more 
+      <lb ed="#P" n="35"/>vehementer inuidorum in hac via. Item ex mala volum 
+      <lb ed="#P" n="36"/>tate non potest exire nisi malus actus sed dannati 
+      ca<lb ed="#P" n="37" break="no"/>rere non possunt mala voluntate ergo omnes eorum 
+      <lb ed="#P" n="38"/>actus sunt mali: heec rationes non concludunt ex dua 
+      <lb ed="#P" n="39"/>bus primis auctoritatibus non concluditur illa 
+      nega<lb ed="#P" n="40" break="no"/>tiua non possunt aliquem actum habere moraliter bonum 
+      <lb ed="#P" n="41"/>de inuidia restat probare quod in quolibet actu inuideant 
+      <lb ed="#P" n="42"/>quem eliciunt. ad vltimum dicitur ex mala voluntate inquam 
+      <lb ed="#P" n="43"/>huiusmoni prodit actus malus alias existens in mortali 
+      <lb ed="#P" n="44"/>peccato in via nullum actum moraliter bonum habere 
+      <lb ed="#P" n="45"/>potest quod est falsum.
+    </p>
+            <p xml:id="JM7jmZ-e24539-d1e171">
+      ¶ Contra hanc posionem 
+      argu<lb ed="#P" n="46" break="no"/>mentor diues epulo luce. xvi. voluit habere fratres 
+      <lb ed="#P" n="47"/>suos liberatos et ille actus est bonus: igitur. consequen 
+      <lb ed="#P" n="48"/>tia lucet cum maiore probatur minor illud erat bonum 
+      <lb ed="#P" n="49"/>reddere eos certioratos ne peccarent et descenderent 
+      <lb ed="#P" n="50"/>ad inferos. dices hoc non erat cum omnibus 
+      circustan<lb ed="#P" n="51" break="no"/>tiis debitis volebant illud non ratione honesti sed sim 
+      <lb ed="#P" n="52"/>pliciter volebant omnes esse dannatos sed si aliqui debeant 
+      <lb ed="#P" n="53"/>non dannari malunt illud accidere suis consanguineis 
+      <lb ed="#P" n="54"/>quam aliis. contra ibi sunt multi actus quorum vnus est bo 
+      <lb ed="#P" n="55"/>nus scilicet nolle fratres esse dannatos propterea diues 
+      <lb ed="#P" n="56"/>epulo rogabat abraham mittere lazarum ad fratres 
+      in<lb ed="#P" n="57" break="no"/>quiens: rogo ergote pater vt mittas eum in domo pa 
+      <!--462.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="58"/>tris mei habeo enim quinque fratres vt testetur illis ne et 
+      <lb ed="#P" n="59"/>ipsi veniant iu hunc locum tormentorum. dicis hoc 
+      vole<lb ed="#P" n="60" break="no"/>bat diues epulo ratione commodi propri ne ipse esset 
+      <lb ed="#P" n="61"/>magis cruciatus noua pena accidentaria quia forte 
+      <lb ed="#P" n="62"/>erat eis occasio peccati. contra hoc totum adhuc est bonum 
+      <lb ed="#P" n="63"/>et non inficiat actum. Preterea potest velle actum bonum 
+      ex<lb ed="#P" n="64" break="no"/>genere cum duabus bonis circunstantiis et non est neces 
+      <lb ed="#P" n="65"/>se induere tertiam circunstantiam vel quartam malam. dicis 
+      <lb ed="#P" n="66"/>non esse simpliciter dannato necessarium sed si actum illum 
+      <lb ed="#P" n="67"/>eliciat oportet vnam circunstantiam esse malam. secus est 
+      <lb ed="#P" n="68"/>quando est malum ex gstone magister tenet in litera quod non possunt 
+      <lb ed="#P" n="69"/>habere actum bonum sed hoc non sufficienter concludit cum 
+      <lb ed="#P" n="70"/>magister in multis relinquatur.
+    </p>
+            <p xml:id="JM7jmZ-e24539-d1e232">
+      ¶ Tertio argumen 
+      <lb ed="#P" n="71"/>tor nec ratione potest ostendi omnes actus dannatorum 
+      <lb ed="#P" n="72"/>esse malos moraliter nec ex scriptura ergo illud non 
+      <lb ed="#P" n="73"/>est asserendum longe videtur alienum a mina dei attribue 
+      <lb ed="#P" n="74"/>re dannatis plura quam possumus ostendere ex eorum peccat 
+      <lb ed="#P" n="75"/>propterea nisi aliunde doceatur. Respondetur affirmatiue ad 
+      <lb ed="#P" n="76"/>titulum questionis cum hoc concedo istas propositiones 
+      <lb ed="#P" n="77"/>semper sunt in actibus malis nec situm est in eorum 
+      faculta<lb ed="#P" n="78" break="no"/>te posse a se separare omnes actus malos quia tunc eorum 
+      pe<lb ed="#P" n="79" break="no"/>nas circunscriberent quod est hereticum communiter habent mul 
+      <lb ed="#P" n="80"/>tos alios actus malos ab eorum penis essentialibus 
+      si<lb ed="#P" n="81" break="no"/>cut contingit de obstinatis sed non est necesse de lege 
+      <lb ed="#P" n="82"/>omnes eorum actus esse moraliter malos.
+    </p>
+            <p xml:id="JM7jmZ-e24539-d1e262">
+      ¶ Sed contra 
+      <lb ed="#P" n="83"/>stud argumentor nemo potest habere actum moralitur 
+      bo<lb ed="#P" n="84" break="no"/>num sine auxilio spstantali dei sed demonibus et dannatis perdi 
+      <lb ed="#P" n="85"/>tissimis hominbus non datur auxilium speciale dei: igitur 
+      <lb ed="#P" n="86"/>Respondetur a mltis negatur suffragium speciale dei ad  
+      <lb ed="#P" n="87"/>actus moraliter bonos sed illo admisso non est opus 
+      <lb ed="#P" n="88"/>negare speciale auxilium dei a dannatis quo ad actus 
+      <lb ed="#P" n="89"/>moraliter bonos sicut in via solem suum oriri facit super 
+      <lb ed="#P" n="90"/>bonos et malos et multis gentilibus dannatis dedit mo 
+      <lb ed="#P" n="91"/>tiones speciales ad bonum. at dicis hac via damanati 
+      <lb ed="#P" n="92"/>possunt detestari sua peccata propter deum et tandem libera 
+      <lb ed="#P" n="93"/>buntur ab omni pena. dico illationem nullam non oporter 
+      <lb ed="#P" n="94"/>si aliquos actus moraliter bonos elicere possunt quod 
+      <lb ed="#P" n="95"/>omnes elicere valeant. secundo deus ad tales actus non 
+      com<lb ed="#P" n="96" break="no"/>curret. tertio quando tules actus haberent non sequitur quod ha 
+      <lb ed="#P" n="97"/>berent gratram vel remouerent omnem cruciatum sunt nunc in tmmi 
+      <lb ed="#P" n="98"/>no in quo non est locus penitentie. Sed dicis beati non 
+      <lb ed="#P" n="99"/>possunt babere actus malos de lege ergo neque dannati 
+      <lb ed="#P" n="100"/>possunt habere actus bonos. concedo antecedens beatus ha 
+      <lb ed="#P" n="101"/>bet quicquid vult et nichil mali vult et nego consequentiam vt 
+      <lb ed="#P" n="102"/>patet ex dictis non sto semper de vertute fmonis sed solum lo 
+      <lb ed="#P" n="103"/>quor vt plures alioquin iste propositiones essent concedem 
+      <lb ed="#P" n="104"/>de beatus potest habere actus malos dannatus potest habere 
+      <lb ed="#P" n="105"/>actus meritorios beatus manens beatus potest habere actus 
+      <lb ed="#P" n="106"/>malos identidem de dannato manente damnato in sensu 
+      di<lb ed="#P" n="107" break="no"/>uiso.
+    </p>
+            <p xml:id="JM7jmZ-e24539-d1e319">
+      ¶ Hubitatur hic an dannatus mauult non esse quam 
+      per<lb ed="#P" n="108" break="no"/>petuo cruciari et queritur quod eorum est eligibilius non esse 
+      <lb ed="#P" n="109"/>vel esse et dannari. Secundo dubitatur an beati compatiantur penis 
+      <lb ed="#P" n="110"/>dannatorum vel in eis complaceant. dicitur cruciari et puniri 
+      <lb ed="#P" n="111"/>est praeacceptandum annichilationi secundum rationem rectam 
+      iu<lb ed="#P" n="112" break="no"/>stum est puniri et cruciari pro culpa secundum ordiationem 
+      di<lb ed="#P" n="113" break="no"/>uinam velle non esse est peccatum si compares non esse ad  
+      <lb ed="#P" n="114"/>culpam neutrum est eligendum sed fugiendum et semper ma 
+      <lb ed="#P" n="115"/>lus malum est magis fugiendum potest esse simo de aliquo 
+      <lb ed="#P" n="116"/>peccato quod minus esset fugiendum quam non esse et de aliquo quod 
+      <!--463.xml-->
+      <pb ed="#P" n="224-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>esset magis fugiendum sed si daretur optio dannato de non 
+      <lb ed="#P" n="2"/>esse vel esse perpetuo in flamma sicut est reor quod protinus 
+      <lb ed="#P" n="3"/>eligeret non esse probatio. math. xxvi. de iuda loquens 
+      <lb ed="#P" n="4"/>saluator dicit bonum est illi si natus non fuisset quod sentit 
+      <lb ed="#P" n="5"/>hieronimus super simili vebo. marci. x. melius est enim non 
+      <lb ed="#P" n="6"/>esse quam ad tormenta esse. dicis melius est illi si non 
+      fuis<lb ed="#P" n="7" break="no"/>set natus extra vterum vel si non fuisset natus et vocatus ad. 
+      <lb ed="#P" n="8"/>apulatum sicut glo. marginalis. mathei. xxvi. 
+      sona<lb ed="#P" n="9" break="no"/>re videtur quamuis hoc sit verum opinor sicut littera 
+      so<lb ed="#P" n="10" break="no"/>nat et id idem quemlibet in se experiri opinor plerique credem 
+      <lb ed="#P" n="11"/>tes non esse post hanc vitam sese interemerunt. si dicas 
+      <lb ed="#P" n="12"/>hoc esse contra beatum augustinum. iii. de libero arbitrio 
+      <lb ed="#P" n="13"/>negatur disputatiue ibi procedit in principio sed conclude 
+      <lb ed="#P" n="14"/>re videtur quod non esse non est eligibile simpliciter et secundum se 
+      <lb ed="#P" n="15"/>bene tamen ad fugiendum aliud sicut nemo eligit ferre 
+      gros<lb ed="#P" n="16" break="no"/>sas petras toto die simpliciter sed bene vt capiat quique 
+      <lb ed="#P" n="17"/>duodenos more ariii. ix. ethicorum. ix. cap. esse et 
+      vi<lb ed="#P" n="18" break="no"/>uere et huiusmoni secundum se sunt diligibila dicit antiqua 
+      <lb ed="#P" n="19"/>translatio viuere autem eorum quae secundum seipieum bonorum et de 
+      <lb ed="#P" n="20"/>lectabilium determinatum aut determinant enim eius que 
+      <lb ed="#P" n="21"/>bone nature natura autem bonum et epichei bonum propter 
+      <lb ed="#P" n="22"/>quod videbitur omnibus delectabile esse: sed postea subiungens 
+      <lb ed="#P" n="23"/>se non intelligere de hiis qui vitam calamitosam et in erum 
+      <lb ed="#P" n="24"/>nis constitutam degunt inquit non oportet autem accipere 
+      <lb ed="#P" n="25"/>malam vitam et corruptam neque in tristiciis et argiropilus 
+      <lb ed="#P" n="26"/>non oportet autem vitam sumere prauam atque corruptam 
+      <lb ed="#P" n="27"/>neque in doloribus constitutam indefinita namque est talis quem 
+      <lb ed="#P" n="28"/>admodum ea quae insunt ipsi si ponas quem corrumpi per partes 
+      <lb ed="#P" n="29"/>proportionales successiue ita quod quolibet die auferatur 
+      <lb ed="#P" n="30"/>vna pars proportionalis ita quod deus vitam conseruet in 
+      <lb ed="#P" n="31"/>reliquis iam talis numquam desinit esse nec est ad propositum 
+      <lb ed="#P" n="32"/>Ad secundam dubitationem in qua dubitabatur an beati con 
+      <lb ed="#P" n="33"/>doleant penis dannatorum. respondetur explicando vnum quod 
+      <lb ed="#P" n="34"/>supponitur scilicet quod beati cognoscant penas dannatorum quod po 
+      <lb ed="#P" n="35"/>test esse mltiphariam in primis de hiis quos nouerunt 
+      <lb ed="#P" n="36"/>quos non vident incelis nouerunt esse dannatos potest eis 
+      <lb ed="#P" n="37"/>esse etiam relatum. Tertio possunt hoc videre oculos 
+      <lb ed="#P" n="38"/>corporis et mentis habent optime dispositos possunt 
+      <!--463.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="39"/>mouere vel mutare se vbilibet successiue vel 
+      instanta<lb ed="#P" n="40" break="no"/>nee vt in distinctione praecedenti dictum est quid obstat quod pe 
+      <lb ed="#P" n="41"/>nas dannatorum intueantur nichil perfectionis 
+      subtrahen<lb ed="#P" n="42" break="no"/>dum est a beatis quod conducit ad laudem dei sed beatis non no 
+      <lb ed="#P" n="43"/>cet cognoscere perfecte penas damnatorum ex hoc magi 
+      <lb ed="#P" n="44"/>suam beatitudinem diligunt et deum glorificant qui eos a penis 
+      <lb ed="#P" n="45"/>tlibus praeseruauit. secundum illud apocalip. xxii. iustus 
+      iusti<lb ed="#P" n="46" break="no"/>ficetur adhuc isto praelibato dicitur beati non compatiuntur pe 
+      <lb ed="#P" n="47"/>nis dannatorum. patet. vel est compassio dicta secundum passionem est 
+      <lb ed="#P" n="48"/>motus appetitus sensitiui praeueniens rationem per quam quis 
+      <lb ed="#P" n="49"/>condolet alteri quasi simul dolens cum illo passio secundum 
+      ele<lb ed="#P" n="50" break="no"/>ctionem dicta est actus voluntatis rationem sequens per quem 
+      <lb ed="#P" n="51"/>quis vult alterius miserie succurrere tollendo illud quod 
+      <lb ed="#P" n="52"/>miseriam infert neutra istarum compassionum est in beatis ap 
+      <lb ed="#P" n="53"/>petitus sensitiuus est plene subiectus rationi si ita erat 
+      <lb ed="#P" n="54"/>in statu innocentie a fortiore ita erit in statu glorie nec con 
+      <lb ed="#P" n="55"/>patiuntur passione secundum electionem quia huicumodo solum 
+      compa<lb ed="#P" n="56" break="no"/>timur illis quorum malum repellere volumus modo beati 
+      <lb ed="#P" n="57"/>nolunt repellere cruciatus damnatorum placent 
+      <lb ed="#P" n="58"/>beatis non placent beatis pene damnatorum 
+      ra<lb ed="#P" n="59" break="no"/>tione vindicte sed diuine iusticie quam vident in 
+      <lb ed="#P" n="60"/>eis impleri. secund illud psalmi. letabitur iustus cum 
+      <lb ed="#P" n="61"/>viderit vindictam manus suas lauabit in sanguine peccatorm 
+      <lb ed="#P" n="62"/>psal. lvii. dannati circa suos cruciatus intenti parum de 
+      <lb ed="#P" n="63"/>statu beatorum vel quorumcumque aliorum suis penis 
+      impartinen<lb ed="#P" n="64" break="no"/>tium vacabunt: a quorum erumnoso statu nos preseruet 
+      <lb ed="#P" n="65"/>qui viuit vnus in essentia et trinus in persona: reliquum 
+      <lb ed="#P" n="66"/>est aliquibus versiculis prout poterimus balbutien 
+      <lb ed="#P" n="67"/>do finem imponere oneris instituti. 
+      </p>
+            <p xml:id="JM7jmZ-e24539-d1e497">
+               <lb ed="#P" n="68"/>¶ Finis. 
+      </p>
+            <!--<p>
+      <lb ed="#P" n="69"/>¶ Tendimus in portum pereat ne nauis in vndis 
+      <lb ed="#P" n="70"/>Iamiam collisa est scopulis compagine rupta: 
+      <lb ed="#P" n="71"/>Sed precor o lector veniam impartire nequibam 
+      <lb ed="#P" n="72"/>Singula cribrare cum tempore multa conegi. 
+      </p>
+    <p>
+      <lb ed="#P" n="73"/>¶ Hoc opus in lucem missum est: dum sceptra teneret 
+      <lb ed="#P" n="74"/>Magnanimus quartus scotorum rex Iacobus¬ 
+      <!-\-463.xml-\->
+      <pb ed="#P" n="463"/>
+      <cb ed="#P" n="c"/>
+      </p>
+    <p>
+      <lb ed="#P" n="75"/>¶ Impressum atque exaratum est hoc opua 
+      <lb ed="#P" n="76"/>Parrhisiis perme Philippum 
+      Pi<lb ed="#P" n="77" break="no"/>gouchet: commorantem in vico 
+      cy<lb ed="#P" n="78" break="no"/>thare Anno domini millesimo 
+      <lb ed="#P" n="79"/>quingentesimo nono: die 
+      <lb ed="#P" n="80"/>penultima mensis 
+      <lb ed="#P" n="81"/>Iunii. 
+      <!-\-464.xml-\->
+      <pb ed="#P" n="464"/>
+      <cb ed="#P" n=""/>
+      </p>
+    <p>
+      <lb ed="#P" n="1"/>¶ Dauid crenston in sacra pagina bacchalarius 
+      <lb ed="#P" n="2"/>ad lectores. 
+      <lb ed="#P" n="3"/>yra  si diis parentibus preceptoribusque / vt ille nature prodigium aristoteles testatur) 
+      equi<lb ed="#P" n="4" break="no"/>ualens reddere valemus minime. Id tamen equum ducere non dubitaui: si 
+      aliquan<lb ed="#P" n="5" break="no"/> tulum benefaciendi occasio olim oblata foret / pro virium tenuitate meo preceptori ob 
+      <lb ed="#P" n="6"/>sequium prestare valerem. Cum igitur michi preclarum elaboratumque opus in quartum 
+      sen<lb ed="#P" n="7" break="no"/>tentiarum ingeniosissimi preceptoris mei de me apprime meriti ac conterranei magistri nostri 
+      <lb ed="#P" n="8"/>Maioris / sub cuius vexillo primis pueritie stipendiis merui in manus deuenerit nostras: quo 
+      <lb ed="#P" n="9"/>profecto nunc practice modo speculatiue sententiam examinatam septuplo probatam 
+      purga<lb ed="#P" n="10" break="no"/>tamquem singulis super materiis eiusdem quarti depromptam curauit: quo nulla alter me 
+      ingra<lb ed="#P" n="11" break="no"/>titudine accusare valeret: pro virili mea lectoris manuductioni consulens tabulam alphabetico 
+      <lb ed="#P" n="12"/>ordine contextam putassem adiici / si temporis angustia regentie prouincia (qua profecto pluri 
+      <lb ed="#P" n="13"/>mum distrahor) viriumque debilitas non a voto animum cohibuissent. Verum id partim consul 
+      <lb ed="#P" n="14"/>to faciundum censui: si non quod necessitas exigit tamen quod administrant vires exequi 
+      cu<lb ed="#P" n="15" break="no"/>pierim. quoniam librum raptim lectitando non ad amussim castigatum ab omnique erroris labe 
+      ex<lb ed="#P" n="16" break="no"/>purgatum comperii / nouam castigationem expectantes temporis habita ratione alium 
+      indi<lb ed="#P" n="17" break="no"/>cem paulo strictiorem / distinctiones / questionesque certo tenore enucleantem / adiiciendum cura 
+      <lb ed="#P" n="18"/>uimus. qui nempe lectoris directioni conducere poterit: cum singulis in questionibus 
+      docto<lb ed="#P" n="19" break="no"/>ris resolutionem sub paucis detegere non neglexerimus: folium columnamquem certis 
+      quota<lb ed="#P" n="20" break="no"/>tionibus assignare studuimus. haud secus nostrum dirigere processum valuimus vbi 
+      calcho<lb ed="#P" n="21" break="no"/>graphorum incuria alphabeticos caracteres (qui ceterorum librorum marginibus et. §. 
+      exor<lb ed="#P" n="22" break="no"/>diis adiungi solent) iniectos inuenimus minime. Proinde alphabeticam tabulam libro 
+      paulo<lb ed="#P" n="23" break="no"/>minus fuisse aptam ambigit nemo. Attamen secundum virium oportunitatem castigationi 
+      <lb ed="#P" n="24"/>operam dantes necessarium quid (annuentibus superis) imposterum omittemus nusquam. Hanc 
+      <lb ed="#P" n="25"/>ergo tantarum rerum copiositas cui minus nostre sufficiunt vires exigit opellam. Quod si mi 
+      <lb ed="#P" n="26"/>nus digestum exactum ve quid notauerimus benignus lector. lectori veniam dabit. 
+      </p>-->
+         </div>
+      </body>
+   </text>
+</TEI>

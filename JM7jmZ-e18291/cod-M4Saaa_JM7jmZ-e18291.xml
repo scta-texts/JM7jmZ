@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 7</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 7</title>
+               <date when="2021-07-06">July 06, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-M4Saaa">Paris 1509</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-06" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="212-v"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="JM7jmZ-e18291"><!-- l4d49q7 -->
+            <head xml:id="JM7jmZ-e18291-Hd1e108">Quaestio 7</head>
+            <head xml:id="JM7jmZ-e18291-Hd1e111" type="question-title">
+      Per quid corpora
+      beatorum erunt
+      impassibilia, hoc est
+      quaerere essentiam
+      dotis impassibilitatis
+    </head>
+            <p xml:id="JM7jmZ-e18291-d1e114">
+               <lb ed="#P" n="108"/>¶ Distinctionis quadragesime none questio septima. 
+      <lb ed="#P" n="109"/> Anc septimo de quattuor dotibus 
+      lo<lb ed="#P" n="110" break="no"/>quam quendum est scilicet de dote impassibili 
+      <lb ed="#P" n="111"/>nitatis / agilitatis / subtilitatis / et claritatis 
+      <lb ed="#P" n="112"/>cllque tanguntur ab apostolo <ref xml:id="JM7jmZ-e18291-Rd1e127">prime corin¬ 
+      <!--440.xml-->
+      <pb ed="#P" n="213-r"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1" break="no"/>thiorum decimo quinto</ref> seminatur inquit in 
+      corru<lb ed="#P" n="2" break="no"/>ptione surget in incorruptione seminatur in 
+      igno<lb ed="#P" n="3" break="no"/>bilitate surget in gloria seminatur in infirmitate suf 
+      <lb ed="#P" n="4"/>get in virtute seminatur corpus animale resurget 
+      <lb ed="#P" n="5"/>corpus spirituale ita vt surgere in incorruptionen 
+      <lb ed="#P" n="6"/>referatur ad impassibilitatem surgere in gloria ac 
+      <lb ed="#P" n="7"/>claritatem surgere in virtute ad subtilitatem surgi 
+      <lb ed="#P" n="8"/>re spirituale ad agilitatem: iuxta illud decimo sexto 
+      <lb ed="#P" n="9"/>de ciuitate capitulo vicesimo septimo: imperabit 
+      <lb ed="#P" n="10"/>deus animo animus corpori tanquam obedienti ibi erit 
+      <lb ed="#P" n="11"/>suauitas et facilitas quanta regnandi viuendique 
+      fa<lb ed="#P" n="12" break="no"/>cilitas erit. necessarium erat ad complementum bea 
+      <lb ed="#P" n="13"/>atitudinis has habere dotes non quod sic necessitas 
+      <lb ed="#P" n="14"/>simpliciter dicta. dubitaret aliquis quomodo 
+      cor<lb ed="#P" n="15" break="no"/>pus compositum ex contrariis perpetuo durares 
+      <lb ed="#P" n="16"/>ab intrinseco et extrinseco et quomodo corpus po 
+      <lb ed="#P" n="17"/>test esse cum celo imperio: et an tarde ibi corpora mo 
+      <lb ed="#P" n="18"/>ueantur sicut hic et an sint terrestria: propterea po 
+      <lb ed="#P" n="19"/>nuntur quattuor dotes inane est ponere tentionem 
+      <lb ed="#P" n="20"/>vnam dotem sicut multi antiquorum posuerunt lo 
+      <lb ed="#P" n="21"/>quendo in particulari de dotibus quero per quid cor 
+      <lb ed="#P" n="22"/>pora beatorum erunt impassibilia hoc est querere 
+      <lb ed="#P" n="23"/>essentiam dotis impassibilitatis.
+    </p>
+            <p xml:id="JM7jmZ-e18291-d1e186">
+      ¶ Circa titulun 
+      <lb ed="#P" n="24"/>questionis duas positiones reperio: vna tenet quod es 
+      <lb ed="#P" n="25"/>quedam qualitas fluens a beatitudine anime in 
+      ip<lb ed="#P" n="26" break="no"/>sum corpus reddens corpus impassibile. alia 
+      posi<lb ed="#P" n="27" break="no"/>tio nullam talem qualitatem ponit cui adhereo in 
+      <lb ed="#P" n="28"/>primis non est facile captu quomodo vna qualitas 
+      <lb ed="#P" n="29"/>frigori calori et omnium corruptiuo intrinseco et 
+      ex<lb ed="#P" n="30" break="no"/>trinseco resistit nec quomodo anima talem qualit 
+      <lb ed="#P" n="31"/>tem que naturaliter omni corruptioni resisteret car 
+      <lb ed="#P" n="32"/>saret. Insuper corpora damnatorum perpetuo di 
+      <lb ed="#P" n="33"/>rant sine corruptione intrinseca vel extrinseca et ibi 
+      <lb ed="#P" n="34"/>est solum assistentia diuina non concurrens ad 
+      cor<lb ed="#P" n="35" break="no"/>ruptionem corporum dannatorum quare non erit sic 
+      <lb ed="#P" n="36"/>in proposito: etiam non sunt multiplicande res gra 
+      <lb ed="#P" n="37"/>tis. dico ergo quod dos impassibilitatis supponit in re 
+      <lb ed="#P" n="38"/>cto pro corpore beati connotando quod deus ratione 
+      <lb ed="#P" n="39"/>actuum meritoriorum in quibus discessit conseruat 
+      <lb ed="#P" n="40"/>ipsum corpus ne patiatur aliquod lesiuum ab intri 
+      <lb ed="#P" n="41"/>seco vel extrinseco. per istam connotationem secle 
+      <lb ed="#P" n="42"/>duntur elementa et corpora dannatorum que non 
+      di<lb ed="#P" n="43" break="no"/>cuntur sic dotata. dixi aliquod lesiuum corpora 
+      be<lb ed="#P" n="44" break="no"/>torum visionem et accidentia perfectiua recipiunt 
+      <lb ed="#P" n="45"/>et sic augustinus in epstuola ad dioscorum intelligit. 
+      <lb ed="#P" n="46"/>Tam potentem fecit deus animam vt ex 
+      plenissi<lb ed="#P" n="47" break="no"/>ma beatitudine que in fine temporum sanctis 
+      pro<lb ed="#P" n="48" break="no"/>mittitur rediuidet in inferiorem naturam vult deus. 
+      <lb ed="#P" n="49"/>deus istud facit ratione beatitudinis et hoc est verum 
+      <lb ed="#P" n="50"/>de communi lege nisi propter aliquod speciale inter 
+      <lb ed="#P" n="51"/>dum fiat oppositum vt erat de redemptore nostro 
+      <lb ed="#P" n="52"/>tempore sue peregrinationis secundum corpus in 
+      <lb ed="#P" n="53"/>via corpus eius erat passibile pro generis human 
+      <lb ed="#P" n="54"/>redemptione. Sed contra luce vltimo: dominus post r 
+      <lb ed="#P" n="55"/>surrectionem dixit discipulis suis: palpate et videto 
+      <lb ed="#P" n="56"/>vbi gregorius in omelia super illud iohannis 
+      vice<lb ed="#P" n="57" break="no"/>simo. infer digitum tuum huc: corrumpi necesse est 
+      <lb ed="#P" n="58"/>quod palpatur. Insuper nullum violentum est 
+      perpe<lb ed="#P" n="59" break="no"/>tuum: sed corpus illud cum sit mixtum habet quar 
+      <!--440.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="60"/>tuor elementa in se quorum quodlibet est extra re 
+      <lb ed="#P" n="61"/>gionem suam. Ad primum dicitur non est necesse 
+      <lb ed="#P" n="62"/>recipere dictum beati gregorii vel potest dici est cor 
+      <lb ed="#P" n="63"/>ruptibile et sic de corpore beati celo et similibus pal 
+      <lb ed="#P" n="64"/>pabilibus sed non corrumpetur. Ad secundum 
+      po<lb ed="#P" n="65" break="no"/>test esse difficultas circa maiorem: mare in zelandia 
+      <lb ed="#P" n="66"/>et in aliquibus locis flandrie per aggeres et valla 
+      <lb ed="#P" n="67"/>impeditur ne exeat in aridam et si mundus et 
+      ho<lb ed="#P" n="68" break="no"/>mines durarent perpetuo sicut putabat aristoteles 
+      <lb ed="#P" n="69"/>quid cause est quare hoc non potest fieri perpetuor 
+      <lb ed="#P" n="70"/>nisi dicas mare vnam plagam terre sensim 
+      amit<lb ed="#P" n="71" break="no"/>tere aliam lucrando et tunc erit idem de omni 
+      par<lb ed="#P" n="72" break="no"/>ti terre. secundo admitto maiorem minor est falsa 
+      <lb ed="#P" n="73"/>non sunt elementa in mixto per realem existentiam 
+      <lb ed="#P" n="74"/>et quando essent nego quod ibi detineantur violente si 
+      <lb ed="#P" n="75"/>lapis detineretur in aere semper a deo licet esset con 
+      <lb ed="#P" n="76"/>tra naturalem inclinationem grauitatis 
+      particula<lb ed="#P" n="77" break="no"/>ris esse super leue tamen non est contra 
+      inclinatio<lb ed="#P" n="78" break="no"/>nem totius vniuersi et cause supreme que res ad su 
+      <lb ed="#P" n="79"/>um nutum mouet sicut cum quis bibit in arista 
+      ex<lb ed="#P" n="80" break="no"/>trahendo aquam de fonte ipa aqua ascendit ne fiat 
+      <lb ed="#P" n="81"/>vacuum in vniuerso et non est hoc pure violente. 
+      <lb ed="#P" n="82"/>At dicis secundum ista dos impassibilitatis non erit 
+      <lb ed="#P" n="83"/>maior in magis beato quam in minus beato concedo om 
+      <lb ed="#P" n="84"/>nes equaliter conseruabuntur ne lesiuum patiantur 
+      <lb ed="#P" n="85"/>differunt tamen sicut stella a stella in beatitudine et 
+      <lb ed="#P" n="86"/>forte in claritate vel magis beatus pluries meruit 
+      <lb ed="#P" n="87"/>hanc dotem impassibilitatis quia ratione cuiuslibet 
+      <lb ed="#P" n="88"/>actus meritorii in quo discessit. Sed dicis christus 
+      <lb ed="#P" n="89"/>post resurrectionem comedit: ergo cibus conuerte 
+      <lb ed="#P" n="90"/>batur in suum corpus et sic erat passibilitas 
+      conce<lb ed="#P" n="91" break="no"/>ditur quod comedit accepit per os et stomachum sed  
+      <lb ed="#P" n="92"/>postea resoluebatur in preiacentem materiam vel 
+      <lb ed="#P" n="93"/>deus fecit quod esset statim post comestionem a 
+      remo<lb ed="#P" n="94" break="no"/>tis non transeundo per corpus vel eius poros qui 
+      <lb ed="#P" n="95"/>statim euomit vel qui magnum profluuium ventris 
+      <lb ed="#P" n="96"/>habet in quibus crebro nichil conuertitur in substan 
+      <lb ed="#P" n="97"/>tiam aliti realiter comedere dicitur. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

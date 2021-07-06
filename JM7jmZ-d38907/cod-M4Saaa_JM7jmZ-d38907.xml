@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 1</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 1</title>
+               <date when="2021-07-06">July 06, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-M4Saaa">Paris 1509</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-06" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="70-r"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="JM7jmZ-d38907"><!-- l4d15q1 -->
+            <head xml:id="JM7jmZ-d38907-Hd1e108">Quaestio 1</head>
+            <head xml:id="JM7jmZ-d38907-Hd1e111" type="question-title">
+      Utrum quis potest
+      satisfacere existendo in
+      peccato mortali
+    </head>
+            <p xml:id="JM7jmZ-d38907-d1e114">
+      ¶ Distinctionis decime quinte questio prima. 
+      <lb ed="#P" n="86"/> Rista. xv. distinctione magister determinat 
+      <lb ed="#P" n="87"/>Ilan vnum peccatum mortale sine alio 
+      dele<lb ed="#P" n="88" break="no"/>ri potest nunc de satisfactione de qua 
+      ma<lb ed="#P" n="89" break="no"/>gister in lictera loquitur petam aliqua. Primo vtri 
+      <lb ed="#P" n="90"/>quis potest satisfacere existendo in peccato mortali 
+      <lb ed="#P" n="91"/>Secundo an opus satisfactorium sit ita meritorium 
+      <lb ed="#P" n="92"/>sicut non satisfactorium. Pro prime questionis 
+      dilu<lb ed="#P" n="93" break="no"/>cidatione declarabitur ratio termini satiffactionis 
+      <lb ed="#P" n="94"/>postea ad titulum questionis respondebitur sic 
+      dis<lb ed="#P" n="95" break="no"/>nitur. Satisfactio est volitio efficax reddendi equi 
+      <lb ed="#P" n="96"/>ualens pro debito. volitio ponitur loco generis: 
+      re<lb ed="#P" n="97" break="no"/>lique particule ponuntur loco differentie. dicitur ef 
+      <lb ed="#P" n="98"/>ficax quia si non fuerit imparatiua operationis 
+      exterio<lb ed="#P" n="99" break="no"/>ris non est sufficiens sed inefficax dummoo non sit im 
+      <lb ed="#P" n="100"/>pedimentum dicitur reddendi equiualens quia si mi 
+      <lb ed="#P" n="101"/>nus non est satiffactio si magis eroget. iam dat 
+      equi<lb ed="#P" n="102" break="no"/>ualens licet non precise et non capitur equiualens 
+      <lb ed="#P" n="103"/>secundum strictum rigorem quia si sic deo nemo pro 
+      os<lb ed="#P" n="104" break="no"/>fensa potest reddere equiualens vt nuperrime dixi 
+      <lb ed="#P" n="105"/>mus / sed ex sua mina noluit nos ad nimis difficile 
+      <lb ed="#P" n="106"/>obligare sed solum ad precepta decalogi nature et 
+      <lb ed="#P" n="107"/>ad precepta ecclesie et superiorum vbi iusta ratio 
+      re<lb ed="#P" n="108" break="no"/>quirit alia opera supererogationis acceptat pro 
+      os<lb ed="#P" n="109" break="no"/>fensa contra eum commissa pro peccato debemus 
+      <lb ed="#P" n="110"/>satisfacere illa diffinitio conuenit satisfactioni pro 
+      <lb ed="#P" n="111"/>peccatis commissis et proaliis contractibus. Ex 
+      <lb ed="#P" n="112"/>hac diffinitione correlaria infero. Primum est / 
+      satis<lb ed="#P" n="113" break="no"/>factio non capitur actiue neque passiue sed 
+      abstracti<lb ed="#P" n="114" break="no"/>ue actiue est homo satiffaciens passiue peccatum vel 
+      <lb ed="#P" n="115"/>res pro qua est satisfactio. Secundum qui abstulit omnes 
+      <lb ed="#P" n="116"/>diuitias cresis regis lidorum nichil habens dummon 
+      <!--155.xml-->
+      <pb ed="#P" n="70-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>habet volitionem sufficientem satisfaciendi satiss 
+      <lb ed="#P" n="2"/>cit. patet per diffinitionem. Tertio sequitur quod 
+      ad<lb ed="#P" n="3" break="no"/>implens frequenter penitentiam iniunctam non sa 
+      <lb ed="#P" n="4"/>tisfacit in toto pro pena debita: hoc patet. stat quod non 
+      <lb ed="#P" n="5"/>detur equiualens secundum legem ordinatam propter er 
+      <lb ed="#P" n="6"/>rorem clauis. Quartum. ieiunium / oratio / elemosina et 
+      <lb ed="#P" n="7"/>opera exteriora vel peregrinari percutere pectus pro 
+      <lb ed="#P" n="8"/>peccato vsque ad effusionem sanguinis sicut fecit 
+      san<lb ed="#P" n="9" break="no"/>ctus hieronimus non sunt satisfactiones nisi 
+      equi<lb ed="#P" n="10" break="no"/>uoce pro quanto sunt actus imparati ab illa volitione 
+      in<lb ed="#P" n="11" break="no"/>trinseca. Preterea notabis quod titulus quaestionis postqua 
+      <lb ed="#P" n="12"/>in ea ponitur gerundium potest exponi per dum si v 
+      <lb ed="#P" n="13"/>quia et multum interest inter illas acceptiones nolo 
+      <lb ed="#P" n="14"/>tamen dicere quod titulus questionis sit hypotheticus 
+      <lb ed="#P" n="15"/>Theologice loquendo titulus questionis potest 
+      ha<lb ed="#P" n="16" break="no"/>bere duos sensus vnus an quis manens in mortali 
+      <lb ed="#P" n="17"/>potest reconeiliari deo de alio mortali vel aliis et il 
+      <lb ed="#P" n="18"/>le sensus non est dubius in aliquo sensu sed procedam 
+      <lb ed="#P" n="19"/>in sensucomposito. impium est a deo dimidiam spe 
+      <lb ed="#P" n="20"/>rare veniam vix homo remittit tibi vnam offensam 
+      <lb ed="#P" n="21"/>contra eum factam te manente et perseuerante in 
+      <lb ed="#P" n="22"/>alio: similiter christus curauit mutum et surdum eiecit septem 
+      <lb ed="#P" n="23"/>demonia de magdalena nullum relinquens. idem 
+      <lb ed="#P" n="24"/>patet de legione demonum in demoniaco illud non 
+      <lb ed="#P" n="25"/>prouenit ob connexionem peccatorum inter se quia 
+      po<lb ed="#P" n="26" break="no"/>test quis incurrere vnum vel duo non incurrendo alia 
+      <lb ed="#P" n="27"/>sed est propter deum non purgantem vnum / peccato 
+      <lb ed="#P" n="28"/>re manente in aliis: de veniali non est idem homo po 
+      <lb ed="#P" n="29"/>test dolere de veniali vno manendo in aliis: veniale 
+      <lb ed="#P" n="30"/>nec gratiam diminuit nec ei contrariatur secundum 
+      lege<lb ed="#P" n="31" break="no"/>Alius sensus est vt ponamus in terminis sortes con 
+      <lb ed="#P" n="32"/>misit decem mortalia sufficit detestatur illa decen 
+      <lb ed="#P" n="33"/>et est de eis contritus presbiter titius iniungit ei ieiu 
+      <lb ed="#P" n="34"/>nium decem dierum pro diluenda pena debita 
+      sor<lb ed="#P" n="35" break="no"/>tes bene ieiunat primo die / secundo mortaliter pecca 
+      <lb ed="#P" n="36"/>et in mortali manet vsque ad finem decimi diei 
+      inclu<lb ed="#P" n="37" break="no"/>siue et ieiunat. iam questio est an satisfecerit pro pe 
+      <lb ed="#P" n="38"/>nitentia iniuncta quod non punietur in inferno vel pur 
+      <lb ed="#P" n="39"/>gatorio pro illo ieiunio plusquam si ieiunasset in gratia 
+      <lb ed="#P" n="40"/>non loquimur de merito constat quod ieiunando in gra 
+      <lb ed="#P" n="41"/>tia meritus fuisset et penam absoluisset loquimur praeci 
+      <lb ed="#P" n="42"/>se de satisfactione pro pena iniuncta. Capto exgo 
+      ti<lb ed="#P" n="43" break="no"/>tulo questionis in hoc sensu due sunt opinioes 
+      fa<lb ed="#P" n="44" break="no"/>mose ad titulum questionis quarum vtraque deffenso 
+      <lb ed="#P" n="45"/>res habet: prior tenet quod satisfactio facta in peccato 
+      <lb ed="#P" n="46"/>mortali nichil valet. Contra hoc arguitur hoc esset 
+      <lb ed="#P" n="47"/>nimis durum et occasio maioris obstinationis. 
+      Pre<lb ed="#P" n="48" break="no"/>terea arguitur contra illam opinionem vel peccatum 
+      <lb ed="#P" n="49"/>est huic contrito dimissum et pena eterna mutata in 
+      <lb ed="#P" n="50"/>temporalem vel non: primum oportet dare vt patet ex 
+      di<lb ed="#P" n="51" break="no"/>ctis: ergo si imponatur ieiunium octo dierum si illam 
+      <lb ed="#P" n="52"/>adimpleat satisfacit ei pro pena imposita quia nisi sic 
+      <lb ed="#P" n="53"/>si dicedat in peccato tertie diei non patietur 
+      infini<lb ed="#P" n="54" break="no"/>tam penam in inferno extensiue proillo peccato cum 
+      <lb ed="#P" n="55"/>est commutata iam in temporalem vel oportet dicene quod 
+      <lb ed="#P" n="56"/>potest satisfacere pro peccato in peccato existendo 
+      <lb ed="#P" n="57"/>Respondet hec opinio huic argumento non esset o 
+      <lb ed="#P" n="58"/>casio maioris obstinationis sed melioris vite. Ad 
+      <lb ed="#P" n="59"/>aliud argumentum diceret quod quando homo detestatur suum 
+      <!--155.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="60"/>peccatum est ei deletum quo ad penam condius naliter 
+      <lb ed="#P" n="61"/>si adimpleat penitentiam ei impositam satisfaciendo 
+      <lb ed="#P" n="62"/>et si non sit in gratia non satisfacit quia actualiter 
+      re<lb ed="#P" n="63" break="no"/>manet inimicus dei. Sed contra illud replicatur 
+      pec<lb ed="#P" n="64" break="no"/>catum deletur quamcito dolet cathece per illud ezechiel 
+      <lb ed="#P" n="65"/>xviii. ergo pena eterna que debebatur actui comutatur 
+      <lb ed="#P" n="66"/>in temporalem: ergo si peccaret medio tempore peni 
+      <lb ed="#P" n="67"/>tentie et statim post peccatum decederet pro pecca 
+      <lb ed="#P" n="68"/>to confesso non pateretur infinitam penam extensiue: 
+      <lb ed="#P" n="69"/>sententiam quam dedit deus in dimissione nunquam 
+      re<lb ed="#P" n="70" break="no"/>uocabit. Item per hunc modum si vnus detestatur 
+      <lb ed="#P" n="71"/>suum peccatum et peccet antequam adimpleat aliquid 
+      <lb ed="#P" n="72"/>de penitentia equaliter punietur cum alio qui non de 
+      <lb ed="#P" n="73"/>testatus est suum peccatum ceteris paribus. Hoc 
+      <lb ed="#P" n="74"/>non apparet rationabile: dixi inter arguendum nunquam 
+      <lb ed="#P" n="75"/>aliquid praesentie adimpleat quia si titio imponatur tempus 
+      <lb ed="#P" n="76"/>octo dierum ad ieiunandum et si in fine quarti diei fran 
+      <lb ed="#P" n="77"/>gat ieiunium vel peccet vel postea ieiunet alios 
+      qua<lb ed="#P" n="78" break="no"/>tuor dies in peccato ipso manente / in subduplo mi 
+      <lb ed="#P" n="79"/>nus punietur quam si nichil penitentie adimpleuisset et 
+      <lb ed="#P" n="80"/>causa est quia adimpleuit medietatem penitentie in illo 
+      <lb ed="#P" n="81"/>casu in gratia. replica est soluta quando homo detestatur 
+      <lb ed="#P" n="82"/>suum peccatum pena eterna non commutatur in 
+      tempo<lb ed="#P" n="83" break="no"/>ralem vt dictum est sed dat peccatori duplex forum 
+      <lb ed="#P" n="84"/>liberandi se a peccato in gratia vel alibi in inferno 
+      <lb ed="#P" n="85"/>Ad aliud quod est ponderandum secundum eorum modum 
+      <lb ed="#P" n="86"/>mirabile est concedere sicut aliqui eorum concedunt 
+      <lb ed="#P" n="87"/>quod si duo cum equalibus peccatis sortes et plato 
+      sor<lb ed="#P" n="88" break="no"/>tes conteritur et acceptat penitentiam quam adimples 
+      <lb ed="#P" n="89"/>totaliter et plato non conteritur sed vno peccato equali 
+      <lb ed="#P" n="90"/>peccat cum sorte isti duo equaliter punientur in 
+      in<lb ed="#P" n="91" break="no"/>ferno actualiter sorti contritio erit inutilis: nichil est 
+      <lb ed="#P" n="92"/>hoc dictu est bona de se tamen non prodest habenti sic non 
+      <lb ed="#P" n="93"/>soluerem tenendo positionem qualibet contritio quantumlibes 
+      <lb ed="#P" n="94"/>remissa sufficit tollere culpam et non est possibile 
+      <lb ed="#P" n="95"/>habere contritionem qui habeat partes aliqua pars 
+      <lb ed="#P" n="96"/>contritionis tollit partem pene debite: in omni con 
+      <lb ed="#P" n="97"/>tritione est opus superogationis sicut in dilectione 
+      <lb ed="#P" n="98"/>dei nec nunc laboro segregare partem consilii a parte 
+      <lb ed="#P" n="99"/>debita. insuper si sortes ieiunans octo diebus in pec 
+      <lb ed="#P" n="100"/>cato mortali non satisfecit tenetur iterum ieiunare 
+      <lb ed="#P" n="101"/>et aliam penam subire et sic dubitabit an compleuerit pe 
+      <lb ed="#P" n="102"/>nitentiam iniunctam in mortali et non habebit finen 
+      <lb ed="#P" n="103"/>sic sacerdos potest ei imponere quod compleat in gra 
+      <lb ed="#P" n="104"/>tia. dicis sicut dicit alexander quando probabiliter existi 
+      <lb ed="#P" n="105"/>mat se impleuisse penitentiam iniunctam in gratia 
+      li<lb ed="#P" n="106" break="no"/>cet sit in mortali absoluitur in foro ecclesie et conscien 
+      <lb ed="#P" n="107"/>cie quod non peccet nouo peccato sicut existens in 
+      mor<lb ed="#P" n="108" break="no"/>tali capiens eucharistiam quando probabiliter credit se in 
+      <lb ed="#P" n="109"/>gratia non peccat tamen si sic dicedat punietur ac si 
+      ni<lb ed="#P" n="110" break="no"/>chil fecisset. aliqui dicunt aliqua sunt opera extra 
+      <lb ed="#P" n="111"/>charitatem facta que relinquunt effectus penales 
+      <lb ed="#P" n="112"/>post se vt elemosina attenuatio pecumiarum ieiunium cor 
+      <lb ed="#P" n="113"/>poris debilitatio talia opera extra charitatem facta 
+      <lb ed="#P" n="114"/>non oportet totaliter reiterare. alia sunt quae non 
+      reli<lb ed="#P" n="115" break="no"/>quunt aliqua penalia vt oratio talia oportet iterare 
+      <lb ed="#P" n="116"/>illud nichil est elemosina in fine forte est 
+      voluptuo<lb ed="#P" n="117" break="no"/>sa horum meminisse iuuabit cum enea et aliqui post 
+      <lb ed="#P" n="118"/>ieiunium sunt robustiores aliqui habent genua indu¬ 
+      <!--156.xml-->
+      <pb ed="#P" n="71-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>rata in fine orationis et incertum erit quando 
+      peni<lb ed="#P" n="2" break="no"/>tentia est iteranda quando vero non redit semper 
+      <lb ed="#P" n="3"/>questio an facta in mortali sufficiunt. Item bomo 
+      <lb ed="#P" n="4"/>satisfacit homini laborando in mortali. patet de agri 
+      <lb ed="#P" n="5"/>cola et viticola et honorans parentes in mortali non 
+      <lb ed="#P" n="6"/>est transgressor illius precepti igitur. Fateor hanc 
+      <lb ed="#P" n="7"/>positionem esse communiter sustentatam a scriptoribus 
+      il<lb ed="#P" n="8" break="no"/>lius temporis. patet ex altissioderensis. alexandro / bonauentura 
+      <lb ed="#P" n="9"/>thoma etricardo / sed isti recitant in diebus suis du 
+      <lb ed="#P" n="10"/>plencem modum dicendi. ergo oppositum erat 
+      proba<lb ed="#P" n="11" break="no"/>bile in eorum diebus: beatus thomas dicit quod magi 
+      <lb ed="#P" n="12"/>ster oppositum intendit reprobare / sed hoc non 
+      vi<lb ed="#P" n="13" break="no"/>deo: magister prosequitur ad longum an quis potest 
+      <lb ed="#P" n="14"/>satisfacere de vno peccato manendo in alio de 
+      no<lb ed="#P" n="15" break="no"/>stro membro non loquitur. Alia est positio quod 
+      peni<lb ed="#P" n="16" break="no"/>tentia facta in peccato mortali sufficit et homo 
+      to<lb ed="#P" n="17" break="no"/>tam illam implens in hoc mundo non tenetur ad 
+      <lb ed="#P" n="18"/>aliud nec punietur ratione illius eternaliterin infer 
+      <lb ed="#P" n="19"/>no cum primum bomo detestatur suum peccatum 
+      pe<lb ed="#P" n="20" break="no"/>na eterna est cathegorice in temporalem commutata et si 
+      <lb ed="#P" n="21"/>nichil illius pene in hoc mundo soluat punietur in 
+      <lb ed="#P" n="22"/>inferno temporaliter et hoc facit ei contritio. ista est 
+      <lb ed="#P" n="23"/>mitior et rationabilior quam expresse tenet sanctus 
+      <lb ed="#P" n="24"/>thomas in solutione ad quintum questionis prime 
+      <lb ed="#P" n="25"/>distinctionis. xxii. sui quarti: et hoc sequitur doctor 
+      <lb ed="#P" n="26"/>subtilis: et ego sic opinor. positio non est propterea 
+      <lb ed="#P" n="27"/>solidior quia a pluribus famegeratis foueatur sed quia 
+      <lb ed="#P" n="28"/>in lumine naturali est rationabilior cui fides 
+      appo<lb ed="#P" n="29" break="no"/>diat tenendo hunc modum auctoritates facilius 
+      sol<lb ed="#P" n="30" break="no"/>uuntur et rationes quam tenendo oppositum. Si dicas 
+      <lb ed="#P" n="31"/>quomodo beatus thomas in locis duobus ita vici 
+      <lb ed="#P" n="32"/>nis vt in. xv. distinctione et in. xxii. sibi contradicit 
+      <lb ed="#P" n="33"/>nego suppositum contradictio requirit eandem dispu 
+      <lb ed="#P" n="34"/>tationem et idem tempus. Frequenter bomo 
+      po<lb ed="#P" n="35" break="no"/>nit doias positiones probabiles quas non teneret co 
+      <lb ed="#P" n="36"/>pulatiue in eadem responsione schole nisi adderet 
+      <lb ed="#P" n="37"/>teneo hoc probleumaticum ceterum experimento 
+      <lb ed="#P" n="38"/>loquor. interdum bomo scribendo capit vnam ma 
+      <lb ed="#P" n="39"/>teriam probabilem distractus pro tempore in aliis 
+      <lb ed="#P" n="40"/>curis rebus scholasticis impartinentibus vel legendo 
+      <lb ed="#P" n="41"/>in aliis mutat opinionem immemor praescriptorum ne 
+      <lb ed="#P" n="42"/>adhuc debemus dicere virum sibi repugnare sed quod 
+      <lb ed="#P" n="43"/>tenuit positiones duas probabiles / sed quia 
+      versipel<lb ed="#P" n="44" break="no"/>lis dicet hanc esse amicabilem excusationem 
+      scripto<lb ed="#P" n="45" break="no"/>rum bonum esset viro specificare suam positionem 
+      <lb ed="#P" n="46"/>probabilem quando ei in mentem occurrit ne zoilus 
+      la<lb ed="#P" n="47" break="no"/>tret: auctoritates aliorum soluuntur per satisfactionem 
+      <lb ed="#P" n="48"/>meritoriam sicut prime corinthiorum. xiii. Si linguis 
+      <lb ed="#P" n="49"/>hominum loquar et angelorum etc. nichil michi prodest 
+      <lb ed="#P" n="50"/>immediate ad vitam eternam et ita de similibus. si 
+      <lb ed="#P" n="51"/>dicis penitentia facta in mortali liberat: ergo si quis 
+      <lb ed="#P" n="52"/>moriatur in fine illius temporis cum detestatione 
+      <lb ed="#P" n="53"/>lapsus citius euolabit et sic actus factus in mortali 
+      <lb ed="#P" n="54"/>accelerat ad gloriam pone per quatuor vel quinque 
+      <lb ed="#P" n="55"/>dies: ergo vita eterna dabitur ratione actuum 
+      facto<lb ed="#P" n="56" break="no"/>rum in mortali. Item sequitur quod indulgentie 
+      vale<lb ed="#P" n="57" break="no"/>rent existenti in mortali: consequens non est dicendum 
+      <lb ed="#P" n="58"/>consequentia patet. indulgentie solum liberant a pe 
+      <lb ed="#P" n="59"/>na concedo quod opera facta in mortali accelerant ad 
+      <!--156.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="60"/>gloriam et sic de per accidens ratione eorum dabitur 
+      glo<lb ed="#P" n="61" break="no"/>ria quia tollunt prohibens: apiens fenestram non 
+      illu<lb ed="#P" n="62" break="no"/>minat domum sed sol sicut de resurgente: actui meri 
+      <lb ed="#P" n="63"/>torio per se respondit infinita gloria extensiue et 
+      de<lb ed="#P" n="64" break="no"/>terminata portio intensiue de indulgentiis quas quis 
+      <lb ed="#P" n="65"/>capit in mortali non est simile cum in nostro casu iste 
+      <lb ed="#P" n="66"/>erat contritus primo. secundo in indulgentiis ponitur 
+      <lb ed="#P" n="67"/>communiter omnibus contritis. Preterea ponatur quod 
+      sa<lb ed="#P" n="68" break="no"/>cerdos imponat platoni ieiunium quatuor dierum se 
+      <lb ed="#P" n="69"/>cundo vel tertio die labatur plato in peccatum sed  
+      <lb ed="#P" n="70"/>compleat ieiunium tunc sic minimus actus factus in grtra 
+      pro<lb ed="#P" n="71" break="no"/>stat centum mille actibus in mortali factis ieiunium 
+      <lb ed="#P" n="72"/>primi diei non liberat a quarta parte pene: ergo alia 
+      <lb ed="#P" n="73"/>leiunia parum vel nichil liberant imo 
+      incomparabili<lb ed="#P" n="74" break="no"/>ter. Item citius per actum indifferentem erit liberatio 
+      <lb ed="#P" n="75"/>a pena. Ad primum concedo quo ad vitam eternam 
+      <lb ed="#P" n="76"/>non tamen oportet ad liberationem pene debite. Ad  
+      <lb ed="#P" n="77"/>aliud vna positio probabilis negaret suppositum etiam 
+      <lb ed="#P" n="78"/>non erit indifferens ad liberationem pene quando 
+      <lb ed="#P" n="79"/>applicatur ad penitentiam. Ex hiis patet quae conclu 
+      <lb ed="#P" n="80"/>siones sunt concedende pro solutione questionis. 
+      <lb ed="#P" n="81"/>Prima est sortes existendo in peccato mortali potest 
+      <lb ed="#P" n="82"/>satisfacere digne pro peccatis suis si exponatur per 
+      <lb ed="#P" n="83"/>dum equiualet temporali et vlterius vni 
+      copulati<lb ed="#P" n="84" break="no"/>ue sortes est in aliquo tempore in peccato mortali 
+      <lb ed="#P" n="85"/>et in illo tempore potest satisfacere pro peccatis suis 
+      <lb ed="#P" n="86"/>prior pars est possibilis / secunda modalis diuisa pos 
+      <lb ed="#P" n="87"/>sibilis de nullo extremo restricto: ergo est 
+      necessa<lb ed="#P" n="88" break="no"/>ria: ergo tota copulatiua est possibilis de lege numquam 
+      <lb ed="#P" n="89"/>necessarium contingenti aduersatur. Ex quo patet 
+      <lb ed="#P" n="90"/>quod sophiste male negant hoc sophisma tanquam impos 
+      <lb ed="#P" n="91"/>sibile neutrum oculum habendo tu potes videre si 
+      <lb ed="#P" n="92"/>exponatur per dum vel si: tunc consequens est 
+      neces<lb ed="#P" n="93" break="no"/>sarium et idem sufficit ad bonitatem consequentie 
+      <lb ed="#P" n="94"/>et veritatem propositionis in conditionali. Ex quo 
+      <lb ed="#P" n="95"/>patet secundo quod illa est concedenda si exponatur per 
+      <lb ed="#P" n="96"/>si. Secunda propositio si titulus questionis 
+      expo<lb ed="#P" n="97" break="no"/>natur per quia est propositio falsa licet sit consequen 
+      <lb ed="#P" n="98"/>tia bona. Tertia propositio possibile est de commu 
+      <lb ed="#P" n="99"/>ni lege quod quis est in peccato mortali et tamen 
+      satis<lb ed="#P" n="100" break="no"/>facit de penitentia ei iniuncta. hoc patet ex secunda 
+      <lb ed="#P" n="101"/>opinione quam rationabiliorem puto: Et adhuc con 
+      <lb ed="#P" n="102"/>tra modum priorem facio ratiunculam imponatur sorti 
+      <lb ed="#P" n="103"/>ieiunium vnius diei ieiunet peccando in meridie vel sor 
+      <lb ed="#P" n="104"/>tes satisfacit: et sic contra positionem vel non: contra pro medie 
+      <lb ed="#P" n="105"/>tate non erat in peccato non apparet michi aliud 
+      di<lb ed="#P" n="106" break="no"/>cendum nisi quod penitentia sufficit pro vna 
+      medieta<lb ed="#P" n="107" break="no"/>te puta talis in subduplo minus punietur quam si non com 
+      <lb ed="#P" n="108"/>pleuisse et si hora vndecina postmeridiana peccet mi 
+      <lb ed="#P" n="109"/>nus in propositione sub vigesima tripla et proportio 
+      <lb ed="#P" n="110"/>nabiliter si alicui imponatur dicere psalterium et di 
+      <lb ed="#P" n="111"/>cens in vltimo verbo est in mortali et ante semper 
+      <lb ed="#P" n="112"/>erat in gratia oportet considerare proportionem omnium 
+      <lb ed="#P" n="113"/>verborum collectiue ad vnum vel duo. vlterius 
+      po<lb ed="#P" n="114" break="no"/>no quod sacerdos imponat sorti dicere simbolum et quod 
+      <lb ed="#P" n="115"/>diligat beatam virginem ante instans terminatiuum 
+      <lb ed="#P" n="116"/>simboli et omittat sortes iam quero an sortes 
+      im<lb ed="#P" n="117" break="no"/>pleuit totam penitentiam si sit et erat in mortali an 
+      <lb ed="#P" n="118"/>finem si non in quolibet instanti ante finem erat in 
+      <!--157.xml-->
+      <pb ed="#P" n="71-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>gratia: ergo satisfecit illud est in distinctione sequenti 
+      <lb ed="#P" n="2"/>solutum vnus potest satisfacere primo pro a 
+      pecca<lb ed="#P" n="3" break="no"/>to ieiunando diem lune et pro b ieiunando diem mai 
+      <lb ed="#P" n="4"/>tis et sic pro quolibet peccato successiue et sic per octo 
+      <lb ed="#P" n="5"/>dies vbi plato ieiunat pro omnibus die lune et pro 
+      <lb ed="#P" n="6"/>omnibus die martis et sic de quolibet die ebdoma 
+      <lb ed="#P" n="7"/>de: et per parum differt si discedant medio tempore 
+      <lb ed="#P" n="8"/>vnus punietur pro pluribus quam alius / sed equaliter 
+      <lb ed="#P" n="9"/>in acerbitate quo fit dabis sortem qui punietur pro mil 
+      <lb ed="#P" n="10"/>le peccatis odio dei superbia et similibus 
+      eternali<lb ed="#P" n="11" break="no"/>ter et non magis quam plato pro furto simplici patet si sor 
+      <lb ed="#P" n="12"/>tes ieiunauit per mille dies dempta vltima 
+      medieta<lb ed="#P" n="13" break="no"/>te et tunc labatur in mortale in quo decedat plato 
+      <lb ed="#P" n="14"/>satisfecit vno die pro odio alio dic pro superbia es 
+      <lb ed="#P" n="15"/>sic vsque ad medietatem vltimi diei cum sortes dece 
+      <lb ed="#P" n="16"/>dat in mortali sortes pro mille copulatim 
+      eternali<lb ed="#P" n="17" break="no"/>ter punietur secundum priorem positionem plato 
+      so<lb ed="#P" n="18" break="no"/>lum pro vno. Contra tertiam propositionem arguitur 
+      <lb ed="#P" n="19"/>sic si opera facta in peccato sufficerent ad deletionem 
+      <lb ed="#P" n="20"/>pene sequeretur quod aliquis potest decedere lege stan 
+      <lb ed="#P" n="21"/>te cum multis peccatis mortalibus qui nullam penam pa 
+      <lb ed="#P" n="22"/>tietur in inferno falsitas consequentis probatione 
+      <lb ed="#P" n="23"/>non eget et patet consequentia a opus factum in 
+      pec<lb ed="#P" n="24" break="no"/>cato mortali sufficit pro pena ne insit in inferno b 
+      <lb ed="#P" n="25"/>opus simile tantumdem valet et c: ergo tandem dabitur 
+      <lb ed="#P" n="26"/>sortes qui dicedit cum decem peccatis mortalibus 
+      <lb ed="#P" n="27"/>et nullam penam patietur in inferno. respondetur ne 
+      <lb ed="#P" n="28"/>gando consequentiam nec est in ea color cuius cau 
+      <lb ed="#P" n="29"/>sa est postquam per contritionem mortale peccatum est 
+      <lb ed="#P" n="30"/>dimissum et pena eterna illi peccato debita 
+      commu<lb ed="#P" n="31" break="no"/>tata est in temporalem tandem erit finis illius pene de 
+      <lb ed="#P" n="32"/>bite hic vel alibi in purgatorio vel in inferno si quis 
+      <lb ed="#P" n="33"/>dicedat cum mortali vno et ante per horam detesiatus 
+      <lb ed="#P" n="34"/>fuisset centum mille peccata mortalia et penitentia 
+      <lb ed="#P" n="35"/>nondum sit impleta talis patietur infinitam penam 
+      ex<lb ed="#P" n="36" break="no"/>tensiue pro illo vno mortali et finitam pro illis 
+      cen<lb ed="#P" n="37" break="no"/>tum mille peccatis postquam eorum pena eterna cathece 
+      <lb ed="#P" n="38"/>est mutata in temporalem et a fortiori in purgatorio 
+      <lb ed="#P" n="39"/>potest deleri vel in hac via / sed quia argumentum 
+      teti<lb ed="#P" n="40" break="no"/>git aliquid quod hanc positionem non infirmat scilice 
+      <lb ed="#P" n="41"/>quid possunt opera mortua. Aduerte multum interesi 
+      <lb ed="#P" n="42"/>inter opera mortua et mortificata. opera in 
+      natura<lb ed="#P" n="43" break="no"/>libus vccantur viua quia habent in se principium 
+      vi<lb ed="#P" n="44" break="no"/>uendi et cum hoc possunt exire in suas operationes 
+      <lb ed="#P" n="45"/>debitas vt quando oculus ex t in actum videndi ali 
+      <lb ed="#P" n="46"/>quid vocatur mortuum quando vixit et mortuum est 
+      <lb ed="#P" n="47"/>vel aptus natus erat viuere licet non vixit sic 
+      sole<lb ed="#P" n="48" break="no"/>mus dicere fetum in vtero mortuum cum materia erat 
+      <lb ed="#P" n="49"/>in propinqua dispositione ad habendum vitam 
+      morti<lb ed="#P" n="50" break="no"/>ficatum membrum vocatur hoc quod in se habet 
+      <lb ed="#P" n="51"/>vitam sed non potest exire in suas operationes 
+      de<lb ed="#P" n="52" break="no"/>bitas sic dicimus de membro peralitico vel infrigidi 
+      <lb ed="#P" n="53"/>tato quando tale curatur vel miraculose vel natura 
+      <lb ed="#P" n="54"/>liter vt in suas operationes prodeat dicimus esse 
+      <lb ed="#P" n="55"/>opus viuificatum periforma est distinctio magistra  
+      <lb ed="#P" n="56"/>lis respondens aliquod opus est viuum quod elicitur 
+      <lb ed="#P" n="57"/>a charitate aliquod mortificatum vt actus bonus 
+      <lb ed="#P" n="58"/>a gratia elicitus in frigiditatus a mortali 
+      superue<lb ed="#P" n="59" break="no"/>niente opus mortuum est actus bonus elicitus in mor 
+      <!--157.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="60"/>tali peccato. actus viuificatus est operatio 
+      mortiffa<lb ed="#P" n="61" break="no"/>cata resuscitata contritio et gratia superueniens 
+      tol<lb ed="#P" n="62" break="no"/>lit impedimentum et curat peralisim et reddit 
+      reli<lb ed="#P" n="63" break="no"/>quos actus quondam meritorios nunc meritorios quo 
+      <lb ed="#P" n="64"/>fit peccatum non est opus mortuum cum non sit aptum 
+      <lb ed="#P" n="65"/>natum viuere de lege bene aliquod peccatum est 
+      ap<lb ed="#P" n="66" break="no"/>tum natum viuere in potentia remota potest esse non 
+      <lb ed="#P" n="67"/>peccatum. et dicitur quod talia prosunt. Tum primo 
+      <lb ed="#P" n="68"/>ad satisfaciendum de penitentia iniuncta pro 
+      pecca<lb ed="#P" n="69" break="no"/>tis dimissis. Tum secundo ad impletionem 
+      prece<lb ed="#P" n="70" break="no"/>ptine delinquatur nouo peccato ego teneor ieiuna 
+      <lb ed="#P" n="71"/>re hodie sum in peccato non pecco frangendo ieiu 
+      <lb ed="#P" n="72"/>nium sed non mereor. Tum tertio multi boni habit 
+      <lb ed="#P" n="73"/>tus generantur tunc qui inclinant in bonos actus 
+      <lb ed="#P" n="74"/>et meritorios adueniente gratia qui multum prosunt 
+      <lb ed="#P" n="75"/>Cum quarto deus citius eleuat mentem meam a 
+      pec<lb ed="#P" n="76" break="no"/>catis. Tum quinto quia fortassis illo tempore quo actum 
+      <lb ed="#P" n="77"/>bonum de genere elicio essem alias actum malum 
+      <lb ed="#P" n="78"/>producturus abissus abissum inuocat psalmus. xli. 
+      <lb ed="#P" n="79"/>et sic diminuitur pena quae fortassis infuisset non alias 
+      <lb ed="#P" n="80"/>quia si pena fuisset diminuta sequitur per 
+      calcula<lb ed="#P" n="81" break="no"/>tionem quod aliquis potest dicedere in multis 
+      morta<lb ed="#P" n="82" break="no"/>libus et nullam penam perferre non valet currere 
+      <lb ed="#P" n="83"/>ad diminutionem geometricam et non ad 
+      arisme<lb ed="#P" n="84" break="no"/>ticam dicendo quod si primus actus tollit aliquid de 
+      <lb ed="#P" n="85"/>bena / secundus actus tollit medietatem illius et sic 
+      <lb ed="#P" n="86"/>proportionabiliter. nec insuper valet dicere quod aliqui 
+      <lb ed="#P" n="87"/>dicunt quod essentialis pena non diminuitur sed letius 
+      <lb ed="#P" n="88"/>suffertur illa pena a paciente quamquam apparens dari 
+      <lb ed="#P" n="89"/>potest analogia si sortes portet vnum pondus a 
+      ro<lb ed="#P" n="90" break="no"/>thomago ad parisium et in magno calore datur ei po 
+      <lb ed="#P" n="91"/>tus vel post quietem in itinere melius et acceptabilius 
+      <lb ed="#P" n="92"/>tert licet pondus non diminuatur hac via dabis ali 
+      <lb ed="#P" n="93"/>quem qui non sentiet penam in inferno et sic 
+      volu<lb ed="#P" n="94" break="no"/>ptuose viuent dannati. Ex his patet nullus erit actus 
+      <lb ed="#P" n="95"/>bonus non irremuneratus iuxta illud Iob. iii. Ipe 
+      <lb ed="#P" n="96"/>considerat vias meas nulla bona vel mala sunt sine 
+      <lb ed="#P" n="97"/>retributione dicit glosa / Sexto habetur leticia 
+      men<lb ed="#P" n="98" break="no"/>tis experimur post actus bonos et studium letamur 
+      <lb ed="#P" n="99"/>deuotus regulariter est iocundus dulcedinem mentis 
+      <lb ed="#P" n="100"/>acquirit / peccator tristis est: et si leticiam habeat est 
+      <lb ed="#P" n="101"/>inepta et extrema illius gaudii luctus occupat iuxm 
+      <lb ed="#P" n="102"/>llud psalmi de bonis in via testimoniorum tuorum dele 
+      <lb ed="#P" n="103"/>ctatus sum. et tullius nichil est iocundius quam honeste 
+      <lb ed="#P" n="104"/>vite retracte memoria. opera bona etiam merentur 
+      <lb ed="#P" n="105"/>bona temporalia. dominus dixit ad heliam de rege achab 
+      <lb ed="#P" n="106"/>tertii regum. xxi. Nonne vidisti achab huiliatum coram 
+      <lb ed="#P" n="107"/>me quia humiliatus est mei causa non inducam malum 
+      <lb ed="#P" n="108"/>n diebus eius. de peccatis factis nulla datur remu 
+      <lb ed="#P" n="109"/>neratio sed pena que nocet deus sinit eos sicut de 
+      <lb ed="#P" n="110"/>ipocritis Math. v. amen dico vobis receperunt mer 
+      <lb ed="#P" n="111"/>cedem suam. Potest fieri argumentum quod peccatum 
+      <lb ed="#P" n="112"/>est opus satisfactorium quod inconueniens videtur. 
+      pa<lb ed="#P" n="113" break="no"/>tet. volo ieiunare propter vanam gloriam et 
+      peni<lb ed="#P" n="114" break="no"/>tentiam simul ille actus est peccatum et per illud 
+      <lb ed="#P" n="115"/>actum satisfatio. probatur. ille vnus actus habens il 
+      <lb ed="#P" n="116"/>la duo obiecta videtur equiualere duobus actibus 
+      <lb ed="#P" n="117"/>habentibus duo partialia obiecta sic scilicet volo 
+      ieiu<lb ed="#P" n="118" break="no"/>nare propter penitentiam. volo ieiunare propter va¬ 
+      <!--158.xml-->
+      <pb ed="#P" n="72-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>nam gloriam sed habendo illos duos actus satisfa 
+      <lb ed="#P" n="2"/>ctio. ergo habendo precise illum vnum actum sed hec 
+      <lb ed="#P" n="3"/>illatio non sequitur ex dictis nec ille vnus actus 
+      duo<lb ed="#P" n="4" break="no"/>bus aliis equiualet. Sed hic dubitatur an quis ma 
+      <lb ed="#P" n="5"/>nens in peccato potest habere gratiam in sensu 
+      com<lb ed="#P" n="6" break="no"/>posito et de mortali loquor et arguitur quod sic habeat 
+      <lb ed="#P" n="7"/>sortes vnum actum malum mortaliter quem elicuit 
+      <lb ed="#P" n="8"/>subito vel successiue de necessitate continuabit per 
+      <lb ed="#P" n="9"/>tempus sit centesima pars vnius hore vult capere 
+      <lb ed="#P" n="10"/>alienum cum hoc potest nolle illum actum esse et fui 
+      <lb ed="#P" n="11"/>se propter deum et sic ei infundetur gratia. nulla est 
+      <lb ed="#P" n="12"/>contrarietas quod homo alienum vult capere nolens illum 
+      <lb ed="#P" n="13"/>actum esse: potest habere actum directum et reflectio 
+      <lb ed="#P" n="14"/>nem super illum actum.
+    </p>
+            <p xml:id="JM7jmZ-d38907-d1e1020">
+      ¶ Respondetur quicquid sit 
+      <lb ed="#P" n="15"/>non sequitur quod peccatum mortale et gratia simlus sint 
+      <lb ed="#P" n="16"/>quia iam ille actus de necessitate naturali continuatus 
+      <lb ed="#P" n="17"/>cum res permanens non habet vltimum instans sui 
+      <lb ed="#P" n="18"/>esse completum) non imputatur ad mortale cum non 
+      <lb ed="#P" n="19"/>sponte continuetur. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

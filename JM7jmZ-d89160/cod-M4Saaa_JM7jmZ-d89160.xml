@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 1</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 1</title>
+               <date when="2021-07-06">July 06, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-M4Saaa">Paris 1509</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-06" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="161-r"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="JM7jmZ-d89160"><!-- l4d32q1 -->
+            <head xml:id="JM7jmZ-d89160-Hd1e108">Quaestio 1</head>
+            <head xml:id="JM7jmZ-d89160-Hd1e111" type="question-title">
+      An quilibet coniugum
+      teneatur
+      alteri 
+      reddere debitum
+    </head>
+            <p xml:id="JM7jmZ-d89160-d1e114">
+               <lb ed="#P" n="19"/>¶ Distinctionis trigesime secunde quaestio vnica. 
+      <lb ed="#P" n="20"/>Irca hanc distinctionem trigesimam secundam 
+      <lb ed="#P" n="21"/>Quero an quilibet coniugum teneatur alteri 
+      <lb ed="#P" n="22"/>reddere debitum.
+    </p>
+            <p xml:id="JM7jmZ-d89160-d1e125">
+      ¶ Coclusiue respondebitur 
+      <lb ed="#P" n="23"/>quilibet coniugum tenetur alteri reddere debitum pro loco et 
+      <lb ed="#P" n="24"/>tempore nisi rationabilem exceptionem habeat. redde 
+      <lb ed="#P" n="25"/>re debitum est preceptum affirmatiuum semper obligans 
+      <lb ed="#P" n="26"/>sed non pro semper sed pro loco et tempore. probatur 
+      con<lb ed="#P" n="27" break="no"/>clusio quilibet non reddens alteri quod suum est non habens 
+      <lb ed="#P" n="28"/>exceptionem non dandi iniuste agit ergo ad oppositum 
+      <lb ed="#P" n="29"/>tenetur modo. i. corinth. vii. vir non habet dominium 
+      <lb ed="#P" n="30"/>sui corporis sed mulier et econuerso et iterum nolite frau 
+      <lb ed="#P" n="31"/>dare inuicem nisi ad tempus vt vacetis orationi siue ex 
+      <lb ed="#P" n="32"/>presse petatur siue occulte propter verecundiam vt in 
+      mu<lb ed="#P" n="33" break="no"/>liere non curandum est qua intentione petatur siue 
+      pro<lb ed="#P" n="34" break="no"/>pterlibidinem vel fornicationem vitandam siue fuerit im 
+      <lb ed="#P" n="35"/>bregnata vel non nec iuuat currere ad elephantem et ad  
+      <lb ed="#P" n="36"/>pruta impregnata que amplius fugiunt conitum quia. iiii. de 
+      <lb ed="#P" n="37"/>generatione animalium mulier et equa excipiuntur animalis 
+      <lb ed="#P" n="38"/>propriam naturam habent aliqui in vere coeunt vt asini / ca 
+      <lb ed="#P" n="39"/>meli / porcus siluester et aues. v. de historiis animalium 
+      <lb ed="#P" n="40"/>aliqua in decenbri vt vrsi aliqua omni tempore: oues in ante 
+      <lb ed="#P" n="41"/>frica bis pariunt / nobiscum in europa semel propterea 
+      <lb ed="#P" n="42"/>defficiunt arguentes mulieres impregnatas preter 
+      <lb ed="#P" n="43"/>naturam agere pati conitum et illud patet. xxvii. q. ii. si 
+      <lb ed="#P" n="44"/>tu. et est aug. in de adulterinis coniugiis dicit. si tu ali 
+      <lb ed="#P" n="45"/>stines sine vxoris voluntate tribuis et fornicandi li 
+      <lb ed="#P" n="46"/>centiam et peccatum illius tue imputabitur abstinentie. 
+      di<lb ed="#P" n="47" break="no"/>xi in conclusione nisi habeat exceptionem non reddendi 
+      pu<lb ed="#P" n="48" break="no"/>ta quia vergeret in periculum corporis viri vel mulieris et 
+      <lb ed="#P" n="49"/>hoc ei probabiliter constaret est debilis infirmus vel 
+      <lb ed="#P" n="50"/>vulneratus vel extinguetur fetus in vtero tunc est alio 
+      <lb ed="#P" n="51"/>vinculo astrictus non reddere plus secundum ordinem 
+      carita<lb ed="#P" n="52" break="no"/>tis tenetur sibi suffragari quam mulieri. item natura si 
+      <lb ed="#P" n="53"/>bi purissimum alimenti conseruat pro conseruatione 
+      indi<lb ed="#P" n="54" break="no"/>uidui superfluum mittit pro conseruatione speciei. S 
+      <lb ed="#P" n="55"/>petatur in publico vel in loco sacro non tenetur ei inib 
+      <lb ed="#P" n="56"/>dare nisi diu morati fuerint in ecclesia vt tempore 
+      hosti<lb ed="#P" n="57" break="no"/>li in limitibus hostium nec valet dicerelicet ibi mora 
+      <!--336.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="58"/>ti fuerint tenentur ad hoc egredi sicut ad egerenda 
+      <lb ed="#P" n="59"/>superflua prime digestionis et secunde constat no est simile 
+      <lb ed="#P" n="60"/>nec dissimile propter fetorem mane prosequor cuilibet 
+      <lb ed="#P" n="61"/>tamen discrimen est paruium propter illud occultum non 
+      <lb ed="#P" n="62"/>polluitur ecclesa si virfuerit percussus lepra et vxor sana 
+      <lb ed="#P" n="63"/>licet non teneatur cohabitare cum viro continuo 
+      po<lb ed="#P" n="64" break="no"/>tissimum interdum partim tenetur ei reddere debitum 
+      <lb ed="#P" n="65"/>bropter talem actum non videtur quod inficietur lepra vide 
+      <lb ed="#P" n="66"/>mus plerasque mulieres etiam cohabitantes cum leprosis 
+      <lb ed="#P" n="67"/>illa labe no infectas ergo in fortiori a redditione illius 
+      <lb ed="#P" n="68"/>actus etiam quantumcumque magna fuerit illa lepra vt in 
+      <lb ed="#P" n="69"/>leonina in vltima specie lepre ergo a fortiore vbi est 
+      <lb ed="#P" n="70"/>parua et illud patet de coniugio leprosorum. c. i. et. ii. sed 
+      <lb ed="#P" n="71"/>quando mulier est percussa magna lepra maior est 
+      diffi<lb ed="#P" n="72" break="no"/>cultas quia vir sanus ibi citius incurrit morbum quam econ 
+      <lb ed="#P" n="73"/>uerso fertur quod cognoscens mulierem sanam a leproso 
+      <lb ed="#P" n="74"/>cognitam incurrit lepram ergo idem vestur eam 
+      cognoscen<lb ed="#P" n="75" break="no"/>do hec illatio est apparens licet consequentia potest 
+      <lb ed="#P" n="76"/>negari cum apparentia sed dedita opera illius 
+      appa<lb ed="#P" n="77" break="no"/>rentiam missam facio et quando ipsa est infecta lepra 
+      leoni<lb ed="#P" n="78" break="no"/>na quod partes frustratim decidere videntur vir non tene 
+      <lb ed="#P" n="79"/>tur reddere debitum mulieri ne incurrat morbum quam 
+      <lb ed="#P" n="80"/>do est probabile quod per illum actum incurret sed si iudicio 
+      <lb ed="#P" n="81"/>medicorum homo incurrit lepram talem cognoscendo ad  
+      <lb ed="#P" n="82"/>hoc non tenetur tunc. si dicas vir et mulier iudicantur 
+      <lb ed="#P" n="83"/>ad paria quo ad copulam: verum est quando cause sunt 
+      pa<lb ed="#P" n="84" break="no"/>res quod in proposito non contingit. Sed quando mulier 
+      <lb ed="#P" n="85"/>laborat menstruo vt solent mulieres ante senium 
+      <lb ed="#P" n="86"/>potest ignorantia virum excusare et mulierem si nesciat 
+      <lb ed="#P" n="87"/>aliquod detrimentum ad hoc sequi sed si ei consteterit secundum 
+      <lb ed="#P" n="88"/>iudicium prudentum non est ita certum hieronimus 
+      <lb ed="#P" n="89"/>super illud. esaie. Iixiiii. iusticie nostre quasi pannus men 
+      <lb ed="#P" n="90"/>struate dicit tunc concipiuntur membris dannati ceci 
+      <lb ed="#P" n="91"/>claudi leprosi vt quia parentes non erubuerunt in conclaui 
+      <lb ed="#P" n="92"/>omisceri eorum peccatum patenter et aperte redarguatur in 
+      <lb ed="#P" n="93"/>paruulis et leuitici. xviii. ad mulierem quae patitur menstruum 
+      <lb ed="#P" n="94"/>non accedes nec reuelabis feditatem eius. glosa mar 
+      <lb ed="#P" n="95"/>ginalis dicit vtrique interim interdicitur accedere ad  
+      <lb ed="#P" n="96"/>altum. leuitici. xx. talis lapidabatur ad mortem. sed forte 
+      <lb ed="#P" n="97"/>dicis hoc est cerimoniale. Item nescitur an tunc 
+      ge<lb ed="#P" n="98" break="no"/>nerabitur proles ipa est sterilis vel impregnata et si non 
+      <lb ed="#P" n="99"/>cum semel erit impregnata verisile est quod tunc non 
+      impre<lb ed="#P" n="100" break="no"/>gnabitur. item melius est habere prolem leprosam que 
+      ni<lb ed="#P" n="101" break="no"/>chil habere idem error contingit in leproso si error sit sed 
+      <lb ed="#P" n="102"/>quia vnum est continuum aliud temporale non est simile 
+      redde<lb ed="#P" n="103" break="no"/>re tunc non videtur peccatum et potest esse quod exigere ad 
+      <lb ed="#P" n="104"/>maius malum euitandum in petente vel in alio non sit pec 
+      <lb ed="#P" n="105"/>catum propter statutum ecclesie vt in diebus ieiuniorum et 
+      <lb ed="#P" n="106"/>quando spiritualibus est vacandum reddere petenti debitum 
+      <lb ed="#P" n="107"/>non videtur peccatum hoc est de iure diuino et ecclesia 
+      <lb ed="#P" n="108"/>non intendit oppositum. Magister in. iii. capite huius 
+      <lb ed="#P" n="109"/>distinctionis introducit beatum aug. dicentem propter 
+      <lb ed="#P" n="110"/>processiones enim dies et ieiuniorum aliquando non licet conue 
+      <lb ed="#P" n="111"/>nire quia etiam et hoc innuit aplus. i. corinthiorum. vii. va 
+      <lb ed="#P" n="112"/>cantes oroui ad tempus alicitis abstinendum est vt fa 
+      <lb ed="#P" n="113"/>cilius impetrari possit quod postulatur. Si quis tunc 
+      <lb ed="#P" n="114"/>magno insultu passionis insurgente debitum exigat 
+      <lb ed="#P" n="115"/>non videtur michi peccare. patet de ieiunio vbi esset 
+      <lb ed="#P" n="116"/>opus transcendens facultatem viriecclesia talem non in¬ 
+      <!--337.xml-->
+      <pb ed="#P" n="161-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>tendit obligare ad ieiunium sic in proposito. Sed con 
+      <lb ed="#P" n="2"/>tra ista dicis innocentius tertius scribit archieprio cam 
+      <lb ed="#P" n="3"/>tuarensi vt habetur de voto et vot. redempri. c. ex ml 
+      <lb ed="#P" n="4"/>ta. §. in tanta quod vir potest complere votum 
+      hierosolimita<lb ed="#P" n="5" break="no"/>num in subsidium terre sancte sine consensu vxoris et 
+      <lb ed="#P" n="6"/>tunc non potest reddere debitum: igitur. Respondeo 
+      <lb ed="#P" n="7"/>vxor potest talem commitari si voluerit et si noluerit par 
+      <lb ed="#P" n="8"/>est quod ipa contineat in illo casu temporaneo redibit in 
+      <lb ed="#P" n="9"/>fra breue tempus vel interim occidetur et sic ipa 
+      po<lb ed="#P" n="10" break="no"/>test habere alium virum aptus ad bellum in isto casu tur 
+      <lb ed="#P" n="11"/>pius ageret stando domi propter vxorem quam vlixes no 
+      <lb ed="#P" n="12"/>lens profecisci ad troiam cum ceteris grecl propter penelopen 
+      <lb ed="#P" n="13"/>quanto vna pugna est gloriosior altera ex parte 
+      fi<lb ed="#P" n="14" break="no"/>delium et si vir diu moretur in palestina nolens redire 
+      <lb ed="#P" n="15"/>habeat ipa domi pacientiam si eam visitare noluerit. ac 
+      <lb ed="#P" n="16"/>dicis votum pegrinationis est commutabile in votum 
+      <lb ed="#P" n="17"/>religionis tanquam in maius bonum ergo si vir potest 
+      si<lb ed="#P" n="18" break="no"/>ne facultate mulieris minus vouere et maius. nego 
+      <lb ed="#P" n="19"/>consequentiam hic perpetuo a se abdicat venerea 
+      <lb ed="#P" n="20"/>mulieris dissentientis preiudicium. propterea cetera 
+      <lb ed="#P" n="21"/>sunt imparia post partum non est necesse abstinere a 
+      <lb ed="#P" n="22"/>muliere post euacuationem illarum partium menstrui in 
+      <lb ed="#P" n="23"/>partu vna pars manet et eiicitur cum partu secundum auicennam 
+      <lb ed="#P" n="24"/>de animalibus alia alit fetum in vtero et. iii. ad 
+      mammil<lb ed="#P" n="25" break="no"/>las conscendit. Forte dubitas circa dicta dicebamus 
+      <lb ed="#P" n="26"/>licet reddere quando non licet petere contra si nabal inde 
+      <lb ed="#P" n="27"/>bite petat abigail iuste negat si iniuste a me peteres 
+      <lb ed="#P" n="28"/>librum meum iuste tibi illum nego. Insuper abigail con 
+      <lb ed="#P" n="29"/>sentit et cooperatur peccato alterius ergo in illo casu 
+      pec<lb ed="#P" n="30" break="no"/>cat. Ad primum nego consequentiam. Tum primo 
+      pe<lb ed="#P" n="31" break="no"/>tens scit se non habere iustam causam petendi hoc mi 
+      <lb ed="#P" n="32"/>fugit propter multa licita quae possunt interuenire es 
+      <lb ed="#P" n="33"/>debeo interpretari casum dubium in meliorem partem 
+      <lb ed="#P" n="34"/>Tum secundo dato quod me non lateat crebro homo iuste 
+      <lb ed="#P" n="35"/>dat quod alter iniuste petit. patet de datione eucharistie 
+      <lb ed="#P" n="36"/>pectori occulto petenti in publico vnus iniuste petit et a 
+      <lb ed="#P" n="37"/>ter iuste reddit. idem patet de dante lucrum vltra sortem 
+      <lb ed="#P" n="38"/>exemplum est de libro meo nullum. petit ille alienum cu 
+      <lb ed="#P" n="39"/>parere non teneor cum ius excipiendo habeo modo 
+      <lb ed="#P" n="40"/>corpus mulieris est viri sicut ipsius mulieris non in 
+      <lb ed="#P" n="41"/>seruitute sicut seruus vel ancilla. mulier de costa vi 
+      <lb ed="#P" n="42"/>ri est formata et non pede. propterea secundum aristotelem in 
+      <lb ed="#P" n="43"/>postpraedicamentis est alienissimus modus habendi quo 
+      <lb ed="#P" n="44"/>vir habet vxorem si ego pecuniam sortis haberem in cu 
+      <lb ed="#P" n="45"/>stodia ipso pecuniam exigente dato quod scirem eum abu 
+      <lb ed="#P" n="46"/>ti pecunia et quod peccat ad malum finem debeo ei suam pe 
+      <lb ed="#P" n="47"/>cuniam restituere alioquin perturbaretur pax 
+      commu<lb ed="#P" n="48" break="no"/>nis et fingeremus nobis causas semper tenere alienum 
+      <lb ed="#P" n="49"/>sic si mulieri liceret in his casibus debitum negare 
+      <lb ed="#P" n="50"/>potest impedire virum semper aiure suo palliando. 
+      <lb ed="#P" n="51"/>ac si vir petat nephando modo concubitum a muliere 
+      <lb ed="#P" n="52"/>reddere est peccatum. Ad secundum nego quod abigail con 
+      <lb ed="#P" n="53"/>sentiat peccato nabal vel cooperetur imo ei displicet 
+      <lb ed="#P" n="54"/>quod alter petat sed debitum reddit. potissimum remedium 
+      <lb ed="#P" n="55"/>est viro et vxori non superflue dormire nec 
+      comede<lb ed="#P" n="56" break="no"/>re ad hos fetores extinguendos nam secundum aristotelem de 
+      <lb ed="#P" n="57"/>cima particula probleumatum venus comes sacietatis 
+      <lb ed="#P" n="58"/>est. propterea dicit porcum siluestrem solum in vere 
+      ap<lb ed="#P" n="59" break="no"/>petere conitum domesticum sepe plus siluester pro vi¬ 
+      <!--337.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="60"/>ctu querendo laborat et non tantum acquirit et frigus 
+      <lb ed="#P" n="61"/>immensum patitur non habet tale receptaculum sicut 
+      <lb ed="#P" n="62"/>domesticus. quo fit agricolarum et ocio incumbentium 
+      <lb ed="#P" n="63"/>vita est expertior ab istis venereis quam delicate altorum 
+      <lb ed="#P" n="64"/>multitudo liberorum non arguit oppositum imo proposi 
+      <lb ed="#P" n="65"/>tum rarus coitus labor moderatus et moderatus cibus 
+      <lb ed="#P" n="66"/>et quidem grossus ad hoc conducit secundum sapientes cui 
+      re<lb ed="#P" n="67" break="no"/>rum magistra experientia affert testimonium.
+    </p>
+            <p xml:id="JM7jmZ-d89160-d1e491">
+      ¶ Sed  
+      <lb ed="#P" n="68"/>dubitatur an tempore sumptionis eucharistie vir 
+      po<lb ed="#P" n="69" break="no"/>test reddere debitum vxori. Secundo dubitatur de 
+      <lb ed="#P" n="70"/>tempore quo probibentur nuptie hoc cognito notum 
+      <lb ed="#P" n="71"/>euadit quando contrahi possunt quia quod non est 
+      prohibi<lb ed="#P" n="72" break="no"/>tum est concessum.
+    </p>
+            <p xml:id="JM7jmZ-d89160-d1e505">
+      ¶ Ad primum ponuntur 
+      proposi<lb ed="#P" n="73" break="no"/>tiones.
+    </p>
+            <p xml:id="JM7jmZ-d89160-d1e510">
+      ¶ Si quis cognoscens suam reperiat se 
+      indi<lb ed="#P" n="74" break="no"/>spositum in crastino non debet sacramentum eucha 
+      <lb ed="#P" n="75"/>ristiam capere. hoc patet in aliis peccatis et prateres dicunt 
+      <lb ed="#P" n="76"/>hic esse maiorem illaqueationem quam in aliis.
+    </p>
+            <p xml:id="JM7jmZ-d89160-d1e519">
+      ¶ 
+      Secun<lb ed="#P" n="77" break="no"/>da propositio bonum est viro abstinere a propria vxo 
+      <lb ed="#P" n="78"/>re tempore quo debet capere corpus christi alias non 
+      <lb ed="#P" n="79"/>capit cum reuerentia qua decet. si non licuit immundus 
+      <lb ed="#P" n="80"/>capere panes propositionis a fortiori nec carnes agni 
+      <lb ed="#P" n="81"/>odere et illud patet. xxxiii. q. iiii c. sciatis. sed an 
+      te<lb ed="#P" n="82" break="no"/>neatur abstinere.
+    </p>
+            <p xml:id="JM7jmZ-d89160-d1e535">
+      ¶ Sit tertia propositio negatiua 
+      <lb ed="#P" n="83"/>non tenetur cum non reperiat se cras in mortali qui 
+      il<lb ed="#P" n="84" break="no"/>lud detestatus est et confessus est tunc probauit se 
+      susf<lb ed="#P" n="85" break="no"/>ficienter ergo potest capere corpus christi. patet. i. 
+      <lb ed="#P" n="86"/>corinthixi. et de consecra. d. ii. quotidie mundicia 
+      pa<lb ed="#P" n="87" break="no"/>num propositionum in noua lege non probat esse male 
+      <lb ed="#P" n="88"/>actum. Ad secundam dubitationem dicitur nuptie 
+      prohi<lb ed="#P" n="89" break="no"/>bentur celebrari ab aduentu vsque ad epiphaniam 
+      inclu<lb ed="#P" n="90" break="no"/>siue. patet. xxxiii. q. iiii. non oportet. item a 
+      septuagesi<lb ed="#P" n="91" break="no"/>ma vsque in octauam pache inclusiue. patet de feriis in 
+      <lb ed="#P" n="92"/>cap. capellanus. Item a primo die rogationum qui est 
+      <lb ed="#P" n="93"/>secunda feria ante ascensionem domini vsque ad octanam 
+      pen<lb ed="#P" n="94" break="no"/>thecostes inclusiue quia lictera dicit post septem dies 
+      <lb ed="#P" n="95"/>post festum penthecostes non essent septem dies nisi domini 
+      <lb ed="#P" n="96"/>ta includeretur qui hiis temporibus contrahit reali 
+      <lb ed="#P" n="97"/>ter contrahit: sed contra prohibitionem ecclesie et male 
+      <lb ed="#P" n="98"/>ageret secundum versus quos recitat glosa in cap. 
+      prefa<lb ed="#P" n="99" break="no"/>to. Ecclesie vetitum nec non tempus feriarum impediunt 
+      <lb ed="#P" n="100"/>fieri permittunt facta teneri quolibet tempore dicit glo 
+      <lb ed="#P" n="101"/>sa potest matrimonium contrahi sed nuptiarum sollenn 
+      <lb ed="#P" n="102"/>tas tantum hiis diebus prohibetur ne coniungantur 
+      <lb ed="#P" n="103"/>carnaliter. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

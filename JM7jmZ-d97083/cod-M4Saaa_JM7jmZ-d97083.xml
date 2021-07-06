@@ -1,0 +1,1050 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 4</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 4</title>
+               <date when="2021-07-06">July 06, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-M4Saaa">Paris 1509</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-06" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="175-r"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="JM7jmZ-d97083"><!-- l4d38q4 -->
+            <head xml:id="JM7jmZ-d97083-Hd1e108">Quaestio 4</head>
+            <head xml:id="JM7jmZ-d97083-Hd1e111" type="question-title">
+      An sit optima
+      inter tria vota et ad
+      quae se extendit
+    </head>
+            <p xml:id="JM7jmZ-d97083-d1e114">
+               <lb ed="#P" n="49"/>¶ Distinctionis trigesime octaue questio quarta. 
+      <lb ed="#P" n="50"/>CIrca hanc distinctionem quarto quero de obe 
+      <lb ed="#P" n="51" break="no"/>dientia an sit optima inter tria vota et ad quae 
+      <lb ed="#P" n="52"/>se extendit.
+    </p>
+            <p xml:id="JM7jmZ-d97083-d1e125">
+      ¶ Pro solutione quaestionis 
+      no<lb ed="#P" n="53" break="no"/>ta. quod obedientia principalius est conuenit actibus vel 
+      <lb ed="#P" n="54"/>habitibus interioribus quam exterioribus cum omnis 
+      <lb ed="#P" n="55"/>virtus intrincese sit volitio diffiniemus sic obedien 
+      <!--364.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="56"/>tiam. obedientia est actus vel habitus quo quis paret su 
+      <lb ed="#P" n="57"/>periori hoc est vult facere aliquid quia placet superio 
+      <lb ed="#P" n="58"/>ri actualiter vel habitualiter non semper obediens 
+      <lb ed="#P" n="59"/>facit actum quia actualiter placet superiori sufficit 
+      <lb ed="#P" n="60"/>virtualiter vel habitualiter quos terminos pro nunc 
+      <lb ed="#P" n="61"/>capio pro eodem licet actus sit habitu melior 
+      mo<lb ed="#P" n="62" break="no"/>dus philosophicus est habitum appellare virtutem 
+      <lb ed="#P" n="63"/>et non actum licet vterque potest dici virtus sed in hoc 
+      <lb ed="#P" n="64"/>non est luctandum.
+    </p>
+            <p xml:id="JM7jmZ-d97083-d1e158">
+      ¶ Ex illo sequuntur 
+      proposi<lb ed="#P" n="65" break="no"/>tiones. Prima est: aliqua obedientia est iusticia: pro 
+      <lb ed="#P" n="66"/>batur: omnis actus quo redditur alteri debitum et 
+      <lb ed="#P" n="67"/>quando et qualiter est debitum est iusticia: aliqua 
+      o<lb ed="#P" n="68" break="no"/>bedientia est huiusmodi: igitur.
+    </p>
+            <p xml:id="JM7jmZ-d97083-d1e170">
+      ¶ Secunda propo 
+      <lb ed="#P" n="69"/>sitio aliqua obedientia est fortitudo: patet. posito quod 
+      <lb ed="#P" n="70"/>superior precipiat sorti inferiori expectare in bello 
+      <lb ed="#P" n="71"/>pro defensione patrie nunc sortes facit actum 
+      obe<lb ed="#P" n="72" break="no"/>dientie et fortitudinis simul vmo suus actus idem 
+      <lb ed="#P" n="73"/>est obedientia fortitudo et iusticia: non existimes quam 
+      <lb ed="#P" n="74"/>libet fortitudinem a qualibet iusticia realiter distin 
+      <lb ed="#P" n="75"/>gui sufficit distinctio rationis interdum nonnunquam 
+      <lb ed="#P" n="76"/>realis.
+    </p>
+            <p xml:id="JM7jmZ-d97083-d1e190">
+      ¶ Tertia propositio aliqua obedientia non est 
+      <lb ed="#P" n="77"/>iusticia: patet quando quis paret vbi non tenetur pa 
+      <lb ed="#P" n="78"/>rere congruum est tamen parere an illa obedientia 
+      <lb ed="#P" n="79"/>sit liberalitas vel ad eam reducibilis non insisto. 
+      </p>
+            <p xml:id="JM7jmZ-d97083-d1e199">
+               <lb ed="#P" n="80"/>¶ Quarta propositio aliqua obedientia non est 
+      vir<lb ed="#P" n="81" break="no"/>tus: patet de obedientia contra deum et equitatem ca 
+      <lb ed="#P" n="82"/>pitur in bonam partem et in malam sicut vginitas. 
+      </p>
+            <p xml:id="JM7jmZ-d97083-d1e208">
+               <lb ed="#P" n="83"/>¶ Quinta propositio non omnis inobedientia est pec 
+      <lb ed="#P" n="84"/>catum: patet de nolle obedire quando quis non 
+      te<lb ed="#P" n="85" break="no"/>netur quod aliqua inobedientia sit peccatum non est que 
+      <lb ed="#P" n="86"/>stio et quanto amplius quis parere tenetur: tanto 
+      ino<lb ed="#P" n="87" break="no"/>bedientia est maior: an inobedientia pure negatiue ca 
+      <lb ed="#P" n="88"/>piendo sit peccatum ex secundo dependet an sit pu 
+      <lb ed="#P" n="89"/>ra omissio vbi tenemus quod sic.
+    </p>
+            <p xml:id="JM7jmZ-d97083-d1e226">
+      ¶ Sexto sequitur quod 
+      <lb ed="#P" n="90"/>multe sunt obedientie specie distincte: patet: multi 
+      <lb ed="#P" n="91"/>sunt actus quorum quilibet est obedientia specie di 
+      <lb ed="#P" n="92"/>stincti et tanta est distinctio habituum acquisitorum 
+      <lb ed="#P" n="93"/>quot actuum: igitur.
+    </p>
+            <p xml:id="JM7jmZ-d97083-d1e237">
+      ¶ Septimo sequitur: aliqua 
+      <lb ed="#P" n="94"/>obedientia respicit preceptum: aliqua consilium: ali 
+      <lb ed="#P" n="95"/>qua monitionem: aliqua prohibitionem. 
+      </p>
+            <p xml:id="JM7jmZ-d97083-d1e245">
+               <lb ed="#P" n="96"/>¶ Octauo sequitur: licet omnis paupertas et 
+      om<lb ed="#P" n="97" break="no"/>nis continentia sit obedientia non tamen omnis 
+      o<lb ed="#P" n="98" break="no"/>bedientia est paupertas vel continentia. paupertas 
+      <lb ed="#P" n="99"/>est actus vel habitus quo quis a se abdicat omnia 
+      <lb ed="#P" n="100"/>pona fortune propter deum: hoc est quia est 
+      prece<lb ed="#P" n="101" break="no"/>ptum in illo qui vouit: vel est consilium christi in 
+      il<lb ed="#P" n="102" break="no"/>lo qui non vouit: et sic est obedientia. eodemmodo 
+      <lb ed="#P" n="103"/>ostendi potest quod continentia sit obedientia. Secun 
+      <lb ed="#P" n="104"/>da pars patet quod non omnis obedientia sit continen 
+      <lb ed="#P" n="105"/>tia vel paupertas in sensu diuiso: clarum est in 
+      sen<lb ed="#P" n="106" break="no"/>su composito patet de ieiunio et aliis innumeris 
+      <lb ed="#P" n="107"/>actibus et habitibus. obedientia se ad multos 
+      a<lb ed="#P" n="108" break="no"/>ctus studiosos potest extendere et vt videtur ad  
+      <lb ed="#P" n="109"/>omnes actus voluntatis. loquutus sum de pauper 
+      <lb ed="#P" n="110"/>tate virtute et non de carentia diuitiarum sunt 
+      ple<lb ed="#P" n="111" break="no"/>rique pauperes qui licet nichil possident non tamen ha 
+      <lb ed="#P" n="112"/>bent paupertatem virtutem qui libenter haberent 
+      <lb ed="#P" n="113"/>et non habent paupertas in talibus est carentia di¬ 
+      <!--365.xml-->
+      <pb ed="#P" n="175-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>uitiarum. Si petas que res est talis paupertas: 
+      di<lb ed="#P" n="2" break="no"/>co quod est homo pauper licet diuitie sint bona 
+      fortu<lb ed="#P" n="3" break="no"/>ne. Paupertriphariam accipitur: vno modo pro illo 
+      <lb ed="#P" n="4"/>qui nichil habet. Aliomodo sicut dictum est et illa 
+      <lb ed="#P" n="5"/>acceptio est illa de qua dicitur paupertas si leta ve 
+      <lb ed="#P" n="6"/>nit ditissima res est. de qua saluator noster taliter 
+      <lb ed="#P" n="7"/>loquutus est mathei. xix. Si vis perfectus esse ven 
+      <lb ed="#P" n="8"/>de omnia que habes et da pauperibus nunquid dio 
+      <lb ed="#P" n="9"/>genes pera pro cellario suo doleolo contentus man 
+      <lb ed="#P" n="10"/>serat quid crates aristedeus plautus et athenienses 
+      <lb ed="#P" n="11"/>philosophi famegerati diuitias contempserunt pau 
+      <lb ed="#P" n="12"/>pertas dicit lucanus quinto pharsalie est munus a 
+      <lb ed="#P" n="13"/>diis datum non satis a mortalibus intellectum alle 
+      <lb ed="#P" n="14"/>gans quid amiclas dixit de sua casa in aduentu 
+      ce<lb ed="#P" n="15" break="no"/>saris inquiens. securus belli predam ciuilibus 
+      ar<lb ed="#P" n="16" break="no"/>mis. scit non esse casam o vite tuta facultas. paupe 
+      <lb ed="#P" n="17"/>ris angustique lares: o munera nondum intellecta de 
+      <lb ed="#P" n="18"/>um philostratus primo libro de vita apolonii dicit 
+      <lb ed="#P" n="19"/>dauus solet audire apolonium sic orantem. O dii con 
+      <lb ed="#P" n="20"/>cedite michi pauca habere et nullius indigere. Idem 
+      <lb ed="#P" n="21"/>tidem patet de iarca et bragmanis philosophis libro tertio 
+      <lb ed="#P" n="22"/>licet homerus omnium esset pauperrimus plures tamen ci 
+      <lb ed="#P" n="23"/>uitates gloriabantur eum fuisse in eis oriundum. Pa 
+      <lb ed="#P" n="24"/>stores abrahe et loth cum effecti sunt diuites non 
+      po<lb ed="#P" n="25" break="no"/>terant simul cohabitare nec ipsi venerandi patres: 
+      <lb ed="#P" n="26"/>genesis. xiii. Et si dicas prouerb. iii. mendicitatem et 
+      <lb ed="#P" n="27"/>diuitias ne dederis michi: ergo sapiens rogauit deum 
+      <lb ed="#P" n="28"/>ne primeretur tali paupertate. Respondeo sapiens sub 
+      <lb ed="#P" n="29"/>iungit solutionem statim sequitur ex littera tribue 
+      <lb ed="#P" n="30"/>tantum victui meo necessaria ne forte satiatus 
+      alli<lb ed="#P" n="31" break="no"/>ciar ad negandum et dicam quis est dominus aut egesta 
+      <lb ed="#P" n="32"/>te compulsus furer ista non contingunt in religiosis 
+      <lb ed="#P" n="33"/>bene viuentibus siue habeant in communi aliquid siue nichil 
+      <lb ed="#P" n="34"/>nec denique in quocumque alio bono paupere quod pulcre 
+      <lb ed="#P" n="35"/>declarat suus pater regius propha psal. xxi. Edent 
+      <lb ed="#P" n="36"/>pauperes et saturabuntur. et psal. ix. Tibi derelictus 
+      <lb ed="#P" n="37"/>est pauper et patientia pauperum non peribit in finem 
+      <lb ed="#P" n="38"/>Tertiomodo capitur pauper pro illo qui spem non po 
+      <lb ed="#P" n="39"/>nit in diuitiis sed vtitur tanquam bonus artifex suo 
+      in<lb ed="#P" n="40" break="no"/>strumento in sublouationem pauperum secundum con 
+      <lb ed="#P" n="41"/>silium psalmiste psaltum. ixi. si diuitie affluant nolite 
+      <lb ed="#P" n="42"/>cor apponere. et math. v. beati pauperes spiritu ali 
+      <lb ed="#P" n="43"/>qui tales sunt boni diuites et pauperes nec est oppo 
+      <lb ed="#P" n="44"/>sitio aliqua: patet de abraham diuite / beato ludouico 
+      <lb ed="#P" n="45"/>et plerisque aliis non repugnat aliquem affluere diuitiis 
+      <lb ed="#P" n="46"/>cum creso lidorum et in eis non iactare cogitatum. 
+      <lb ed="#P" n="47"/>Et si dicas math. xix. dicitur facilius est camelum per 
+      <lb ed="#P" n="48"/>foram est acus transire quam diuitem intrare in regnum 
+      ce<lb ed="#P" n="49" break="no"/>lorum: boc exponit christus mar. x. quam difficile qui 
+      pe<lb ed="#P" n="50" break="no"/>cunias habent in regnum dei introibunt. et sequitur di 
+      <lb ed="#P" n="51"/>scipuli autem obstupebant in verbis cius. glosa inter 
+      <lb ed="#P" n="52"/>inearis, non poterant intelligere et adhuc eis expo 
+      <lb ed="#P" n="53"/>suit. filioli quam difficile est confidentes in pecuniis in 
+      <lb ed="#P" n="54"/>regnum dei introire. glosa interlis. non dicit habentes 
+      <lb ed="#P" n="55"/>sed in eis confidentes ille confidit in eis qui omnem 
+      <lb ed="#P" n="56"/>pe min eis ponit relicto auxilio diuino loquebatu 
+      <lb ed="#P" n="57"/>et praeus de similibus diuitibus illi de quo loquebatur 
+      <lb ed="#P" n="58"/>en ed simpliciter melior conditio est mediocriter bo¬ 
+      <!--365.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="59"/>na fortune possidere quam affluere diuitiis vel primi 
+      ino<lb ed="#P" n="60" break="no"/>pia et magis eligibile licet iob equanimiter se 
+      habe<lb ed="#P" n="61" break="no"/>bat in diuitiis et egestate et erat sicut tetragonus quo 
+      <lb ed="#P" n="62"/>modo est felix sicut aristoteles loquitur primo 
+      ethico<lb ed="#P" n="63" break="no"/>rum et pauci alii bene vsi sunt diuitiis tamen 
+      plu<lb ed="#P" n="64" break="no"/>res alii in eis perierunt: non dico bonos religiosos 
+      <lb ed="#P" n="65"/>vel voluntarie pauperes pressos inopia. ex quo 
+      sequi<lb ed="#P" n="66" break="no"/>tur prudens citius deberet eligere mediocres diui 
+      <lb ed="#P" n="67"/>tias quam affluentiam pecuniarum sed non est hic medium 
+      <lb ed="#P" n="68"/>et extrema sicut in vertutibus et in vitiis de quibus loqui 
+      <lb ed="#P" n="69"/>tur aristoteles in ethicis et magnis moralibus: sed de 
+      <lb ed="#P" n="70"/>hiis que sunt instrumenta vertutum in pluribus et etiam 
+      <lb ed="#P" n="71"/>secludamus omns voluntarie pauperes: vel si vis de 
+      <lb ed="#P" n="72"/>eis loqui dico eos habere mediocritatem. Si petas 
+      <lb ed="#P" n="73"/>an penuria sit magis fugienda quam excessiue diuitie. dicitur 
+      <lb ed="#P" n="74"/>quod simpliciter plures in prosperitate cadere videntur quam 
+      <lb ed="#P" n="75"/>in inopia: vide casum dauidis in vexatione et in pro 
+      <lb ed="#P" n="76"/>speris dicente psalmista eod. cadent a latere tuo mil 
+      <lb ed="#P" n="77"/>le a dextris tuis decem milia. per latus vexationem: 
+      <lb ed="#P" n="78"/>et dexteram prospera intelligere potes. et tertio par 
+      <lb ed="#P" n="79"/>thenices. vt se sale consperso longos seruantur in 
+      <lb ed="#P" n="80"/>vsus Uiscera: nec ledi sanie nec tempore possunt. sic 
+      <lb ed="#P" n="81"/>puris animi rebus formantur et omnem Abiiciunt pe 
+      <lb ed="#P" n="82"/>stis causam: sors aspera tecum prebet iter via fede 
+      <lb ed="#P" n="83"/>reas hec ducit in arces. et decimo eneydos. Nescia 
+      <lb ed="#P" n="84"/>mens hominem fati sortis que future. Et seruare modum 
+      <lb ed="#P" n="85"/>rebus sublata secundis. et lucanus in primo pharsam 
+      <lb ed="#P" n="86"/>lie. Mores rebus cessere secundis. propterea ecclesia. 
+      <lb ed="#P" n="87"/>vii. dicitur: melius est ire ad domum luctus quam ad do 
+      <lb ed="#P" n="88"/>mum conuiuii. prouerb. xxix. virga atque correctio pin 
+      <lb ed="#P" n="89"/>puit intellectum atque sapientiam. Esaye vicesimo 
+      <lb ed="#P" n="90"/>sexto. domie in angustia quesierunt te minus in 
+      quam<lb ed="#P" n="91" break="no"/>titate aquae salse superfert aliquod graue quam aque 
+      dul<lb ed="#P" n="92" break="no"/>cis: ouum descendit in aqua dulci quod supernatat in sal 
+      <lb ed="#P" n="93"/>sa: sic in dulcedine prosperitatis cadit qui in salsa 
+      a<lb ed="#P" n="94" break="no"/>maritudine superfertur multe tribulationes iustorum 
+      <lb ed="#P" n="95"/>psalmo trigesi mo tertio / et decimo quinto. 
+      Multi<lb ed="#P" n="96" break="no"/>plicate sunt infirmitates eorum postea 
+      acceleraue<lb ed="#P" n="97" break="no"/>runt. et psalmo decimo septimo. Castigans castiga 
+      <lb ed="#P" n="98"/>uit me et morti non tradidit me. signum est 
+      damna<lb ed="#P" n="99" break="no"/>tionis habere omnia prospera ad nutum legitur in 
+      <lb ed="#P" n="100"/>legenda sancti ambrosii cum in hospitio quesiuit de 
+      <lb ed="#P" n="101"/>statu hospitis qui dixit ei omnia dextere succedere 
+      <lb ed="#P" n="102"/>noluit pernoctare beatus ambrosius et ipso 
+      abeun<lb ed="#P" n="103" break="no"/>te terra deuorauit hospitem cum suis: quinto mora 
+      <lb ed="#P" n="104"/>lium sanctus gregorius declarat per similitudinem 
+      <lb ed="#P" n="105"/>de medico qui sinit patientem de cuius vita 
+      despe<lb ed="#P" n="106" break="no"/>ratur comedere et bibere quicquid libuerit quem 
+      <lb ed="#P" n="107"/>putat curare prohibet a tali comestione cum bos im 
+      <lb ed="#P" n="108"/>pinguatur et stat in ocio signum est quod statim 
+      duce<lb ed="#P" n="109" break="no"/>tur ad macellum sicut agaso asinum cedit vt ad 
+      vi<lb ed="#P" n="110" break="no"/>am redeat sic quos deus diligit flagellat vt ad 
+      vi<lb ed="#P" n="111" break="no"/>am veritatis redeant. In vita sancti thome canthua 
+      <lb ed="#P" n="112"/>riensis legitur quod quidam presbyter ei deuotus es 
+      <lb ed="#P" n="113"/>quondam familiaris laborans morbo petit a 
+      bea<lb ed="#P" n="114" break="no"/>to thoma incolumitatem quam consequutus est et 
+      <lb ed="#P" n="115"/>ad se rediens dicebat non expeto sanitatem si mee salu 
+      <lb ed="#P" n="116"/>ti non conducat et iterum in infirmitatem incede¬ 
+      <!--366.xml-->
+      <pb ed="#P" n="176-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>bat legitur in vitis patrum de quodam vehemen 
+      <lb ed="#P" n="2"/>ter tentato vitio carnis cuius abbas fecit socios eum 
+      <lb ed="#P" n="3"/>vehementer accusare et vexare interrogatus in fine 
+      <lb ed="#P" n="4"/>anni quomodo faceret cum tentationibus. Respou 
+      <lb ed="#P" n="5"/>dit non datur michi viuere cum fratribus sum ple 
+      <lb ed="#P" n="6"/>nus tribulationum quomodo possum immorari 
+      cir<lb ed="#P" n="7" break="no"/>ca tentationes carnis secundum illud ecclesiast. vn 
+      <lb ed="#P" n="8"/>decimo malicia sicut afflictio vnius hore obliuion 
+      <lb ed="#P" n="9"/>facit luxurie: maxime et quia idem est obiectum 
+      pa<lb ed="#P" n="10" break="no"/>tientie et impatientie quod vni est vita alteri est mors 
+      <lb ed="#P" n="11"/>sol indurescit lutum et liquefacit ceram. 
+      </p>
+            <p xml:id="JM7jmZ-d97083-d1e579">
+               <lb ed="#P" n="12"/>¶ Istis notatis ponuntur conclusiones. Prima est: 
+      <lb ed="#P" n="13"/>obedientia inter tria vota est potissima.
+    </p>
+            <p xml:id="JM7jmZ-d97083-d1e586">
+      ¶ 
+      Secun<lb ed="#P" n="14" break="no"/>da conclusio vera obedientia non vult quod inferior in 
+      <lb ed="#P" n="15"/>omnibus pareat superiori. Probatur prior conclu 
+      <lb ed="#P" n="16"/>sio preciosius deo offertur per obedientiam quam per 
+      <lb ed="#P" n="17"/>alia duo primo ethicorum: tria habet homo / bona 
+      <lb ed="#P" n="18"/>fortune / bona corporis / bona anime: duo prima 
+      ab<lb ed="#P" n="19" break="no"/>dicat homo per alia duo vota tertium et potissimum 
+      <lb ed="#P" n="20"/>scilicet propriam voluntatem per obedientiam. 
+      <lb ed="#P" n="21"/>Ex illa probatione sequitur quod paupertas est minus 
+      <lb ed="#P" n="22"/>bonum quam continentia sicut paupertas in vno est me 
+      <lb ed="#P" n="23"/>lior quam in alio quia difficilior difficilius est multa re 
+      <lb ed="#P" n="24"/>linquere quam pauca. Secundo probatur eadem 
+      con<lb ed="#P" n="25" break="no"/>clusio primi regum decimo quinto: melior est 
+      obe<lb ed="#P" n="26" break="no"/>dientia quam victima: quia per victimam dicit beatus 
+      <lb ed="#P" n="27"/>gregorius vicesimo quinto moralium aliena caro 
+      <lb ed="#P" n="28"/>per obedientiam propria caro mactatur. et hoc idem 
+      <lb ed="#P" n="29"/>patet octaua questione prima. sciendum insuper. et 
+      <lb ed="#P" n="30"/>genesis vicesimo secundo: in semine tuo benedicen 
+      <lb ed="#P" n="31"/>tur omnes gentes quia obedisti voci mee. et eadem. 
+      <lb ed="#P" n="32"/>sententia habetur genesis vicesimo sexto. amplius 
+      <lb ed="#P" n="33"/>habet ipotetum sanctum est modus loquendi in vir 
+      <lb ed="#P" n="34"/>tute sancte obedientie. Preterea infert alia duo et 
+      <lb ed="#P" n="35"/>illa claudit non autem contra bene sequitur hic reli 
+      <lb ed="#P" n="36"/>giosus est obediens: ergo est pauper: ergo est conti 
+      <lb ed="#P" n="37"/>nens: oppositum consequentis interimit antecedens: 
+      <lb ed="#P" n="38"/>probatur conclusio testimonio cuiusdam patris 
+      si<lb ed="#P" n="39" break="no"/>cut recitatur in vitis patrum in fine in laudibus obe 
+      <lb ed="#P" n="40"/>dientie. dicebant fratres inquit quia narrauit 
+      qui<lb ed="#P" n="41" break="no"/>dam patrum vidisse se quatuor ordines in celo quo 
+      <lb ed="#P" n="42"/>rum primus erat hominum infirmorum gratias dec 
+      <lb ed="#P" n="43"/>agentium: secundus hospitalitatem sectantium in 
+      <lb ed="#P" n="44"/>stanter minstrantes eis: tertius in solitudinem com 
+      <lb ed="#P" n="45"/>morantium et non videntium homines: quartus 
+      or<lb ed="#P" n="46" break="no"/>do erat que ad obedientiam patribus spiritualibus 
+      <lb ed="#P" n="47"/>se subiiciunt propter dominum videbatur autem ordo 
+      o<lb ed="#P" n="48" break="no"/>bedientium torquem auream habere et multo ma 
+      <lb ed="#P" n="49"/>lorem quam alii gloriam habebat subiungit causam pa 
+      <lb ed="#P" n="50"/>ter qui narrat alii secundum propriam voluntatem 
+      <lb ed="#P" n="51"/>faciunt hic omnia dedit propter deum et 
+      volunta<lb ed="#P" n="52" break="no"/>tem propriam et pendet ad voluntatem spiritualis 
+      <lb ed="#P" n="53"/>patris et concludendo dicit genitrix est omnium 
+      vira<lb ed="#P" n="54" break="no"/>tutum obedientia regni celorum inuentrix est celos 
+      <lb ed="#P" n="55"/>aperiens hominem de terra leuat obedientia 
+      coha<lb ed="#P" n="56" break="no"/>bitatrix est angelorum et sanctorum omnium cibus 
+      <lb ed="#P" n="57"/>est. Ex hac enim abluti sunt et per hanc ad perfectio 
+      <lb ed="#P" n="58"/>nem veniunt. Secunda conclusio probatur: posito 
+      <lb ed="#P" n="59"/>quod superior precipiat contra legem dei sed hoc da¬ 
+      <!--366.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="60"/>to quod precipiat conformiter ad legem dei. probatur 
+      <lb ed="#P" n="61"/>conclusio nemo obligatur nisi ad illud ad quod se 
+      <lb ed="#P" n="62"/>intendebat obligare dummodo rationabiliter inten 
+      <lb ed="#P" n="63"/>dit sed profitens vnam regulam non intendit aliud 
+      <lb ed="#P" n="64"/>nisi obligare se ad regulam quam profitetur: igitur 
+      <lb ed="#P" n="65"/>Rursus per te sortes religiosus tenetur parere in om 
+      <lb ed="#P" n="66"/>nibus superiori non precipienti contra deum: ergo  
+      <lb ed="#P" n="67"/>si superior precipiat ei tota die facere circulum in 
+      ci<lb ed="#P" n="68" break="no"/>neribus vel ieiunare diem dominicam vel intrare 
+      car<lb ed="#P" n="69" break="no"/>thusiam sequitur quod ad illud tenetur: consequens est 
+      <lb ed="#P" n="70"/>falsum hoc non habet ex sua regula: igitur. Illud pa 
+      <lb ed="#P" n="71"/>tet per beatum bernardum in libro de precepto et 
+      dis<lb ed="#P" n="72" break="no"/>pensatione dicentem uichil me prohibeat prelatus ho 
+      <lb ed="#P" n="73"/>rum que promisi nichil plus exigat quam promisi si ta 
+      <lb ed="#P" n="74"/>men obediat mandatis dumtaxat licitis bene facit 
+      <lb ed="#P" n="75"/>et est obedientia non necessaria sed perfecta si etiam 
+      <lb ed="#P" n="76"/>obediat in omnibus etiam illicitis fatue facit et est 
+      <lb ed="#P" n="77"/>obedientia temeraria. Si dicas tenetur in 
+      omni<lb ed="#P" n="78" break="no"/>bus tenere castitatem et paupertatem seruare: ergo  
+      <lb ed="#P" n="79"/>in omnibus parere consequentia est nulla prima duo 
+      <lb ed="#P" n="80"/>habent determinatam materiam obedientia 
+      latio<lb ed="#P" n="81" break="no"/>rem materiam. secundo dicitur et melius non 
+      tene<lb ed="#P" n="82" break="no"/>tur seruare castitatem et paupertatem 
+      qualemcun<lb ed="#P" n="83" break="no"/>que sed secundum regulam non tenetur seruare ita 
+      <lb ed="#P" n="84"/>artum vsum bonorum fortune sicut frater minor nec 
+      <lb ed="#P" n="85"/>virginitatem sed si eam habeat tenetur eam 
+      serua<lb ed="#P" n="86" break="no"/>re hoc est de per accidens.
+    </p>
+            <p xml:id="JM7jmZ-d97083-d1e751">
+      ¶ Confirmo id idem 
+      <lb ed="#P" n="87"/>per casum iocosum sed artificiosum cuiusdam pres 
+      <lb ed="#P" n="88"/>byteri in partibus meis dummodo ruri erat condu 
+      <lb ed="#P" n="89"/>ctus cum quodam domicello vocauit hic domicel 
+      <lb ed="#P" n="90"/>lus presbyterum ad colligendum fenum in campis 
+      <lb ed="#P" n="91"/>cum aliis qui cucurrit ad archam et litteras 
+      osten<lb ed="#P" n="92" break="no"/>dit in quibus contractus erat inter eum et domicel 
+      <lb ed="#P" n="93"/>lum petens si inueniretur in litteris de colligendo 
+      <lb ed="#P" n="94"/>feno in campis et tamen officium non dedecebat 
+      praes<lb ed="#P" n="95" break="no"/>byterum nec erat contra legem diuinam: igitur. 
+      si<lb ed="#P" n="96" break="no"/>cut hic presbpter dicebat se non esse obligatum ad 
+      <lb ed="#P" n="97"/>omnia imposita a suo magistro sic potest religiosus 
+      <lb ed="#P" n="98"/>dicere se non esse obligatum ad omnia que precipit 
+      <lb ed="#P" n="99"/>superior. et illud intelligi volo quando est certum quod 
+      <lb ed="#P" n="100"/>nec continetur in regula nec annexum conseruatio 
+      <lb ed="#P" n="101"/>ni regule constat michi quod facere triangulum in 
+      ci<lb ed="#P" n="102" break="no"/>neribus non conducit mee regule nisi quia in omni 
+      <lb ed="#P" n="103"/>bus obedire licitis est bonum sed vbi est dubium ra 
+      <lb ed="#P" n="104"/>tionabile non excuso inferiorem quod non debeat 
+      pa<lb ed="#P" n="105" break="no"/>rere superiori alioquin eneruaretur omnis rigor reli 
+      <lb ed="#P" n="106"/>giosorum ex altera parte caueat superior imponere 
+      <lb ed="#P" n="107"/>iugum difficile in feriori et ei aliquid iniungere quod nec in 
+      <lb ed="#P" n="108"/>regula continetur nec praesupponitur nec eidem annectitur 
+      <lb ed="#P" n="109"/>alio quin inquietabit religiosum imponendo onus quod nec 
+      <lb ed="#P" n="110"/>ipse nec alii portare possunt.
+    </p>
+            <p xml:id="JM7jmZ-d97083-d1e806">
+      ¶ Contra istas duas 
+      <lb ed="#P" n="111"/>conclusiones simul argumentor virtus et ars sunt 
+      <lb ed="#P" n="112"/>circa difficile secundo ethicorum: sed difficilius est 
+      <lb ed="#P" n="113"/>bona fortune abdicare quam propriam voluntatem 
+      po<lb ed="#P" n="114" break="no"/>nere in manus superioris vt patet de iuuene qui venit ad 
+      <lb ed="#P" n="115"/>christum math. xix. qui libens parebat sed acceptare 
+      pau<lb ed="#P" n="116" break="no"/>pertatem non poterat.
+    </p>
+            <p xml:id="JM7jmZ-d97083-d1e822">
+      ¶ Et confirmatur vel obediem 
+      <lb ed="#P" n="117"/>tia est in infinitum melior quam paupertas vel finite est me 
+      <lb ed="#P" n="118"/>lior non primum et si secuundum difficilius est relin 
+      <!--367.xml-->
+      <pb ed="#P" n="176-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>quere mille quam centum dabitur aliquis relinquens 
+      <lb ed="#P" n="2"/>tot bona quod sua paupertas obedientiam exuperabii 
+      </p>
+            <p xml:id="JM7jmZ-d97083-d1e841">
+               <lb ed="#P" n="3"/>¶ Ad primum concedo maiorem ceteris paribus 
+      <lb ed="#P" n="4"/>hoc addiderim dilectio dei super omnia in habitua 
+      <lb ed="#P" n="5"/>to non est ita difficilis sicut multi alii actus minoris 
+      <lb ed="#P" n="6"/>meriti sed nego minorem difficilimum est in 
+      omni<lb ed="#P" n="7" break="no"/>bus vbi obediendum est obedire et non 
+      recalcitra<lb ed="#P" n="8" break="no"/>re prouerbiorum decimo sexto. qui dominatur 
+      ani<lb ed="#P" n="9" break="no"/>mo suo melior est oppugnatore vrbium. In hoc lau 
+      <lb ed="#P" n="10"/>datur religiosus qui sic superiori paruit cum eum 
+      <lb ed="#P" n="11"/>vocaret a scriptura et incepit facere o vocalem et 
+      a<lb ed="#P" n="12" break="no"/>liquam partem littere protraxit non compleuit 
+      lit<lb ed="#P" n="13" break="no"/>teram sed protinus patre vocante omnia dimisit 
+      <lb ed="#P" n="14"/>multo difficilior est obedientia quam alia duo et alia in 
+      <lb ed="#P" n="15"/>cludit.
+    </p>
+            <p xml:id="JM7jmZ-d97083-d1e872">
+      ¶ Ad confirmationem de paupertate dico 
+      <lb ed="#P" n="16"/>uod illa est obedientia et fateor secundum quod homo re 
+      <lb ed="#P" n="17"/>tinquit plura vel pautiora est signum quod sua pauper 
+      <lb ed="#P" n="18"/>tas est melior stat illum qui parum habet 
+      relinquem<lb ed="#P" n="19" break="no"/>do illa tantum mereri sicut illum qui plura habet vt 
+      <lb ed="#P" n="20"/>de petro: ecce nos reliquimus omnia. si petrus fuis 
+      <lb ed="#P" n="21"/>set ita diues sicut presbyter iohannes contentus erats 
+      <lb ed="#P" n="22"/>omnia relinquere pro christo: aliqua est tamen 
+      pau<lb ed="#P" n="23" break="no"/>pertas aliqua obedientia melior sed optima obedi 
+      <lb ed="#P" n="24"/>entia est omni paupertate melior vt volitio qua quis 
+      <lb ed="#P" n="25"/>vult omnia relinquere et continenter viuere et pa 
+      <lb ed="#P" n="26"/>rere superiori et quando secluderes paupertatem 
+      <lb ed="#P" n="27"/>et continentiam adhuc vnus actus obedientie est 
+      <lb ed="#P" n="28"/>melior optimo actu paupertatis simplicis vt volo 
+      <lb ed="#P" n="29"/>meam voluntatem subdere in omnibus superiori 
+      <lb ed="#P" n="30"/>vbi decet propter christum. Ex isto patet: homo 
+      <lb ed="#P" n="31"/>potest multum mereri exeundo in actus 
+      pauperta<lb ed="#P" n="32" break="no"/>tis continentie et obedientie cum sint actus optimi. 
+      <lb ed="#P" n="33"/>Secundo patet: paupertas habitus est pulchra vir 
+      <lb ed="#P" n="34"/>tus siue in diuite siue in nichil habente qui quidam 
+      <lb ed="#P" n="35"/>habitus ex aliis et aliis actibus est genitus. Tertio 
+      <lb ed="#P" n="36"/>sequitur quod ille qui vult seruare suam regulam 
+      be<lb ed="#P" n="37" break="no"/>ne debet elicere frequentes actus circa ista tria et 
+      <lb ed="#P" n="38"/>potissimum obedientiam: patet: habitus inclinant 
+      <lb ed="#P" n="39"/>in actus et faciunt hominem habentem habitum rei 
+      <lb ed="#P" n="40"/>sistere corruptioni istorum trium. Forte dicis 
+      ali<lb ed="#P" n="41" break="no"/>qua obedientia est viro inutilis: patet sit sortes orans 
+      <lb ed="#P" n="42"/>et susurrans in angulo sue cellule cum deo abbas 
+      <lb ed="#P" n="43"/>vocat eum ad fodiendum in orto tunc relinquit me 
+      <lb ed="#P" n="44"/>lius propter minus bonum. Respondetur 
+      negan<lb ed="#P" n="45" break="no"/>do quod acquirit minus bonum duo acquirit vnum est 
+      <lb ed="#P" n="46"/>vnum actum sancte obedientie aliud etiam diligit 
+      <lb ed="#P" n="47"/>deum fodiendo in orto et quando vocaretur ad col 
+      <lb ed="#P" n="48"/>loquium vbi de deo non potest cogitare adhuc plus 
+      <lb ed="#P" n="49"/>meretur sanctum propositum istius acceptat deus 
+      <lb ed="#P" n="50"/>in multo plus quam oraret istud facit propter deum ac 
+      <lb ed="#P" n="51"/>tualiter vel virtualiter et hoc est iterum deum 
+      dili<lb ed="#P" n="52" break="no"/>gere et boc intelligo etiam quando esset consilium 
+      <lb ed="#P" n="53"/>abbati parere si esset preceptum peccatum esset ibi 
+      <lb ed="#P" n="54"/>manere in tali oratione et elongat se a sancta obedi 
+      <lb ed="#P" n="55"/>entia oportet religiosum nunc esse martham nunc 
+      <lb ed="#P" n="56"/>vero magdalenam et ambidextrum cum aioth. 
+      </p>
+            <p xml:id="JM7jmZ-d97083-d1e963">
+               <lb ed="#P" n="57"/>¶ Secundo principaliter argumentor: vel vera 
+      o<lb ed="#P" n="58" break="no"/>bedienta inclinat inferiorem ad obediendum 
+      supe<lb ed="#P" n="59" break="no"/>riori in omnibus vel solum in hiis que continentur 
+      <!--367.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="60"/>in regula: si primum intentum: si secundum tunc 
+      di<lb ed="#P" n="61" break="no"/>cam superiori precipienti michi mundare claustrum 
+      <lb ed="#P" n="62"/>hoc non continetur in regula / iohannes mundabit 
+      <lb ed="#P" n="63"/>claustrum / iohannes sedebit cum infirmis et eis ser 
+      <lb ed="#P" n="64"/>uiet non continetur in regula.
+    </p>
+            <p xml:id="JM7jmZ-d97083-d1e987">
+      ¶ Et confirmatur: 
+      <lb ed="#P" n="65"/>postquam iohannes cassianus libro quarto de institut. 
+      ce<lb ed="#P" n="66" break="no"/>nobiorum tria exempla iohannis heremite 
+      posue<lb ed="#P" n="67" break="no"/>rit capitulo vicesimo septimo exemplum recitat me 
+      <lb ed="#P" n="68"/>morabile quo mutius proprium filium precipiente 
+      <lb ed="#P" n="69"/>superiore precipitare in flumen volebat / et iohannes 
+      <lb ed="#P" n="70"/>heremita oleum necessarium vsui patrum precipien 
+      <lb ed="#P" n="71"/>te abbate effudit ex vitis patrum et aliis hystoriis 
+      <lb ed="#P" n="72"/>multa exempla similia adduci possunt. Ad tertium 
+      <lb ed="#P" n="73"/>dicitur vel prelatus precipit aliquid contra regulam 
+      <lb ed="#P" n="74"/>in hiis in quibus dispensare non potest et tunc ei pa 
+      <lb ed="#P" n="75"/>rendum non est plus deo quam hominibus parendum 
+      <lb ed="#P" n="76"/>est: vel abbas precipit aliquid quod continetur in 
+      <lb ed="#P" n="77"/>regula vel sine quo regula seruari non potest et 
+      tunc<lb ed="#P" n="78" break="no"/>ei parendum est / iohannes debet mundare claustrum 
+      <lb ed="#P" n="79"/>non sequitur ex omnibus contentis in regula in bo 
+      <lb ed="#P" n="80"/>na consequentia: sed sequitur ex regula cum adiun 
+      <lb ed="#P" n="81"/>ctione propositionum verarum rationabilium 
+      qui<lb ed="#P" n="82" break="no"/>bus iohannes assentire debet iohannes emisit 
+      obe<lb ed="#P" n="83" break="no"/>dientiam secundum regulam hanc in regula vel con 
+      <lb ed="#P" n="84"/>stitutionibus continetur quod fratres visitent infirmos 
+      <lb ed="#P" n="85"/>et eis inseruiant et iuniores mundent claustrum / pul 
+      <lb ed="#P" n="86"/>sent campanas vel huiusmodi / iohannes est 
+      idone<lb ed="#P" n="87" break="no"/>us de iunioribus pro hoc officio: ergo precipiente 
+      <lb ed="#P" n="88"/>abbate vel priore debet parere. Si ponas tres equa 
+      <lb ed="#P" n="89"/>liter idoneos ad hoc officium si iohannes precipiem 
+      <lb ed="#P" n="90"/>te prelato non tenetur illud exequi: eodemmodo nec 
+      <lb ed="#P" n="91"/>aliquis alius per similem rationem et sic erit 
+      enera<lb ed="#P" n="92" break="no"/>uatio regule et iohannes contrauenit sue 
+      professio<lb ed="#P" n="93" break="no"/>ni vel regule / vel abbas precipit aliquid 
+      imperti<lb ed="#P" n="94" break="no"/>nens regule vt facere circulum in cineribus et tunc 
+      <lb ed="#P" n="95"/>licet sit bonum ei parere non tenetur religiosus es 
+      <lb ed="#P" n="96"/>obedire vt apparet: vel precipit superior aliquid con 
+      <lb ed="#P" n="97"/>tra regulam vbi potest abbas dispensare et patet 
+      cau<lb ed="#P" n="98" break="no"/>sa dispensandi et tunc superiori credendum est et vtro 
+      <lb ed="#P" n="99"/>bique cum dubitat an superior potest dispensare vel 
+      <lb ed="#P" n="100"/>non transgreditur limites suos ei parendum est 
+      si<lb ed="#P" n="101" break="no"/>cut supra dictum est de inferiori vocato a superiore 
+      <lb ed="#P" n="102"/>ad bellum si superior imponat aliquam penam 
+      in<lb ed="#P" n="103" break="no"/>feriori pro transgressione rationabilem vel 
+      dubita<lb ed="#P" n="104" break="no"/>tam talis acceptanda est oppositum dicere esset 
+      com<lb ed="#P" n="105" break="no"/>fundere regulam et eam euertere si superior 
+      preci<lb ed="#P" n="106" break="no"/>bit aliquid contra regulam in quo dispensare 
+      po<lb ed="#P" n="107" break="no"/>test: sed constat michi quod non est rationabilis causa 
+      <lb ed="#P" n="108"/>non debeo ei parere si dubito parendum est. 
+      </p>
+            <p xml:id="JM7jmZ-d97083-d1e1085">
+               <lb ed="#P" n="109"/>¶ Ad confirmationem dico quod obedientia est bona 
+      <lb ed="#P" n="110"/>in impertinentibus ad regulam et est virtus vel eius 
+      <lb ed="#P" n="111"/>actus sed bomo ad hoc non tenetur 
+      quemadmo<lb ed="#P" n="112" break="no"/>dum ingrediens religionem bene agit sed ad hoc 
+      <lb ed="#P" n="113"/>ante votum non tenetur sed de iohanne de quo 
+      io<lb ed="#P" n="114" break="no"/>hannes cassianus libro quarto prefato loquitur du 
+      <lb ed="#P" n="115"/>bitas an bene fecit effundendo oleum vbi tanta pe 
+      <lb ed="#P" n="116"/>nuria erat inter fratres et dico quod bene egit vt patet 
+      <lb ed="#P" n="117"/>de magdalena mathei vicesimo sexto effundendo 
+      <lb ed="#P" n="118"/>liquorem iohannes obediuit superiori plus debebat 
+      <!--368.xml-->
+      <pb ed="#P" n="177-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>credere patri precipienti quam sibi. edificauit alios et se 
+      <lb ed="#P" n="2"/>si stat in matrimoniis regum et in primis introitibus 
+      <lb ed="#P" n="3"/>effundere vinum per lauachra a fortiori pro isto ca 
+      <lb ed="#P" n="4"/>su et vtrunque est rationabile: sed de mutio et eius ca 
+      <lb ed="#P" n="5"/>su est magis dubitandum de abraham quod bene egit 
+      <lb ed="#P" n="6"/>non est dubium hoc erat precipiente deo qui est au 
+      <lb ed="#P" n="7"/>ctor vite et mortis in hoc pater filium occidere et con 
+      <lb ed="#P" n="8"/>tra potest. de aliis non tantum constat sed mutius 
+      <lb ed="#P" n="9"/>vel credidit quod erat comminatio et abbas erat reuo 
+      <lb ed="#P" n="10"/>caturus preceptum vel instinctu diuino hoc 
+      habe<lb ed="#P" n="11" break="no"/>bat patres illi clarueiturt miraculis et probabile erat 
+      <lb ed="#P" n="12"/>aliis quod hoc a deo habebant et nichil illiciti precipie 
+      <lb ed="#P" n="13"/>bant quare poterat ei parere sine peccato in diebus 
+      <lb ed="#P" n="14"/>istis vbi superiores sunt dissolutiores vite quam inferi 
+      <lb ed="#P" n="15"/>ores precipiente superiore adducere leenam ligatam 
+      <lb ed="#P" n="16"/>vel precipitare fratrem in aquam non est parendum. 
+      </p>
+            <p xml:id="JM7jmZ-d97083-d1e1150">
+               <lb ed="#P" n="17"/>¶ Tertio arguitur: posito quod aliquis religiosus 
+      eli<lb ed="#P" n="18" break="no"/>gatur in prelatum talis non tenetur obedire cum sit 
+      <lb ed="#P" n="19"/>episcopus. Si dicas pape obediendum est ponamus 
+      <lb ed="#P" n="20"/>eum esse electum in maximum pontificem. 
+      Insu<lb ed="#P" n="21" break="no"/>per ecclesia. vicesimo sexto. omnis ponderatio non 
+      <lb ed="#P" n="22"/>est digna anime continentis: ergo continentia est me 
+      <lb ed="#P" n="23"/>lior quam obedientia.
+    </p>
+            <p xml:id="JM7jmZ-d97083-d1e1169">
+      ¶ Ad tertium dicitur talis tene 
+      <lb ed="#P" n="24"/>tur parere sue regule et nulli superiori quia nullum 
+      <lb ed="#P" n="25"/>habet et non potest esse dominus aliquarum rerum 
+      <lb ed="#P" n="26"/>plusquam antea est dispensator bonorum ecclesie non 
+      <lb ed="#P" n="27"/>dominus. duodecima questione prima. expedit. dictum est 
+      <lb ed="#P" n="28"/>supra bona ecclesiarum sunt bona pauperum vel cru 
+      <lb ed="#P" n="29"/>cifixi vbi non est magnum discrimen. duodecima 
+      <lb ed="#P" n="30"/>questione secunda. indigne. decima sexta questione 
+      <lb ed="#P" n="31"/>prima. capitulo. vniuersale. vicesima tertia questio 
+      <lb ed="#P" n="32"/>ne septima. quod autem. sic tenebitur hic religiosus fa 
+      <lb ed="#P" n="33"/>ctus episcopus ad continentiam et quanto assumitur 
+      <lb ed="#P" n="34"/>ad maiorem gradum tanto peccatum est maius sed 
+      <lb ed="#P" n="35"/>ad constitutiones vt seruare silentium post comple 
+      <lb ed="#P" n="36"/>torium et ad similia ieiunia qualia seruant in religio 
+      <lb ed="#P" n="37"/>ne non tenetur cum non potest illa cum suo officio 
+      <lb ed="#P" n="38"/>in quo laborat pro re publica sue dyocesis pati 
+      habi<lb ed="#P" n="39" break="no"/>tum tamen deferre debet.
+    </p>
+            <p xml:id="JM7jmZ-d97083-d1e1206">
+      ¶ Ad confirmationem 
+      dici<lb ed="#P" n="40" break="no"/>tur quod obedientia ibi comparatur bonis fortune vel 
+      <lb ed="#P" n="41"/>castitati coniugali vel viduali sicut dyaletica dicitur 
+      <lb ed="#P" n="42"/>ars artium non simpliciter sed comparatiue ad alias tri 
+      <lb ed="#P" n="43"/>uiales.
+    </p>
+            <p xml:id="JM7jmZ-d97083-d1e1217">
+      ¶ Dubitatur vtrum omnia contenta in 
+      re<lb ed="#P" n="44" break="no"/>gula vel constitutionibus obligant sub pena peccati 
+      <lb ed="#P" n="45"/>mortalis.
+    </p>
+            <p xml:id="JM7jmZ-d97083-d1e1224">
+      ¶ Secundo dubitatur quomodo se habent 
+      <lb ed="#P" n="46"/>religio et deuotio.
+    </p>
+            <p xml:id="JM7jmZ-d97083-d1e1229">
+      ¶ Tertio dubitatur si superior i 
+      <lb ed="#P" n="47"/>cipiat inferiori nolle parere an inferior nullum actum 
+      <lb ed="#P" n="48"/>habens paret superiori.
+    </p>
+            <p xml:id="JM7jmZ-d97083-d1e1236">
+      ¶ Quarto dubitatur cum di 
+      <lb ed="#P" n="49"/>xi non tenetur inferior parere superiori in impertinen 
+      <lb ed="#P" n="50"/>tibus regule et cum dubium erit non mediocre quid 
+      <lb ed="#P" n="51"/>est impartinens quid est necessarium ad conseruationem 
+      <lb ed="#P" n="52"/>regule quomodo inferior hoc cognoscet.
+    </p>
+            <p xml:id="JM7jmZ-d97083-d1e1248">
+      ¶ Quinto 
+      <lb ed="#P" n="53"/>dubitatur an apostoli portabant calceos.
+    </p>
+            <p xml:id="JM7jmZ-d97083-d1e1253">
+      ¶ Sexto 
+      <lb ed="#P" n="54"/>an religiosi peccent portantes praeciosas vestes. Ad  
+      <lb ed="#P" n="55"/>primum duplex est modus dicendi aliquibus 
+      dicen<lb ed="#P" n="56" break="no"/>ubus quod sic aliquibus dicentibus quod nulla alia a tribus 
+      <lb ed="#P" n="57"/>votis neutrum horum credo verum si primum esset 
+      <lb ed="#P" n="58"/>verum religiosi essent in pariculosiori statu quam layci quod 
+      <lb ed="#P" n="59"/>falsum est. Insuper illud non credendum est de dis 
+      <!--368.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="60"/>cretissimis patribus sicut erant institutores 
+      reli<lb ed="#P" n="61" break="no"/>gionum: igitur. Rursus iuramentum non minus ob 
+      <lb ed="#P" n="62"/>ligat quam votum iurant magistrandi prere domino rectori 
+      <lb ed="#P" n="63"/>et procuratori nationis absit tamen quod homo non semper veni 
+      <lb ed="#P" n="64"/>ens ad congregationem peccaret vt in fine tertii dixl 
+      <lb ed="#P" n="65"/>mus sic in proposito amplius iudei non peccabant 
+      <lb ed="#P" n="66"/>mortaliter saltem in qualibet transgressione legis 
+      mo<lb ed="#P" n="67" break="no"/>sayce cum ibi erant ociosa verba et iocosa 
+      prohibi<lb ed="#P" n="68" break="no"/>ta quae nunc reputantur venialia: ergo a fortiori nec nunc 
+      <lb ed="#P" n="69"/>magis quam tunc et tamen iudei promiserunt et se astrinxerunt 
+      <lb ed="#P" n="70"/>seruare legem frequenter patet in sichem sub ducatu 
+      <lb ed="#P" n="71"/>losue. xxiiii. eiusdem iosue deuter. xxix. et. xxxi. et in plu 
+      <lb ed="#P" n="72"/>ribus locis aliis: et dato quod homo equaliter 
+      cogita<lb ed="#P" n="73" break="no"/>uit et voluit se obligare ad omnia regule oportet 
+      in<lb ed="#P" n="74" break="no"/>terpratari secundum equitatem qui formaliter intendit 
+      <lb ed="#P" n="75"/>se obligare ad quodlibbet statutum regule sub pena pec 
+      <lb ed="#P" n="76"/>cati mortalis stulte promittit: ergo votum non est. ger 
+      <lb ed="#P" n="77"/>son in quarta parte dicit fatuum est credere quod bene 
+      <lb ed="#P" n="78"/>dictinus peccet eo quod comedat carnes et hoc non est 
+      pro<lb ed="#P" n="79" break="no"/>ter rationem. Secundum etiam neque credo et opposi 
+      <lb ed="#P" n="80"/>tum est determinatum ab ecclesia in regula beati fran 
+      <lb ed="#P" n="81"/>cisci: Exiui de paradiso et exiit qui seminat de vborum 
+      <lb ed="#P" n="82"/>sigtione libro sexto. et in clementi. sicut in lege euan 
+      <lb ed="#P" n="83"/>gelica aliqua sunt precepta sub pena peccati morta 
+      <lb ed="#P" n="84"/>lis: aliqua sub pena peccati venialis: aliqua sub con 
+      <lb ed="#P" n="85"/>silio vt exhortationes: sic est in regulis institutis a 
+      <lb ed="#P" n="86"/>sanctis patribus et sicut non est facile semper exer 
+      <lb ed="#P" n="87"/>citatis theologis cognoscere discrimen inter mor 
+      <lb ed="#P" n="88"/>tale et veniale: sic erit in proposito et difficilius cum 
+      <lb ed="#P" n="89"/>pauciores laborarunt ad ista eneruanda quam illa que 
+      <lb ed="#P" n="90"/>traduntur in lege euangelica et lex euangelica est la 
+      <lb ed="#P" n="91"/>ta vna pars aliam exponit hoc non semper contigit 
+      <lb ed="#P" n="92"/>in istis paruis regulis vtamur modo ecclesie in 
+      ca<lb ed="#P" n="93" break="no"/>pitibus datis exiui et exiit. cognoscere vel ex modo 
+      <lb ed="#P" n="94"/>dicendi et forma verborum regule vel ratione 
+      ma<lb ed="#P" n="95" break="no"/>terie vel ratione vtriusque: sed motus primo primus 
+      <lb ed="#P" n="96"/>nec secundo primus non est mortale peccatum etiam 
+      <lb ed="#P" n="97"/>circa tria vota essentialia vt contingit circa 
+      prece<lb ed="#P" n="98" break="no"/>pta diuina videant fratres minores in locis 
+      allega<lb ed="#P" n="99" break="no"/>tis que obligant sub pena peccati et similiter 
+      vide<lb ed="#P" n="100" break="no"/>ant alii proportionabiliter. nolo insistere sed hoc da 
+      <lb ed="#P" n="101"/>to ad vmaginationem fundator alicuius regule vel 
+      <lb ed="#P" n="102"/>let suos obligatos esse sub pena peccati ad quamli 
+      <lb ed="#P" n="103"/>bet regule transgressionem et sortes vouet hanc re 
+      <lb ed="#P" n="104"/>gulam adhuc non est consequens quod in qualibet pre 
+      <lb ed="#P" n="105"/>uaricatione regule sortes peccat sortes solum 
+      vo<lb ed="#P" n="106" break="no"/>et rationabiliter secundum iudicium prudentum 
+      <lb ed="#P" n="107"/>et potest conformare se iudicio prudentum in hac 
+      <lb ed="#P" n="108"/>materia. ex hoc patet oportet credere interpretatio 
+      <lb ed="#P" n="109"/>ni intentionis fundatoris a prudentibus sic in hac 
+      <lb ed="#P" n="110"/>difficultate acri summa sequens rerum fastigia per 
+      <lb ed="#P" n="111"/>transeo. sed difficultas est bona non ponendo actum 
+      <lb ed="#P" n="112"/>medium inter bonum et malum an aliqua transgres 
+      <lb ed="#P" n="113"/>sio erit meritum et aliquis iuste punietur pro actu 
+      <lb ed="#P" n="114"/>meritorio vel ponendo actum indifferentem paulo 
+      <lb ed="#P" n="115"/>minus videtur quod quis puniatur pro non delicto ali 
+      <lb ed="#P" n="116"/>qua sunt quae non obligant sub pena peccati vt est in prin 
+      <lb ed="#P" n="117"/>cipio regule fratrum predicatorum et hoc 
+      depen<lb ed="#P" n="118" break="no"/>det a voluntate superiorum quae praesupponitur recta in 
+      <!--369.xml-->
+      <pb ed="#P" n="177-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>talibus proprie non est preceptum potest esse 
+      obli<lb ed="#P" n="2" break="no"/>gatio sub disiunctione quod nullus loquatur post com 
+      <lb ed="#P" n="3"/>pletorium: vel si quis loquatur dicat psalmum 
+      mi<lb ed="#P" n="4" break="no"/>serere mei deus: si quis tunc loquens dicat psalmum 
+      <lb ed="#P" n="5"/>illum adimplet preceptum vel potest esse 
+      prohibi<lb ed="#P" n="6" break="no"/>tio sub pena si inferatur et non aliter sicut in furto ma 
+      <lb ed="#P" n="7"/>nifesto vel non manifesto non requiritur restitutio 
+      <lb ed="#P" n="8"/>dupla vel quadrupla nisi petatur. sic potest esse de 
+      <lb ed="#P" n="9"/>loquela post completorium quod homo obligatur non 
+      <lb ed="#P" n="10"/>loqui vel pati talem penam si ei inferatur. etiam ali 
+      <lb ed="#P" n="11"/>qui vtuntur termino prohibeo vel precipio qui non 
+      <lb ed="#P" n="12"/>habent intentionem nec potestatem obligandi sub 
+      <lb ed="#P" n="13"/>pena peccati: nec absonum est quod quis puniatur sinc 
+      <lb ed="#P" n="14"/>noua eclpa sufficit noua causa: et vt homo sit cautior 
+      <lb ed="#P" n="15"/>in posterum castigamus carnem ne incitet nos ad 
+      <lb ed="#P" n="16"/>peccatum et non solum propter peccatum 
+      perpetra<lb ed="#P" n="17" break="no"/>tum. Carmelite ex regula habent vt intellexi 
+      cape<lb ed="#P" n="18" break="no"/>re disciplinam in capitulo aliquotiens in ebdomada 
+      <lb ed="#P" n="19"/>dato quod nulla culpa precessit. Si dicas christus 
+      di<lb ed="#P" n="20" break="no"/>xit iudeis mathei. xxvi. Si autem male loquutus 
+      <lb ed="#P" n="21"/>sum testimonium perhibe de malo si autem bene cur 
+      <lb ed="#P" n="22"/>me cedis insinuans neminem debere cedi pro bone 
+      <lb ed="#P" n="23"/>vel non malo. Respondetur iudei non habebant iu 
+      <lb ed="#P" n="24"/>stam causam puniendi christum. si dicas 
+      contraue<lb ed="#P" n="25" break="no"/>niens minime constitutioni in regula infringit regu 
+      <lb ed="#P" n="26"/>lam et contrauenit suo voto: ergo mortaliter pecca 
+      <lb ed="#P" n="27"/>tu vides consequentiam nullam apparentiam 
+      ha<lb ed="#P" n="28" break="no"/>bere sicut non pro qualibet transgressione humana 
+      <lb ed="#P" n="29"/>infligitur vltimum supplicium sed interdum mino 
+      <lb ed="#P" n="30"/>ita in lege diuina distingo antecedens quod quis contra 
+      <lb ed="#P" n="31"/>uenit sue regule: vel in hoc vbi regula obligat sub 
+      <lb ed="#P" n="32"/>pena peccati mortalis et tunc consequentia est bo 
+      <lb ed="#P" n="33"/>na: vel vbi obligat sub pena veniali vel ad solam pe 
+      <lb ed="#P" n="34"/>nam et sic nulla est apparentia. Non est idem si quis 
+      <lb ed="#P" n="35"/>laycus vouet adire sanctum iacobum cum intendas 
+      <lb ed="#P" n="36"/>se particulariter ad hoc obligare votum distincte 
+      <lb ed="#P" n="37"/>cadit super vnum. secus est in inclusis in regula. Item 
+      <lb ed="#P" n="38"/>equitas naturalis exponit estum esse astrictum quo 
+      <lb ed="#P" n="39"/>usque dispensatur vel adimpleatur et epylea 
+      expo<lb ed="#P" n="40" break="no"/>nit regulam sicut dixi. idem est vouere seruare hanc 
+      <lb ed="#P" n="41"/>regulam et ducere mores secundum hanc: oportet 
+      <lb ed="#P" n="42"/>eodemmodo interpretari et licet aliqui dicant 
+      ali<lb ed="#P" n="43" break="no"/>quos cautius profiteri intelligas secundum 
+      forma<lb ed="#P" n="44" break="no"/>verborum ad rem idem est. accipe analogiam si ali 
+      <lb ed="#P" n="45"/>quis voueret seruare regulam euangelicam intelli 
+      <lb ed="#P" n="46"/>gitur secundum intentionem dei obligantis: sic in 
+      <lb ed="#P" n="47"/>proposito dedita opera institutores regularum 
+      di<lb ed="#P" n="48" break="no"/>xerunt hec est regula quam obseruabitis ad insinu 
+      <lb ed="#P" n="49"/>andum quod libenter vellent omnia in reguula 
+      conten<lb ed="#P" n="50" break="no"/>ta esse obseruata et ne daretur occasio peccati nihil 
+      <lb ed="#P" n="51"/>dixerunt quando non est obligatio sub pena pecca 
+      <lb ed="#P" n="52"/>ti.
+    </p>
+            <p xml:id="JM7jmZ-d97083-d1e1520">
+      ¶ Ad secundum dicitur quod religio est habitus ge 
+      <lb ed="#P" n="53"/>nitus ex talibus actibus volo seruare illa que 
+      reli<lb ed="#P" n="54" break="no"/>gionis mee sunt qui quidem habitus inclinat homi 
+      <lb ed="#P" n="55"/>nem ad seruandos actus religionis et ille habitus 
+      <lb ed="#P" n="56"/>mediante actu suo elicito et ratione recta incli 
+      <lb ed="#P" n="57"/>nat in actum obedientie vel aliorum duorum voto 
+      <lb ed="#P" n="58"/>rum deuotio est superior ad terminum religio 
+      deuo<lb ed="#P" n="59" break="no"/>tio nichil aliud est quam habitus vel actus quo quis 
+      <!--369.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="60"/>vult prompte exequi illa que dei sunt et hoc 
+      com<lb ed="#P" n="61" break="no"/>petit laicis et religiosis et sic non omnis religiosus 
+      <lb ed="#P" n="62"/>habet religionem virtutem nec omnis deuotio est 
+      <lb ed="#P" n="63"/>religio sed omnis religio est deuotio et sicut 
+      reli<lb ed="#P" n="64" break="no"/>giosus multiphariam accipi solet sic etiam solet iste 
+      <lb ed="#P" n="65"/>terminus religio. video aliquos aliter loquentes de 
+      <lb ed="#P" n="66"/>istis quorum modus michi non placet. Ad tertium 
+      <lb ed="#P" n="67"/>forte dicis nullum actum habendo paret.
+    </p>
+            <p xml:id="JM7jmZ-d97083-d1e1559">
+      ¶ Sed con 
+      <lb ed="#P" n="68"/>tra hoc arguitur inferior paret superiori: ergo eius 
+      <lb ed="#P" n="69"/>mandatum adimplet et facit quod ei est preceptum 
+      <lb ed="#P" n="70"/>precipitur ei non parere ergo non paret ergo si 
+      pa<lb ed="#P" n="71" break="no"/>ret non paret.
+    </p>
+            <p xml:id="JM7jmZ-d97083-d1e1570">
+      ¶ Ad quartum dicitur est reflexio in 
+      <lb ed="#P" n="72"/>proposito in parere an aliquis pure negatiue se 
+      ha<lb ed="#P" n="73" break="no"/>bendo in illo casu mereatur non oportet: plura 
+      requi<lb ed="#P" n="74" break="no"/>runtur ad bene agere quam male agere secundo ethico 
+      <lb ed="#P" n="75"/>rum etiam pro tempore quo aduertit et nullum 
+      ac<lb ed="#P" n="76" break="no"/>tum elicit aliqua tamen est pura omissio vt in 
+      se<lb ed="#P" n="77" break="no"/>cundo diximus.
+    </p>
+            <p xml:id="JM7jmZ-d97083-d1e1586">
+      ¶ Ad aluid consultet cum 
+      a<lb ed="#P" n="78" break="no"/>liis et quando post consultationem hesitauerit 
+      obe<lb ed="#P" n="79" break="no"/>diat superiori. dixi consultet indubie non oportet in 
+      <lb ed="#P" n="80"/>multis in diebus nostris parere superiori fortasse ab 
+      <lb ed="#P" n="81"/>errat in pricipuis.
+    </p>
+            <p xml:id="JM7jmZ-d97083-d1e1598">
+      ¶ Circa quintum paulus brugen 
+      <lb ed="#P" n="82"/>sis et postillator in euangeliorum expositione digla 
+      <lb ed="#P" n="83"/>diantur sed michi videtur postillator magis 
+      acce<lb ed="#P" n="84" break="no"/>dere ad sensum littere mathei decimo et marci 
+      sex<lb ed="#P" n="85" break="no"/>to et ante eos seraphicus bonauentura hoc tetigit in 
+      <lb ed="#P" n="86"/>quodam libello nolite portare calceum vel peram ab 
+      <lb ed="#P" n="87"/>sonum est dicere cum brugense: nolite portare inzo 
+      <lb ed="#P" n="88"/>na expresse marci sexto precipitur apostolis vti san 
+      <lb ed="#P" n="89"/>dalis: quod beda in glosa marginali dicit vt pes neque 
+      <lb ed="#P" n="90"/>tectus sit neque nudus ad terram et sic grammatici om 
+      <lb ed="#P" n="91"/>nes vocabulo vtuntur sunt solee integre et superius 
+      <lb ed="#P" n="92"/>aperte sed prelati succedentes eis ad hoc non obli 
+      <lb ed="#P" n="93"/>gantur nec aliqui nisi hoc habentes ex regula vide 
+      <lb ed="#P" n="94"/>bitur tibi non consideranti quod parum est in dilatione 
+      <lb ed="#P" n="95"/>sandaliorum: sed in probleumatibus philosophus 
+      <lb ed="#P" n="96"/>sciebat habere pedes optime coopertos accendit 
+      <lb ed="#P" n="97"/>venerea ita sapienter patres instituerunt suas regu 
+      <lb ed="#P" n="98"/>las quod nichil sine ratione ab eis stabilitum est surge 
+      <lb ed="#P" n="99"/>re de nocte / parum dormire / parum cenare / non 
+      in<lb ed="#P" n="100" break="no"/>duere multitudinem vestium conducunt ad immu 
+      <lb ed="#P" n="101"/>nitatem venereorum habere magnas horas et alia 
+      <lb ed="#P" n="102"/>operane demon eos inueniat ociosos secundum con 
+      <lb ed="#P" n="103"/>silium hieronimi ad rusticum monachum semper ali 
+      <lb ed="#P" n="104"/>quid facito ne demon te ociosum inueniat hoc 
+      vo<lb ed="#P" n="105" break="no"/>luit iupiter ad fugiendum veternum in suo regno pri 
+      <lb ed="#P" n="106"/>mo georgicorum dicente marone. ipse colendi haud 
+      <lb ed="#P" n="107"/>facilem esse viam voluit primusque per artem. 
+      Mo<lb ed="#P" n="108" break="no"/>uit agros curis acuens mortalia corda. RNe 
+      torpo<lb ed="#P" n="109" break="no"/>re grani passus sua regna veterno. quocirca fodere 
+      <lb ed="#P" n="110"/>in orto et multa alia ad propulsandam segnitiem 
+      im<lb ed="#P" n="111" break="no"/>posita sunt sedere solitarie in cellula ad fugiendum 
+      <lb ed="#P" n="112"/>stultiloquium et in ea sic dormire societas ab aliqui 
+      <lb ed="#P" n="113"/>bus peccatis retrahit societas castitati nocet secur 
+      <lb ed="#P" n="114"/>dum cassianum qui parum comedit eget minore son 
+      <lb ed="#P" n="115"/>no non reperitur superfluitas tertie digestionis in 
+      <lb ed="#P" n="116"/>frugaliter viuente versus extremum 
+      insensibilita<lb ed="#P" n="117" break="no"/>tis manendo tamen semper in medio rex indorum 
+      <lb ed="#P" n="118"/>putabat apollonium parum dormire eo quod aquam bi 
+      <!--370.xml-->
+      <pb ed="#P" n="178-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>beret vt philostratus libro secundo recitat. 
+      Pro<lb ed="#P" n="2" break="no"/>pterea iohannes cassianus non sine ratione posuit 
+      <lb ed="#P" n="3"/>tres vel quattuor horas sufficere pro sonno quia loque 
+      <lb ed="#P" n="4"/>batur consequenter ad comestionem vtatur dixit duobus 
+      <lb ed="#P" n="5"/>paximaciis in die non satis aque bibat sedeat solus 
+      <lb ed="#P" n="6"/>nec in se speret sed in mina diuina dormittet tres vel 
+      <lb ed="#P" n="7"/>quattuor horas et sciat se multum in continentia profecis 
+      <lb ed="#P" n="8"/>se.
+    </p>
+            <p xml:id="JM7jmZ-d97083-d1e1705">
+      ¶ Ad sextum dicitur quilibet potest portare vestes secundum 
+      <lb ed="#P" n="9"/>modum sue religionis preceptum habent cordigeri 
+      <lb ed="#P" n="10"/>habere vestes viles secundum consuetudinem paerie in qua sunt 
+      <lb ed="#P" n="11"/>et in hoc est magnus error in magna britannia per 
+      <lb ed="#P" n="12"/>vtrumque regnum ex ista parte maris omnes de religione san 
+      <lb ed="#P" n="13"/>cti francisci parum peccant in exteriori habitu non 
+      suffi<lb ed="#P" n="14" break="no"/>cit habere vestes in equali praecio sed in tali colore abiecto 
+      <lb ed="#P" n="15"/>considerent aliqui minores an prouentus sufficientes 
+      <lb ed="#P" n="16"/>in communi habeant et perpetuos sicut in non 
+      men<lb ed="#P" n="17" break="no"/>dicantibus et an sint proprietarii. Si dicant se non posse 
+      <lb ed="#P" n="18"/>habere ex elemosina sufficientem prouisionem satisffaciant 
+      <lb ed="#P" n="19"/>tunc huic questioni quomodo sunt plures bene viuem 
+      <lb ed="#P" n="20"/>tes et tamen eis optime deus prouidet et populum edificant 
+      <lb ed="#P" n="21"/>Sed arguitur quod minores et mendicantes omnes 
+      pos<lb ed="#P" n="22" break="no"/>sunt habere redditus eis sufficientes in communi possunt 
+      <lb ed="#P" n="23"/>habere vnum ortum centum pedum possunt habere vnum 
+      <lb ed="#P" n="24"/>iuger terre adde pedale illi iugero possunt hoc 
+      to<lb ed="#P" n="25" break="no"/>tum habere per hoc demonstrando iuger cum 
+      pedalita<lb ed="#P" n="26" break="no"/>te adde aliud pedale et sic consequenter possunt 
+      tan<lb ed="#P" n="27" break="no"/>tum habere sicut cluniacus. si dicas multa pedalia 
+      <lb ed="#P" n="28"/>reddent vnum aggregatum quod capere non possunt tu 
+      <lb ed="#P" n="29"/>nescis deducere argumentum semper in fine pedalitatis 
+      <lb ed="#P" n="30"/>petatur an vsum illius licite fratres tenent vel si acrius 
+      <lb ed="#P" n="31"/>vis deducere accipe pisalem quantitatem et in fine 
+      cuius<lb ed="#P" n="32" break="no"/>libet quantitatis pete an licite vsum illius tenent si 
+      men<lb ed="#P" n="33" break="no"/>dicantes glorientur in hoc sophismate sophismate 
+      <lb ed="#P" n="34"/>inquam quia nichil concludit. Reduco argumentum contra 
+      <lb ed="#P" n="35"/>eos sub alia forma capio latissimum campum circumiacen 
+      <lb ed="#P" n="36"/>tem ortum quemhabent. et sic arguo hoc totum non pos 
+      <lb ed="#P" n="37"/>sunt tenere hoc est perpetuum vsum huius totius non 
+      <lb ed="#P" n="38"/>possunt tenere postea tollamus digitalis latitudinis 
+      <lb ed="#P" n="39"/>circumferentiam illius totius quero an hoc toto licite 
+      <lb ed="#P" n="40"/>vtuntur et sic veniam vsque ad parietes aule et ecclesie 
+      <lb ed="#P" n="41"/>quod nichil possunt tenere et si in secundo discursu reperiant 
+      <lb ed="#P" n="42"/>nolutionem quam dabunt reformatis dabitur eis solu 
+      <lb ed="#P" n="43"/>tio eorum argumento.
+    </p>
+            <p xml:id="JM7jmZ-d97083-d1e1783">
+      ¶ Septimo dubitatur an vo 
+      <lb ed="#P" n="44"/>uens non nubere cognoscens aliquam contraueniat suo 
+      <lb ed="#P" n="45"/>voto.
+    </p>
+            <p xml:id="JM7jmZ-d97083-d1e1790">
+      ¶ Hubitatur octauo an vouens non bibere 
+      vi<lb ed="#P" n="46" break="no"/>num potest capere vinum in missa.
+    </p>
+            <p xml:id="JM7jmZ-d97083-d1e1795">
+      ¶ Nono an male agit 
+      <lb ed="#P" n="47"/>et peccat cui displicet vouisse vel si non vouissem non 
+      <lb ed="#P" n="48"/>vouerem.
+    </p>
+            <p xml:id="JM7jmZ-d97083-d1e1802">
+      ¶ Decimo an quis potest obligari ad opi 
+      <lb ed="#P" n="49"/>supererogationis.
+    </p>
+            <p xml:id="JM7jmZ-d97083-d1e1808">
+      ¶ Vndecimo de obligatione fa 
+      <lb ed="#P" n="50"/>cta per metum.
+    </p>
+            <p xml:id="JM7jmZ-d97083-d1e1813">
+      ¶ Huodecimo dubitatur de illo qui 
+      <lb ed="#P" n="51"/>vouet adire limina petri et pauli ea conditione quod possi 
+      <lb ed="#P" n="52"/>occidere platonem et occidit platonem an tenetur postea 
+      <lb ed="#P" n="53"/>adire romam.
+    </p>
+            <p xml:id="JM7jmZ-d97083-d1e1822">
+      ¶ Tridecimo de illo qui vult ire roman 
+      <lb ed="#P" n="54"/>et pegre et visitare fratrem si frater non sit rome. Ad 
+      <lb ed="#P" n="55"/>primum dicitur quod talis cognoscens solutam non contra 
+      <lb ed="#P" n="56"/>uenit suo voto directe qui cognoscit solutam facit actum 
+      <lb ed="#P" n="57"/>oppositum voto continentie an per concommitantiam suo 
+      vo<lb ed="#P" n="58" break="no"/>to obuiet et duplici peccato peccet vel vno actu 
+      du<lb ed="#P" n="59" break="no"/>plici peccato equiualenter non insisto. Ad octauum 
+      <!--370.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="60"/>dicitur quod sic et argumentum est de celebratione missa 
+      <lb ed="#P" n="61"/>rum. c. ex parte. vbi precipit semper pontifex manus 
+      <lb ed="#P" n="62"/>profundere vino et illud sumere et sic suum votum debet 
+      <lb ed="#P" n="63"/>interpretari quemadmodum si medici illud consulerent 
+      <lb ed="#P" n="64"/>ob debilitatatem stomachi. Ad nonum multiphariam 
+      <lb ed="#P" n="65"/>potest religiosus se habere. vno moo sic si non 
+      vouis<lb ed="#P" n="66" break="no"/>sem non vouerem hoc est si essem liber sicut ab exordio 
+      <lb ed="#P" n="67"/>non vouerem sed postquam voui fuabo votum si sit solum vnus 
+      <lb ed="#P" n="68"/>actus totalis in isto postquam voui seruabo votum ille 
+      <lb ed="#P" n="69"/>actus est bonus vt constat etiam alius actus non est 
+      <lb ed="#P" n="70"/>malus sicut erat liberum a principio vouere sic est 
+      li<lb ed="#P" n="71" break="no"/>berum post votum velle non vouisse nec iste mittens ma 
+      <lb ed="#P" n="72"/>num ad aratrum retro aspicit cum vult seruare votum 
+      <lb ed="#P" n="73"/>licet placere in malum sit peccatum non oportet quod nolle 
+      <lb ed="#P" n="74"/>bonum ad quod non tenebaris sit malum volo homi 
+      <lb ed="#P" n="75"/>nem occidere si non esset probibitum a deo non videtur actus 
+      <lb ed="#P" n="76"/>malus licet velle occidere hominem auctoritate 
+      pro<lb ed="#P" n="77" break="no"/>pria sit peccatum non videtur quod hoc totum sit peccatum 
+      <lb ed="#P" n="78"/>si non esset prohibitum a deo non oportet respicere ad 
+      <lb ed="#P" n="79"/>illa que sunt mala quia prohibita solum et non ad illa que 
+      <lb ed="#P" n="80"/>prohibentur quia mala sed cauendum est in aliquibus 
+      <lb ed="#P" n="81"/>immorari vt vellem talem cognoscere si non esset 
+      prohibi<lb ed="#P" n="82" break="no"/>tum potest esse inflammatio ad peccatum carnis et quam 
+      <lb ed="#P" n="83"/>to quis facilius succumbit tanto est periculosius immo 
+      <lb ed="#P" n="84"/>rari quando vis videre an volitio conditionalis sit licita 
+      <lb ed="#P" n="85"/>vel nolitio respicitur ad totale complexum hic est actus 
+      <lb ed="#P" n="86"/>voluntatis cadens super complexum conditionatum 
+      <lb ed="#P" n="87"/>vel explicatum per ipsum sicut in aliis simpliciter vo 
+      <lb ed="#P" n="88"/>litis vellem comedere si haberem est actus 
+      volunta<lb ed="#P" n="89" break="no"/>tis cadens super comestionem si haberetur. quo fit aliqua 
+      <lb ed="#P" n="90"/>est volitio conditionalis meritoria vellem dare elemo 
+      <lb ed="#P" n="91"/>sinam si haberem nollem furari si possem aliqua 
+      deme<lb ed="#P" n="92" break="no"/>ritoria vellem furari si possem nollem restituere 
+      alie<lb ed="#P" n="93" break="no"/>num si haberem. Ad decimum dicitur impossibile est ali 
+      <lb ed="#P" n="94"/>quem obligari ad opus supererogationis. patet. si obli 
+      <lb ed="#P" n="95"/>gatur non est opus ei consilii et supererogationis. Secum 
+      <lb ed="#P" n="96"/>da propositio sortes ad opus supererogationis potest 
+      <lb ed="#P" n="97"/>obligari. patet. ad hoc sortes potest obligari demon 
+      <lb ed="#P" n="98"/>strando paupertatem et hoc est vel potest esse opus su 
+      <lb ed="#P" n="99"/>bererogationis: igitur. Tertia propositio sortes im 
+      <lb ed="#P" n="100"/>possibiliter obligatur ad opus supererogationis. patet 
+      <lb ed="#P" n="101"/>per de inesse sui contradictorii. Quarta propositio opus 
+      <lb ed="#P" n="102"/>superogationis post votum desinit esse 
+      supererogatio<lb ed="#P" n="103" break="no"/>nis licet no desinat esse cum hiis tamen stat aliquod est opus 
+      <lb ed="#P" n="104"/>praecepti quod sortes non potest implere quin faciat opus 
+      <lb ed="#P" n="105"/>supererogationis. patet. quando diligit deum quando tenetur ad nul 
+      <lb ed="#P" n="106"/>lum gradum intensiue tenetur: sed quecumque intensio 
+      <lb ed="#P" n="107"/>gradualis sufficit sed non potest habere actum 
+      dile<lb ed="#P" n="108" break="no"/>ctionis quin ille plures partes habeat: igitur. ex quae 
+      <lb ed="#P" n="109"/>popositione sequitur per eundem actum quis satisfacit 
+      <lb ed="#P" n="110"/>pcepto et adimplet consilium et nemo omnia praecepta dei 
+      <lb ed="#P" n="111"/>adimplere potest sine operibus consilii sed hic potes in 
+      <lb ed="#P" n="112"/>sistere quelibet tertia huius actus vel quelibet quarta 
+      <lb ed="#P" n="113"/>est opus consilii et similiter quelibet secunda ergo due 
+      par<lb ed="#P" n="114" break="no"/>tes sunt opera consilii ille due partes sunt ille actus 
+      <lb ed="#P" n="115"/>totalis ergo ille actus totalis est opus consili: quio 
+      <lb ed="#P" n="116"/>sit consequutio est nulla concludendum est solum iste actus 
+      <lb ed="#P" n="117"/>est opera consilii. Ad vndecimum metus incussus ab 
+      <lb ed="#P" n="118"/>homine non sufficit ad votum nisi quis ratum habuerit 
+      <!--371.xml-->
+      <pb ed="#P" n="178-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>post metum. secus est de metu incusso a deo qui est 
+      <lb ed="#P" n="2"/>actor vite et mortis. primum patet de hiis quevi metus 
+      <lb ed="#P" n="3"/>ve causa fiunt. c. i. de nobili muliere quae vt euaderet 
+      <lb ed="#P" n="4"/>mortem ingressa est religionem. secus de secundo in 
+      infir<lb ed="#P" n="5" break="no"/>mitate periculo maris vel huiusmoni fortasse est 
+      mo<lb ed="#P" n="6" break="no"/>tio sputs sancti ad bonum et hoc si homo intendebat se 
+      <lb ed="#P" n="7"/>obligare. Ad duodecimum respondetur talis non est 
+      <lb ed="#P" n="8"/>obligatus non loquor quin sit bonum adire sanctum ia 
+      <lb ed="#P" n="9"/>eobum gratis post votum condictionale vel vouere de 
+      <lb ed="#P" n="10"/>nouo honesto motiuo sed sermo est de vi illius 
+      promis<lb ed="#P" n="11" break="no"/>sionis talis non intendit se obligare nisi 
+      conditionali<lb ed="#P" n="12" break="no"/>ter dato quod conditio fuerit posita in esse puta honicidium 
+      <lb ed="#P" n="13"/>talis tenetur resecare illud propositum volo adire san 
+      <lb ed="#P" n="14"/>ctum iacobum quia hominem occidi iste actus est mal 
+      <lb ed="#P" n="15"/>ergo non cadit sub voto nec acceptatur a deo cum odiat 
+      <lb ed="#P" n="16"/>iniquitatem et tunc sic totus ille actus est malus et non est 
+      <lb ed="#P" n="17"/>votum nec tenetur adire sanctum iacobum aliunde ex vpo 
+      <lb ed="#P" n="18"/>thesi ergo nullo modo obligatur conditio repugnans con 
+      <lb ed="#P" n="19"/>tractui ipsum reddit irritum et inanem sicut ante potesnem 
+      com<lb ed="#P" n="20" break="no"/>ditionis inesse debet resecare actum sic posito homi 
+      <lb ed="#P" n="21"/>cidio inesse duplex est conditio. quedam inhonesta non 
+      <lb ed="#P" n="22"/>solum secundum se sed etiam in habitudine ad illud quod promit 
+      <lb ed="#P" n="23"/>titur vt in exemplo dato. quedam est conditio inhonesta so 
+      <lb ed="#P" n="24"/>litarie capta sed non in habitudine ad promissum exem 
+      <lb ed="#P" n="25"/>plum vt si peccem mortaliter ieiunabo duos dies in 
+      <lb ed="#P" n="26"/>detestationem illius sceleris tota ista conditionalis est 
+      <lb ed="#P" n="27"/>licita sicut stat conditionalem esse veram et antecedens vel 
+      conse<lb ed="#P" n="28" break="no"/>quens esse falsum sic stat conditionalem esse licitam et an 
+      <lb ed="#P" n="29"/>cedens illicitum tunc conditionalis est licita quando est lici 
+      <lb ed="#P" n="30"/>ta illatio est votum in secunda conditione et si homo labatur 
+      <lb ed="#P" n="31"/>tenetur seruare suum votum et non alias. Ad tridecimum 
+      <lb ed="#P" n="32"/>distingo de isto vel intendebat se obligare 
+      copulati<lb ed="#P" n="33" break="no"/>ue et tunc dato quod ei constiterit quod frater non sit rome 
+      <lb ed="#P" n="34"/>non minus obligatur si intendat se copulatim amor 
+      <lb ed="#P" n="35"/>dei et fratrem alloqui fratre non existente non obligatur 
+      <lb ed="#P" n="36"/>promissio vel obligatio quae totaliter consurgit ex me 
+      <lb ed="#P" n="37"/>ra voluntate promittentis non excedit limites 
+      volun<lb ed="#P" n="38" break="no"/>tatis excederet autem si non intenderet se obligare nis 
+      <lb ed="#P" n="39"/>positis illis duabus conditionibus quod teneatur profi 
+      <lb ed="#P" n="40"/>cisci pegre altera deficiente si ipse dubitet de sua in 
+      <lb ed="#P" n="41"/>tentione an copulatiue vel copulatim intendebat a 
+      for<lb ed="#P" n="42" break="no"/>tiori alii dubitabunt et vtatur in eo casu consilio prudi 
+      <lb ed="#P" n="43"/>tis detegendo suam mentem sicut potest. Quartode 
+      <lb ed="#P" n="44"/>cimo dubitatur an religiosus irreligiose viuens et de 
+      <lb ed="#P" n="45"/>ferens habitum peccet per vpocrisim. Et arguitur quod 
+      <lb ed="#P" n="46"/>sic dicens vnum exterius vel simulans vbi est oppositum 
+      <lb ed="#P" n="47"/>interius est vpocrita lubricus audiens de vicio carnis 
+      <lb ed="#P" n="48"/>loquelam screans in contentum vel indignabundus 
+      lo<lb ed="#P" n="49" break="no"/>quenti est vpocrita / religiosus est huiusmoni deferi 
+      <lb ed="#P" n="50"/>habitum sanctitatis et religionis et in exteriore homi 
+      <lb ed="#P" n="51"/>ne ostendens se esse alium quam est non stemus in tritis 
+      logi<lb ed="#P" n="52" break="no"/>calibus sortes apparet esse alius quam est in tertio in mi 
+      <lb ed="#P" n="53"/>teria de mendatio boc tangitur pone duos quorum 
+      <lb ed="#P" n="54"/>vterque vouet non bibere hodie vinum sortes toto 
+      di<lb ed="#P" n="55" break="no"/>sedet pitisando et bibendo plato centies bibit 
+      interru<lb ed="#P" n="56" break="no"/>pte vel vigesies vter eorum grauius delinquit plato si 
+      <lb ed="#P" n="57"/>nichil aliud ponitur in casu cum pluries deliberat es 
+      <lb ed="#P" n="58"/>aduertit si ponas sortes tantum aduertere et 
+      delibe<lb ed="#P" n="59" break="no"/>rare plus peccat licet bibitio et actus exterior repu¬ 
+      <!--371.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="60"/>tatur vnus est continuatio actus mali. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

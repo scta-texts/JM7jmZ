@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 25</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 25</title>
+               <date when="2021-07-06">July 06, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-M4Saaa">Paris 1509</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-06" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="104-v"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="JM7jmZ-d57917"><!-- l4d15q25 -->
+            <head xml:id="JM7jmZ-d57917-Hd1e108">Quaestio 25</head>
+            <head xml:id="JM7jmZ-d57917-Hd1e111" type="question-title">
+      An iste casus sit labe
+      usurae infectus vel licitus: est
+      Sempronius campsor, dans
+      tibi albam pecuniam pro
+      scuto, accepit parvum album
+      supra scutum vi mutui.
+    </head>
+            <p xml:id="JM7jmZ-d57917-d1e114">
+               <lb ed="#P" n="112"/>¶ Distinctionis decine quinte quaestio vigesima quinta. 
+      <lb ed="#P" n="113"/>UIgesimo quninto queritur an iste casus sit 
+      <lb ed="#P" n="114"/>Tlabe vsure infectus vel licitus / est 
+      sempro<lb ed="#P" n="115" break="no"/>nius campsor dans tibi albam pecuniam 
+      <lb ed="#P" n="116"/>pro scuto accepit paruum album supra scutum vi mu¬ 
+      <!--224.xml-->
+      <pb ed="#P" n="105-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>tui: ergo committit vsuram: et tamen non peccat cum 
+      <lb ed="#P" n="2"/>vides viros honestos artem exercere cum sint vti 
+      <lb ed="#P" n="3"/>les reipublice tu petis aurum pro alba pecunia quam 
+      <lb ed="#P" n="4"/>attulisti de partibus vel pro danda elemosina vel 
+      <lb ed="#P" n="5"/>rebus minutis emendis / vel attulisti pecuniam de 
+      <lb ed="#P" n="6"/>vna patria existimans quod valeret in alia ad quam va 
+      <lb ed="#P" n="7"/>dis quae nichil tibi prodest vtile est habere 
+      permuta<lb ed="#P" n="8" break="no"/>tionem. Insuper vpotecharii dant in actibus 
+      sco<lb ed="#P" n="9" break="no"/>lasticis parisii vasa argentea et tamen capiunt lucrum 
+      vl<lb ed="#P" n="10" break="no"/>tra sortem vi mutui si non esset ratione mutui essen 
+      <lb ed="#P" n="11"/>alius contractus scilicet locationis sed hoc non si ego con 
+      <lb ed="#P" n="12"/>ducerem equum tuum qui esset a me ablatus sine 
+      <lb ed="#P" n="13"/>culpa mea res peribit in manu locantis et non con 
+      <lb ed="#P" n="14"/>ducentis cum locans est dominus rei. sic non est hic mul 
+      <lb ed="#P" n="15"/>ti in doctoratibus suis experti sunt oppositum igitur. 
+      <lb ed="#P" n="16"/>idem potest deduci de pecunia que datur ad ostentatio 
+      <lb ed="#P" n="17"/>nem banchario / vel illi qui ducit vxorem antem fores 
+      <lb ed="#P" n="18"/>ecclesie vel alibi quod ibi sit mutuum et non locatio. patet: 
+      <lb ed="#P" n="19"/>aliter tu non deuinciris reddere eadem scuta 
+      suffi<lb ed="#P" n="20" break="no"/>cit similia sicut fit in mutuo et non in locatione vel 
+      com<lb ed="#P" n="21" break="no"/>ductione. Respondetur concedendo quod campsor capit 
+      <lb ed="#P" n="22"/>lucrum vltra sortem: sed hoc non est vi mutui sed est 
+      <lb ed="#P" n="23"/>alius contractus permutationis ac si tu dares 
+      mi<lb ed="#P" n="24" break="no"/>chi triticum sicilie et ego tibi salmones clide isti caus 
+      <lb ed="#P" n="25"/>psores sunt vtiles rei publice et locant suas 
+      domo<lb ed="#P" n="26" break="no"/>et operas pro vtilitate communi parisii omnem 
+      pecu<lb ed="#P" n="27" break="no"/>niam habebis commutatam in monetam gallicam 
+      <lb ed="#P" n="28"/>nunquid istum oportebit habere labores ad expor 
+      <lb ed="#P" n="29"/>nendam pecuniam aliarum regionum. idem est de 
+      <lb ed="#P" n="30"/>banchariis das sorti parisius centum scuta dat tibi 
+      <lb ed="#P" n="31"/>vnas licteras ad platonem venetiis vt habeas no 
+      <lb ed="#P" n="32"/>naginta quinque vel nonaginta sex est tibi et reipubli 
+      <lb ed="#P" n="33"/>ce vtilis tibi fuisset penalius ferre hanc pecunian 
+      <lb ed="#P" n="34"/>quam vnas exiguas litteras sollicitudo in itinere pro 
+      <lb ed="#P" n="35"/>conseruatione eius et forte fuisset causa tue necis vnde 
+      <lb ed="#P" n="36"/>nunc non putatur te habere vltra sumptus in prom 
+      <lb ed="#P" n="37"/>ptu: et sic sospes a metu hostium euadis oportebit 
+      <lb ed="#P" n="38"/>eum interdum per famulum capere curam de satis 
+      <lb ed="#P" n="39"/>factione pecunie recepte et onus periculi subibit es 
+      <lb ed="#P" n="40"/>sicut tibi vtilis est ita cuilibet alteri et per consequens toti 
+      <lb ed="#P" n="41"/>rei publice. sed an lanius vel pistor potest capere ra 
+      <lb ed="#P" n="42"/>tione permutationis aliquid lucri incertum est non 
+      lo<lb ed="#P" n="43" break="no"/>cat operas suas ad hoc et capiens album more cau 
+      <lb ed="#P" n="44"/>psorum videtur eos defraudare a sua arte et a lucro 
+      <lb ed="#P" n="45"/>debito perinde ac si vnus artifex poneret falcem in mes 
+      <lb ed="#P" n="46"/>sem alterius artificis hec ratio non est magni 
+      pon<lb ed="#P" n="47" break="no"/>deris quia hac via non posset permutare gratis quod non 
+      <lb ed="#P" n="48"/>est dicendum eo quod esset in grauamen campsorum si 
+      <lb ed="#P" n="49"/>capiat turonum vel duplum pro labore quem 
+      ha<lb ed="#P" n="50" break="no"/>bet numerando tenuem pecuniam et pro placi 
+      <lb ed="#P" n="51"/>to impenso vbi campsor capit quattuor turonos 
+      <lb ed="#P" n="52"/>vel liardum non videtur peccatum. dicis forte la 
+      <lb ed="#P" n="53"/>nius dans tibi albam pecuniam pro aureo nummo 
+      <lb ed="#P" n="54"/>mauult habere aureum vel ita libenter: ergo mane 
+      <lb ed="#P" n="55"/>bit placitum pro obsequio. dico quod hec ratio conclu 
+      <lb ed="#P" n="56"/>deret etiam contra campsorem qui crebro ita liben 
+      <lb ed="#P" n="57"/>ter haberet vnum sicut aliud: etiam non nunquam homo 
+      <lb ed="#P" n="58"/>permutat in vna patria cum pecunia que minus va 
+      <lb ed="#P" n="59"/>let in illa et portat in aliam vbi plus valet sine labe 
+      <!--224.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="60"/>vsure vt grossum anglicanum valet quattuor dena 
+      <lb ed="#P" n="61"/>rios scotus dat anglo quater mille denarsos pro mil 
+      <lb ed="#P" n="62"/>le grossis / grossum apud scotos valet quinque 
+      dena<lb ed="#P" n="63" break="no"/>rios: non capit lucrum ab anglo vltra sortem in pa 
+      <lb ed="#P" n="64"/>tria angeli et etiam est permutatio. idem est si 
+      duca<lb ed="#P" n="65" break="no"/>tus plus valet ratione quam parisius ratione patrie ad quan 
+      <lb ed="#P" n="66"/>proficiscor. capio a banchario parisii ratione 
+      duca<lb ed="#P" n="67" break="no"/>torum quos ei do proportionabiliter rome non hoc 
+      <lb ed="#P" n="68"/>vi mutui sed ratione patrie ad quam pergo et pote 
+      <lb ed="#P" n="69"/>ram mecum portasse ducatos. Ad secundum argu 
+      <lb ed="#P" n="70"/>mentum ibi est locatio et non mutuum et sic non est 
+      <lb ed="#P" n="71"/>vsura / vasa non sunt recipientis sicut est in mutuo 
+      <lb ed="#P" n="72"/>sed manent locantis: et sic de pecunia data ad 
+      osten<lb ed="#P" n="73" break="no"/>tationem vel de auro dato ad curandum a le pra. 
+      <lb ed="#P" n="74"/>Dicis distractio pecunie est eius destructio vsus non 
+      <lb ed="#P" n="75"/>distinguitur a dominio. Respondetur superius 
+      lo<lb ed="#P" n="76" break="no"/>cuti sumus de dominio et vsu rerum pro modo 
+      <lb ed="#P" n="77"/>tamen loquendi in aliquibus vsus rei distinguitur 
+      <lb ed="#P" n="78"/>a dominio hoc est quando bomo vtitur re ipsa dominio et 
+      <lb ed="#P" n="79"/>proprietate manente penes alium vt in accommoda 
+      <lb ed="#P" n="80"/>tione et in conductione in rebus vsu consumptibili 
+      <lb ed="#P" n="81"/>bus vsus non distinguitur a dominio hoc est qui vtitur 
+      <lb ed="#P" n="82"/>re ipsa ad finem ad quem ordinatur eam consumit 
+      <lb ed="#P" n="83"/>vt in cibo et potu vsus communis pecunie est eius consum 
+      <lb ed="#P" n="84"/>ptio vt fit in mutuo vel emptione: non quod pecunia en 
+      <lb ed="#P" n="85"/>titatiue consumatur sed transfertur a commutante ita 
+      <lb ed="#P" n="86"/>quod non sit eius ac si esset totaliter extincta sed 
+      quan<lb ed="#P" n="87" break="no"/>do manet eius non consumitur vsu vt in ostentatio 
+      <lb ed="#P" n="88"/>ne vel in auro pro curando morbo tunc non est eius 
+      <lb ed="#P" n="89"/>distractio sed locatio et conductio et tunc potest mode 
+      <lb ed="#P" n="90"/>rate cape pecuniam et vero domino debet idem 
+      resti<lb ed="#P" n="91" break="no"/>tui alioquin detineretur alienum sed quia est 
+      pusil<lb ed="#P" n="92" break="no"/>lum discrimen inter scutum et scutum ducatum et 
+      <lb ed="#P" n="93"/>ducatum non refert an restituatur idem: secus est in 
+      <lb ed="#P" n="94"/>aliis rebus que raro reperiuntur eiusdem bonitatis 
+      <lb ed="#P" n="95"/>demonstra duos equos iudicio tuo in valore simili 
+      <lb ed="#P" n="96"/>mos vnus vocabit a b meliorem alius asseret b an 
+      <lb ed="#P" n="97"/>teire a: propterea in talibus non solet esse mutuum 
+      <lb ed="#P" n="98"/>De amissione vasorum respondetur in re que non 
+      <lb ed="#P" n="99"/>requirit diligentissimam curam vt in equo tenetur 
+      <lb ed="#P" n="100"/>conductor solum locatori de dolo in culpa lata et le 
+      <lb ed="#P" n="101"/>ui cum vtriusque gratia contrahitur. insti. qi. mo. re. 
+      <lb ed="#P" n="102"/>contrahi. obli. §. vltimo. hoc etiam patet in. l. si quis 
+      <lb ed="#P" n="103"/>domum. §. celsus. fic. loca. sed in re que eget diligen 
+      <lb ed="#P" n="104"/>tissima cura conductor tenebitur de culpa leuissima 
+      <lb ed="#P" n="105"/>patet in. l. si merces. §. qui columnam. f. loca. quis alias 
+      <lb ed="#P" n="106"/>tibi vasa argentea vnquam locaret: non insisto an 
+      ban<lb ed="#P" n="107" break="no"/>charius capiens ad ostentationem pecuniam vt 
+      cre<lb ed="#P" n="108" break="no"/>datur diues et ei adhibeatur fides / vel de illo qui vult 
+      <lb ed="#P" n="109"/>diuitem vxorem habere illa via an peccet mentien 
+      <lb ed="#P" n="110"/>do et dissimulando vel alter secum ad hoc cooperans 
+      <lb ed="#P" n="111"/>quia hoc spectat ad materiam tertii. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

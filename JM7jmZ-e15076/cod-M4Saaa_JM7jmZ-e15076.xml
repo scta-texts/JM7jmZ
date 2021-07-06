@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 1</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 1</title>
+               <date when="2021-07-06">July 06, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-M4Saaa">Paris 1509</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-06" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="207-r"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="JM7jmZ-e15076"><!-- l4d48q1 -->
+            <head xml:id="JM7jmZ-e15076-Hd1e108">Quaestio 1</head>
+            <head xml:id="JM7jmZ-e15076-Hd1e111" type="question-title">
+      An caeli cessabunt a motu
+      post diem iudicii
+    </head>
+            <p xml:id="JM7jmZ-e15076-d1e114">
+               <lb ed="#P" n="73"/>¶ Distinctionis quadragesime octaue quaestio vnica. 
+      <lb ed="#P" n="74"/>Irca quadragesimam octauam distinctio 
+      <lb ed="#P" n="75"/>nem de qualitate luminarium capite quin 
+      <lb ed="#P" n="76"/>to loquitur magister circa hoc quero an 
+      <lb ed="#P" n="77"/>celi cessabunt a motu post diem iudicii
+    </p>
+            <p xml:id="JM7jmZ-e15076-d1e127">
+      responsio ai 
+      <lb ed="#P" n="78"/>firmatiua quod sic ratione naturali hoc probari non po 
+      <lb ed="#P" n="79"/>test apocalipsis decimo habetur angelus iurauit per 
+      <lb ed="#P" n="80"/>viuentem in secula seculorum quod tempus non erit 
+      <lb ed="#P" n="81"/>amplius capit hanc diceret ille qui tenet celum 
+      es<lb ed="#P" n="82" break="no"/>se tempus tempus non erit tempus post diem iudi 
+      <lb ed="#P" n="83"/>cii hoc celum erit post diem iudicii hoc celum est 
+      <lb ed="#P" n="84"/>vel erit tempus: ergo tempus erit post diem iudicii 
+      <lb ed="#P" n="85"/>secundum aliam positionem tempus non erit post 
+      <lb ed="#P" n="86"/>diem iudicii ad hanc conclusionem adducitur 
+      aba<lb ed="#P" n="87" break="no"/>chuc decimo quarto. et erit dies vna que nota est 
+      <lb ed="#P" n="88"/>domino non dies neque nox et in tempore vesperi 
+      e<lb ed="#P" n="89" break="no"/>rit lux: potest adduci glosa marginalis esaye 
+      sexa<lb ed="#P" n="90" break="no"/>gesimo: si solcircundaret terram tunc illuminaret 
+      <lb ed="#P" n="91"/>damnatos quod est inconueniens: hec glosa est vsido 
+      <lb ed="#P" n="92"/>ri non penitus ridenda si damnati punirentur ex al 
+      <lb ed="#P" n="93"/>tera parte terre et essent nobis antipodes esset 
+      ap<lb ed="#P" n="94" break="no"/>parentia in ratione sed hoc est falsum propterea ra 
+      <lb ed="#P" n="95"/>tio non est ponderanda. preterea tunc non erunt go 
+      <lb ed="#P" n="96"/>nerationes et corruptiones: ergo inanis esset circu 
+      <lb ed="#P" n="97"/>latio solis cum secundum aristotelem secundo de 
+      <lb ed="#P" n="98"/>generatione: sol in obliquo circulo est causa genera 
+      <lb ed="#P" n="99"/>tionis et corruptionis: licet tamen non absonum es 
+      <lb ed="#P" n="100"/>set dicere quod licet sol nunc in obliquo circulo sit cau 
+      <lb ed="#P" n="101"/>sa generationum et corruptionum tunc tamen non 
+      <lb ed="#P" n="102"/>habebit illam actiuitatem: nec valet dicere celum est 
+      <lb ed="#P" n="103"/>omnibus inferioribus perfectius vel nos homines 
+      <lb ed="#P" n="104"/>sumus finis extrinsecus secundum illud aristotelis 
+      <lb ed="#P" n="105"/>secundo phisicorum nos sumus quodammodo 
+      fi<lb ed="#P" n="106" break="no"/>nis omnium celum non est animatum omne anima 
+      <lb ed="#P" n="107"/>tum quolibet illo quod non est animam includens de 
+      <lb ed="#P" n="108"/>um vel angelum est perfectius propter nichil aliud 
+      <lb ed="#P" n="109"/>ordinatur motus celi: quod celum potest quiescere non 
+      <lb ed="#P" n="110"/>est dubium fideli: sed arguitur ad aristotelem celum 
+      <lb ed="#P" n="111"/>mouetur ab agente libero et nullatenus ab egente 
+      <lb ed="#P" n="112"/>naturali: ergo eius motor mouere potest desinere con 
+      <lb ed="#P" n="113"/>sequutio liquet nudatur antecedens si celum mo¬ 
+      <!--429.xml-->
+      <pb ed="#P" n="207-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>uetur vel mutatur in instanti consequens experimur 
+      <lb ed="#P" n="2"/>esse falsum istam conditionalem probo: mobile po 
+      <lb ed="#P" n="3"/>situm in vacuo mouetur in instanti quarto 
+      phisico<lb ed="#P" n="4" break="no"/>rum et causa est: quia ibi nulla est resistentia extrin 
+      <lb ed="#P" n="5"/>seca nec intrinseca resistens cum in celi motu nulla 
+      <lb ed="#P" n="6"/>est resistentia nec motus celi est innaturalis 
+      circui<lb ed="#P" n="7" break="no"/>tio et rotatio est apta sphere. Forte dicis celum ha 
+      <lb ed="#P" n="8"/>bet resistentiam cum hoc quod vnus orbis mouetur ab 
+      <lb ed="#P" n="9"/>oriente occidentem versus super polos mundi id 
+      <lb ed="#P" n="10"/>celum eodem tempore mouetur ab occidente oriem 
+      <lb ed="#P" n="11"/>tem versus super polos obliqui circuli. contra ca 
+      <lb ed="#P" n="12"/>pto primo mobili quod habet vnum motum in illo cur 
+      <lb ed="#P" n="13"/>rit deductio. et si dicas celorum inferiorum contra 
+      <lb ed="#P" n="14"/>nitentia impedit primum mobile contra isti motus 
+      <lb ed="#P" n="15"/>super varios polos non contrariantur: ergo non es 
+      <lb ed="#P" n="16"/>contranitentia quecunque. Dixi circuire non est celo 
+      <lb ed="#P" n="17"/>innaturale ob auicennam qui nono methaphisice 
+      <lb ed="#P" n="18"/>asserit motum celi esse naturalem ab oriente ad on 
+      <lb ed="#P" n="19"/>cidentem quia tunc violente ab occidente ad orien 
+      <lb ed="#P" n="20"/>tem moueretur: sed hec ratio non est magni ponde 
+      <lb ed="#P" n="21"/>ris bene concluderet de hiis que mouentur motu 
+      <lb ed="#P" n="22"/>recto motus vni spere conueniens a naturali phile 
+      <lb ed="#P" n="23"/>sopho debet dici naturalis ab a ad b et contra. Ex 
+      <lb ed="#P" n="24"/>ista conclusione sequitur post diem iudici non erit 
+      <lb ed="#P" n="25"/>motus in epiciclo nec erit motus octaue sphere 
+      di<lb ed="#P" n="26" break="no"/>scriptus in duobus paruis circulis in principio ario 
+      <lb ed="#P" n="27"/>tis et libre et quando principium arietis ascendit 
+      ca<lb ed="#P" n="28" break="no"/>putlibre descendit et econuerso. Secundo sequi 
+      <lb ed="#P" n="29"/>tur non semper dies est quando sol est super 
+      terra<lb ed="#P" n="30" break="no"/>patet quando non est eius latio et eodemmodo ne 
+      <lb ed="#P" n="31"/>omnis existens in vmbra terre habet noctem: patet 
+      <lb ed="#P" n="32"/>si non sit dies post diem iudici: ergo pari ratione ne 
+      <lb ed="#P" n="33"/>que nox. Item si post diem iudici sit nox erit post 
+      di<lb ed="#P" n="34" break="no"/>em iudici tempus. Tertio sequitur: tunc luna non 
+      <lb ed="#P" n="35"/>erit gironaga nec ctustos arimantidos vrse 
+      tinge<lb ed="#P" n="36" break="no"/>tur occeano nec elice nec cinosura arcton circuibunt 
+      <lb ed="#P" n="37"/>Quarto sequitur non iuuat currere ad augem et oppositum 
+      <lb ed="#P" n="38"/>augis reddendo causam quare plaga terre est habita 
+      <lb ed="#P" n="39"/>bilis inter tropicum cancri et circulum articum et 
+      <lb ed="#P" n="40"/>non ea quae est inter tropicum capricorni et 
+      circu<lb ed="#P" n="41" break="no"/>lum antarticum ista correlaria de se elucescunt. 
+      <lb ed="#P" n="42"/>Sed contra istud argumentor: solem diutius stare 
+      <lb ed="#P" n="43"/>super vnum orizontem non arguit non esse diem: pe 
+      <lb ed="#P" n="44"/>tet de longissimo die artificiali qui erat viginti 
+      quat<lb ed="#P" n="45" break="no"/>tuor horarum vbi sol stetit ad preces iosue / iosue di 
+      <lb ed="#P" n="46"/>cimo. simile patet in casu ezechie quarti regum 
+      vi<lb ed="#P" n="47" break="no"/>cesimo: et prope polum articum homines habent d 
+      <lb ed="#P" n="48"/>em artificialem duobus mensibus et trimestrem di 
+      <lb ed="#P" n="49"/>em habent et medium annum: ergo longa mora sed 
+      <lb ed="#P" n="50"/>lis in orizonte non prepedit denominationem diet 
+      <lb ed="#P" n="51"/>nec eius quies. patet in casu iosue. Preterea 
+      bea<lb ed="#P" n="52" break="no"/>ti perpetuo stabunt in requie: ergo vno anno et vno 
+      <lb ed="#P" n="53"/>die non est possibile durare per totum quin duretur 
+      <lb ed="#P" n="54"/>per partem. Insuper multe cogitationes beatorum 
+      <lb ed="#P" n="55"/>et damnatorum erunt volubiles: ergo tunc erit tem 
+      <lb ed="#P" n="56"/>pus talia mensurans. Respondetur solem circum 
+      <lb ed="#P" n="57"/>ferri requiritur ad tempus vel esse natum in poten 
+      <lb ed="#P" n="58"/>tia propinqua moueri ingyrum quod contingit in 
+      di<lb ed="#P" n="59" break="no"/>bus iosue post diem iudicii nunquam amplius mouebi 
+      <!--429.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="60"/>tur et hoc voco natum girari in potentia propinqua 
+      <lb ed="#P" n="61"/>vna reuolutio solis nunc circa terram cum tanta per 
+      <lb ed="#P" n="62"/>te quantum sol pertransit contra motum firmamen 
+      <lb ed="#P" n="63"/>ti nobis metitur nunc tempus cum quiescat sol am 
+      <lb ed="#P" n="64"/>plius nichil metitur temporanee. Ad aliud si 
+      per<lb ed="#P" n="65" break="no"/>petuo intelligatur perhenni tempore negatur sed per 
+      <lb ed="#P" n="66"/>petuo sine fine conceditur. Ad aliud de cogitationi 
+      <lb ed="#P" n="67"/>bus et earum cremento et decremento conceditur 
+      <lb ed="#P" n="68"/>et sic concluditur potest capi aliqua mensura alia a 
+      <lb ed="#P" n="69"/>sole sicut est michi diale vel horale ex casu arene con 
+      <lb ed="#P" n="70"/>gnosco horam vel ex latere scripto sed tempus 
+      com<lb ed="#P" n="71" break="no"/>mune sol non amplius mensurabit de illo tempore 
+      <lb ed="#P" n="72"/>intelligimus: si dicas solem non retrocessisse vt brugen 
+      <lb ed="#P" n="73"/>sis asserit quarti regum vicesimo tempore ezechie 
+      <lb ed="#P" n="74"/>regis hoc est vnum commentum mere gratis dictum 
+      </p>
+            <p xml:id="JM7jmZ-e15076-d1e379">
+               <lb ed="#P" n="75"/>¶ Secundo argumentor: celi desinunt moueri vel 
+      <lb ed="#P" n="76"/>in illo aspectu quo creati sunt vel in aliquo alio neu 
+      <lb ed="#P" n="77"/>trum dici potest quia detur ratio. Rursus tunc vna 
+      <lb ed="#P" n="78"/>pars terre excessiue calefiet illa que est soli et plane 
+      <lb ed="#P" n="79"/>tis calefactiuis subiecta et reliqua nimis frigefiet et 
+      <lb ed="#P" n="80"/>sic vna pars terre desiccabitur et erit cauernosa vt 
+      <lb ed="#P" n="81"/>pueri in lymbo exire possunt et videre: alia pars con 
+      <lb ed="#P" n="82"/>densabitur hoc est absonum igitur. Item genesis 
+      <lb ed="#P" n="83"/>octauo: cunctis diebus terre estas et hyems nox et 
+      <lb ed="#P" n="84"/>dies non requiescent. Ad primum dicitur quod non 
+      <lb ed="#P" n="85"/>quiescent in illo aspectu quo creati sunt et hoc supr 
+      <lb ed="#P" n="86"/>posito quod mundus non duret triginta sex mille 
+      an<lb ed="#P" n="87" break="no"/>nos vt est verisimile sed hoc soli deo est cognitum 
+      <lb ed="#P" n="88"/>an in martio creabatur vel septembri dictum est in 
+      <lb ed="#P" n="89"/>duodecima distinctione secundi. Ad secundum an 
+      <lb ed="#P" n="90"/>gumentum nunc illud non concludit de aliquibus 
+      <lb ed="#P" n="91"/>partibus remotis a via solis prope articum et 
+      an<lb ed="#P" n="92" break="no"/>tarticum verosimile est quod nulla mixta postea erunt 
+      <lb ed="#P" n="93"/>nisi elementa cum damnatis et saluatis et eorum 
+      <lb ed="#P" n="94"/>partibus et accidentibus ad quid deseruirent ele 
+      <lb ed="#P" n="95"/>phanti tigrides vnicornis oues et boues et vniuer 
+      <lb ed="#P" n="96"/>sa pecora campi tunc non deseruirent: nec pisces. om 
+      <lb ed="#P" n="97"/>nia conuertentur in elementa: sole influentie 
+      cele<lb ed="#P" n="98" break="no"/>stes non producunt pisces aqua circundabit terram 
+      <lb ed="#P" n="99"/>et quando ita esset de causalitate deus non concur 
+      <lb ed="#P" n="100"/>rit cum celo ad affectus inanes producendos ele 
+      <lb ed="#P" n="101"/>menta manebunt ne sit vacuum et ad decorem vni 
+      <lb ed="#P" n="102"/>uersi nunc autem deus mari dedit terminos quos 
+      <lb ed="#P" n="103"/>preterire nequit secundum illudiob tricesimo octa 
+      <lb ed="#P" n="104"/>uo: quis conclusit hostiis mare cum erumpebat quaesi 
+      <lb ed="#P" n="105"/>de vulua procedens circundedi illud terminis 
+      me<lb ed="#P" n="106" break="no"/>lis et posui vectem et ostia et sic non concluditur quod 
+      <lb ed="#P" n="107"/>tandem mare desiccabitur vel quod aqua erit 
+      profun<lb ed="#P" n="108" break="no"/>dior in vna parte quam alia dato quod sol vni parti suppo 
+      <lb ed="#P" n="109"/>natur et non alteri ibi danubius suam denominatio 
+      <lb ed="#P" n="110"/>nem amittet nec per varia ostia mare ponticum pe 
+      <lb ed="#P" n="111"/>tet: nec nilus irrigabit egyptum domini vel iordanis ter 
+      <lb ed="#P" n="112"/>ram promissionis illud genesis octauo intelligitur 
+      <lb ed="#P" n="113"/>ante iudicium. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

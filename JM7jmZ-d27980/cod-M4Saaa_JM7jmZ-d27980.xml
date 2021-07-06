@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 2</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 2</title>
+               <date when="2021-07-06">July 06, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-M4Saaa">Paris 1509</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-06" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="50-v"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="JM7jmZ-d27980"><!-- l1d11q2 -->
+            <head xml:id="JM7jmZ-d27980-Hd1e108">Quaestio 2</head>
+            <head xml:id="JM7jmZ-d27980-Hd1e111" type="question-title">
+      An possumus adorare
+      corpus Christi categorice sub
+      speciebus panis et vini
+    </head>
+            <p xml:id="JM7jmZ-d27980-d1e114">
+               <lb ed="#P" n="35"/>¶ Distinctionis vndecime questio secunda. 
+      <lb ed="#P" n="36"/>SEcundo queritur circa hanc distinctionem 
+      <lb ed="#P" n="37"/>regus an possumus adorare corpus christi cathus 
+      <lb ed="#P" n="38" break="no"/>gorice sub speciebus panis et vini. Pro so 
+      <lb ed="#P" n="39" break="no"/>lutione questionis quia termini questionis sunt 
+      cla<lb ed="#P" n="40" break="no"/>ri declarabo in quo sensu questio est intelligenda et 
+      <lb ed="#P" n="41"/>ad eam respondebo vltra ea quae dixi distin. v. hui 
+      <lb ed="#P" n="42"/>quarti. Nota aliqui dicunt conditionaliter corpus 
+      <lb ed="#P" n="43"/>christi est adorandum in sacramento eucharistie: hoc 
+      <lb ed="#P" n="44"/>potest esse dupliciter. Vnomodo quod oportet 
+      adora<lb ed="#P" n="45" break="no"/>re expresse cum conditionali. Aliomodo tacite e 
+      <lb ed="#P" n="46"/>istud tacite potest sic exponi: quod in modum opposi 
+      <lb ed="#P" n="47"/>tum coincideret. Multi ad pauca respicientes 
+      po<lb ed="#P" n="48" break="no"/>nunt opposita in verbis et in soluendo veniunt in 
+      ean<lb ed="#P" n="49" break="no"/>dem sententiam: sed hic ad rem due sunt opiniones 
+      <lb ed="#P" n="50"/>Una quod conditionaliter debeo adorare. Alia cathui 
+      <lb ed="#P" n="51"/>gorice. Propterea ponam conclusiones et eas 
+      im<lb ed="#P" n="52" break="no"/>pugnabo.
+    </p>
+            <p xml:id="JM7jmZ-d27980-d1e156">
+      ¶ Prima conclusio hec non est michi eu 
+      <lb ed="#P" n="53"/>dens quod corpus christi contineatur sub hostia imo nec 
+      <lb ed="#P" n="54"/>presbitero: patet primo fortassis panis non est trit 
+      <lb ed="#P" n="55"/>ceus et dato opposito nescio an habet intentionem 
+      <lb ed="#P" n="56"/>consecrandi stat quod sit malus homo. Item ipseme 
+      <lb ed="#P" n="57"/>nescit an est baptisatus et per consequens nescit an 
+      <!--115.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="58"/>est presbiter. Et eodemmodo ego nescio a 
+      for<lb ed="#P" n="59" break="no"/>tiore: non loquor nunc de certitudine morali sed in 
+      <lb ed="#P" n="60"/>fallibili prout tu vides. Ex probatione huius 
+      sequi<lb ed="#P" n="61" break="no"/>tur quod non est certum presbitero an ipse consecret li 
+      <lb ed="#P" n="62"/>cet potest esse certius ipsi quam alteri: quia in quocumque 
+      <lb ed="#P" n="63"/>ipse dubitare potest / potest et alter et pluribus 
+      mo<lb ed="#P" n="64" break="no"/>dis igitur.
+    </p>
+            <p xml:id="JM7jmZ-d27980-d1e189">
+      ¶ Secunda conclusio adorans cathego 
+      <lb ed="#P" n="65"/>rice corpus christi quod credit inuincibiliter esse in 
+      <lb ed="#P" n="66"/>sacramento eucharistie non peccat in hoc. probatur 
+      <lb ed="#P" n="67"/>ignorantia inuincibilis excusat aliquem cognoscen 
+      <lb ed="#P" n="68"/>tem non suam quam credit inuincibiliter esse suam 
+      <lb ed="#P" n="69"/>vt de iacob et lia: vel esse poterat causa est 
+      ignoran<lb ed="#P" n="70" break="no"/>tia quam non tenetur vincere. Huic argumento nul 
+      <lb ed="#P" n="71"/>la est euasio nisi hec quod debet facere maiorem 
+      inda<lb ed="#P" n="72" break="no"/>ginem in presentiarum quam de aliena postquam est de 
+      ado<lb ed="#P" n="73" break="no"/>ratione latrie.
+    </p>
+            <p xml:id="JM7jmZ-d27980-d1e212">
+      ¶ Contra hoc arguo: mulier audiens 
+      <lb ed="#P" n="74"/>predicatorem predicantem heresim cuius 
+      opposi<lb ed="#P" n="75" break="no"/>tum non tenetur scire non peccat in quacunque 
+      mate<lb ed="#P" n="76" break="no"/>ria fuerit igitur. Sicerit in proposito postquam ipa non 
+      <lb ed="#P" n="77"/>tenetur scire quod corpus christi est sub hac hostia 
+      te<lb ed="#P" n="78" break="no"/>neo: ergo quod mulier adorans corpus christi quod ipa 
+      <lb ed="#P" n="79"/>credit inuincibiliter esse in hostia non peccat saltem in 
+      <lb ed="#P" n="80"/>adorando: et eodemmodo nullus quantuncunque doctus. 
+      </p>
+            <p xml:id="JM7jmZ-d27980-d1e230">
+               <lb ed="#P" n="81"/>¶ Contra secundam conclusionem arguitur talis est 
+      <lb ed="#P" n="82"/>idolatra ergo peccat Arguo sic in forma: omnis tri 
+      <lb ed="#P" n="83"/>buens cultum soli deo debitum creature est vdola 
+      <lb ed="#P" n="84"/>tra sortes adorans contentum sub speciebus panis 
+      <lb ed="#P" n="85"/>est huiusmodi: ergo est yvdolatra: consequentia tenet in da 
+      <lb ed="#P" n="86"/>rii et maior patet: quia predicatur diffinitum de dis 
+      <lb ed="#P" n="87"/>finitione: et pro probatione minoris ponatur quod pres 
+      <lb ed="#P" n="88"/>biter non faciat quod in se est: supponamus nunc de 
+      <lb ed="#P" n="89"/>per accidens corpori assumpto a verbo debetur cul 
+      <lb ed="#P" n="90"/>tus latrie. Preterea sortes debet rogare deum quod 
+      <lb ed="#P" n="91"/>ostendat ei quid faciendum est et tandem ei 
+      osten<lb ed="#P" n="92" break="no"/>detur quod si non faciat non excusatur a peccato 
+      post<lb ed="#P" n="93" break="no"/>quam dat operam rei illicite. Respondetur ad primum 
+      <lb ed="#P" n="94"/>emptimena negando consequentiam. Aliter dicitur 
+      <lb ed="#P" n="95"/>negando antecedens emptimenatis et maiorem in da 
+      <lb ed="#P" n="96"/>rii sed oportet addere scienter est illa vera. Queli 
+      <lb ed="#P" n="97"/>bet scienter creatura dans cultum soli deo debitum 
+      <lb ed="#P" n="98"/>est idolatra et iam minor est falsa et hoc requiritur 
+      <lb ed="#P" n="99"/>ad vdolatram proprie dictum quemadmodum non 
+      <lb ed="#P" n="100"/>sufficit ad adulterium cognoscere coniunctam sed re 
+      <lb ed="#P" n="101"/>quiritur quod intendat cognoscere illam quam credit esse 
+      <lb ed="#P" n="102"/>coniunctam vel ex culpa non suam sic est in proposi 
+      <lb ed="#P" n="103"/>to. Ad aliud argumentum nego quod sortes debeat ro 
+      <lb ed="#P" n="104"/>gare deum vt ostendat ei verum sufficit ei 
+      adora<lb ed="#P" n="105" break="no"/>re corpus christi quod inuincibiliter credit esse hic. 
+      </p>
+            <p xml:id="JM7jmZ-d27980-d1e287">
+               <lb ed="#P" n="106"/>¶ Sed contra primum arguitur sic: quia per illum 
+      <lb ed="#P" n="107"/>modum sequitur quod machometista esset excusatus a 
+      <lb ed="#P" n="108"/>suo errore et suum pseudo prophetam adorans in 
+      me<lb ed="#P" n="109" break="no"/>tha arabie consequens est falsum et nephas est dicere: et probo 
+      <lb ed="#P" n="110"/> consequentiam: non adorat illum quem credit esse creaturam saltem 
+      <lb ed="#P" n="111"/>cultu latrie: imo credit hoc quod adorat esse verum dem 
+      <lb ed="#P" n="112"/>um et ita erit de omnibus vdolatris tartarorum 
+      e<lb ed="#P" n="113" break="no"/>thiopum et multorum indorum quis est tam in 
+      sen<lb ed="#P" n="114" break="no"/>sato capite qui cultum soli deo debitum tribuapili 
+      <lb ed="#P" n="115"/>quem credit esse creaturam bene exterius potest finge 
+      <lb ed="#P" n="116"/>re sed non habebit actum in anima quo vult adorare mar 
+      <!--116.xml-->
+      <pb ed="#P" n="51-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>tinus in temperantia que est. de adulterio dicit im 
+      <lb ed="#P" n="2"/>possibile esse quod aliquis simul credat et velit adorare 
+      <lb ed="#P" n="3"/>diabolum et tamen adoret deum credens adorare deum 
+      <lb ed="#P" n="4"/>et eum volens adorare si aliquis sortes ponatur lo 
+      <lb ed="#P" n="5"/>co eius talis sortem non adoret. Impugnarem suam 
+      <lb ed="#P" n="6"/>solutionem nisi quia in fine sue solutionis dicit quod 
+      ali<lb ed="#P" n="7" break="no"/>bi determinabit. Secundo potest esse fractio in ap 
+      <lb ed="#P" n="8"/>pellatione rationis in qua ipse non stat. 
+      Propte<lb ed="#P" n="9" break="no"/>rea duo dico ista non stant volo et credo adorare 
+      <lb ed="#P" n="10"/>diabolum et adoro deum posito quod oratio mea non 
+      <lb ed="#P" n="11"/>feratur in plura / alias non est questio quin possum 
+      <lb ed="#P" n="12"/>deum et diabolum adorare et causa est: si credo hunc 
+      <lb ed="#P" n="13"/>esse diabolum et volo adorare diabolum non adoro 
+      <lb ed="#P" n="14"/>deum: volo et adoro important actum anime 
+      inte<lb ed="#P" n="15" break="no"/>riorem denotatur quod oratio feratur in deum ratione 
+      <lb ed="#P" n="16"/>dei quod est contra casum. Secundo dicitur et hoc est 
+      <lb ed="#P" n="17"/>ad rem illa stant simul volo adorare diabolum et deum 
+      <lb ed="#P" n="18"/>adoro / volo adorare deum et diabolum adoro / 
+      ca<lb ed="#P" n="19" break="no"/>piamus iacobum alphei fratrem domini petam ego a 
+      <lb ed="#P" n="20"/>circunstantibus quis est christus et dicant michiia 
+      <lb ed="#P" n="21"/>cobus est ille et quicquid sit de isto casu de quo hol 
+      <lb ed="#P" n="22"/>bot et sui conferentes luctantur cum adoratio eucha 
+      <lb ed="#P" n="23"/>ristie est solita possum ibi cathegoce. adorare et pro hoc 
+      <lb ed="#P" n="24"/>potissimum laboro / bona est apparentia tamen de ca 
+      <lb ed="#P" n="25"/>su iacobi et christi dum christus viator erat: secus 
+      <lb ed="#P" n="26"/>nunc est si quis appareret nomine christi. volo 
+      adora<lb ed="#P" n="27" break="no"/>re christum et credo adorare christum et iacobum adoro quod 
+      <lb ed="#P" n="28"/>patet expositorie hunc adoro demonstrando iacobum hic 
+      <lb ed="#P" n="29"/>est iacobus ergo iacobum adoro / et tamen si petatur a 
+      <lb ed="#P" n="30"/>me quem adoras responderem christum et sic crederem 
+      <lb ed="#P" n="31"/>me adorare christum et volo adorare christum. Istud 
+      <lb ed="#P" n="32"/>patet per magistrum sententiarum in. iiii. di. xxx. ca. i. 
+      <lb ed="#P" n="33"/>vbi hec tangit / verba magistri sunt hec hodie etiam 
+      <lb ed="#P" n="34"/>excusaretur ille cui inscio vxoris soror lectulum suum 
+      <lb ed="#P" n="35"/>ingressa se subiicerit que tamen sine spe coniugii perpe 
+      <lb ed="#P" n="36"/>tuo manere censeatur ille tamen qui cognouit eam per 
+      <lb ed="#P" n="37"/>ignorantiam excusatur quod per simile probatur. si enim 
+      <lb ed="#P" n="38"/>diabolus transfigurans se in angelum lucis credatur 
+      <lb ed="#P" n="39"/>ponus non est error periculosus. Et sequitur si quis 
+      <lb ed="#P" n="40"/>bereticus nomine ambrosii vel augustini alicui 
+      ca<lb ed="#P" n="41" break="no"/>tholico se offerret eumque ad sue fidei mutationem vo 
+      <lb ed="#P" n="42"/>caret si ille assentiret in cuius sententiam fidei dice 
+      <lb ed="#P" n="43"/>retur consensisse non in hereticorum sectam sed in 
+      <lb ed="#P" n="44"/>integritatem fidei quam ille hereticus se mentiebatur 
+      <lb ed="#P" n="45"/>habere.
+    </p>
+            <p xml:id="JM7jmZ-d27980-d1e417">
+      ¶ Hoc notato respondeo ad formam 
+      ar<lb ed="#P" n="46" break="no"/>gumenti negando quod machometista et gentilis sunt 
+      <lb ed="#P" n="47"/>excusandi: et quando probas gentilis credit se ado 
+      <lb ed="#P" n="48"/>rare deum profecto illud concedendum est / gentilis 
+      <lb ed="#P" n="49"/>adorans simulachrum magog illud cuius erat vma 
+      <lb ed="#P" n="50"/>go adorabat et ille magog ab eo creditur esse deus 
+      <lb ed="#P" n="51"/>sed hoc eum non excusat a peccato / non debuit illud 
+      <lb ed="#P" n="52"/>credere sufficienter erat ei ostensum quod magog non 
+      <lb ed="#P" n="53"/>erat deus. Eodemmodo de machometista qui licet 
+      <lb ed="#P" n="54"/>non credat machometum esse deum sed deum esse 
+      <lb ed="#P" n="55"/>deum non est excusandus / semper in peccato residet 
+      <lb ed="#P" n="56"/>non peccat in hoc quod credat deum esse deum sed in 
+      <lb ed="#P" n="57"/>hoc quod christum non credit esse deum et non operatur se 
+      <lb ed="#P" n="58"/>cundum eius doctrinam: etiam credit illum 
+      ange<lb ed="#P" n="59" break="no"/>lum sathanc machometum fuisse prophetam. Rur¬ 
+      <!--116.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="60"/>sus ad vdolatriam sufficit non dare illi cultum latrie 
+      <lb ed="#P" n="61"/>cui quis tenetur et quando tenetur machometiste et 
+      <lb ed="#P" n="62"/>stithe sunt: huiusmodi non dant christo cultum latrie: et licet isti 
+      <lb ed="#P" n="63"/>tidem essentialiter cum christo dant cultum latrie hoc non 
+      sufficit<lb ed="#P" n="64" break="no"/>requiritur quod velint colere christum latria quod christo dant cul 
+      <lb ed="#P" n="65"/>tum latrie patet: huic deo dant cultum latrie credunt 
+      <lb ed="#P" n="66"/>deum esse deum et vnum deum hic deus est christus: 
+      <lb ed="#P" n="67"/>ergo. et c. Et concedo quod si faceret quod in se est christus 
+      <lb ed="#P" n="68"/>sua benignitate ostenderet ei viam salutis et eum 
+      <lb ed="#P" n="69"/>ab errore reuocaret. Sed postquam est relictus in 
+      ma<lb ed="#P" n="70" break="no"/>nus arbitrii sui et non recte credit nec se disponit cum 
+      <lb ed="#P" n="71"/>pharaone meretur indurari: secus est crederean cor 
+      <lb ed="#P" n="72"/>pus christi sit in sacramento eucharistie vel eum ibi 
+      <lb ed="#P" n="73"/>adorare hoc non est essentiale fidei adorare christum 
+      <lb ed="#P" n="74"/>vel christi corpus habens partes extra partes in 
+      or<lb ed="#P" n="75" break="no"/>dine ad totum vel partes penetratiue sicut ante 
+      te<lb ed="#P" n="76" break="no"/>ligimus. Ad veritatem fidei et boni christiani suffi 
+      <lb ed="#P" n="77"/>cit quod adoret corpus christi ibi contentum vel illud 
+      <lb ed="#P" n="78"/>quod ibi credit inuincibiliter contineri siue sit siue 
+      <lb ed="#P" n="79"/>non sit non minus meretur. duo adorant et vnus cor 
+      <lb ed="#P" n="80"/>pus christi in hostia et alter illud quod continetur in 
+      <lb ed="#P" n="81"/>postia puta panem quem inuincibiliter credit esse cor 
+      <lb ed="#P" n="82"/>pus christi et equaliter merentur sufficit quod si sciret 
+      <lb ed="#P" n="83"/>ibi non esse corpus christi non vellet sic adorare sicut 
+      <lb ed="#P" n="84"/>duo quorum vnus cognoscit propriam vxorem vt 
+      <lb ed="#P" n="85"/>generet prolem ad cultum dei ampliandum et 
+      al<lb ed="#P" n="86" break="no"/>ter alienam suppositam eo inscio loco vxoris 
+      equa<lb ed="#P" n="87" break="no"/>liter merentur / siue secundus vocetur adulter siue 
+      <lb ed="#P" n="88"/>non postea aperietur. Eodemmodo si vocetur ille 
+      <lb ed="#P" n="89"/>cathegoce adorans vdolatra vel non ad nomen spe 
+      <lb ed="#P" n="90"/>ctat sed satius est dicere nec vnum vdolatram neo 
+      <lb ed="#P" n="91"/>alium adulterum sed in re quocunque nomine voce 
+      <lb ed="#P" n="92"/>tur non in hoc peccat. sufficit vetule credere hanc 
+      <lb ed="#P" n="93"/>vniuersalem. Quicquid mater ecclesia credit 
+      cre<lb ed="#P" n="94" break="no"/>dendum est et cum hoc illa que scire tenetur 
+      expli<lb ed="#P" n="95" break="no"/>cite inter que non cadit illud explicite 
+      credendum<lb ed="#P" n="96" break="no"/>corpus christi est in hac hostia doctor theologus non 
+      <lb ed="#P" n="97"/>tenetur illam explicite scire: sed tenetur talem reuerem 
+      <lb ed="#P" n="98"/>tiam facere ac si certus esset quod ibi est corpus christi 
+      <lb ed="#P" n="99"/>postquam vidit panem quem credit triticeum et debet 
+      repu<lb ed="#P" n="100" break="no"/>are presbiterum esse bonum non debet dubitare ibi esse 
+      <lb ed="#P" n="101"/>corpus christi sacrum. Petis quare non adoras 
+      <lb ed="#P" n="102"/>corpus christi in stomacho assumentis sicut in pixi 
+      <lb ed="#P" n="103"/>de. Respondetur non est tanta certitudo quod ibi sit 
+      <lb ed="#P" n="104"/>corpus christi fortasse species corrupte sunt etiam 
+      <lb ed="#P" n="105"/>ne videamur adorare hominem secus est de 
+      crea<lb ed="#P" n="106" break="no"/>tura pixide vbi non est tanta apparentia adorationis 
+      <lb ed="#P" n="107"/>quando coniunguntur hostie quarum aliqua sunt consecrate et ali 
+      <lb ed="#P" n="108"/>ue non / feratur adoratio in corpus christi quod est 
+      <lb ed="#P" n="109"/>in illa multitudie sicut esset quando vna pars panis 
+      <lb ed="#P" n="110"/>est consecrata et nonreliqua. concludendo volo 
+      di<lb ed="#P" n="111" break="no"/>tere corpus christi est sub hac hostia non est de fide 
+      <lb ed="#P" n="112"/>non sequitur ex omnibus contentis in fide nec per 
+      <lb ed="#P" n="113"/>ecclesiam determinatur nec ex scientia et fide siml 
+      <lb ed="#P" n="114"/>Non obstante possum assentire illi sine formidine: 
+      <lb ed="#P" n="115"/>quemadmodum bona vetula assentit sine formidine 
+      <lb ed="#P" n="116"/>huic: christus lanceatus est ante mortem per 
+      pre<lb ed="#P" n="117" break="no"/>dicationem prelati augustini vel ambrosii vel repu 
+      <lb ed="#P" n="118"/>tati talis vel inferioris: sed ista non est de fide quia 
+      <!--117.xml-->
+      <pb ed="#P" n="51-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>falsa imo sua contradictoria determinatur per 
+      ec<lb ed="#P" n="2" break="no"/>clesiam eodemmodo dico in proposito mulier 
+      de<lb ed="#P" n="3" break="no"/>pet conformare se conclusioni illius sillogismi Cui 
+      <lb ed="#P" n="4"/>libet propositioni predicate a meo prelato viro do 
+      <lb ed="#P" n="5"/>cto et bono cuius oppositum non teneor explicite 
+      sci<lb ed="#P" n="6" break="no"/>re esse de fide est credendum christus est lanceatus 
+      an<lb ed="#P" n="7" break="no"/>te mortem est huiusmodi: ergo huic est credendum: hec 
+      <lb ed="#P" n="8"/>consequentia est bona maiori et minori sine 
+      pecca<lb ed="#P" n="9" break="no"/>to imo merendo potest assentire: ergo et conclusioni 
+      <lb ed="#P" n="10"/>Eodemmodo hoc quiliet presbiter dicens verba 
+      consecra<lb ed="#P" n="11" break="no"/>tionis cum intentione debita super debita materia 
+      <lb ed="#P" n="12"/>facit corpus christi esse hic iste bresbiter 
+      demonstran<lb ed="#P" n="13" break="no"/>do sortem vel alium est huiusmodi igitur. maior est 
+      no<lb ed="#P" n="14" break="no"/>ta: non debeo dubitare minorem licet pluribus 
+      mo<lb ed="#P" n="15" break="no"/>dis potest esse falsa est michi certum certitudine mo 
+      <lb ed="#P" n="16"/>rali quod non debeam dubitare: patet. Nullus debet 
+      ma<lb ed="#P" n="17" break="no"/>lum de proximo credere antequam probetur. ii. quest. 
+      <lb ed="#P" n="18"/>i. deus. iii. questio. viii. iudicantem. et. xi. quest. iii. 
+      <lb ed="#P" n="19"/>in cunctis. patet alias non debeo facere ei confessio 
+      <lb ed="#P" n="20"/>nem meam nec ab eo capere sacramentum 
+      eucha<lb ed="#P" n="21" break="no"/>ristie si dubitarem debeo ergo conformare me con 
+      <lb ed="#P" n="22"/>clusioni huius sillogismi. Forte dicis multi dicunt 
+      <lb ed="#P" n="23"/>quod presbiter non debet leuare hostiam aliquo pacto 
+      <lb ed="#P" n="24"/>populo ante consecrationem ne populus adoret et 
+      <lb ed="#P" n="25"/>yvdolatret et peccet: ergo populus vdolatriam 
+      com<lb ed="#P" n="26" break="no"/>mittit ex ignoratione inuincibili. Respondetur quio 
+      <lb ed="#P" n="27"/>quid alii dicunt non insisto / dico quod non debet 
+      leua<lb ed="#P" n="28" break="no"/>re quia daret ex sua negligentia occasionem 
+      vdo<lb ed="#P" n="29" break="no"/>latrandi sed populus ante consecrationem adorans 
+      <lb ed="#P" n="30"/>nullatenus peccat / profecto durum est dicere 
+      pro<lb ed="#P" n="31" break="no"/>pter maliciam presbiteri non consecrantis et corpus 
+      <lb ed="#P" n="32"/>domini leuantis populus cadens pronus ad genua et 
+      <lb ed="#P" n="33"/>adorans cathegoce peccaret plusquam alius populus 
+      <lb ed="#P" n="34"/>cathego. et vere adorans corpus christi in alia 
+      ho<lb ed="#P" n="35" break="no"/>stia realiter. Non tamen approbo modum altissio 
+      <lb ed="#P" n="36"/>dicentis presbiterum debere hostiam non 
+      consecra<lb ed="#P" n="37" break="no"/>tam porrigere petenti eucharistiam in casi¬ 
+      </p>
+            <p xml:id="JM7jmZ-d27980-d1e669">
+               <lb ed="#P" n="38"/>¶ Sed contra omnia ista arguitur: quia ex omnibus 
+      <lb ed="#P" n="39"/>hiis sequitur quod nullus est vdolatra proprie dictus 
+      <lb ed="#P" n="40"/>quod non est dicendum: et quod sequatur patet: quia nul 
+      <lb ed="#P" n="41"/>lus scienter adorat creaturam cultu latrie. Respon 
+      <lb ed="#P" n="42"/>detur ad vdolatriam sufficit adorare illud scienter 
+      <lb ed="#P" n="43"/>de quo non rationabiliter constat quod est deus quem 
+      <lb ed="#P" n="44"/>admodum sunt illi qui iouem venerem et cetera 
+      si<lb ed="#P" n="45" break="no"/>mulachra adorarunt. Et illud quod dico nichil ali 
+      <lb ed="#P" n="46"/>ud est in sententia nisi quod stat creaturam esse mate 
+      <lb ed="#P" n="47"/>riale obiectum latrie / sed non formale virtualiter 
+      <lb ed="#P" n="48"/>oratio mea fertur in deum vel conditionaliter 
+      taci<lb ed="#P" n="49" break="no"/>te hoc est si scirem ibi esse panem et non corpus christi 
+      <lb ed="#P" n="50"/>non taliter adorarem / aliquis dicens in illo casu sim 
+      <lb ed="#P" n="51"/>pliciter deum adoro et non creaturam vel nullum pa 
+      <lb ed="#P" n="52"/>nem adoro / sed solum corpus christi adoro is non sa 
+      <lb ed="#P" n="53"/>tis capit sillogismum formatum hoc adoro hoc est 
+      <lb ed="#P" n="54"/>panis: ergo panem adoro sed non adoro panem: sed 
+      <lb ed="#P" n="55"/>si esset aliquod insolitum puta aliud appareret deus 
+      <lb ed="#P" n="56"/>puta angelus tenebrarum transfiguraret se in ange 
+      <lb ed="#P" n="57"/>lum lucis non ita cito credam cum illud est 
+      insoli<lb ed="#P" n="58" break="no"/>tum dicam cum bonis patribus sum indignus deum 
+      <lb ed="#P" n="59"/>videre in hoc corpore mortali et fortasse euanescet 
+      <!--117.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="60"/>sicut interdum factum est in talibus non omni 
+      spi<lb ed="#P" n="61" break="no"/>ritui credendum est sed oportet probare an ex deo 
+      <lb ed="#P" n="62"/>sunt. prime iohannis quarto. et iosue quinto. petit iosue 
+      <lb ed="#P" n="63"/>ab angelo / an noster es an aduersariorum et postea 
+      <lb ed="#P" n="64"/>responso habito pronus cecidit in terram et 
+      ahra<lb ed="#P" n="65" break="no"/>pam tres vidit vnum adorauit in conualle mambre 
+      <lb ed="#P" n="66"/>sed non a principio quousque intellexit qui essent. 
+      <lb ed="#P" n="67"/>Ad hoc potest introduci glosa marginalis. ii. corin 
+      <lb ed="#P" n="68"/>thiorum. xi. super illo verbo / ipse enim sathanas trans 
+      <lb ed="#P" n="69"/>figurat se in angelum lucis: sed meo negocio 
+      suffi<lb ed="#P" n="70" break="no"/>cit quod cathegoce licet adorare corpus christi conten 
+      <lb ed="#P" n="71"/>um sub speciebus panis quia hoc est solitum et quo 
+      <lb ed="#P" n="72"/>tidianum habeo iustam causam pro me ego confirmo 
+      <lb ed="#P" n="73"/>me ecclesie in hoc nec michi imputatur siue corpus 
+      <lb ed="#P" n="74"/>christi ibi fuerit vel ne sed de hoc amplius infra in 
+      <lb ed="#P" n="75"/>xxxviii. distinctione in de adulterio. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

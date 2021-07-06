@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 5</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 5</title>
+               <date when="2021-07-06">July 06, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-M4Saaa">Paris 1509</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-06" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="13-r"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="JM7jmZ-d6973b"><!-- l4d1q5 -->
+            <head xml:id="JM7jmZ-d6973b-Hd1e108">Quaestio 5</head>
+            <head xml:id="JM7jmZ-d6973b-Hd1e111" type="question-title">De circumcisione et de eius
+      obligatione</head>
+            <p xml:id="JM7jmZ-d6973b-d1e114">
+               <lb ed="#P" n="23"/>¶ Distinctionis prime questio vltima. 
+      <lb ed="#P" n="24"/>QVeritur de circuncisione et de eius obliga 
+      <lb ed="#P" n="25"/>tione. Pro solutione notabis Circuncisio 
+      <lb ed="#P" n="26"/> diffinitur a <ref xml:id="JM7jmZ-d6973b-Rd1e124">
+                  <name xml:id="JM7jmZ-d6973b-Nd1e126">iohan. damasce.</name> lib. iiii. 
+      orthodo<lb ed="#P" n="27" break="no"/>xe fidei capi. xxvi.</ref> sic. Circuncisio est signum 
+      discri<lb ed="#P" n="28" break="no"/>minans israel a gentibus. dabatur abrahe an legem 
+      <lb ed="#P" n="29"/>gene. xvii. et conuenienter lex est danda vni populo 
+      <lb ed="#P" n="30"/>fides est fundamentum diuine legis et sic congruebat 
+      <lb ed="#P" n="31"/>quod populus accepturus legem debuit distingui ab in 
+      <lb ed="#P" n="32"/>fidelibus aliquo signo fidei et quia primus abraham 
+      se<lb ed="#P" n="33" break="no"/>gregauit se a societate infidelium et familiam suam pro 
+      <lb ed="#P" n="34"/>pterea ei et cius familie data est primo circuncisio se 
+      <lb ed="#P" n="35"/>cundum id roma. iiii. quod signum accipit circuncisionis 
+      <lb ed="#P" n="36"/>signaculum iusticie fidei.
+    </p>
+            <p xml:id="JM7jmZ-d6973b-d1e153">
+      ¶ Istis notatis ponuntur 
+      <lb ed="#P" n="37"/>conclusiones. Prima est soli masculi de domo abra 
+      <lb ed="#P" n="38"/>he tenebantur ad circuncisionem.
+    </p>
+            <p xml:id="JM7jmZ-d6973b-d1e160">
+      ¶ Secunda conclusio 
+      <lb ed="#P" n="39"/>non omns qui descenderunt ab abraham tenebantur ad 
+      <lb ed="#P" n="40"/>circuncisionem.
+    </p>
+            <p xml:id="JM7jmZ-d6973b-d1e168">
+      ¶ Tertia conclusio licet non erat de ess 
+      <lb ed="#P" n="41"/>tia sacramenti circuncidere in octauo die necessari 
+      <lb ed="#P" n="42"/>um tamen erat de necessitate ministri.
+    </p>
+            <p xml:id="JM7jmZ-d6973b-d1e175">
+      ¶ Prima conclu 
+      <lb ed="#P" n="43"/>que est virtualiter ipothetica patet prior exponens est 
+      <lb ed="#P" n="44"/>est hec masculi tenebantur per illud gene. xvii. ma 
+      <lb ed="#P" n="45"/>sculus cuius preputii caro circuncisa non fuerit dele 
+      <lb ed="#P" n="46"/>bitur anima illa de popetulro suo quia pactum meum irritum 
+      <lb ed="#P" n="47"/>fecit. Secunda pars patet nulli non masculi de domo abra 
+      <lb ed="#P" n="48"/>he tenebantur. hec iterum duas imbibit partes quar 
+      <lb ed="#P" n="49"/>vna est. filie de domo abrahe non tenebantur. Alia 
+      <lb ed="#P" n="50"/>est masculi de alia domo non tenebantur. prior pars 
+      <lb ed="#P" n="51"/>patet per locum a contrario sensu de masculo. sed 
+      <lb ed="#P" n="52"/>dicis locus a contrario sensu parum ponderatur er 
+      <lb ed="#P" n="53"/>tra leges et iura. patet aliter. deficit necessarium eis 
+      <lb ed="#P" n="54"/>membrum ad circuncisionem / ergo circuncidi non po 
+      <lb ed="#P" n="55"/>terant et istud congruebat. generatio perpctua voca 
+      <lb ed="#P" n="56"/>tur circularis et quia peccatum originale descendit in omnes 
+      <lb ed="#P" n="57"/>propagatos per propagationem seminis dempta be 
+      <!--040.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="58"/>ata virgine igitur. Item si adam peccasset et non eua 
+      <lb ed="#P" n="59"/>fuissemus concepti in originali et ade potissimum est 
+      <lb ed="#P" n="60"/>data custodia iusticie originalis igitur. alia pars patet 
+      <lb ed="#P" n="61"/>quod gentiles non tenebantur / bene tamen poterant vt 
+      <lb ed="#P" n="62"/>patet exodi. xii. Quod si quis peregrinorum in tuam vo 
+      <lb ed="#P" n="63"/>luerit transire coloniam et facere phase domini circuncide 
+      <lb ed="#P" n="64"/>tur prius omne masculinum eius et tunc celebrabit 
+      <lb ed="#P" n="65"/>phase eritque sicut indigena terre. Item iob fuit sal 
+      <lb ed="#P" n="66"/>uatus et tamen non apparet quod circuncisus fuerit igi 
+      <lb ed="#P" n="67"/>tur. idem potest ostendi de gentibus romanis ad ro 
+      <lb ed="#P" n="68"/>manos secundo. gentes que legem non habent sibiipsis 
+      <lb ed="#P" n="69"/>sunt lex. idem erat de omnibus gentibus. et hugo 
+      <lb ed="#P" n="70"/>circuncisio non est data nisi semini abrahe vt in car 
+      <lb ed="#P" n="71"/>ne significarentur que in carne vnirentur amplius 
+      <lb ed="#P" n="72"/>tunc colebatur deus hiero solymis et de tribu leui 
+      <lb ed="#P" n="73"/>erant ministri hoc designat particularitatem illius 
+      <lb ed="#P" n="74"/>legis. et psal. cxlvii. Qui annunciat verbum suum 
+      <lb ed="#P" n="75"/>iacob iusticias et iudicia sua israel non fecit taliter 
+      <lb ed="#P" n="76"/>omni nationi et iudicia sua non manifestauit eis. 
+      </p>
+            <p xml:id="JM7jmZ-d6973b-d1e256">
+               <lb ed="#P" n="77"/>¶ Secunda conclusio patet Iob descendit de abra 
+      <lb ed="#P" n="78"/>ham per esau secundum beatum gregorium in prologo  
+      <lb ed="#P" n="79"/>iob.
+    </p>
+            <p xml:id="JM7jmZ-d6973b-d1e265">
+      ¶ Tertia conclusio patet de proscelitis conuer 
+      <lb ed="#P" n="80"/>sis ad iudaismum et de achior iudicum nono et 
+      is<lb ed="#P" n="81" break="no"/>maele circunciso decimotertio anno sue etatis quod 
+      <lb ed="#P" n="82"/>hodie hismaelite seruant et de abrahamo. eena 
+      sa<lb ed="#P" n="83" break="no"/>cramenti est inuariabilis. Alia pars patet ex 
+      litte<lb ed="#P" n="84" break="no"/>ra geneseos. magister tamen tenet in littera quod 
+      po<lb ed="#P" n="85" break="no"/>terant preuenire diem octauam si puer esset in 
+      pe<lb ed="#P" n="86" break="no"/>riculo. oppositum vsum in hodiernum diem obser 
+      <lb ed="#P" n="87"/>uant iudei et id patet per glo. quae habetur prouer. iiii. super 
+      <lb ed="#P" n="88"/>verbo vnigenitus eram coram matre mea dicit quod alius 
+      fi<lb ed="#P" n="89" break="no"/>lius bersabee non computabatur quia non circuncisus nec 
+      <lb ed="#P" n="90"/>nominatus cum in cimreuncisione nomen imponebatur 
+      <lb ed="#P" n="91"/>vt apparet luce primo de iohanne et luce secundo de chri 
+      <lb ed="#P" n="92"/>sto nulluiu animal offerebatur ante octauum diem 
+      <lb ed="#P" n="93"/>Exodi. xxii. non licuit parentibus anticipare 
+      octa<lb ed="#P" n="94" break="no"/>uum nec differre nisi dispensante domino vt in deserto 
+      <lb ed="#P" n="95"/>et hoc erat rationabile nesciebatur quando erant 
+      <lb ed="#P" n="96"/>descessuri cum mouebantur ad columpnam nubis 
+      <lb ed="#P" n="97"/>de cuius motu erant incerti et paruuli fuissent lesi 
+      <lb ed="#P" n="98"/>propterea erant inepti ad motum / et erant separati 
+      <lb ed="#P" n="99"/>a gentibus.
+    </p>
+            <p xml:id="JM7jmZ-d6973b-d1e311">
+      ¶ Contra diffinitionem 
+      circunci<lb ed="#P" n="100" break="no"/>sionis arguitur. multa erant alia signa per que isra 
+      <lb ed="#P" n="101"/>el distinguebatur a gentibus: ergo diffinitio nichil va 
+      <lb ed="#P" n="102"/>let.
+    </p>
+            <p xml:id="JM7jmZ-d6973b-d1e320">
+      ¶ Insuper ponatur quod omnes gentes sint 
+      con<lb ed="#P" n="103" break="no"/>uerse ad iudaismum. Rursus gentes habebant sua 
+      <lb ed="#P" n="104"/>signa ergo per non signum poterant distingui 
+      iu<lb ed="#P" n="105" break="no"/>dei. sicut si omnes oues in pago essent signate oues 
+      <lb ed="#P" n="106"/>mee cognoscuntur per non signaturam.
+    </p>
+            <p xml:id="JM7jmZ-d6973b-d1e332">
+      ¶ 
+      Res<lb ed="#P" n="107" break="no"/>pondere potes bene. addendum est delens origina 
+      <lb ed="#P" n="108"/>le et licet hoc totum nunc conueniat baptismo tunc 
+      <lb ed="#P" n="109"/>sufficiebat pro diffinitione secundum legem. Ad  
+      <lb ed="#P" n="110"/>secundum dicitur quod est signum aptitudine 
+      fa<lb ed="#P" n="111" break="no"/>ciens distinctionem. nec stes in distinctione 
+      logi<lb ed="#P" n="112" break="no"/>cali ponenti constantiam extremorum quicquid sit de 
+      <lb ed="#P" n="113"/>possibili congruebat populum dei habere proprium signum 
+      <lb ed="#P" n="114"/>ouis non signata requirit maiorem indaginem quam 
+      <lb ed="#P" n="115"/>ouis signata alique signantur a fronte alie a tergo 
+      <lb ed="#P" n="116"/>et ad varias differentias positionum et omnes partes in 
+      <!--041.xml-->
+      <pb ed="#P" n="13-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>tueri oportet ad cognoscendam ouem non signatam 
+      sec<lb ed="#P" n="2" break="no"/>est de signata applica ad propositum. Item priuatio 
+      <lb ed="#P" n="3"/>non cognoscitur nisi per positiuum. porphirius dans 
+      <lb ed="#P" n="4"/>duas diffinitiones accidentis dicit quod illa est peior in 
+      <lb ed="#P" n="5"/>qua dicitur. Accidens est quod neque est genus neque spr 
+      <lb ed="#P" n="6"/>cies neque differentia quia pro illa cognoscenda 
+      ope<lb ed="#P" n="7" break="no"/>reprecium est cognoscere genus speciem et differ 
+      <lb ed="#P" n="8"/>tiam / sed quia ibi aliquo modo tuam ouem cognoscere 
+      <lb ed="#P" n="9"/>potes luctare in hoc non sigatum est signatum / in 
+      <lb ed="#P" n="10"/>qua michi immorari est peregrinum.
+    </p>
+            <p xml:id="JM7jmZ-d6973b-d1e384">
+      ¶ Contra pri 
+      <lb ed="#P" n="11"/>mam conclusionem argumentor. morbus fuit 
+      com<lb ed="#P" n="12" break="no"/>munis feminis sicut masculis / ergo et remedium de 
+      <lb ed="#P" n="13"/>buit esse commune / et illud probat idem xebere esse 
+      <lb ed="#P" n="14"/>apud gentes cum erant concepti in peecato origina 
+      <lb ed="#P" n="15"/>li sicut iudei.
+    </p>
+            <p xml:id="JM7jmZ-d6973b-d1e397">
+      ¶ Insuperiheremie. ix. viuificabo su 
+      <lb ed="#P" n="16"/>per eum qui circuncisum habet preputium super 
+      egy<lb ed="#P" n="17" break="no"/>ptum et super filios amodo et super moab. vbi glosa 
+      <lb ed="#P" n="18"/>beati hieronimi / multitudo gentium maxime iudee 
+      <lb ed="#P" n="19"/>et palestine confinis vsque hodie circuncidentur et 
+      prae<lb ed="#P" n="20" break="no"/>cipue egypti et idumei amonite ct moabite et omnis 
+      <lb ed="#P" n="21"/>regio sarracenorum qui habitant in solitudie. ergo ci 
+      <lb ed="#P" n="22"/>cuncisio fuit inter alios multos a semine abrahe. h 
+      <lb ed="#P" n="23"/>patet ex modo precepti genesis. xvii. de vernaculis 
+      <lb ed="#P" n="24"/>et seruis empticiis.
+    </p>
+            <p xml:id="JM7jmZ-d6973b-d1e419">
+      ¶ Ad primum nego consequentiam / dei 
+      <lb ed="#P" n="25"/>cuit quod populus peculiaris dei haberet signum 
+      distin<lb ed="#P" n="26" break="no"/>stum a populo infideli. femine saluabantur per 
+      sa<lb ed="#P" n="27" break="no"/>cramenta ante legem sicut paruuli iudeorum ante oc 
+      <lb ed="#P" n="28"/>tauum diem morientes et sicut de gentilibus.
+    </p>
+            <p xml:id="JM7jmZ-d6973b-d1e430">
+      ¶ Ad 
+      <lb ed="#P" n="29"/>aliud conceditur assumptum sed ad hoc non tenebantur sed  
+      <lb ed="#P" n="30"/>erat ad imitationem ritus iudeorum visis beneficiis quae de 
+      <lb ed="#P" n="31"/>us dedit iudeis sicut legitur quod multi de egyptiis exie 
+      <lb ed="#P" n="32"/>runt de egypto cum iudeis visis mirabilibus quae deus 
+      <lb ed="#P" n="33"/>fecit ad liberationem iudeorum. Exodi. xiii. Sed et 
+      <lb ed="#P" n="34"/>vulgus promiscui sexus innumerabile ascendit cum eis. 
+      <lb ed="#P" n="35"/>De vernaculis et seruis potest dici. decens erat quod 
+      com<lb ed="#P" n="36" break="no"/>formarent se modo viuendi domini. secundum illud ecclesia 
+      <lb ed="#P" n="37"/>decimo. secundum iudicem populi sic et ministri eius 
+      <lb ed="#P" n="38"/>et quando illi essent obligati quamdiu erant de familia abra 
+      <lb ed="#P" n="39"/>he non sequitur de aliis. Dicis tunc alii erant 
+      libe<lb ed="#P" n="40" break="no"/>rioris conditionis quam iudei: ergo ex infidelitate et nequitia 
+      <lb ed="#P" n="41"/>importarent commodum. consequentiam nego secundum illud comici 
+      <lb ed="#P" n="42"/>icentia deteriores sumus. Illud concluderet religio 
+      <lb ed="#P" n="43"/>sos esse in peioristatu quam laicos et presbiteros quam 
+      lai<lb ed="#P" n="44" break="no"/>cos.
+    </p>
+            <p xml:id="JM7jmZ-d6973b-d1e467">
+      ¶ Contra secundam conclusionem 
+      argu<lb ed="#P" n="45" break="no"/>mentor: vel aliqui tenebantur et aliqui non vel on 
+      <lb ed="#P" n="46"/>nes. Si primum detur qui obligabantur si illi qui 
+      <lb ed="#P" n="47"/>manserunt in ritu viuendi abrahe et alii non tene 
+      <lb ed="#P" n="48"/>bantur tunc ex culpa regulam latiorem viuend 
+      <lb ed="#P" n="49"/>caperent. si secundum contra conclusionem. argumentun 
+      <lb ed="#P" n="50"/>est solutum inter arguendum cum solutione argumenti 
+      <lb ed="#P" n="51"/>precedentis. stat populum peccare 
+      transgredien<lb ed="#P" n="52" break="no"/>do vnum preceptum ecclesie et successu tamen tem 
+      <lb ed="#P" n="53"/>poris populus posterior non peccabit. lex grati 
+      <lb ed="#P" n="54"/>que est plenitudinis obligat omnes ad baptismum 
+      <lb ed="#P" n="55"/>et ad illa que legis diuine sunt omnes obligaban 
+      <lb ed="#P" n="56"/>tur. Marci vltimo. Ite docete omnes gentes e 
+      <lb ed="#P" n="57"/>euangelium predicate omni creature. christus la 
+      <lb ed="#P" n="58"/>pis angularis coniunxit duos parietes in vnum et 
+      <lb ed="#P" n="59"/>sicut est vnus pastor / ita vnum ouile esse debet et li¬ 
+      <!--041.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="60"/>tet ante incarnationem esset vnus pastor non adhuc 
+      <lb ed="#P" n="61"/>erat lapis angularis coniungens vtrunque testamentum 
+      <lb ed="#P" n="62"/>nunc non solum hierosolymis vel rome solum colitur dee 
+      <lb ed="#P" n="63"/>sed vsquequaque venerari publice licet similiter eius ministri 
+      <lb ed="#P" n="64"/>non accipiuntur de vna tribu tantum sed de omni gente quae sub 
+      <lb ed="#P" n="65"/>celo est. Cultellus petrinus videtur fuisse congruitati 
+      <lb ed="#P" n="66"/>ad circuncisionem et non necessitatis petra autem erat 
+      <lb ed="#P" n="67"/>christus. Item populus iste erat dure ceruicis et sic 
+      <lb ed="#P" n="68"/>erat congruitas non necessitas. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

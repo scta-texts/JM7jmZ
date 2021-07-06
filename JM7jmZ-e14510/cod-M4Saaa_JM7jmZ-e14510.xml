@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 1</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 1</title>
+               <date when="2021-07-06">July 06, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-M4Saaa">Paris 1509</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-06" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="206-r"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="JM7jmZ-e14510"><!-- l4d47q1 -->
+            <head xml:id="JM7jmZ-e14510-Hd1e108">Quaestio 1</head>
+            <head xml:id="JM7jmZ-e14510-Hd1e111" type="question-title">
+      An in generali iudicio erit
+      disputatio vocalis
+    </head>
+            <p xml:id="JM7jmZ-e14510-d1e114">
+               <lb ed="#P" n="85"/>¶ Distinctionis quadragesime septine questio prima. 
+      <lb ed="#P" n="86"/>HIc magister in quadragesima septima 
+      di<lb ed="#P" n="87" break="no"/>istinctione loquitur de generali iudicio et 
+      <lb ed="#P" n="88"/>de noticia que fiet in illo et quomodo 
+      mum<lb ed="#P" n="89" break="no"/>dus est purgandus per ignem. Circa istam 
+      distin<lb ed="#P" n="90" break="no"/>ctionem quadragesimam septimam quero aliquas 
+      <lb ed="#P" n="91"/>questiones: primo quero: an in generali iudicio erit 
+      <lb ed="#P" n="92"/>disputatio vocalis.
+    </p>
+            <p xml:id="JM7jmZ-e14510-d1e134">
+      questio hec vnum supponit et 
+      <lb ed="#P" n="93"/>aliud querit supponit generale iudicium futurum 
+      <lb ed="#P" n="94"/>et querit an erit disputatio vocalis: propterea 
+      res<lb ed="#P" n="95" break="no"/>pondetur ad vtrunque conclusiue.
+    </p>
+            <p xml:id="JM7jmZ-e14510-d1e143">
+      ¶ Prima conclu 
+      <lb ed="#P" n="96" break="no"/>sio: generale iudicium est futurum.
+    </p>
+            <p xml:id="JM7jmZ-e14510-d1e149">
+      ¶ Secunda con 
+      <lb ed="#P" n="97" break="no"/>clusio probabile est quod aliquid vocale erit in iudicio 
+      </p>
+            <p xml:id="JM7jmZ-e14510-d1e154">
+               <lb ed="#P" n="98"/>¶ Tertia conclusio multa mentaliter fient in illo 
+      <lb ed="#P" n="99"/>iudicio.
+    </p>
+            <p xml:id="JM7jmZ-e14510-d1e161">
+      Prima conclusio est certa iohannis 
+      quin<lb ed="#P" n="100" break="no"/>to: procedent hii qui bona fecerunt in 
+      resurrectio<lb ed="#P" n="101" break="no"/>nem vite qui vero mala egerunt in resurrectionem. 
+      <lb ed="#P" n="102"/>iudici: et <ref xml:id="JM7jmZ-e14510-Rd1e169">beatus augustinus vicesimo de ciuitate 
+        <lb ed="#P" n="103"/>dei capitulo primo</ref> 
+               <quote xml:id="JM7jmZ-e14510-Qd1e174" source="http://scta.info/resource/adcd-l20-d1e3212@7-21">tenet omnis ecclesia dei 
+      chri<lb ed="#P" n="104" break="no"/>stum de celo esse venturum ad viuos et mortuos 
+      <lb ed="#P" n="105"/>iudicandos</quote>.
+    </p>
+            <p xml:id="JM7jmZ-e14510-d1e182">
+      Secunda conclusio patet per litteram 
+      <lb ed="#P" n="106"/>mathei vicesimo quinto. Insuper deus iudicabit 
+      <lb ed="#P" n="107"/>vt deus et homo: ergo iudicium eius non solum 
+      fi<lb ed="#P" n="108" break="no"/>et diuino modo sed etiam humano hoc est 
+      vocali<lb ed="#P" n="109" break="no"/>ter. Item sicut nunc in sententia particulari fit 
+      sen<lb ed="#P" n="110" break="no"/>tentia mentalis circa animas pure spirituales a 
+      <lb ed="#P" n="111"/>corporibus exutas: ita debet esse parti spualis partim 
+      <lb ed="#P" n="112"/>corporalis contra animas corporibus reassumptis 
+      <!--427.xml-->
+      <pb ed="#P" n="206-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>Item <ref xml:id="JM7jmZ-e14510-Rd1e208">
+                  <name xml:id="JM7jmZ-e14510-Nd1e210">gregorius</name> vicesimo sexto moralium</ref> dicit de 
+      <lb ed="#P" n="2"/>reprobis quod illi verba iudicis audient qui eius fide 
+      <lb ed="#P" n="3"/>saltem verbo tenuerunt sed hoc non commode intel 
+      <lb ed="#P" n="4"/>ligitur de verbo mentali igitur.
+    </p>
+            <p xml:id="JM7jmZ-e14510-d1e221">
+      ¶ Tertia 
+      conclu<lb ed="#P" n="5" break="no"/>sio patet <ref xml:id="JM7jmZ-e14510-Rd1e225">vicesimo de ciuitate capitulo vicesimo quar 
+      <lb ed="#P" n="6" break="no"/>to</ref>: simul omnes et singuli iudicabuntur: sed si cum 
+      <lb ed="#P" n="7"/>quolibet esset particularis disceptatio 
+      requirere<lb ed="#P" n="8" break="no"/>tur magna temporis intercapedo ad iudicandum: 
+      <lb ed="#P" n="9"/>modo vigesimo de ciuitate capitulo vicesimo 
+      sex<lb ed="#P" n="10" break="no"/>to deus conscientias reproborum conuincet sine 
+      <lb ed="#P" n="11"/>vlla sermonis prolixitate. et sapientie quarto: diri 
+      <lb ed="#P" n="12"/>pet illos inflatos sine voce romanorum secundo. 
+      <lb ed="#P" n="13"/>testimonium reddente illis conscientia eorum et in 
+      <lb ed="#P" n="14"/>ter seinuicem cogitationum accusantium in die quan 
+      <lb ed="#P" n="15"/>do iudicabit dominus occulta hominum.
+    </p>
+            <p xml:id="JM7jmZ-e14510-d1e250">
+      ¶ Contra pri 
+      <lb ed="#P" n="16"/>mam conclusionem arguitur iohannis duodecimo 
+      <lb ed="#P" n="17"/>nunc iudicium est mundi: ergo non est futurum. et 
+      <lb ed="#P" n="18"/>naum primo: non iudicabit bis deus in idipsum. 
+      <lb ed="#P" n="19"/>Ad primum dicitur quod illud intelligitur de iudicio 
+      <lb ed="#P" n="20"/>quod fecit christus quando per suam mortem iuste li 
+      <lb ed="#P" n="21"/>berauit genus humanum de seruitute dyaboli: sic 
+      <lb ed="#P" n="22"/>exponit augustinus omelia quinquagesima 
+      secun<lb ed="#P" n="23" break="no"/>da super iohannem quod probat ex sequenti lictera cum 
+      <lb ed="#P" n="24"/>dicitur nunc princeps huius mundi eiicietur foras 
+      <lb ed="#P" n="25"/>Secundum intelligitur quod non puniet idem 
+      pecca<lb ed="#P" n="26" break="no"/>tum duplici pena sed vnica ei respondente.
+    </p>
+            <p xml:id="JM7jmZ-e14510-d1e277">
+      ¶ 
+      Com<lb ed="#P" n="27" break="no"/>tra tertiam conclusionem argumentor: vel quilibet 
+      <lb ed="#P" n="28"/>omnia sua peccata preterita cognoscet vel aliqua sic 
+      <lb ed="#P" n="29"/>et aliqua non: si sic cum multa dantur obliuioni hoc 
+      <lb ed="#P" n="30"/>non erit naturaliter. dicis deus iuuat memoriam 
+      <lb ed="#P" n="31"/>contra saltem non poterit habere tot peccata simu 
+      <lb ed="#P" n="32"/>presentia propter finitatem actiuam anime que ad 
+      <lb ed="#P" n="33"/>illos actus concurrit et hoc saltem erit difficile 
+      re<lb ed="#P" n="34" break="no"/>spectu omnium peccatorum aliorum a peccante. 
+      <lb ed="#P" n="35"/>Insuper peccata deleta in confessione non 
+      osten<lb ed="#P" n="36" break="no"/>dentur quia sic multi de peccatis occultis verecun 
+      <lb ed="#P" n="37"/>darentur. Ad primum transeat quod quilibet omnit 
+      <lb ed="#P" n="38"/>sua peccata cognoscat deus potest supplere actiui 
+      <lb ed="#P" n="39"/>tatem anime: quod omnia cognoscat et omuia aliens 
+      <lb ed="#P" n="40"/>probabile est quod si anima sue nature relinquatur po 
+      <lb ed="#P" n="41"/>test cognoscere secreta cordis alterius et aliquorum 
+      <lb ed="#P" n="42"/>peccatorum potest habere noticiam distinctam es 
+      <lb ed="#P" n="43"/>deus potest supplere actiuitatem anime quod infinita 
+      <lb ed="#P" n="44"/>cognoscat sortes non plus facit ferendo mille libras 
+      <lb ed="#P" n="45"/>cum mille hominibus membrosis quam ferendo vnam 
+      <lb ed="#P" n="46"/>libram sine ope alterius sed non est opus quod quilibtet 
+      <lb ed="#P" n="47"/>cognoscat in particulari cuiuslibet omnia peccata 
+      <lb ed="#P" n="48"/>sufficit in generali quod cognoscet per separationem 
+      <lb ed="#P" n="49"/>hedorum a sinistris et ouium a dextris: secus est de 
+      <lb ed="#P" n="50"/>peccatis propriis. Ad aliud probabile videtur quod 
+      <lb ed="#P" n="51"/>peccata confessa non innotescent aliis. 
+      </p>
+            <p xml:id="JM7jmZ-e14510-d1e334">
+               <lb ed="#P" n="52"/>¶ Dubitatur an solus christus iudicabit propter a 
+      <lb ed="#P" n="53"/>liquas auctoritates opus est ponere varias accep 
+      <lb ed="#P" n="54"/>tiones iudicis iohannis quinto dicitur: pater 
+      om<lb ed="#P" n="55" break="no"/>ne iudicium dedit filio: et mathei decimo nono 
+      di<lb ed="#P" n="56" break="no"/>citur de apostolis quod erunt iudices duodecim tribus 
+      <lb ed="#P" n="57"/>israel. et iob tricesimo sexto: iudicium pauperibus 
+      <lb ed="#P" n="58"/>tribuit propter ista et similia dicitur multiphariam 
+      <!--427.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="59"/>potest iudicium alicui conuenire scilicet ordinaria 
+      <lb ed="#P" n="60"/>potestate et sic iudicabit tota trinitas ex delegata 
+      <lb ed="#P" n="61"/>potestate et sic iudicabit dominus inquantum bomo. 
+      <lb ed="#P" n="62"/>Quo fit licet deus iudicabit in natura humana non 
+      <lb ed="#P" n="63"/>tamen iudicabit secundum naturam humanam: vel 
+      <lb ed="#P" n="64"/>accessoria dignitate et sic perfecti iudicabunt non vt 
+      <lb ed="#P" n="65"/>consulant sed assistent propter eorum honorem vel 
+      <lb ed="#P" n="66"/>comparatione et sic minus mali iudicabunt magis 
+      <lb ed="#P" n="67"/>malos secundum illud luce vndecimo: viri 
+      niniui<lb ed="#P" n="68" break="no"/>te surgent in iudicio cum generatione hac et 
+      condem<lb ed="#P" n="69" break="no"/>nabunt eam. Dices ex hiis sequitur quod damnat 
+      <lb ed="#P" n="70"/>videbunt corpus christi in gloria et sic habebunt de 
+      <lb ed="#P" n="71"/>lectationem conceditur antecedens sicut ascendit 
+      <lb ed="#P" n="72"/>in gloria: sic in glorioso corpore apparebit actuum 
+      <lb ed="#P" n="73"/>primo: hic iesus qui assumptus est a vobis in celum 
+      <lb ed="#P" n="74"/>sic veniet quemadmodum eum vidistis euntem in 
+      <lb ed="#P" n="75"/>celum: secundum illud luce vicesimo primo: 
+      vide<lb ed="#P" n="76" break="no"/>bunt filium hominis venientem in nubibus cum po 
+      <lb ed="#P" n="77"/>testate magna et maiestate: non debet esse vilioris 
+      <lb ed="#P" n="78"/>conditionis in aspectu quam iudicandi modo sed 
+      pre<lb ed="#P" n="79" break="no"/>destinati habebunt corpora gloriosa sed consequen 
+      <lb ed="#P" n="80"/>tia est nulla sicut gloria amici est delectabilis ita 
+      il<lb ed="#P" n="81" break="no"/>lius qui eum odit est tristabilis: nec sequitur quod 
+      ha<lb ed="#P" n="82" break="no"/>pebunt beatitudinem: quia illa est in visione dei quam 
+      <lb ed="#P" n="83"/>non habent. hic paululum respira ponderans 
+      ver<lb ed="#P" n="84" break="no"/>bum: ite maledicti in ignem eternum: non dictumi 
+      <lb ed="#P" n="85"/>per tres annos / nec per quattuor annos / nec millio 
+      <lb ed="#P" n="86"/>nem annorum tunc loquetur ad eos in ira sua et in 
+      <lb ed="#P" n="87"/>furore suo conturbabit eos: horrendum est 
+      incide<lb ed="#P" n="88" break="no"/>re in manus dei viuentis ad hebreos decimo: et duo 
+      <lb ed="#P" n="89"/>decimo eiusdem: non inuenit penitentie locum quamquam 
+      <lb ed="#P" n="90"/>cum lachrymis inquisiuisset eam cadite super nos 
+      <lb ed="#P" n="91"/>et abscondite nos a facie sedentis super thronum et 
+      <lb ed="#P" n="92"/>ab ira agni apocalipsis sexto. Hic potest fieri argu 
+      <lb ed="#P" n="93"/>mentum preuideri puniri vno die est penale puniri 
+      <lb ed="#P" n="94"/>duobus diebus penalius tertio penalius adhuc es 
+      <lb ed="#P" n="95"/>sine statu sic dies addendo ergo infinite tristabitu 
+      <lb ed="#P" n="96"/>reprobus videns se puniendum per infinita secula 
+      <lb ed="#P" n="97"/>Dicis non habet distinctos actus super singulos di 
+      <lb ed="#P" n="98"/>es latos et non est ita penale respicere ad totale 
+      tem<lb ed="#P" n="99" break="no"/>pus simul saltem sequitur quod quo ad hoc discedens 
+      <lb ed="#P" n="100"/>cum vno paruo mortali quod contingit frequenter de 
+      <lb ed="#P" n="101"/>lege tantum punietur sicut iudas nero vel 
+      macho<lb ed="#P" n="102" break="no"/>metus. Respondetur non sequitur videt se punier 
+      <lb ed="#P" n="103"/>dum mitiori pena qui preuidet se habiturum mor 
+      <lb ed="#P" n="104"/>colicam passionem per tres dies magis turbatur 
+      <lb ed="#P" n="105"/>quam ille qui videt se laboraturum lenta febricula vno 
+      <lb ed="#P" n="106"/>mense magnam misericordiam deus facit 
+      damna<lb ed="#P" n="107" break="no"/>tis: alioquin cum paruo mortali discedens potest 
+      <lb ed="#P" n="108"/>sibi relictus seipsum cruciare per modum insaniet 
+      <lb ed="#P" n="109"/>tis sicut videmus idem morbus in acrimonia virum 
+      <lb ed="#P" n="110"/>impacientem plus exagitat quam pacientem deus non 
+      <lb ed="#P" n="111"/>concurrit cum illo qui cum vno mortali paruo 
+      di<lb ed="#P" n="112" break="no"/>scedit ad inquietem maiorem plus quam culpa meres 
+      <lb ed="#P" n="113"/>tur fateor quelibet pena inferni est dolorosa sed de 
+      <lb ed="#P" n="114"/>us magnam misericordiam eis facit.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

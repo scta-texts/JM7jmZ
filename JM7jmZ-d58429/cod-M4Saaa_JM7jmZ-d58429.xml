@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 27</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 27</title>
+               <date when="2021-07-06">July 06, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-M4Saaa">Paris 1509</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-06" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="105-v"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="JM7jmZ-d58429"><!-- l4d15q27 -->
+            <head xml:id="JM7jmZ-d58429-Hd1e108">Quaestio 27</head>
+            <head xml:id="JM7jmZ-d58429-Hd1e111" type="question-title">
+      De pecunia traiecticia vel
+      nautica tangendo casum
+      capitis naviganti de usuris
+      non licet sorti capere
+      pecuniam ultra sortem
+      ratione periculi suscepti ut
+      romanus pontifex dicit in
+      capite praefato
+    </head>
+            <p xml:id="JM7jmZ-d58429-d1e114">
+               <lb ed="#P" n="95"/>¶ Distinctionis decime quinte quaestio vigesima septima 
+      <lb ed="#P" n="96"/>Igesimo septimo circa hanc quintam 
+      de<lb ed="#P" n="97" break="no"/>Icimam distinctionem queritur de pecunia 
+      tra<lb ed="#P" n="98" break="no"/>Uiecticia vel nautica tangendo casum capitis 
+      <lb ed="#P" n="99"/>nauiganti de vsuris non licet sorti capere pecuniam 
+      <lb ed="#P" n="100"/>vltra sortem ratione periculi suscepti vt romanus 
+      <lb ed="#P" n="101"/>pontifex dicit in capite prefato. Respondetur 
+      inten<lb ed="#P" n="102" break="no"/>tio illius capitis est reprobare contractum illum quo 
+      <lb ed="#P" n="103"/>mutuans noluit dare mutuo pecuniam nisi in se 
+      su<lb ed="#P" n="104" break="no"/>sciperet periculum et lucrum acciperet et sic non dat 
+      <lb ed="#P" n="105"/>mutuo gratis: sed si mutuatarius rogaret mutuato 
+      <lb ed="#P" n="106"/>rem post mutuum in se susc ipere periculum vel si 
+      <lb ed="#P" n="107"/>vltro mutuator se ad illud offerat potest taliter 
+      su<lb ed="#P" n="108" break="no"/>bire onus periculi sicut non mutuator. ratio bernar 
+      <lb ed="#P" n="109"/>di in glosa nichil valet. dicit quod periculum pecunie 
+      <lb ed="#P" n="110"/>mutuate pertinet ad debitorem cum sua facta 
+      fuis<lb ed="#P" n="111" break="no"/>set / alius tamen frequenter in se suscipit periculum 
+      <lb ed="#P" n="112"/>sine labe vsure sic potest mutuans post mutuum datum 
+      <lb ed="#P" n="113"/>Ceterum de periculo est vnum aliud communiter fit in italia 
+      <lb ed="#P" n="114"/>et hispania vt michi recitant hispani sortes existens 
+      <lb ed="#P" n="115"/>barchinonie mittit merces suas ad damascum sirie vel 
+      <lb ed="#P" n="116"/>alexandriam egipti formidat de mercium discrimine pla 
+      <!--226.xml-->
+      <pb ed="#P" n="106-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>to in se suscipit periculum pro certa pecunia vel 
+      ali<lb ed="#P" n="2" break="no"/>quam pecuniam tradit sorti pro mercibus eius ibi 
+      pla<lb ed="#P" n="3" break="no"/>to est in periculo perdendi pecuniam quam sorti dedi 
+      <lb ed="#P" n="4"/>etiam est apparentia quod superlucrabitur exponit se 
+      di<lb ed="#P" n="5" break="no"/>scrimini hic non est vsura sed alius contractus innomninatus 
+      <lb ed="#P" n="6"/>nomine speciali accipio si des ex parte platonis: hoc est 
+      <lb ed="#P" n="7"/>accipio in me periculum si des centum vel do si des ex 
+      <lb ed="#P" n="8"/>parte sortis sortes dat omne ius suum in mercibus si ali 
+      <lb ed="#P" n="9"/>det mille et si plato locaret operam suam puta est naucle 
+      <lb ed="#P" n="10"/>rus vel nauta pro seruandis mercibus diligentius non 
+      <lb ed="#P" n="11"/>videtur contractus illicitus: sed vbi plato quiescit 
+      lom<lb ed="#P" n="12" break="no"/>domis et periculum est de naui vlixbone et nulla oper 
+      <lb ed="#P" n="13"/>ra locatur: sed casus exponitur fortune aliud est. al 
+      <lb ed="#P" n="14"/>quibus placet hunc contractum iustificare. aliis eum 
+      <lb ed="#P" n="15"/>reprobare et apparentia reprobationis est cum homines 
+      <lb ed="#P" n="16"/>predicent vsuras in lumine naturali excutiendas eo qui 
+      <lb ed="#P" n="17"/>si sic liceret viuere iuste homo sine labore plus lucra 
+      <lb ed="#P" n="18"/>retur quam alius quocumque labore sic in isto casu bomo a 
+      <lb ed="#P" n="19"/>se exueret onus impositum ade quod in sudore vultus sui 
+      <lb ed="#P" n="20"/>pane suo vescatur dicet aduersarius hic est expositio 
+      <lb ed="#P" n="21"/>discriminis et non est certus casus de lucro et succurri 
+      <lb ed="#P" n="22"/>tur fratritristi et sollicito de aduentu mereris 
+      condu<lb ed="#P" n="23" break="no"/>cit ei habere mediocre lucrum antequam tabescat 
+      tempo<lb ed="#P" n="24" break="no"/>re more quicquid sit satius est ab isto contractu de 
+      <lb ed="#P" n="25"/>sistendum et licet contractus sit turpis et peccatum non ta 
+      <lb ed="#P" n="26"/>men apparet quod tenetur restituere lucrum nec est vsu 
+      <lb ed="#P" n="27"/>ra nec restitutio est precepta iure nature / diuino vel 
+      <lb ed="#P" n="28"/>humano. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

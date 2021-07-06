@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 13</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 13</title>
+               <date when="2021-07-06">July 06, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-M4Saaa">Paris 1509</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-06" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="216-v"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="JM7jmZ-e20407"><!-- l4d49q13 -->
+            <head xml:id="JM7jmZ-e20407-Hd1e108">Quaestio 13</head>
+            <head xml:id="JM7jmZ-e20407-Hd1e111" type="question-title">
+      An sit aliquod
+      praemium accidentale
+    </head>
+            <p xml:id="JM7jmZ-e20407-d1e114">
+               <lb ed="#P" n="52"/>¶ Distin. quadragesime none questio tridecima. 
+      <lb ed="#P" n="53"/>Eliquum est tridecimo loco loqui de 
+      pre<lb ed="#P" n="54" break="no"/>mio accidentali et pro illo quero bunc que 
+      <lb ed="#P" n="55"/>istionis titulum an sit aliquod primium 
+      acciden<lb ed="#P" n="56" break="no"/>tale.
+    </p>
+            <p xml:id="JM7jmZ-e20407-d1e127">
+      Pro cuius intelligentia praetermittamus dupler 
+      <lb ed="#P" n="57"/>esse Oomium scilicet essentiale et accidentale. primium essen¬ 
+      <!--447.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="58"/>tiale nichil aliud est quam beatitudo de qua superius 
+      <lb ed="#P" n="59"/>loquuti sumus. aliud est premium accidentale non quia 
+      <lb ed="#P" n="60"/>est accidens quia sic est premium essentiale sed quia est 
+      ad<lb ed="#P" n="61" break="no"/>uenticium primio essentiali et non de eius essentia vt 
+      pri<lb ed="#P" n="62" break="no"/>mium circa creaturam premium accidentale diuiditur 
+      <lb ed="#P" n="63"/>in aureolam et non aureolam aureola est gaudium de bo 
+      <lb ed="#P" n="64"/>nis operibus anime factis rationem victorie 
+      haben<lb ed="#P" n="65" break="no"/>tibus in tribus potissimis hostibus contra nos 
+      ha<lb ed="#P" n="66" break="no"/>bemus demonem carnem et mundum qui ab istis 
+      concul<lb ed="#P" n="67" break="no"/>cantur vt per castitatem vincitur corpus et eius 
+      insul<lb ed="#P" n="68" break="no"/>tus per marthirium vincitur mundus id est mali homines 
+      <lb ed="#P" n="69"/>mundani et tiranni qui bonos prosequuntur demoo per 
+      <lb ed="#P" n="70"/>doctrinam vincitur qui intendit falsa suggestione 
+      in<lb ed="#P" n="71" break="no"/>nocentes decipere gaudium quod habetur a beato de ali 
+      <lb ed="#P" n="72"/>quo alio ab istis tribus vel eorum aliquo est gaudium 
+      <lb ed="#P" n="73"/>accidentale sed non est aureola premium essentiale 
+      <lb ed="#P" n="74"/>est aurea que datur victoribus corona legittime cer 
+      <lb ed="#P" n="75"/>tantibus debetur secundum illud maronis omnibus hiis 
+      <lb ed="#P" n="76"/>niuea cinguntur tempora victa tunc creatura est deo 
+      <lb ed="#P" n="77"/>totaliter subiecta cui seruire regnare est methapho 
+      <lb ed="#P" n="78"/>rice est illud sicut corona linea circulari attribuitur 
+      <lb ed="#P" n="79"/>que ita perfecta est vt ei non potest fieri additio nisi 
+      <lb ed="#P" n="80"/>accidentalis sic illud premium est ita perfectum quod 
+      quic<lb ed="#P" n="81" break="no"/>quid superaddideris accidentale est et sicut circulus 
+      <lb ed="#P" n="82"/>in eodem puncto a quo incipit terminatur sic est in pro 
+      <lb ed="#P" n="83"/>posito beatus primo principio a quo accepit esse con 
+      <lb ed="#P" n="84"/>iungitur. et illud patet. exodi. xxv. de descriptione 
+      <lb ed="#P" n="85"/>tabernaculi de tabula que ponitur super archam 
+      fa<lb ed="#P" n="86" break="no"/>cies illi labium aureum per circuitum etc. sed hoc est solum 
+      <lb ed="#P" n="87"/>methaforicum isto primisso dicitur affirmatiue ad que 
+      <lb ed="#P" n="88"/>stionem. patet est aliquod gaudium de creatura et illud 
+      <lb ed="#P" n="89"/>est premium accidentale: igitur.
+    </p>
+            <p xml:id="JM7jmZ-e20407-d1e205">
+      ¶ Contra 
+      conclu<lb ed="#P" n="90" break="no"/>sionem argumentor si sit aliquod premium accidentale se 
+      <lb ed="#P" n="91"/>queretur quod equaliter merentes inequaliter 
+      premia<lb ed="#P" n="92" break="no"/>buntur in eodem foro hoc est inconueniens ergo et illud 
+      <lb ed="#P" n="93"/>ex quo sequitur. consequentia patet discedant 
+      magda<lb ed="#P" n="94" break="no"/>lena et hatherina stat eas discedere in equalibus 
+      me<lb ed="#P" n="95" break="no"/>ritis et tamen inequaliter premiabuntur. quod patet. habebunt 
+      <lb ed="#P" n="96"/>equales beatitudines essentiales et iequales accidem 
+      <lb ed="#P" n="97"/>tales quia batherina habebit aureolam virginum non autem 
+      <lb ed="#P" n="98"/>magdalena modo si equalium vni addas et non 
+      alte<lb ed="#P" n="99" break="no"/>ri erunt inequalia. Rursus si aureola est danda pro 
+      <lb ed="#P" n="100"/>difficiliori actu adhuc magdalena habebit aureolam 
+      <lb ed="#P" n="101"/>ita bene sicut latherina quod supponitur falsum et patet 
+      <lb ed="#P" n="102"/>difficilius est magdalene continenter viuere post 
+      ex<lb ed="#P" n="103" break="no"/>partam libidinem quam hatherine. propterea corrupte etiam 
+      <lb ed="#P" n="104"/>violenter difficilius continent quam integre. Ad primum 
+      <lb ed="#P" n="105"/>distinguitur vel de primio essentiali et sic nego vel ac 
+      <lb ed="#P" n="106"/>cidentali et sic concedo vel nego antecedens inequaliter 
+      me<lb ed="#P" n="107" break="no"/>rentur totali merito hatherina dupliciter meretur 
+      <lb ed="#P" n="108"/>scilicet essentialiter et accidentaliter et sic habet 
+      pre<lb ed="#P" n="109" break="no"/>mium respondens et melius est hatherine per hunc vnum 
+      <lb ed="#P" n="110"/>actum quam magdalene per similem similitudine primii essentia 
+      <lb ed="#P" n="111"/>lis alias non stat duos actus in eis esse similes 
+      om<lb ed="#P" n="112" break="no"/>ni similitudine. Si petas an premium accidentale 
+      ma<lb ed="#P" n="113" break="no"/>gnum equiualet essentiali paruo dicitur quod non 
+      mini<lb ed="#P" n="114" break="no"/>mus gradus premii essentialis exuperat totum primium 
+      <lb ed="#P" n="115"/>accidentale quod equale premium essentiale detur vni 
+      <lb ed="#P" n="116"/>actui virginitati et viduitati in magdalena non est du 
+      <!--448.xml-->
+      <pb ed="#P" n="217-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>bium illa premia sunt eiusdem rationis et pro 
+      acti<lb ed="#P" n="2" break="no"/>bus equaliter bonis data. Ad secundum de difficl 
+      <lb ed="#P" n="3"/>tate nego antecedens et consequentiam antecedens 
+      <lb ed="#P" n="4"/>difficilius est abdicare omnia venerea licita et illici 
+      <lb ed="#P" n="5"/>ta pro omni tempore quam in augusto tempore etiam 
+      <lb ed="#P" n="6"/>que non est cognita forte magis mouetur quam 
+      cogni<lb ed="#P" n="7" break="no"/>ta interdum desideramus magis rem vilem 
+      non<lb ed="#P" n="8" break="no"/>dum visam quam magnam quam vidimus et forte putat 
+      <lb ed="#P" n="9"/>rem esse magis voluptuosam quam sit nec scit de 
+      fedi<lb ed="#P" n="10" break="no"/>tatibus et tristiciis que solent hic contingere quod 
+      co<lb ed="#P" n="11" break="no"/>gnita preceps ruat in illecebram non est a solo 
+      ex<lb ed="#P" n="12" break="no"/>perimento venereorum sed iam honor iudicio sue 
+      <lb ed="#P" n="13"/>est amissus modo honos est alitor castitatis: et esto 
+      <lb ed="#P" n="14"/>quod in aliquo casu sit difficilius huic vidue continere 
+      <lb ed="#P" n="15"/>quam huic virgini ducere vitam celibem: non sequitur 
+      <lb ed="#P" n="16"/>hec habebit aureolam ergo et alia debetur aureola 
+      <lb ed="#P" n="17"/>huic actui heroyco ex parte operis operati in con 
+      <lb ed="#P" n="18"/>muni specie modo communiter virginitas est 
+      diffi<lb ed="#P" n="19" break="no"/>cilior dicis in principio mundi non poterant 
+      homi<lb ed="#P" n="20" break="no"/>nes seruare virginitatem volebant si fuisset licitum 
+      <lb ed="#P" n="21"/>ergo per actum licitum perdidissent aureolam vir 
+      <lb ed="#P" n="22"/>ginum non inconuenit per actum bonum perdere 
+      <lb ed="#P" n="23"/>aureolam virginum. patet de illo qui vult 
+      contra<lb ed="#P" n="24" break="no"/>here non peccat in contrahendo et tamen aureolam 
+      <lb ed="#P" n="25"/>sic amittit interdum. sine actu quis habet aureolam 
+      <lb ed="#P" n="26"/>licet non admiserimus illud de paruulis 
+      commu<lb ed="#P" n="27" break="no"/>niter in virginitate tamen in martyrio hoc admitti 
+      <lb ed="#P" n="28"/>dum est de his qui prochristo occisi sunt et quod forte 
+      <lb ed="#P" n="29"/>etiam habeant aureolam virginum. si petas 
+      quan<lb ed="#P" n="30" break="no"/>do debebatur eis hec aureola vel illa an ante 
+      mor<lb ed="#P" n="31" break="no"/>tem vel post eam. Ad hoc potest dici consequenter 
+      <lb ed="#P" n="32"/>ad illa que inferius tenemus in materia de 
+      marty<lb ed="#P" n="33" break="no"/>rio tunc debetur aureola quando vulnus letale 
+      in<lb ed="#P" n="34" break="no"/>fligitur sic quod mors sequetur hic currere fequis ad  
+      <lb ed="#P" n="35"/>actum voluntatis in presentia periculorum sed 
+      ha<lb ed="#P" n="36" break="no"/>bendus est obtuitus ad mortem et eius causam: idem 
+      <lb ed="#P" n="37"/>tidem de virginitate dicas.
+    </p>
+            <p xml:id="JM7jmZ-e20407-d1e354">
+      ¶ Secundo argumentor: si 
+      <lb ed="#P" n="38"/>virginitati debeatur aureola tunc angeli omnes be 
+      <lb ed="#P" n="39"/>ati habebunt aureolas virginum cum castitatem 
+      ser<lb ed="#P" n="40" break="no"/>uarunt poterant habere tales actus volumus 
+      ser<lb ed="#P" n="41" break="no"/>uare nos innoxios ab omnibus venereis modo 
+      ta<lb ed="#P" n="42" break="no"/>le propositum generat in vno angelo habitum qui 
+      <lb ed="#P" n="43"/>est virginitas. patet: est actus bonus ad nullam 
+      vi<lb ed="#P" n="44" break="no"/>tutem aliam spectans quam ad temperantiam et circae 
+      <lb ed="#P" n="45"/>venerea: ergo est castitas: non valet dicere non 
+      po<lb ed="#P" n="46" break="no"/>sunt excercere venerea vt patet de sicubis et 
+      incu<lb ed="#P" n="47" break="no"/>bis: sed dicis tales proprie non excercent nec istud 
+      <lb ed="#P" n="48"/>est beatis angelis ascribendum hoc non impedit nec 
+      <lb ed="#P" n="49"/>datur virginibus huiuscemodi obscena excercere. 
+      <lb ed="#P" n="50"/>Insuper vel cuilibet actui quam virgo habet debe 
+      <lb ed="#P" n="51"/>tur aureola vel alicui sit et alicui non si des 
+      primu<lb ed="#P" n="52" break="no"/>ratione vnius actus eutrapilie habebit aureolam 
+      <lb ed="#P" n="53"/>virginum: ergo eodemmodo alius eutrapilis non 
+      <lb ed="#P" n="54"/>virgo ratione talis actus similem aureolam 
+      habe<lb ed="#P" n="55" break="no"/>bit. sed dicis et sic dicendum est non habebit aured 
+      <lb ed="#P" n="56"/>lam ratione cuiuslibet actus quem habebit sed 
+      so<lb ed="#P" n="57" break="no"/>lum ratione virginitatis ceteri actus sunt 
+      virgini<lb ed="#P" n="58" break="no"/>tati et sue aureole impertinentes. Contra ratione 
+      <!--448.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="59"/>actus virginitatis hatherina habebit aureolam et 
+      <lb ed="#P" n="60"/>qua ratione habebit ratione vnius actus virginita 
+      <lb ed="#P" n="61"/>tis eadem ratione habebit ratione alterius actus. 
+      <lb ed="#P" n="62"/>Dicis dabitur ei causa primi actus et non potest bis 
+      <lb ed="#P" n="63"/>illam mereri. Contra si pure partibiliter eliciat pri 
+      <lb ed="#P" n="64"/>mum actum habebit aureolam gratia illius totius 
+      <lb ed="#P" n="65"/>actus et causa secunde medietatis actus sicut 
+      pri<lb ed="#P" n="66" break="no"/>me. Insuper quis meretur per quemlibet actum me 
+      <lb ed="#P" n="67"/>ritorium auream: ergo et aureolam. amplius eodem 
+      <lb ed="#P" n="68"/>modo dicere potes quod nemo habebit tres aureolas 
+      <lb ed="#P" n="69"/>habendo virginitatem non habebit aureolam 
+      do<lb ed="#P" n="70" break="no"/>ctorum quod est falsum. Ad primum nego 
+      consequen<lb ed="#P" n="71" break="no"/>tiam dato quod habeant virtutes non est difficile ange 
+      <lb ed="#P" n="72"/>lo tales actus habere et consequenter se seruare im 
+      <lb ed="#P" n="73"/>munen a venereis: sed an habere possunt tales 
+      vir<lb ed="#P" n="74" break="no"/>tutes videbitur in tertio. Sed tunc dicis beate vir 
+      <lb ed="#P" n="75"/>gini non debetur aureola virginum non erat ei 
+      di<lb ed="#P" n="76" break="no"/>ficile continere a venereis cum non erat concepta in 
+      <lb ed="#P" n="77"/>peccato originali nego consequentiam: difficultas 
+      <lb ed="#P" n="78"/>erat ex parte obiecti communiter licet non ex ipsa 
+      <lb ed="#P" n="79"/>potentia quemadmodum materia fortitudinis in 
+      <lb ed="#P" n="80"/>statu innocentie fuisset difficilior quam materia tempe 
+      <lb ed="#P" n="81"/>rantie et ipsa erat eiusdem speciei penitus cum aliis 
+      <lb ed="#P" n="82"/>virginibus quibus est perdifficile: secus est in ange 
+      <lb ed="#P" n="83"/>lis. Ad secundum dico quod cuilibet actui virginitati 
+      <lb ed="#P" n="84"/>debetur aureola virginum et sic vna meretur 
+      aure<lb ed="#P" n="85" break="no"/>olam virginum centies vel millies et aureola erit 
+      <lb ed="#P" n="86"/>maior quam si solum semel vel raro meruisset vt 
+      con<lb ed="#P" n="87" break="no"/>tingit de premio essentiali. Forte dicis alique virgi 
+      <lb ed="#P" n="88"/>nes damnantur. patet de fatuis virginibus: ergo non 
+      <lb ed="#P" n="89"/>habent aureolam debitam virginibus. Insuper si 
+      <lb ed="#P" n="90"/>aureola virginum sit in mente non innotescit aliis 
+      <lb ed="#P" n="91"/>beatis. Ad primum istorum concedo antecedens et 
+      <lb ed="#P" n="92"/>consequens cum consequentia: sed non sequitur quin 
+      <lb ed="#P" n="93"/>tales meruerunt aureolam virginum 
+      quemadmo<lb ed="#P" n="94" break="no"/>dum superius diximus aliqui meruerunt vitam eter 
+      <lb ed="#P" n="95"/>nam qui eam nunquam habebunt. Ad secundum 
+      dici<lb ed="#P" n="96" break="no"/>tur quod erit signum in carne et in exteriore parte cor 
+      <lb ed="#P" n="97"/>poris respondens gaudio mentis nec huiusmodi si 
+      <lb ed="#P" n="98"/>gnum exterius causatur a gaudio mentis effectiue 
+      <lb ed="#P" n="99"/>sed a deo vt superius diximus de dotibus aureola 
+      <lb ed="#P" n="100"/>de materiali significato significat et supponit pro ta 
+      <lb ed="#P" n="101"/>li gaudio mentis connotando quod sit signum respon 
+      <lb ed="#P" n="102"/>dens in corpore vt doctori in ore martyri in loco 
+      <lb ed="#P" n="103"/>quo passus est et sic de virgine. Tertio argumentor 
+      <lb ed="#P" n="104"/>naturali necessitati non respondet meritum: sed 
+      ali<lb ed="#P" n="105" break="no"/>qui sunt frigidi et castrati in iuuentute: ergo talibus 
+      <lb ed="#P" n="106"/>continentibus non respondit aureola virginum. 
+      <lb ed="#P" n="107"/>Respondetur concedendo assumptum: sed tales 
+      <lb ed="#P" n="108"/>possunt habere proposita virginitatis libera que non 
+      <lb ed="#P" n="109"/>sunt naturalia: modo talibus propositis debetur au 
+      <lb ed="#P" n="110"/>reola paruulis hec proposita non habentibus non 
+      <lb ed="#P" n="111"/>respondet huiusmodi aureola nec requiritur quod 
+      ali<lb ed="#P" n="112" break="no"/>qua discedat cum habitu vel actu virginitate sufficit se 
+      <lb ed="#P" n="113"/>mel habuisse in vita et non habuisse oppositum et 
+      di<lb ed="#P" n="114" break="no"/>scedere in gratia superius loquuti sumus in tricesi 
+      <lb ed="#P" n="115"/>ma distinctione de paruulis ab herode occisis. 
+      </p>
+            <p xml:id="JM7jmZ-e20407-d1e530">
+               <lb ed="#P" n="116"/>¶ Quarto arguitur ponendo quod berta habuerit pro¬ 
+      <!--449.xml-->
+      <pb ed="#P" n="217-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>positum nubendi sed interim moritur que castitatom 
+      <lb ed="#P" n="2"/>tamen seruat vel ipsa habebit aureolam vel non si 
+      <lb ed="#P" n="3"/>tu dicas primum sequitur quod illa que non vult 
+      con<lb ed="#P" n="4" break="no"/>tinere per vnum diem quinimo per vnam boram 
+      <lb ed="#P" n="5"/>habebit aureolam virginum quod non vicitur dicendum 
+      <lb ed="#P" n="6"/>Si dicas quod non habebit: contra: omnis castitas quan 
+      <lb ed="#P" n="7"/>adhuc habet est virginitas vt patet ex dictis 
+      supe<lb ed="#P" n="8" break="no"/>rius et ipsa discedit in gratia. Respondetur transe 
+      <lb ed="#P" n="9"/>at quod propositum eius sit virginitas cum ipsa habet oppo 
+      <lb ed="#P" n="10"/>situm de quo non penitet non oportet quod habeat au 
+      <lb ed="#P" n="11"/>reolam virginum: dixi de quo penitet si quis voluerit 
+      <lb ed="#P" n="12"/>habere mulierem postea mutat propositum penitens de 
+      <lb ed="#P" n="13"/>priori proposito ante corruptionem tali debetur aure 
+      <lb ed="#P" n="14"/>ola virginum vt putatur de iohanne euange. dicis ne 
+      <lb ed="#P" n="15"/>mo tenetur penitere de actu bono propositum quo 
+      <lb ed="#P" n="16"/>sortes vult ducere bertam est bonum: ergo non tenetur 
+      <lb ed="#P" n="17"/>penitere de illo: verum est non tenetur quis penite 
+      <lb ed="#P" n="18"/>re de bono sed si vult habere hanc aureolam opatet 
+      for<lb ed="#P" n="19" break="no"/>maliter vel virtualiter penitere. sed ponis bertam fu 
+      <lb ed="#P" n="20"/>isse corruptam per tyrannum ipsa dissentiente an ei 
+      de<lb ed="#P" n="21" break="no"/>beatur aureola virginum si non ergo aliqua faciens quod 
+      <lb ed="#P" n="22"/>ipsa est spoliabitur premio debito si tu concedas quod 
+      <lb ed="#P" n="23"/>sic iam aliqua corrupta et mater prolis per propagatio 
+      <lb ed="#P" n="24"/>nem seminis erit dotata aureola virginum. Dico ta 
+      <lb ed="#P" n="25"/>lis habebit aureolam virginum postquam ipsa facit quod in se 
+      <lb ed="#P" n="26"/>ad virginitatem seruandam. et ex illo concedo quod alicui 
+      <lb ed="#P" n="27"/>non virgini debetur aureola virginum est correlarium 
+      <lb ed="#P" n="28"/>sequens ex dictis in hac parte et in tricesima distin. 
+      <lb ed="#P" n="29"/>propter feditatem materie non loquor de illa quae est 
+      <lb ed="#P" n="30"/>in actu sed ille non completus est propter 
+      superue<lb ed="#P" n="31" break="no"/>nientes quia clarum est illud ex dictis sed ex 
+      geni<lb ed="#P" n="32" break="no"/>talibus secundum naturaliter loquentes triplex stil 
+      <lb ed="#P" n="33"/>lat humor vrina semen et quidam medius quande 
+      <lb ed="#P" n="34"/>est sermo de turpibus vel per solum tactum diffun 
+      <lb ed="#P" n="35"/>ditur huius humoris emissio non perdit irrecupera 
+      <lb ed="#P" n="36"/>biliter virginitatem: sed ponis quod aliqua sinit se 
+      co<lb ed="#P" n="37" break="no"/>gnosci a frigido eo modo quo potest et postea peni 
+      <lb ed="#P" n="38"/>tet an recuperat virginitatem non insisto in hoc. Sed  
+      <lb ed="#P" n="39"/>potes replicare si aliqua consentit in corruptorem 
+      <lb ed="#P" n="40"/>post factum et de illo actu penitet postea an 
+      disce<lb ed="#P" n="41" break="no"/>dit virgo: potes dicere quod non et hoc lucidum est si a 
+      <lb ed="#P" n="42"/>ctus exterior fuisset imperatus ab interiore quo ip 
+      <lb ed="#P" n="43"/>sa volebat cognosci et est cognita tunc virginitas est 
+      <lb ed="#P" n="44"/>amissa irrecuperabiliter hic autem in nostro casu a 
+      <lb ed="#P" n="45"/>ctus exterior corrumpendi non fuit imperatus ab 
+      <lb ed="#P" n="46"/>aliquo actu interiore huius mulieris desinentis ha 
+      <lb ed="#P" n="47"/>bere virginitatem quam irrecuperabiliter perdit li 
+      <lb ed="#P" n="48"/>cet ei debeatur aureola virginum adhuc videtur quod 
+      <lb ed="#P" n="49"/>si consenserit in corruptorem vel alium dato quod 
+      po<lb ed="#P" n="50" break="no"/>stea peniteat non recuperabit virginum aureolam. 
+      </p>
+            <p xml:id="JM7jmZ-e20407-d1e650">
+               <lb ed="#P" n="51"/>¶ Sed contra dicis ponis duas bertam corruptam 
+      <lb ed="#P" n="52"/>a tyranno ipsa renitente tebergam non corruptam 
+      <lb ed="#P" n="53"/>sed ipsam voluit corrumpere tyrannus postea 
+      am<lb ed="#P" n="54" break="no"/>be consentiunt in tyrannum et ambe postea penitu 
+      <lb ed="#P" n="55"/>diue ducuntur iam teberge debetur aureola 
+      virgi<lb ed="#P" n="56" break="no"/>num ergo et berte: consequeutia est nulla sicut si vna 
+      <lb ed="#P" n="57"/>ante corruptionem actualem haberet centum 
+      pro<lb ed="#P" n="58" break="no"/>posita corrumpendi et totidem penitentias eorun¬ 
+      <!--449.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="59"/>dem propositorum talis semper recuperat 
+      aureo<lb ed="#P" n="60" break="no"/>lam virginum vel virginitatem et centies desinit es 
+      <lb ed="#P" n="61"/>se virgo et centies incipit esse virgo: aliqua tamen 
+      <lb ed="#P" n="62"/>potest incipere esse virgo tali gradu virginitatis quae 
+      <lb ed="#P" n="63"/>non incipit esse virgo: patet de intendente vel 
+      con<lb ed="#P" n="64" break="no"/>tinuante proposita virginitatis sine deperditione: 
+      <lb ed="#P" n="65"/>sed si qua semel fuerit corrupta ex consensu 
+      quan<lb ed="#P" n="66" break="no"/>tuncunque peniteat nec virginitatem nec virginum 
+      <lb ed="#P" n="67"/>aureolam recuperabit nec inconuenit actum 
+      exte<lb ed="#P" n="68" break="no"/>riorem hoc mali vel boni actui interiori superadde 
+      <lb ed="#P" n="69"/>re quo ad premium accidentale. si quis curiose con 
+      <lb ed="#P" n="70"/>tendere voluerit si que fuerit cognita a tyranno 
+      ip<lb ed="#P" n="71" break="no"/>sa dissentiente et ipsa postea consentit in corruptorem 
+      <lb ed="#P" n="72"/>vel alium et penitet ante carnalem copulam quod ei de 
+      <lb ed="#P" n="73"/>beatur aureola virginum non multum insisto cum 
+      <lb ed="#P" n="74"/>illo: et sic potest dicere de polluta in somno que con 
+      <lb ed="#P" n="75"/>sentit in vigilia et postea penitet. Sed pone bertam 
+      <lb ed="#P" n="76"/>habere hoc propositum in duodecimo anno volo se 
+      <lb ed="#P" n="77"/>nare virginitatem meam toto hoc anno vel tota hac ho 
+      <lb ed="#P" n="78"/>ra sed quid factura sim in posterum me fugit postea 
+      <lb ed="#P" n="79"/>peliberabo quidnam agam ipsa interea spiritum 
+      <lb ed="#P" n="80"/>vitalem efflat an hec habebit aureolam virginum 
+      <lb ed="#P" n="81"/>dicitur quod sic exiguam tamen hic contingit dare ma 
+      <lb ed="#P" n="82"/>gnam et et paruam aureolam vt superius memini 
+      <lb ed="#P" n="83"/>mus. dicis si que fuerit corrupta a tyranno ipsa 
+      re<lb ed="#P" n="84" break="no"/>nitente hec habebit aureolam virginum per me: et 
+      <lb ed="#P" n="85"/>go habebit signum cognoscitiuum illius integritatis 
+      <lb ed="#P" n="86"/>sed contra non est integritas hoc argumentum est 
+      <lb ed="#P" n="87"/>nullum concluderet pariter quod corrupta ferro non 
+      <lb ed="#P" n="88"/>haberet aure olam virginum dicis secundum me su 
+      <lb ed="#P" n="89"/>perius vidua potest habere propositum eiusdem spe 
+      <lb ed="#P" n="90"/>ciei in genere rei cum virgine: ergo si virginitati de 
+      <lb ed="#P" n="91"/>betur aureola et viduitati: dico nullam apparentiam 
+      <lb ed="#P" n="92"/>esse in hac illatione sed pone quod vna cognoscatur 
+      <lb ed="#P" n="93"/>ipsa nec consentiente nec dissentiente sed omnem 
+      <lb ed="#P" n="94"/>actum excludente an perdit aureolam virginum. di 
+      <lb ed="#P" n="95"/>citur si non resistit quantum potest et leui eloquio et 
+      <lb ed="#P" n="96"/>rigore secundum quod potest ipsa perdit aureolam et 
+      <lb ed="#P" n="97"/>est mala mererrix si nullomodo resistat non sufficit 
+      <lb ed="#P" n="98"/>in hoc casu habuisse virginitatem et non habuisse opi 
+      <lb ed="#P" n="99"/>positum et discedere in gratia ipsa omisit habere a 
+      <lb ed="#P" n="100"/>ctum quem tenebatur elicere potes etiam insistere 
+      <lb ed="#P" n="101"/>de illa que resistit sed non tantum quantum potest 
+      <lb ed="#P" n="102"/>an habebit aureolam virginum potes dicere quod sic a 
+      <lb ed="#P" n="103"/>liquam habebit non requiritur quod ipsa extreme 
+      ob<lb ed="#P" n="104" break="no"/>luctetur cum egre ipsa potest tantum reniti 
+      quan<lb ed="#P" n="105" break="no"/>tum potest. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

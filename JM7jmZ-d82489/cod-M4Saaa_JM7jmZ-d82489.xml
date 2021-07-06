@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 1</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 1</title>
+               <date when="2021-07-06">July 06, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-M4Saaa">Paris 1509</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-06" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="149-r"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="JM7jmZ-d82489"><!-- l4d26q1 -->
+            <head xml:id="JM7jmZ-d82489-Hd1e108">Quaestio 1</head>
+            <head xml:id="JM7jmZ-d82489-Hd1e111" type="question-title">An matrimonium sit sacramentum novae legis</head>
+            <p xml:id="JM7jmZ-d82489-d1e114">
+               <lb ed="#P" n="58"/>¶ Distinctionis vigesime sexte quaestio prima. 
+      <!--312.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="59"/>Irca distinctionem vigesimam sextam queritur 
+      <lb ed="#P" n="60"/>an matrimonium sit sacramentum noue legis.
+    </p>
+            <p xml:id="JM7jmZ-d82489-d1e127">
+               <lb ed="#P" n="61"/>Pro solutione questionis notabis quod matri 
+      <lb ed="#P" n="62"/>monium tantum valet sicut matris officium munimen vel 
+      <lb ed="#P" n="63"/>munimentum et dicitur officium quia per hoc mulieres contrahunt 
+      <lb ed="#P" n="64"/>officium esse matres filiorum et quia plures sudores an 
+      per<lb ed="#P" n="65" break="no"/>tum post et in partu habent quam patres: dicitur matri 
+      <lb ed="#P" n="66"/>monium ex opposito diuitie et bona acquisita dicuntur 
+      <lb ed="#P" n="67"/>paterimonium quia illud est patrum pro liberis laborare et 
+      <lb ed="#P" n="68"/>matris eos in domo custodire. i. iconomicorum. et quia 
+      <lb ed="#P" n="69"/>feine iuniores contrahunt quam viri et sunt matres ante 
+      <lb ed="#P" n="70"/>multa bona acquisita. fortassis primus contractus  
+      <lb ed="#P" n="71"/>in nomen matrimonii pullulauit. Circa 
+      quiddita<lb ed="#P" n="72" break="no"/>tem matrimonii vlterius est querendum negando 
+      <lb ed="#P" n="73"/>respectus rationis et reales quemadmodum facimus opor 
+      <lb ed="#P" n="74"/>tet dicere quod matrimonium est vir et femina vel eorum 
+      <lb ed="#P" n="75"/>consensus vel verba vel nutus verbis equiualens vel 
+      <lb ed="#P" n="76"/>aliqua istorum. Possumus non inconuenienter dicere 
+      <lb ed="#P" n="77"/>quod materia in hoc sacramento est mas et fenina et 
+      forma<lb ed="#P" n="78" break="no"/>eorum consensus cum verbis eodemmoo quo sacramen 
+      <lb ed="#P" n="79"/>ta dicuntur materiam et formam habere vt ab exordio 
+      <lb ed="#P" n="80"/>tetigimus / vel quod consensus eorum est materia et verba 
+      <lb ed="#P" n="81"/>vel equiualentia sunt forma non respicio ad dicentes 
+      <lb ed="#P" n="82"/>verba viri esse materiam et femine formam. Dicimus 
+      <lb ed="#P" n="83"/>sortes contraxit matrimonium cum berta quod bene quadrat 
+      <lb ed="#P" n="84"/>exponendo de consensu et tunc dicendum erit matrimo 
+      <lb ed="#P" n="85"/>nium supponere pro viri et mulieris consensibus conno 
+      <lb ed="#P" n="86"/>tando quod sint legittimi et cum hoc quod illud eis pateat: sed 
+      <lb ed="#P" n="87"/>quia illi consensus non sunt signum sensibile et signum sensi 
+      <lb ed="#P" n="88"/>bile ponitur in recto in diffinitione sacramenti 
+      pla<lb ed="#P" n="89" break="no"/>cet aliter dicere quod verba vel equalentia siue sint 
+      nu<lb ed="#P" n="90" break="no"/>tus vel huiuscemoni sunt sacramentum matrimonii quia 
+      <lb ed="#P" n="91"/>sunt signum sensibile et consensus est quid spirituale 
+      <lb ed="#P" n="92"/>et sic participat rationem forme: esto quo ad aliquas 
+      <lb ed="#P" n="93"/>proprietates participat magis rationem materie sed 
+      <lb ed="#P" n="94"/>quo ad rationem sacramenti minus. Et tunc dicitur quod 
+      <lb ed="#P" n="95"/>matrimonium est verba vel equipollens significantia 
+      <lb ed="#P" n="96"/>consensus viri et mulieris idoneorum ad perpetuam 
+      co<lb ed="#P" n="97" break="no"/>habitationem et ad corporum dationem mutuam: vba vel 
+      <lb ed="#P" n="98"/>equipollens ponitur loco generis: esto quod sacramentum 
+      <lb ed="#P" n="99"/>sit proprium genus et quidditatiuum sed quia dubium est quae 
+      <lb ed="#P" n="100"/>res est sacramentum in recto non abs re posuimus: 
+      ido<lb ed="#P" n="101" break="no"/>neorum ponitur propter cohabitationem perpetuam viri 
+      <lb ed="#P" n="102"/>et mulieris hoc est dicere ille terminus matrimonium 
+      <lb ed="#P" n="103"/>pro verbis vel huiusmodi signo supponit connotando 
+      <lb ed="#P" n="104"/>quod sint inter virum et mulierem cum consensu primo expli 
+      <lb ed="#P" n="105"/>cante illum consensum perpetuum. Ex quo patet quae sunt 
+      <lb ed="#P" n="106"/>necessaria ad sacramentum mas et femina rationales 
+      <lb ed="#P" n="107"/>quod intelligo quando dicitur viri et mulieris 
+      per<lb ed="#P" n="108" break="no"/>sonarum legittimarum hoc est non prohibitarum ab 
+      ec<lb ed="#P" n="109" break="no"/>clesia vel aimia lege naturali vel diuina habentium 
+      com<lb ed="#P" n="110" break="no"/>sensum per signa exteriora etc. quae requiruntur ad 
+      ma<lb ed="#P" n="111" break="no"/>trimonium per sequentia nota euadent in matrimonio 
+      <lb ed="#P" n="112"/>non requiruntur verba sicut in aliis sacramentis fuit 
+      <lb ed="#P" n="113"/>etiam sacramentum legis mosaice in illis 
+      sacramen<lb ed="#P" n="114" break="no"/>tis non requirebantur verba sufficiebat materia et hoc 
+      <lb ed="#P" n="115"/>est equum rationi lex vetus erat vmbra legis grtre es 
+      <lb ed="#P" n="116"/>verba in repraesentando obtinent principatum: ergo con 
+      <lb ed="#P" n="117"/>gruum erat nunc habere verba.
+    </p>
+            <p xml:id="JM7jmZ-d82489-d1e253">
+      ¶ Istis notatis po¬ 
+      <!--313.xml-->
+      <pb ed="#P" n="149-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>nitur conclusio.
+    </p>
+            <p xml:id="JM7jmZ-d82489-d1e265">
+      ¶ Matrimonium est sacramentum 
+      no<lb ed="#P" n="2" break="no"/>ue legis. hoc probatur per diffinitionem sacramenti 
+      <lb ed="#P" n="3"/>est inuisibilis gratrae visibilis forma hoc est signum 
+      sen<lb ed="#P" n="4" break="no"/>sibile vt in diffinitione sacramenti dictum est hoc iprsum 
+      li<lb ed="#P" n="5" break="no"/>quent de hereticis ad abolendam. vbi inter sacramen 
+      <lb ed="#P" n="6"/>ta a lucio. iii. enumeratur et mathei. ix. approbattur 
+      <lb ed="#P" n="7"/>et sic ibi virtualiter instituitur quando christus approbauiti 
+      <lb ed="#P" n="8"/>lud. gene. ii. respondendo ad questionem phariseorum 
+      <lb ed="#P" n="9"/>igitur.
+    </p>
+            <p xml:id="JM7jmZ-d82489-d1e285">
+      ¶ Contra hanc conclusionem arguitur: omne sa 
+      <lb ed="#P" n="10"/>cramentum est collatiuum gore matrimonium non est 
+      col<lb ed="#P" n="11" break="no"/>latiuum grate: ergo matrimonium non est sacramentum. c 
+      <lb ed="#P" n="12"/>sequentia tenet in. iiii. ii. et maior patet ex diffinitio 
+      <lb ed="#P" n="13"/>ne sacramenti. probatur minor. xxxii. q. ii. honoran 
+      <lb ed="#P" n="14"/>tur et sunt verba beati ambrosii de laude parentum 
+      <lb ed="#P" n="15"/>rebecce vbi apparatus petit gratia cuius datur 
+      pecu<lb ed="#P" n="16" break="no"/>nia in hoc sacramento potius quam in aliis reprobata quadam 
+      <lb ed="#P" n="17"/>opinione dicit quod causa est quia in hoc sacramento no con 
+      <lb ed="#P" n="18"/>fertur gratia spiritus sancti et ad boc introducit. i. q. 
+      <lb ed="#P" n="19"/>i. multi. et alios passus. Idem tenet bernardus in glosa 
+      <lb ed="#P" n="20"/>extra de simonia. Cum in ecclesie. introducit illos passs 
+      <lb ed="#P" n="21"/>xxxii. q. ii. honorantur ante inductum ab apparatu et. xxvii. 
+      <lb ed="#P" n="22"/>q. i. nuptiarum. xxxii. q. ii. connubia. hoc ipisum tenet gau 
+      <lb ed="#P" n="23"/>fredus et hostiensis. Et confirmatur apostolus consuluit 
+      <lb ed="#P" n="24"/>oppositum matrimoni scilicet continentiam. i. ad corinthios 
+      <lb ed="#P" n="25"/>vii. sed in continentia quae est de meliori bono non confertur 
+      <lb ed="#P" n="26"/>gratia vertute operis operati: igitur. Preterea secunde nu 
+      <lb ed="#P" n="27"/>ptie non benedicuntur: ergo signum est quod ibi non datur gra 
+      <lb ed="#P" n="28"/>tia. Item sequitur quod homo qui habet multas vxores 
+      <lb ed="#P" n="29"/>successiue habebit magnam gratiam. Respondetur 
+      negan<lb ed="#P" n="30" break="no"/>do minorem theologi communiter tenent partem affirmatiuam 
+      <lb ed="#P" n="31"/>et auctoritates sanctorum ad hoc sonant et ratio est quia 
+      <lb ed="#P" n="32"/>alias non esset sacramentum: in diffinitione sacramenti 
+      <lb ed="#P" n="33"/>a capite huius quarti diximus est inuisibilis gratie 
+      <lb ed="#P" n="34"/>visibilis forma: ergo si virtute operis operati non 
+      <lb ed="#P" n="35"/>conferat gratiam non est sacramentum: et nego illas glo 
+      <lb ed="#P" n="36"/>sas quia ad glosatores non spectabat ista materia ni 
+      <lb ed="#P" n="37"/>si habuissent textus rotundos pro se quia crebro in illa 
+      <lb ed="#P" n="38"/>tione latentis consequentie falluntur argumentum quod 
+      fa<lb ed="#P" n="39" break="no"/>cit apparatus ex capitulo multi. nullc modo sonat ad 
+      <lb ed="#P" n="40"/>propositum ibi beatus gregorius loquitur contra laicos 
+      <lb ed="#P" n="41"/>habentes vitam ecclesiasticorum inuisam ita quod existimant 
+      <lb ed="#P" n="42"/>eos non bene conferre sacramenta oppositum ibi dicitur 
+      <lb ed="#P" n="43"/>et exemplificatur de baptismo et eucharistia quod ma 
+      <lb ed="#P" n="44"/>trimonium conferat gratiam vel non conferat inuenies 
+      ni<lb ed="#P" n="45" break="no"/>chil. cap. nuptiarum loquitur de dissolutione vouentii 
+      <lb ed="#P" n="46"/>et nichil huic proposito. Eodemmoo capitulum conmqubia 
+      <lb ed="#P" n="47"/>legittima carent quidem peccato non tamen patere illo quo 
+      <lb ed="#P" n="48"/>coniugales actus geruntur illud capitulum est beati hie  
+      <lb ed="#P" n="49"/>ronimi super matheum loquentis de illo qui voluptuo 
+      <lb ed="#P" n="50"/>se vxorem cognoscit.
+    </p>
+            <p xml:id="JM7jmZ-d82489-d1e376">
+      ¶ Ad confirmationem aplus con 
+      <lb ed="#P" n="51"/>suluit oppositum verum est tanquam maius bonum illud tamen 
+      <lb ed="#P" n="52"/>est bonum dum moo seruentur circunstantie debite praeterea 
+      <lb ed="#P" n="53"/>dicit apulus ad corinth. vii. Si autem acceperis vxorem 
+      <lb ed="#P" n="54"/>non peccasti et si nupserit vrgo non peccauit: et sequitur 
+      <lb ed="#P" n="55"/>circa finem capituli: igitur. et qui matrimonio suam vgin 
+      <lb ed="#P" n="56"/>iungit bene facitet qui non iungit melius facit. Sed fo 
+      <lb ed="#P" n="57"/>tasse hic minor grata virtute operis operati conferi 
+      <lb ed="#P" n="58"/>quam in ceteris sacramentis et hoc si digne suscipiatur 
+      <lb ed="#P" n="59"/>Ad aliud concedo quod secunde nuptie non benedicuntur et po¬ 
+      <!--313.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="60"/>tissimum si mulier erat coniuncta sed consequentia est. nulla in 
+      <lb ed="#P" n="61"/>aliis sacramentis non est benedictio et conceditur quanto quis 
+      <lb ed="#P" n="62"/>habet plures vxores licite successiue ante carnalem 
+      co<lb ed="#P" n="63" break="no"/>pulam ingrediuntur religionem vel moriuntur cito tanto 
+      <lb ed="#P" n="64"/>blus gratie matrimonialis habet: hoc dixerim stat alium 
+      <lb ed="#P" n="65"/>virginem in millecuplo plus gratie habere quam alius 
+      <lb ed="#P" n="66"/>habeat cum est inuolutus circa familiam liberos et 
+      vxo<lb ed="#P" n="67" break="no"/>res que frequenter virum impellunt ad illicita et 
+      im<lb ed="#P" n="68" break="no"/>pediunt ab hiis quae conducunt ad finem vltimum sed 
+      ho<lb ed="#P" n="69" break="no"/>minem non necessitant plerique vxorati erant optimi es 
+      <lb ed="#P" n="70"/>nunc sunt multi boni non datur pecunia hic pro 
+      sa<lb ed="#P" n="71" break="no"/>cramento matrimonii sed pro nutrienda muliere quae 
+      <lb ed="#P" n="72"/>plerumque est viro sumptuosior in vestibus et in ceteris 
+      <lb ed="#P" n="73"/>id genus quam vir et nescit sibi prouidere propterea 
+      de<lb ed="#P" n="74" break="no"/>cens est quod parentes dent pecuniam pro alimento 
+      vxo<lb ed="#P" n="75" break="no"/>ris et liberorum si qui sint et hoc secundum consuetudinem patrie 
+      <lb ed="#P" n="76"/>iacob sine vicio seruiuit labam quattuordecim annis pro 
+      <lb ed="#P" n="77"/>lia et rachaele et solum sex annos pro magno peculio 
+      <lb ed="#P" n="78"/>erat consuetudo patrie laban vel quia iacob venit in ba 
+      <lb ed="#P" n="79"/>culo suo et laban erat diues sicut crebro est in vsu si 
+      <lb ed="#P" n="80"/>paruus nobilis vel diues colonus ducat filiam magni 
+      <lb ed="#P" n="81"/>nobilis parum pecuniarum acquirit et interim dat 
+      mune<lb ed="#P" n="82" break="no"/>ra.
+    </p>
+            <p xml:id="JM7jmZ-d82489-d1e452">
+      ¶ Secundo arguitur contra eandem conclusionem quod 
+      <lb ed="#P" n="83"/>male posuerim verba vel nutus loco gsntonis in diffinitio 
+      <lb ed="#P" n="84"/>ne matrimonii. i. q. i. detrahe et sunt verba beati 
+      au<lb ed="#P" n="85" break="no"/>gustini. accedat verbum ad elementum et sit sacramentum 
+      <lb ed="#P" n="86"/>g elementum per accessionem verbi ad ipsum fit sacramen 
+      <lb ed="#P" n="87"/>tum quod hic non contingit. Preterea si matrimonium 
+      <lb ed="#P" n="88"/>esset sacramentum hoc esset ad multiplicandum genus 
+      <lb ed="#P" n="89"/>humanum: sed propter hoc non est necessarium tale 
+      sa<lb ed="#P" n="90" break="no"/>cramentum: quia si omnes mulieres essent communes melius 
+      ser<lb ed="#P" n="91" break="no"/>uabitur genus humanum quia plures gontonabuntur nec 
+      <lb ed="#P" n="92"/>oportet dicere quod hoc est irrationabile quia naturalis 
+      <lb ed="#P" n="93"/>loquentes viri graues ita posuerunt. patet. in platone 
+      <lb ed="#P" n="94"/>in thimeo circa principium vbi introducit socratem sic 
+      <lb ed="#P" n="95"/>asserentem que idem ante eum opinatus est et ratio eorum est 
+      <lb ed="#P" n="96"/>quia melior amicitia seruabitur in ciuitate omnes 
+      iuue<lb ed="#P" n="97" break="no"/>nes diligent iuuenes sicut fratres quia putabunt vel 
+      <lb ed="#P" n="98"/>pubitabunt eos esse fratres ex parte paterum quia 
+      dubi<lb ed="#P" n="99" break="no"/>tabunt an fuerint geniti ex eisdem patribus / senes 
+      vi<lb ed="#P" n="100" break="no"/>ros saltem venerabuntur sicut patres quia de quolibes 
+      <lb ed="#P" n="101"/>eorum dubitabunt an sint eis patres. Ad primum dicitur 
+      <lb ed="#P" n="102"/>quod illa auctoritas est exposita circa sacramentum 
+      ba<lb ed="#P" n="103" break="no"/>ptismi sed prout sufficit in praesentiarum non capit verba 
+      pro<lb ed="#P" n="104" break="no"/>prie quia tunc inter mutos nullo pacto esset matrimo 
+      <lb ed="#P" n="105"/>nium cuius oppositum infra dicetur nec capitur elemen 
+      <lb ed="#P" n="106"/>tum sicut philosophi capiunt pro igne / aqua etc. sed capitur pro 
+      <lb ed="#P" n="107"/>illo quod presupponitur quemadmodum mixta elementa 
+      pri<lb ed="#P" n="108" break="no"/>supponunt quae ex ipsis componuntur per equiualentiam 
+      <lb ed="#P" n="109"/>littere vocantur elementa sic est in proposito ambe 
+      <lb ed="#P" n="110"/>rum consensus presupponitur et sic accedat verbum ad 
+      <lb ed="#P" n="111"/>elementum puta verba de presenti vel nutus vel huiusmodi 
+      <lb ed="#P" n="112"/>ad elementum id est ad consensum quae presupponitur et fit 
+      <lb ed="#P" n="113"/>sacramentum matrimonii. Secundo dicitur quod illud bea 
+      <lb ed="#P" n="114"/>ti augustini intelligitur de baptismo de quo ibi loquitur 
+      <lb ed="#P" n="115"/>Ad aliud conceditur sequela et ad improbationem 
+      ho<lb ed="#P" n="116" break="no"/>mines saluarentur bene quando omnes vxores essent communes duo 
+      <lb ed="#P" n="117"/>dico. primo stando in fide deus praecepit oppositum. se 
+      <lb ed="#P" n="118"/>cundo dico seclusa fide modus socratis et platonis 
+      <!--314.xml-->
+      <pb ed="#P" n="150-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>non est bene positus naturaliter quo circa aristote. 
+      <lb ed="#P" n="2"/>ii. politicorum. illum reprobat et ostendit multa 
+      inconue<lb ed="#P" n="3" break="no"/>nientia sequi ad illum modum melius est quod vnus habeat 
+      <lb ed="#P" n="4"/>vnam precise.
+    </p>
+            <p xml:id="JM7jmZ-d82489-d1e548">
+      ¶ Arguitur si verba coniunctorum essent 
+      <lb ed="#P" n="5"/>sacramentum tunc abeuntibus verbis desineret sacra 
+      <lb ed="#P" n="6"/>mentum inter eos et per consequens protinus est diuortium 
+      <lb ed="#P" n="7"/>quod nephas est dicere. Item si sint ambo muti et 
+      <lb ed="#P" n="8"/>faciunt nutus illi nutus nichil aliud sunt realiter quam 
+      <lb ed="#P" n="9"/>menbra mutantia manus capunt vel aliud menbrum et sic 
+      <lb ed="#P" n="10"/>concedendum foret quod manus est sacramentum matrimo 
+      <lb ed="#P" n="11"/>nii.
+    </p>
+            <p xml:id="JM7jmZ-d82489-d1e566">
+      ¶ Reducam argumentum equaliter: si dicas quod 
+      ma<lb ed="#P" n="12" break="no"/>trimonium est consensus. Si dicas matrimonium est ho 
+      <lb ed="#P" n="13"/>mines coniuncti inferam a deo extranea puta quod 
+      matri<lb ed="#P" n="14" break="no"/>monium dormit matrimonium est sepultum sacramentum 
+      <lb ed="#P" n="15"/>matrimonii capit sacramentum eucharistie. Ad 
+      argu<lb ed="#P" n="16" break="no"/>mentum ergo respondetur concedendo quod abeuntibus verbis 
+      <lb ed="#P" n="17"/>sacramentum abit: sed per illa verba sic coniunguntur quod non 
+      <lb ed="#P" n="18"/>licet eis rursum resilire post verba prolata cum consensu 
+      <lb ed="#P" n="19"/>et sic semper verba manent quo ad effectum quemadmo 
+      <lb ed="#P" n="20"/>dum si rex instituat dare tibi centum quotannis pro quodam 
+      <lb ed="#P" n="21"/>benmeplacito ex illa promissione vel pacto tu ius nancisce 
+      <lb ed="#P" n="22"/>ris habendi quotannis centum licet contractus et 
+      pro<lb ed="#P" n="23" break="no"/>missio abeant quia sunt realiter verba. Et ad aliud de 
+      <lb ed="#P" n="24"/>nutu concedo quod nutus vel est homo taliter se habens vel 
+      <lb ed="#P" n="25"/>menbrum: sed an debeat dici sacramentum matrimonii quando 
+      <lb ed="#P" n="26"/>deficit ei taliter se habere dicitur quod non sicut supra de 
+      <lb ed="#P" n="27"/>baptismo et sic matrimonium semper manet quo ad 
+      es<lb ed="#P" n="28" break="no"/>fectum quemadmodum semel baptisatus semper manet 
+      ba<lb ed="#P" n="29" break="no"/>ptisatus. sic qui semel est coniunctus viuente vxore est 
+      <lb ed="#P" n="30"/>coniunctus et econuerso nutus sufficit inter illos qui 
+      <lb ed="#P" n="31"/>loqui non possunt. xxvi. questi. vi. qui recedunt. secus 
+      <lb ed="#P" n="32"/>est de baptismo et eucharistia et in aliis in quibus ver 
+      <lb ed="#P" n="33"/>ba requiruntur pro forma et idem censeo iudicium in potente 
+      <lb ed="#P" n="34"/>loqui esto quod non loquatur rubore vel quauis alia via 
+      <lb ed="#P" n="35"/>dummoo per signa ostendit se consentire vel dum moo sedet 
+      <lb ed="#P" n="36"/>sub veste nuptiali vel vadit ad valuas ecclesie: sed 
+      se<lb ed="#P" n="37" break="no"/>curum esset non intromittere cum tali si sit ei facultas lo 
+      <lb ed="#P" n="38"/>quendi si non loquatur sponsalia nec alius minister 
+      <lb ed="#P" n="39"/>sunt de necessitate sacramenti bene tamen de congruitate. 
+      <lb ed="#P" n="40"/>Ex isto sequitur quod inter pure ebrios amentes 
+      tem<lb ed="#P" n="41" break="no"/>pore amentie et paruulos non doli capaces non cadit 
+      <lb ed="#P" n="42"/>matrimonium. patet in omnibus talibus de est consensus 
+      <lb ed="#P" n="43"/>qui est necessarius huic sacramento. Sed pone quod mu 
+      <lb ed="#P" n="44"/>lier aliqua consentiat in furiosum titium. sed titio haben 
+      <lb ed="#P" n="45"/>te vsum rationis dissentiat mulier sed titius consentiat 
+      <lb ed="#P" n="46"/>an sit verum matrimonium. Et arguitur quod non ibi non 
+      <lb ed="#P" n="47"/>est consensus: igitur non est matrimonium hac ratione 
+      <lb ed="#P" n="48"/>moti aliqui dicunt non esse matrimonium quia non simul 
+      <lb ed="#P" n="49"/>consentiunt.
+    </p>
+            <p xml:id="JM7jmZ-d82489-d1e652">
+      ¶ Sed contra hoc arguitur nuptie 
+      con<lb ed="#P" n="50" break="no"/>trahuntur inter absentes quemadmodum fieri solet 
+      in<lb ed="#P" n="51" break="no"/>ter variorum principum filios et filias et tamen non est con 
+      <lb ed="#P" n="52"/>sensus mutuus vnus consentit nunc in principio anni 
+      <lb ed="#P" n="53"/>et altera in fine mensis vel fortassis anni tale 
+      matri<lb ed="#P" n="54" break="no"/>monium tenet: igitur. non requiritur mutuus consensus 
+      <lb ed="#P" n="55"/>hoc argumentum non vincit diceret consequenter 
+      ma<lb ed="#P" n="56" break="no"/>net idem propositum. Sed contra vel idem actuale et hoc 
+      <lb ed="#P" n="57"/>est falsum nec requiritur vel idem habituale capiendo 
+      <lb ed="#P" n="58"/>habituale pro illo quod gestonatur ex actibus sicut mora 
+      <lb ed="#P" n="59"/>les capere solent et iterum hoc non oportet. Si dicas 
+      <!--314.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="60"/>dem propositum virtuale manet puta titius habuit pro 
+      <lb ed="#P" n="61"/>positum actuale ducendi tibergam nec habet contra 
+      <lb ed="#P" n="62"/>rium consentiente tiberga postea sic manet 
+      matri<lb ed="#P" n="63" break="no"/>monium: sed sic est in casu furoris et lucidi interualli quo 
+      <lb ed="#P" n="64"/>circa teneo ihidem esse verum matrimonium sed si non 
+      fue<lb ed="#P" n="65" break="no"/>rit mutuus consensus formalis vel virtualis non est 
+      <lb ed="#P" n="66"/>matrimonium: quemadmodum contingebat de amoo et 
+      tha<lb ed="#P" n="67" break="no"/>nar. primo amodo volebat et postea thamar sed non si 
+      <lb ed="#P" n="68"/>mul. At dicis votum mentale sufficit ad obligationem 
+      <lb ed="#P" n="69"/>pei: ergo consensus mentalis sufficit ad 
+      matrimo<lb ed="#P" n="70" break="no"/>nium. Forte dicis et sic dicendum est deus scrutatur 
+      cor<lb ed="#P" n="71" break="no"/>da et renes. secus est de homine. contra: ponatur quod 
+      ange<lb ed="#P" n="72" break="no"/>us dicat sorti quod berta in eum consentit et sic berte 
+      si<lb ed="#P" n="73" break="no"/>gnificet tunc eis patet potes sic ducere casum quod erit 
+      <lb ed="#P" n="74"/>equipolentia verbis cum consensu sufficienti sed hoc 
+      <lb ed="#P" n="75"/>est preter legem. Rursus omnis res dissoluitur per 
+      <lb ed="#P" n="76"/>llas causas per quas oritur lfi. de reg. iuris. nichil tam 
+      <lb ed="#P" n="77"/>naturale si matrimonium contrahitur per consensum per 
+      <lb ed="#P" n="78"/>dissensum dissoluitur sicut in societate et in aliis con 
+      <lb ed="#P" n="79"/>tractibus. patet. C. quando licet ab emp. disce. I. i. 
+      tran<lb ed="#P" n="80" break="no"/>seat maior dummodo omnes ille cause concurrant solus 
+      <lb ed="#P" n="81"/>consensus explicatus per verba non sufficit: sed ille 
+      <lb ed="#P" n="82"/>prerequiritur et deus contractum perpetuo roborans 
+      <lb ed="#P" n="83"/>modo illa ponuntur si dissentirent et deus vellet vel si 
+      <lb ed="#P" n="84"/>ne eorum dissensu potest non esse matrimonium dissensus 
+      <lb ed="#P" n="85"/>coniugum nichil facit ad diuortium. In noua lege car 
+      <lb ed="#P" n="86"/>dinales eligunt eprium maximum: sed dummoo est electus des 
+      <lb ed="#P" n="87"/>ratificat nec cardinalium dissensus potest eum depone 
+      <lb ed="#P" n="88"/>re a summo pontificatum quia dicebatur maris et femine 
+      <lb ed="#P" n="89"/>Dubitas de hermofrodita. dico forte tales non 
+      re<lb ed="#P" n="90" break="no"/>periuntur sed quia. <ref xml:id="JM7jmZ-d82489-Rd1e747">xvi. de ciuitate dei. c. viii.</ref> 
+               <quote xml:id="JM7jmZ-d82489-Qd1e750" source="http://scta.info/resource/adcd-l16-d1e2382@157-172">andoge 
+      <lb ed="#P" n="91"/>ni quos hermofroditas vocant quamquam rari sunt tamen 
+      <lb ed="#P" n="92"/>temporibus non desunt</quote>: dico talis vel plus percipit 
+      <lb ed="#P" n="93"/>de vno quam de alio et de illo sexu est / bonum est tamen tali quali 
+      <lb ed="#P" n="94"/>tercumque sit ingredi religionem et non stare in seculo. at 
+      <lb ed="#P" n="95"/>dicis potestifex potest dispensare cum religioso vt egre 
+      <lb ed="#P" n="96"/>diatur cenobium et contrahat ergo potest dispensare 
+      <lb ed="#P" n="97"/>quod maneat matrimonium pro tempore quo heres 
+      re<lb ed="#P" n="98" break="no"/>gni est generandus quia cessante causa cessat effectus. Con 
+      <lb ed="#P" n="99"/>cedo antecedens et nego consequentiam cum dispensat cum alio alter rea 
+      <lb ed="#P" n="100"/>iter est absolutus a religione et matrimonium est ita 
+      <lb ed="#P" n="101"/>berpetuum sicut aliorum modo mathei. xix. quos deus con 
+      <lb ed="#P" n="102"/>lunxit homo non separet cessante causa cessat effectus 
+      <lb ed="#P" n="103"/>hoc est verum in causis naturalibus quando effectus 
+      <lb ed="#P" n="104"/>dependet ab illa causa vt lumen respectu corporis 
+      <lb ed="#P" n="105"/>luminosi potest postea intrare religionem ille sed 
+      <lb ed="#P" n="106"/>non tenetur. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

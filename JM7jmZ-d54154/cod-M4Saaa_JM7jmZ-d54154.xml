@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 18</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 18</title>
+               <date when="2021-07-06">July 06, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-M4Saaa">Paris 1509</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-06" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="98-r"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="JM7jmZ-d54154"><!-- l4d15q18 -->
+            <head xml:id="JM7jmZ-d54154-Hd1e108">Quaestio 18</head>
+            <head xml:id="JM7jmZ-d54154-Hd1e111" type="question-title">
+      An homo tenetur
+      restituere acquisita per
+      furtum
+    </head>
+            <p xml:id="JM7jmZ-d54154-d1e114">
+               <lb ed="#P" n="33"/>¶ Distinctionis decime quinte quaestio decima octaua. 
+      <lb ed="#P" n="34"/>Uperius locuti sumus de partibus 
+      resti<lb ed="#P" n="35" break="no"/>tutionis communiter enumeratis scilicet 
+      <lb ed="#P" n="36"/>tt ieiunio et elemosina alias de oratione 
+      lo<lb ed="#P" n="37" break="no"/>quentes et cum rectum est index obliqui primo de 
+      <lb ed="#P" n="38"/>anima non poteramus commode tractare de reliquis 
+      <lb ed="#P" n="39"/>speciebus restitutionis nisi de dominiis rerum primeuis 
+      <lb ed="#P" n="40"/>nonnichil tangeremus et earum annexis postea 
+      inci<lb ed="#P" n="41" break="no"/>pientes de restitutionibus trium bonorum de quibus 
+      <lb ed="#P" n="42"/>loquitur aristoteles primo ethi. si bonis anime 
+      corpo<lb ed="#P" n="43" break="no"/>ris et fortune eo ordine quo se habent in dignitate loqui 
+      <lb ed="#P" n="44"/>mur ista bona fortune parum apud sapientes reputam 
+      <lb ed="#P" n="45"/>tur secundum dictum binatis sapientis allegati in par 
+      <lb ed="#P" n="46"/>doxis a mar. tul. omnia mea mecum porto insinuans alia 
+      <lb ed="#P" n="47"/>parum ad se attinere sed quia humanum genus auide inhias 
+      <lb ed="#P" n="48"/>per phas et nephas hoc bona exaggerare aliquid dicem 
+      <lb ed="#P" n="49"/>inchoantes a vulpino fure trium licterarum viro 
+      quaeren<lb ed="#P" n="50" break="no"/>tes duo de vigesimo: an homo tenetur restituere acquisi 
+      <lb ed="#P" n="51"/>ta per furtum. Pro solutione questionis aduerte quod 
+      <lb ed="#P" n="52"/>per furtum interdum intelligimus rapinam et omne 
+      <lb ed="#P" n="53"/>illicite detentum: et sic capitur in prohibitione deca 
+      <lb ed="#P" n="54"/>logi. xiiii. q. v. penale. sic scimoniacus non ingredien 
+      <lb ed="#P" n="55"/>per ostium est fur. xxiii. q. iiii. tres personas. sic vsu 
+      <lb ed="#P" n="56"/>raria pecunia est furtum si proprie capiatur est 
+      voli<lb ed="#P" n="57" break="no"/>tio capiendi quod putatur alienum clanculum inuito domino 
+      <lb ed="#P" n="58"/>animo lucrandi. hec diffinitio quadrat cum iusti. de obli¬ 
+      <!--210.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="59"/>que ex delic. nas. § furtum. addunt aliqui mobile et 
+      <lb ed="#P" n="60"/>corporale per hoc simoniam vsuram seiugant: sed 
+      faci<lb ed="#P" n="61" break="no"/>le est hec impugnare per methaphi. petendo 
+      quo<lb ed="#P" n="62" break="no"/>modo est vsura spiritualis vel circa spirituale etiam 
+      <lb ed="#P" n="63"/>petatur quare quis non potest committere furtum in ter 
+      <lb ed="#P" n="64"/>ra. volitio ponitur loco generis quamquam non sit verum 
+      <lb ed="#P" n="65"/>genus cum furtum connotationem peregrinam habetet re 
+      <lb ed="#P" n="66"/>pectu termini volitio. sed vt melius rem ipsam ca 
+      <lb ed="#P" n="67"/>piamus placuit ita dicere. dicitur quod putatur esse alie 
+      <lb ed="#P" n="68"/>num et non alienum si rem meam capio quam credo es 
+      <lb ed="#P" n="69"/>se alienam furtum committo: et hic capitur alienum si 
+      <lb ed="#P" n="70"/>ue ad vsum siue ad proprietatem si quis rem meam 
+      ex<lb ed="#P" n="71" break="no"/>pignore vel vpontheca habet et ego clanculum suscipio 
+      <lb ed="#P" n="72"/>furtum committo: capio quod scio esse alienum scio alium 
+      <lb ed="#P" n="73"/>in hoc ius aliquod habere. Dicitur inuito domino: quia si 
+      <lb ed="#P" n="74"/>dominus consentiret vel est verisimile quod consentiret siue 
+      <lb ed="#P" n="75"/>consentiat siue non nullomoo est furtum: et intelligo 
+      <lb ed="#P" n="76"/>per dominum rei illum qui in re auctoritatem habet / siue sit 
+      <lb ed="#P" n="77"/>dominus inferior vt causa secunda cui dominus superior 
+      consen<lb ed="#P" n="78" break="no"/>tit siue dominus superior omnium potestatem in re accipit vt 
+      <lb ed="#P" n="79"/>de spoliatione egypti. exodi. xi. hoc idem patet. xiiii. 
+      <lb ed="#P" n="80"/>quest. v. dixit dominus. Dicitur animo lucrandi: quia si quis ca 
+      <lb ed="#P" n="81"/>peret rem vt alium reddat cautiorem / vel gratia ioci 
+      <lb ed="#P" n="82"/>non committit furtum.
+    </p>
+            <p xml:id="JM7jmZ-d54154-d1e229">
+      ¶ Ex hac diffinitione patent 
+      <lb ed="#P" n="83"/>alique propositiones. Prima est: aliquis peccat 
+      pec<lb ed="#P" n="84" break="no"/>cato furti et nichil furatur. patet de illo qui vult 
+      cape<lb ed="#P" n="85" break="no"/>re alienum sed non potest habere. et ex hac propositio 
+      <lb ed="#P" n="86"/>ne sequitur quod non omnis fur tenetur ad restitutionem. 
+      <lb ed="#P" n="87"/>furti. patet de fure dato ille de quo est mentio non solum 
+      <lb ed="#P" n="88"/>peccat peccato furti sed est fur. Tertio sequitur quod 
+      <lb ed="#P" n="89"/>furtum a rapina differt penes clanculum et manife 
+      <lb ed="#P" n="90"/>stum secundous capiendo. Quarto sequitur coram dec 
+      <lb ed="#P" n="91"/>ego capiens meum ab illo a quo alia via habere non 
+      <lb ed="#P" n="92"/>possum iuridice non committo furtum. patet capio meum 
+      <lb ed="#P" n="93"/>et ille nullum ius in illo habet nec videtur esse in hoc pec 
+      <lb ed="#P" n="94"/>catum. secus est si possum probare rem esse meam et 
+      <lb ed="#P" n="95"/>eam iuridice habere tunc male agorem meam 
+      clancu<lb ed="#P" n="96" break="no"/>lum capiendo si scio rem esse meam et probare nescio non 
+      <lb ed="#P" n="97"/>debeo rapere quia hoc cederet in detrimentum rei 
+      publi<lb ed="#P" n="98" break="no"/>ce si clanculum habere possum non vitur esse peccatum tunc non 
+      <lb ed="#P" n="99"/>leditur ille a quo capio nec respublica. Quinto sequi 
+      <lb ed="#P" n="100"/>tur existens in extrema nccintate capiens nccima pro suo 
+      <lb ed="#P" n="101"/>nutrimento non peccat peccato furti. hoc patet capit suum cum 
+      <lb ed="#P" n="102"/>in illo casu omnia sunt ei communia. de conse. d. v. discipulos. 
+      <lb ed="#P" n="103"/>non alitas ddd excusatur conedendo panes propositionis 
+      <lb ed="#P" n="104"/>i. reg. xxi. et apostoli conedentes spicas in sabbato. luce 
+      <lb ed="#P" n="105"/>xii. Sexto sequitur: qui alienum capit vt faciat elemo 
+      <lb ed="#P" n="106"/>sinam committit furtum cum capit alienum actus cadit super 
+      <lb ed="#P" n="107"/>obiectum malum licet circunstantia finis sit bona: 
+      <lb ed="#P" n="108"/>sed hoc non sufficit. et illud patet decina quarta 
+      quaestio<lb ed="#P" n="109" break="no"/>ne quinta sorte. trigesima secunda questione quarta. 
+      <lb ed="#P" n="110"/>sic non sunt. Septimo sequitur quantumcunque quis 
+      <lb ed="#P" n="111"/>parum accipit quod putatur esse alienum contradicen 
+      <lb ed="#P" n="112"/>te domino rationabiliter est furtum. patet per totam 
+      dif<lb ed="#P" n="113" break="no"/>finitionem. et illud patet. xiiii. q. vi. c. finali. et de pe. d. i. §. 
+      <lb ed="#P" n="114"/>vulga. Octauo sequitur: non omne furtum est mortale 
+      <lb ed="#P" n="115"/>peccatum. patet de furto alicuius quod non est notabilis dannt 
+      <lb ed="#P" n="116"/>furtum mortale est volitio auferre notabile bonum. 
+      <lb ed="#P" n="117"/>Nono sequitur: furtum est auaricia furtum est vsura 
+      <!--211.xml-->
+      <pb ed="#P" n="98-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>Hecimo sequitur: aliquod furtum est eiusdem speciel 
+      <lb ed="#P" n="2"/>spanlissime cum rapina. patet habeam ego hanc 
+      volitio<lb ed="#P" n="3" break="no"/>nem volo capre hoc demonstrando illud quod credo esse 
+      <lb ed="#P" n="4"/>alienum nullo sciente: postea superuenit dominus rei et re 
+      <lb ed="#P" n="5"/>sistat / ego surripiendo rem possum continuare volitio 
+      <lb ed="#P" n="6"/>nem meam praeuiam que prius erat latens nunc vere 
+      <lb ed="#P" n="7"/>aperta: ergo idem actus voluntatis numero qui prius erat 
+      <lb ed="#P" n="8"/>furtum postea efficitur rapina imo stat tunc quod primo 
+      <lb ed="#P" n="9"/>sit furtum mortale et postea idem actus numero erit 
+      <lb ed="#P" n="10"/>meritum sed hoc non erit simul: patet habeam ego hanc 
+      <lb ed="#P" n="11"/>volitionem volo capere hunc librum propter deum de 
+      <lb ed="#P" n="12"/>monstrando librum tuum iam est furtum per sextum 
+      <lb ed="#P" n="13"/>correlarium continuo illum actum et in medio 
+      tem<lb ed="#P" n="14" break="no"/>pore tu das michi illum librum: iam iste actus est 
+      <lb ed="#P" n="15"/>meritum et possum esse in gratia saltem est actus bonus 
+      <lb ed="#P" n="16"/>moraliter qui habet capunt refertum doctrina 
+      com<lb ed="#P" n="17" break="no"/>muni nominalium quam speculationem putat censebit 
+      <lb ed="#P" n="18"/>me falli et esse ad obiectum sed queso pensitet pau 
+      <lb ed="#P" n="19"/>lo profundius antequam nos dannet. Vndecimo sequitur: 
+      <lb ed="#P" n="20"/>stat equaliter furari ab eadem equali intentione 
+      gra<lb ed="#P" n="21" break="no"/>duali actus et inequaliter peccare. patet si sortes habe 
+      <lb ed="#P" n="22"/>ret precise centum scuta ei necessaria et primo fura 
+      <lb ed="#P" n="23"/>rer ab eo viginti scuta et postea alia viginti plus pec 
+      <lb ed="#P" n="24"/>co secundo quam primo quia sortes plus eget et plus tertio quam 
+      <lb ed="#P" n="25"/>secundo: sed frangendo archam primo et auferens 
+      vigin<lb ed="#P" n="26" break="no"/>ti scuta primo communiter plus pecco quam auferens tandem. 
+      <lb ed="#P" n="27"/>post me quia eram occasio secundi furti: et hoc si non 
+      fue<lb ed="#P" n="28" break="no"/>rit excessus per inopiam in secundo.
+    </p>
+            <p xml:id="JM7jmZ-d54154-d1e374">
+      ¶ Istis prelibatis 
+      <lb ed="#P" n="29"/>pono conclusionem. Omne ablatum per furtum qualiter 
+      <lb ed="#P" n="30"/>cunque capiatur est restituendum et capiam vt includat 
+      <lb ed="#P" n="31"/>rapinam hoc est primous. patet: omne alienum et iniuste ac 
+      <lb ed="#P" n="32"/>quisitum est restituendum: omne furtum est huiusmo 
+      <lb ed="#P" n="33"/>di: igitur. maior patet per illud beati aug. ad 
+      macedoni<lb ed="#P" n="34" break="no"/>um: non dimittitur peccatum donec restituatur ablatum: bus 
+      <lb ed="#P" n="35"/>patet: quia non est iustus titulus in furto siue includat simoniam 
+      <lb ed="#P" n="36"/>siue rem immobilem siue vsuram vt in vna quaestione vsu 
+      <lb ed="#P" n="37"/>re patebit sed hoc potissimum loquimur de furto pro 
+      <lb ed="#P" n="38"/>prie dicto ablatum est restituendum hoc sic 
+      intelli<lb ed="#P" n="39" break="no"/>go homo tenetur habere volitionem efficacem 
+      re<lb ed="#P" n="40" break="no"/>stituendi / et imperatiuam executionis et non ad 
+      <lb ed="#P" n="41"/>semper dandum / interdum est impossibile cum 
+      ni<lb ed="#P" n="42" break="no"/>chil habet / interdum propter circunstantiam non po 
+      <lb ed="#P" n="43"/>test reperire tabellionem ad defferendum ad aliam 
+      <lb ed="#P" n="44"/>patriam et non tenetur conducere nuncium quia res 
+      <lb ed="#P" n="45"/>non est tanti momenti vel quia esset iactura illi cur 
+      <lb ed="#P" n="46"/>est restituendum. interdum furtum est occultum 
+      ho<lb ed="#P" n="47" break="no"/>mo propalaret se de furto ad quod non tenetur tunc 
+      <lb ed="#P" n="48"/>capiet confessorem suum faciendo eum restituere et 
+      <lb ed="#P" n="49"/>quod ipse petat cyrographum tenetur facere indaginem 
+      <lb ed="#P" n="50"/>quousque alter habet non sufficit dare confessori et non 
+      <lb ed="#P" n="51"/>sufficit solum ablatum siue res ablata sit fructifera 
+      <lb ed="#P" n="52"/>de se vt grex armentum solum / vel per industriam 
+      <lb ed="#P" n="53"/>aliorum requiritur refundere lucrum quod alter pote 
+      <lb ed="#P" n="54"/>rat consequi ex re sua: vel tenetur satisfacere de dam 
+      <lb ed="#P" n="55"/>no quod alter ob sue rei carentiam pertulit nec potest 
+      <lb ed="#P" n="56"/>petere dilationem si habeat non sufficit nutrire ho 
+      <lb ed="#P" n="57"/>nestum statum cum ere alieno tenuiter viuat et resti 
+      <lb ed="#P" n="58"/>tuat: nolo dicere quod tenetur omnia mox restituere quo 
+      <lb ed="#P" n="59"/>usque sit extreme mendicus petat dilationem a domino 
+      <!--211.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="60"/>rei et det fideiussorem mediate per intermedium vel 
+      <lb ed="#P" n="61"/>immediate quam si dare noluerit restituere oporm 
+      <lb ed="#P" n="62"/>aliqui inopia pressi procurant eis litteras ne cogan 
+      <lb ed="#P" n="63"/>tur soluere ad quattuor vel ad quinque annos 
+      futu<lb ed="#P" n="64" break="no"/>ros vt in ecclesia sancti pauli londoniarum et valem 
+      <lb ed="#P" n="65"/>tienis non habebitis solutionem et illud crebro est 
+      <lb ed="#P" n="66"/>rationabile: sed vbi quis satisfacere potest et non 
+      fa<lb ed="#P" n="67" break="no"/>cit sed ex discolia vtitur priuilegio minime 
+      excusa<lb ed="#P" n="68" break="no"/>tur coram deo. Ex quo sequitur quod moriens habens 
+      <lb ed="#P" n="69"/>alienum relinquens heredi in precepto restituendi 
+      <lb ed="#P" n="70"/>non tamen restituens male discedit: patet talis non 
+      <lb ed="#P" n="71"/>habet volitionem restituendi sufficientem hoc est 
+      <lb ed="#P" n="72"/>imperatiuam executionis si haberet illam 
+      restitue<lb ed="#P" n="73" break="no"/>ret si non ponatur impedimentum suppono quod non 
+      <lb ed="#P" n="74"/>sit impedimentum restituere / interdum est difficile 
+      <lb ed="#P" n="75"/>nichil video periculosius in mundo quam sit restitutio 
+      <lb ed="#P" n="76"/>ad videndum quibus primo est restituendum 
+      mul<lb ed="#P" n="77" break="no"/>te circunstantie sunt considerande quis magis eges 
+      <lb ed="#P" n="78"/>et quo prius suscepi alienum an alienum sit penes me 
+      <lb ed="#P" n="79"/>vel consumptum et secundum hoc restituendum est 
+      <lb ed="#P" n="80"/>quam primum commode possum. Secundo sequitur stat 
+      <lb ed="#P" n="81"/>virum per detentionem vnius duodeni tantum peccare si 
+      <lb ed="#P" n="82"/>cut per furtum vnius scuti. patet supposito quod diu 
+      <lb ed="#P" n="83"/>duobus vel tribus annis tenuerit duodenum ve 
+      <lb ed="#P" n="84"/>quinque et precise vno die vel hora tenuerit scutum 
+      <lb ed="#P" n="85"/>qui furatur primo vnum scutum plus peccat quam ille 
+      <lb ed="#P" n="86"/>qui furatur vnum duodenum ceteris paribus: sed 
+      <lb ed="#P" n="87"/>stat quod detinens per detentionem peccet nouo 
+      pec<lb ed="#P" n="88" break="no"/>cato eo quod tenetur restituere et non restituit non 
+      ta<lb ed="#P" n="89" break="no"/>men in qualibet parte proportionali vnius hore pec 
+      <lb ed="#P" n="90"/>tat nouo peccato esto quod non restituat nec quando 
+      <lb ed="#P" n="91"/>dormit sed quando actualiter cogitat de 
+      restitutio<lb ed="#P" n="92" break="no"/>ne post deliberationem dandi peccat est preceptum 
+      <lb ed="#P" n="93"/>negatiuum vel prohibitio proprie non tenere alienum 
+      <lb ed="#P" n="94"/>et sicut volens furari et volitionem continuans per 
+      <lb ed="#P" n="95"/>vnam horam contrauenit praecepto negatiuo in 
+      qua<lb ed="#P" n="96" break="no"/>libet parte illius temporis non est tamen intentio obligantis 
+      <lb ed="#P" n="97"/>quod homo in quolibet tempore quantumlibet pusillo 
+      pec<lb ed="#P" n="98" break="no"/>cet nouo peccato vt alibi declarari habet / sic est in 
+      <lb ed="#P" n="99"/>proposito: sed est vnum aliud de restitutione dato 
+      <lb ed="#P" n="100"/>quod homo transeat per annum non cogitans de restitus 
+      <lb ed="#P" n="101"/>do vbi restituere tenetur et quod interdum peccet pecca 
+      <lb ed="#P" n="102"/>to omissionis. istud correlarium ex aliis locis suam 
+      ex<lb ed="#P" n="103" break="no"/>planationem deducit adde etiam quod non prohibetur fur 
+      <lb ed="#P" n="104"/>tum nisi propter non tenere alienum. Contra conclu 
+      <lb ed="#P" n="105"/>sionem arguitur exercitus auferens racemos non te 
+      <lb ed="#P" n="106"/>netur ad restitutionem eorum et tamen iniuste eos deti 
+      <lb ed="#P" n="107"/>net igitur: hoc patet posito quod a exercitus centum mille ho 
+      <lb ed="#P" n="108"/>minum transeat per vineam naboth et quilibet auferat race 
+      <lb ed="#P" n="109"/>mum vnum iam nullus ad restitutionem tenetur: quod patet etiam 
+      <lb ed="#P" n="110"/>voco tenetur quando non restituens peccaret mortaliter: modo 
+      <lb ed="#P" n="111"/>nullus eorum peccat mortaliter: quod probo quia si sic maxie es 
+      <lb ed="#P" n="112"/>set committendo furtum sed hoc non quilet capit vnum 
+      race<lb ed="#P" n="113" break="no"/>mum: sed istud auferre non est mortale peccatum: ergo indetinen 
+      <lb ed="#P" n="114"/>do no est mortale peccatum: quis diceret quod sub pena peccati 
+      <lb ed="#P" n="115"/>mortalis ego teneor restituere vnum granum millii quod 
+      <lb ed="#P" n="116"/>cepi a proxio et vltra nullus tenetur ad restitutionem 
+      <lb ed="#P" n="117"/>sub pena peccati mortalis vnius grani: ergo non omnes 
+      <lb ed="#P" n="118"/>tenentur. probo consequentiam siue omnes capiatur collectiue 
+      <!--212.xml-->
+      <pb ed="#P" n="99-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>siue distributiue quia da oppositum collectiue omns 
+      <lb ed="#P" n="2"/>tenentur ad restitutionem nullus de necessitate salutis 
+      <lb ed="#P" n="3"/>tenetur ad restitutionem et non sunt alia peccata con 
+      <lb ed="#P" n="4"/>missa sequitur si discedant sic omnes damnabuntur et 
+      <lb ed="#P" n="5"/>nullus damnabitur quod falsum est et tamen iniuste de 
+      <lb ed="#P" n="6"/>tinent racemos. probatur: iniuste racemi sunt 
+      abla<lb ed="#P" n="7" break="no"/>ti nec recompensatum pro eis est et sunt potentes re 
+      <lb ed="#P" n="8"/>stituere: ergo iniuste detinent racemos quod omnes isti 
+      <lb ed="#P" n="9"/>copulatim fecerunt furtum: patet ceperunt aliquod 
+      <lb ed="#P" n="10"/>notabile bonum alienum igitur. Pro solutione ad 
+      <lb ed="#P" n="11"/>uerte quod isti aufferentes racemos vel pisa triphariam 
+      <lb ed="#P" n="12"/>possunt se habere vel nullus scit de alio sed sortes ve 
+      <lb ed="#P" n="13"/>nit prius et auffert vnum pisum postea accedit pla 
+      <lb ed="#P" n="14"/>to auffert reliquum cicero tantundem vel quilibet scit de 
+      <lb ed="#P" n="15"/>alio hoc est vadunt et sibi inuicem suggerunt aufer 
+      <lb ed="#P" n="16"/>re illa grana vel sciunt sine suggestione de 
+      ablatio<lb ed="#P" n="17" break="no"/>ne et nullus dicit de alterius furto.
+    </p>
+            <p xml:id="JM7jmZ-d54154-d1e620">
+      ¶ Istis 
+      nota<lb ed="#P" n="18" break="no"/>tis respondetur per conclusiones. Prima est: in pri 
+      <lb ed="#P" n="19"/>mo membro omnes notabiliter damnificant: hoc 
+      <lb ed="#P" n="20"/>patet capiendo omnes collectiue hoc est tota 
+      mul<lb ed="#P" n="21" break="no"/>titudo aufert notabile bonum sed nullus istius 
+      mul<lb ed="#P" n="22" break="no"/>titudinis notabiliter damnificat: quamadmodum si 
+      qui<lb ed="#P" n="23" break="no"/>libet vnius exercitus portat vnum granum totus 
+      <lb ed="#P" n="24"/>exercitus portat magnum cumulum.
+    </p>
+            <p xml:id="JM7jmZ-d54154-d1e638">
+      ¶ Secunda 
+      <lb ed="#P" n="25"/>propositio et si omnes notabiliter damnificant pro 
+      <lb ed="#P" n="26"/>ximum auferendo grana nullus eorum peccat pec 
+      <lb ed="#P" n="27"/>cato mortali furti nec omnes sit quia nullus eorum 
+      <lb ed="#P" n="28"/>peccat saltem mortaliter patet ex dictis. quia non 
+      <lb ed="#P" n="29"/>omnes patet quia tunc omnes essent damnati et nul 
+      <lb ed="#P" n="30"/>lus esset damnatus et per consequens nen omnes 
+      <lb ed="#P" n="31"/>essent damnati si omnes sunt damnati quilibet illo 
+      <lb ed="#P" n="32"/>rum est dannatus gratia materie sicut mere 
+      natura<lb ed="#P" n="33" break="no"/>liter loquendo bene sequitur sortes et plato currunt 
+      <lb ed="#P" n="34"/>ergo sortes currit et plato currit licet non gratia for 
+      <lb ed="#P" n="35"/>me.
+    </p>
+            <p xml:id="JM7jmZ-d54154-d1e664">
+      ¶ Tertia propositio pro tertio membro si 
+      om<lb ed="#P" n="36" break="no"/>mes sciunt de seinuicem omnes tenentur ad restitu 
+      <lb ed="#P" n="37"/>tionem et quilibet restituat non totum sed suam par 
+      <lb ed="#P" n="38"/>tem et alios debet amonere vt restituant durum esset d 
+      <lb ed="#P" n="39"/>cere quod quilibet eorum debet restituere insolidum quia 
+      <lb ed="#P" n="40"/>sic satis perniciosum esset furari in societate quod qu 
+      <lb ed="#P" n="41"/>libet tenetur restituere aliquod. patet alioquin nunquam 
+      <lb ed="#P" n="42"/>habebit ille restitutionem.
+    </p>
+            <p xml:id="JM7jmZ-d54154-d1e682">
+      ¶ Quarta propoteio si quis sua 
+      <lb ed="#P" n="43"/>sit aliis aliquid furari ille tenetur restituere insolidum et 
+      <lb ed="#P" n="44"/>sic de quolibet suadente ratio quia actus eius et 
+      exe<lb ed="#P" n="45" break="no"/>quutio cadit in totum: secus est in priore menbro sed 
+      <lb ed="#P" n="46"/>vno soluente reliqui non tenentur soluere sicut quando 
+      <lb ed="#P" n="47"/>plures dolo malo dederunt dannum alicui si vnus 
+      re<lb ed="#P" n="48" break="no"/>stituat alii liberati sunt. l. si poteoles scilicr de dolo. sed in for 
+      <lb ed="#P" n="49"/>ro conscine alii tenentur huic facere restitutionem cum 
+      <lb ed="#P" n="50"/>pro eis satisfecit et alienum habent nec sufficit eis di 
+      <lb ed="#P" n="51"/>re pauperibus. secus est quando habeo parua inuenta incerta 
+      <lb ed="#P" n="52"/>vel furta minuta et abest dominus rei et si dominus redierit vel 
+      <lb ed="#P" n="53"/>ostendatur post dationem illorum bonorum nichil ei 
+      resti<lb ed="#P" n="54" break="no"/>tuetur cum iam pro eo dedi sed cum eum latuit me pro eo dam 
+      <lb ed="#P" n="55"/>te non meruit sed habendo acta mearata merebitu 
+      <lb ed="#P" n="56"/>et de necessitate faciet virtutem in hiis carminibus vu 
+      <lb ed="#P" n="57"/>garibus recitantur furto notati. Iussio consilium con 
+      <lb ed="#P" n="58"/>sensus palpo recursus. Participans mutus non ob 
+      <lb ed="#P" n="59"/>stans non manifestans. palpo hoc est adulando di¬ 
+      <!--212.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="60"/>cendo eum viriliter egisse reliqua sunt peruia. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

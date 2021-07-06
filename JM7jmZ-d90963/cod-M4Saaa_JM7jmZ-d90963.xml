@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 1</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 1</title>
+               <date when="2021-07-06">July 06, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-M4Saaa">Paris 1509</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-06" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="164-r"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="JM7jmZ-d90963"><!-- l4d37q1 -->
+            <head xml:id="JM7jmZ-d90963-Hd1e108">Quaestio 1</head>
+            <head xml:id="JM7jmZ-d90963-Hd1e111" type="question-title">
+      An quis potest illam capere
+      in uxorem quam polluit
+      per adulterium
+    </head>
+            <p xml:id="JM7jmZ-d90963-d1e114">
+               <lb ed="#P" n="63"/>¶ Distinctionis trigesime septime questio prima. 
+      <lb ed="#P" n="64"/>Irca distin. xxxvii. queritur an quis potest illam 
+      <lb ed="#P" n="65"/>capere in vxorem quam polluit per adulterium.
+    </p>
+            <p xml:id="JM7jmZ-d90963-d1e123">
+      ramen 
+      <lb ed="#P" n="66"/>detur sunt aliqua crimina inhabilitantia aliquas 
+      <lb ed="#P" n="67"/>psonas ad contrahendum inter se licet non in ordine ad alias et 
+      <lb ed="#P" n="68"/>in proposito sunt duo casus de quibus loquitur magitur in 
+      <lb ed="#P" n="69"/>littera. primus si quis contrarxit cum aliqua et eam coguerit viuente 
+      <lb ed="#P" n="70"/>propria vxore legittima si ipsa hoc sciuerit vel ei 
+      red<lb ed="#P" n="71" break="no"/>dat debitum consentiendo cum sciuerit mortua propria vxo 
+      <lb ed="#P" n="72"/>re non potest illam habere in vxorem. hoc patet. c. finali huius tituli. 
+      <lb ed="#P" n="73"/>quo fit sola fides data de matrionio vel contractus de fa 
+      <lb ed="#P" n="74"/>cto nisi processum fuerit ad copulam non impedit: et licet 
+      ca<lb ed="#P" n="75" break="no"/>pitulum dicat fide data non oportet intelligere fidem vel iura 
+      <lb ed="#P" n="76"/>mentum sed aliam promissionem. Ex isto patet si sortes habens 
+      <lb ed="#P" n="77"/>vxorem in britannia ducat tebergam in francia et teberga 
+      <lb ed="#P" n="78"/>quam primum scit recedit ab eodem mortua prima potest 
+      duce<lb ed="#P" n="79" break="no"/>re helenam patet inter eum et tebergam non erat matrionium 
+      <lb ed="#P" n="80"/>nec est inhabilitas ex parte sortis nec teberge quia non 
+      <lb ed="#P" n="81"/>erit matrimonium. c. pri. huius rubrice dicit non debet 
+      <lb ed="#P" n="82"/>ad petitionem sortis fieri separatio sic debet intelligi male 
+      <lb ed="#P" n="83"/>agit sed tenet matrionium cum altera. sed pone quod sortes 
+      <lb ed="#P" n="84"/>dedit fidem berte viuente propria vxore sed non coguit 
+      <lb ed="#P" n="85"/>bertam mortua vxore sua ducit vnam tertiam scilicet helenoram 
+      <lb ed="#P" n="86"/>et interim bertam cogscit quaeris an mortua helenora potest 
+      <lb ed="#P" n="87"/>ducere bertam. forte dicis quod non vt patet per dicta cum coe 
+      <lb ed="#P" n="88"/>uit bertam extante legittino matrinonio et ei dedit fidem.  
+      <lb ed="#P" n="89"/>cum duxit tertiam recessit a fide quam promiserat: ergo  
+      <lb ed="#P" n="90"/>nunc solum manet adulterium quod non habet impedire: ergo 
+      <lb ed="#P" n="91"/>non est illegittimitas inter has personas potes concedere 
+      <lb ed="#P" n="92"/>esse verum matrimonium in proposito nec opus esse 
+      dis<lb ed="#P" n="93" break="no"/>pensatione. sed pone quod sor. promisit fidem berte quod sibi 
+      <lb ed="#P" n="94"/>consentiret post mortem sue vxoris accipiet illam in 
+      vxo<lb ed="#P" n="95" break="no"/>rem quam teberga soror berte consulet postea mortuo 
+      <lb ed="#P" n="96"/>viro berte teberga consulet sorti cape bertam quam ca 
+      <lb ed="#P" n="97"/>bit matrimonialiter quaritur an manet matrimonium. respondetur 
+      <lb ed="#P" n="98"/>si berta hoc non fecit in fraudem quod sortes eam haberet est 
+      <lb ed="#P" n="99"/>matrimonium nec opus est dispensatione putabat 
+      ber<lb ed="#P" n="100" break="no"/>ta quod teberga soror eius consuleret sorti de vna 
+      pro<lb ed="#P" n="101" break="no"/>uida muliere de nulla determinate cogitans vel de vna 
+      <lb ed="#P" n="102"/>honesta alia a bertha si in fraudem tunc oportet interpratari 
+      <lb ed="#P" n="103"/>prohibitionem pontificis quod non teneat matrimonium 
+      <lb ed="#P" n="104"/>cum fraus nulli debet patrocinari de immunitate ecclesie 
+      <lb ed="#P" n="105"/>aduersus. Secundum crimen si quis coguit vxorem 
+      ali<lb ed="#P" n="106" break="no"/>cuius viri et machinatus est in mortem viri non tatet 
+      ma<lb ed="#P" n="107" break="no"/>trimonium de eo qui duxit in matrimonium. c. super eo. et 
+      <lb ed="#P" n="108"/>hoc si mors sequuta fuisse in effectu. patet. xxxi. q. i. si 
+      <lb ed="#P" n="109"/>quis viuente. sed si quis interfecerit aliquem in bello non eo 
+      <lb ed="#P" n="110"/>proposito quod vellet vxorem eius sumere potest illam duce 
+      <lb ed="#P" n="111"/>re in vxorem. patet de conuersione in fide laudabilem et sic 
+      <lb ed="#P" n="112"/>achilles nunc posset cape andromachem quod dauid 
+      ac<lb ed="#P" n="113" break="no"/>cepit bersabeam vxorem vrie. secundi. reg. vndecimmo. 
+      <lb ed="#P" n="114"/>hoc precessit hanc prohibitionem ecclesie que est 
+      <!--343.xml-->
+      <pb ed="#P" n="164-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>lus positiuum humanum et quidm rationabile ne passim 
+      <lb ed="#P" n="2"/>petur facultas occidendi maritos ad habendas eo 
+      <lb ed="#P" n="3"/>rum vxores.
+    </p>
+            <p xml:id="JM7jmZ-d90963-d1e245">
+      ¶ Dubitatur an vxoricidium sit 
+      ma<lb ed="#P" n="4" break="no"/>gis peccatum quam matricidium. Respondetur quod non 
+      <lb ed="#P" n="5"/>homo habet esse a matre cui debetur maior honor 
+      <lb ed="#P" n="6"/>hoc non habet ab vxore quod imponatur grauior peni 
+      <lb ed="#P" n="7"/>tentia pro vxoricidio vt patet de aslulpho vxorem 
+      <lb ed="#P" n="8"/>decidente. tricesima tertia questione secunda 
+      capi<lb ed="#P" n="9" break="no"/>tulo. admouere quam pro matricidio non arguit graui 
+      <lb ed="#P" n="10"/>tatem culpe sed quia bomo est pronior occidere vxo 
+      <lb ed="#P" n="11"/>rem quam matrem maior penitentia iniungitur frequen 
+      <lb ed="#P" n="12"/>ter etiam pro matricidio imponitur decennies 
+      pe<lb ed="#P" n="13" break="no"/>nitentia imponitur. tricesima tertia questione secunda. 
+      <lb ed="#P" n="14"/>latorem. rarissimum est quod quis occidat matrem 
+      alc<lb ed="#P" n="15" break="no"/>meon aristotelis habebat motiuum occidere matrem 
+      <lb ed="#P" n="16"/>eo quod culpabiliter patrem misit ad bellum in quo 
+      per<lb ed="#P" n="17" break="no"/>emptus est hoc excusauit eum a tanto pro oreste est 
+      <lb ed="#P" n="18"/>validum argumentum qui matrem cletenestram iuf 
+      <lb ed="#P" n="19"/>sit occidi erat princeps qui poterat mulierem iube 
+      <lb ed="#P" n="20"/>re occidi iuridice cum ipsa grecorum principem 
+      in<lb ed="#P" n="21" break="no"/>signem agamenonem orestes patrem occidit.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

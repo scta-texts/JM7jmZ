@@ -1,0 +1,539 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 6</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 6</title>
+               <date when="2021-07-06">July 06, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-M4Saaa">Paris 1509</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-06" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="86-r"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="JM7jmZ-d47466"><!-- l4d15q6 -->
+            <head xml:id="JM7jmZ-d47466-Hd1e108">Quaestio 6</head>
+            <head xml:id="JM7jmZ-d47466-Hd1e111" type="question-title">
+      An rerum dominia iure
+      naturae, divino, vel
+      humano sint distincta
+    </head>
+            <p xml:id="JM7jmZ-d47466-d1e114">
+               <lb ed="#P" n="10"/>¶ Distinctionis decime quinte questio sexta. 
+      <lb ed="#P" n="11"/>Irca istam decimam quintam distinctio 
+      <lb ed="#P" n="12"/>nem magister loquitur de satisfactione cui 
+      <lb ed="#P" n="13"/>annectitur restitutio alieni et quia non 
+      co<lb ed="#P" n="14" break="no"/>gnoscitur alienum nisi cognoscatur proprium: 
+      er<lb ed="#P" n="15" break="no"/>go pro fundamento dicendorum. quero hunc 
+      con<lb ed="#P" n="16" break="no"/>tionis titulum: an rerum dominia fuerint distincta 
+      iu<lb ed="#P" n="17" break="no"/>re nature / diuino / vel humano supposito quod 
+      domi<lb ed="#P" n="18" break="no"/>nium rei nichil aliud est quam res quam aliquis habet in 
+      <lb ed="#P" n="19"/>proprietate / vel est homo rei proprietatem habens 
+      <lb ed="#P" n="20"/>et vsus interdum est eadem res: sortes habens domi 
+      <lb ed="#P" n="21"/>nium sui orti vel gregis dat michi eiusdem vsu 
+      fru<lb ed="#P" n="22" break="no"/>ctum tunc grex potest dici proprietas sortis et idem 
+      <lb ed="#P" n="23"/>grex potest dici vsufructus respectu mei: 
+      eodemmo<lb ed="#P" n="24" break="no"/>do dicatur de vsu: potest etiam non insulse dici / vsu 
+      <lb ed="#P" n="25"/>arius realiter est vsus rei: vsufructuarius est 
+      vsu<lb ed="#P" n="26" break="no"/>fructus: proprietarius rei est dominus rem possidens: sed 
+      <lb ed="#P" n="27"/>illi termini sunt impertinentes et differunt in 
+      con<lb ed="#P" n="28" break="no"/>notatis et in suis rationibus formalibus: 
+      intendi<lb ed="#P" n="29" break="no"/>mus loqui de dominio ciuili. vnde multiplex est 
+      domi<lb ed="#P" n="30" break="no"/>nium quoddam est beatificum / et nichil aliud est quam con 
+      <lb ed="#P" n="31"/>ditio beatis competens. aliud originale et est 
+      do<lb ed="#P" n="32" break="no"/>minium competens homini in statu innocentie vt 
+      ter<lb ed="#P" n="33" break="no"/>ram nichil noxium producere / non herbam venenatam 
+      <lb ed="#P" n="34"/>non arborem sterilem: tunc homines non 
+      vesceban<lb ed="#P" n="35" break="no"/>tur animalibus sed fructibus et herbis dicit glose 
+      <lb ed="#P" n="36"/>marginalis. genesis primo. tunc cocodrilus non emis 
+      <lb ed="#P" n="37"/>sisset lachrymas pro vorandis hominibus tunc ba 
+      <lb ed="#P" n="38"/>silisci virus ceteri serpentes non effugissent. 
+      domi<lb ed="#P" n="39" break="no"/>nium gratificum nichil aliud est quam illud quod comper 
+      <lb ed="#P" n="40"/>tit habentibus gratiam. Aliud est canonicum: quir 
+      <lb ed="#P" n="41"/>tum euangelicum de quibus non intendimus loqui 
+      <lb ed="#P" n="42"/>hic: sextum est dominium ciuile de quo est nobis sermo 
+      <lb ed="#P" n="43"/>cui impertinens est charitas / predestinatio / vel fi 
+      <lb ed="#P" n="44"/>des: vt patuit de regibus infidelibus in lege mosa 
+      <lb ed="#P" n="45"/>ca. heresis per se non est causa perditionis dominii 
+      <lb ed="#P" n="46"/>sed constitutio pontificis: quia nisi sic incerta essent 
+      <lb ed="#P" n="47"/>rerum dominia. Ex quo habeturcolor quod papa non des 
+      <lb ed="#P" n="48"/>nit esse capunt ecclesie propter heresim occultam: et 
+      <lb ed="#P" n="49"/>licet non vniatur menbris in fide infusa vnitur in 
+      si<lb ed="#P" n="50" break="no"/>gno fidei id est in caractere baptismali. Dices hoc 
+      <lb ed="#P" n="51"/>non concludit pro non baptisatis vel muliere vt io 
+      <lb ed="#P" n="52"/>hannis octauo. hoc non sufficit cum in vno est mul 
+      <lb ed="#P" n="53"/>to maior certitudo quam in alio et remedium adhiberi 
+      <lb ed="#P" n="54"/>potest ab hominibus non autem in alio. Insuper 
+      <lb ed="#P" n="55"/>ipso protinus penitente de occulta heresi quis con 
+      <lb ed="#P" n="56"/>stituit eum papam: illud potest vallari per episcopos 
+      <!--186.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="57"/>inferiores et summos pontifices legis mosaice: domi 
+      <lb ed="#P" n="58"/>nium etiam multis modis acquiritur: per emptionem 
+      <lb ed="#P" n="59"/>hereditariam successionem / donationem / 
+      prescriptio<lb ed="#P" n="60" break="no"/>nem / donatione inter viuos / donatione inter 
+      mor<lb ed="#P" n="61" break="no"/>tuos / vsucapione / alluuione: quod in nullius potestate 
+      <lb ed="#P" n="62"/>est id ocupanti conceditur: et multis aliio modis 
+      <lb ed="#P" n="63"/>patet. ff. de acquiren. re. dominio. institu. de rerum diui 
+      <lb ed="#P" n="64"/>sione per totum. Istis paucis prelibatis pono 
+      con<lb ed="#P" n="65" break="no"/>clusiones.
+    </p>
+            <p xml:id="JM7jmZ-d47466-d1e242">
+      ¶ Prima est: conueniens erat quod rerum  
+      <lb ed="#P" n="66"/>dominia fuissent communia in statu innocentie.
+    </p>
+            <p xml:id="JM7jmZ-d47466-d1e247">
+      ¶ 
+      Secumn<lb ed="#P" n="67" break="no"/>da conclusio rerum dominia esse communia in statu 
+      na<lb ed="#P" n="68" break="no"/>ture lapse est preter rationem.
+    </p>
+            <p xml:id="JM7jmZ-d47466-d1e255">
+      ¶ Tertia conclusio i 
+      <lb ed="#P" n="69"/>appropriatio rerum in particulari est iure 
+      huma<lb ed="#P" n="70" break="no"/>no introducta: patet prima conclusio quia in illo 
+      sta<lb ed="#P" n="71" break="no"/>tu omnes vsi fuissent rebus secundum dictamen 
+      re<lb ed="#P" n="72" break="no"/>cte rationis: ergo inane fuisset habere res in 
+      parti<lb ed="#P" n="73" break="no"/>culari locatas. Insuper illud est indicium magne 
+      <lb ed="#P" n="74"/>vnionis et tranquillitatis que in illo statu fuisset 
+      si<lb ed="#P" n="75" break="no"/>cut aristotelis. secundi politicorum tertio explicat de equis 
+      <lb ed="#P" n="76"/>et canibus lacedemoniorum in via repertis. 
+      prete<lb ed="#P" n="77" break="no"/>rea inconuenientia que sequuntur ex opposito 
+      secum<lb ed="#P" n="78" break="no"/>de conclusionis in illo statulocum non habuissent. 
+      <lb ed="#P" n="79"/>Secunda conclusio probatur ab aristotele luculen 
+      <lb ed="#P" n="80"/>ter secundi politicorum quarto primis capitibus contra 
+      <lb ed="#P" n="81"/>vtranque rem publicam socratis ostendit aristoteles 
+      <lb ed="#P" n="82"/>contra socratem et platonem nec vxores debere 
+      <lb ed="#P" n="83"/>esse communes / nec alia particularia bona: terra red 
+      <lb ed="#P" n="84"/>deretur inculta et penitus desolata cum homines mul 
+      <lb ed="#P" n="85"/>tum de rebus propriis curent parum vero de commu 
+      <lb ed="#P" n="86"/>nibus: fortiores fortitudine corporali et mali 
+      pul<lb ed="#P" n="87" break="no"/>sarent debiliores: bella et iurgia pro rerum vsu non 
+      <lb ed="#P" n="88"/>extinguerentur. Tertia conclusio probatur 
+      aucto<lb ed="#P" n="89" break="no"/>ritate beati augustini omelia sexta super iohannem 
+      <lb ed="#P" n="90"/>et <ref xml:id="JM7jmZ-d47466-Rd1e304">
+                  <name xml:id="JM7jmZ-d47466-Nd1e306" ref="#Gratian">gratianus</name> recitat octaua distinctione ca. quo 
+      iu<lb ed="#P" n="91" break="no"/>re deffendis villas ecclesias diuino aut humano</ref>: et 
+      <lb ed="#P" n="92"/>sequitur iure ergo humano dicitur / hec domus mea 
+      <lb ed="#P" n="93"/>hec villa mea: tolle iura imperatoris / quis audet di 
+      <lb ed="#P" n="94"/>cere hec villa mea est. idem patet. xii. questio. i. 
+      di<lb ed="#P" n="95" break="no"/>lectissimus. ex beato clemente. et marcus tullius pri 
+      <lb ed="#P" n="96"/>mo officiorum: sunt autem priuata natura nulla sed 
+      <lb ed="#P" n="97"/>aut veteri occupatione vt qui quondam in vacua 
+      <lb ed="#P" n="98"/>venerunt / aut victoria / aut qui bello potiti sunt / aut 
+      <lb ed="#P" n="99"/>lege / aut pactione / conditione / sorte. Ex quo fit vt 
+      <lb ed="#P" n="100"/>ager arpinas arpinatum ducatur tusculanus 
+      tuscu<lb ed="#P" n="101" break="no"/>lanorum. Contra primam conclusionem argumen 
+      <lb ed="#P" n="102"/>tor: rerum dominia erant communia ante peccatum de le  
+      <lb ed="#P" n="103"/>ge nature: ergo nunc post peccatum separatio est 
+      com<lb ed="#P" n="104" break="no"/>tra legem nature. Et confirmatur: terra 
+      promissio<lb ed="#P" n="105" break="no"/>nis fuit a deo specialiter data populo israelitico: ergo  
+      <lb ed="#P" n="106"/>dominia rerum sunt de iure diuino. Ad primum 
+      argu<lb ed="#P" n="107" break="no"/>mentum dico quod proprie capiendo legem nature in  
+      <lb ed="#P" n="108"/>statu innocentie non omnia bona erant communia: 
+      <lb ed="#P" n="109"/>licet erat conueniens: poterant homines tunc vti 
+      di<lb ed="#P" n="110" break="no"/>uisione dominiorum sicut nunc / licet non tantum expedie 
+      <lb ed="#P" n="111"/>bat illi statui sicut nunc. Secundo nego consequen 
+      <lb ed="#P" n="112"/>tiam concesso antecedente: lex nature nunquam 
+      incli<lb ed="#P" n="113" break="no"/>nat ad opposita rebus similiter stantibus: secundum 
+      <lb ed="#P" n="114"/>legem naturalem debeo restituere depositum 
+      sor<lb ed="#P" n="115" break="no"/>ti et tamen si ipse esset tumulentus / furiosus¬ 
+      <!--187.xml-->
+      <pb ed="#P" n="86-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>vel demens petendo gladium non debeo reddere 
+      <lb ed="#P" n="2"/>imo reddendo deliro: quem admodum pauloante 
+      <lb ed="#P" n="3"/>cibum caro coctaneorum suapte natura constipat: 
+      <lb ed="#P" n="4"/>post vero cibum dissoluit. lex nature in statu innocen 
+      <lb ed="#P" n="5"/>tie non ditabat tunc pro quocunque statu esse exped 
+      <lb ed="#P" n="6"/>ens habere bona in communi sed pro illo statu 
+      bi<lb ed="#P" n="7" break="no"/>bere vinum est naturale sano non autem infirmo. 
+      <lb ed="#P" n="8"/>Ad secundum dico quod est sermo de distinctione per 
+      <lb ed="#P" n="9"/>sonali: licet terra promissionis fuit data a deo toti 
+      <lb ed="#P" n="10"/>populo non tamen hec pars isti persone / vel illa 
+      <lb ed="#P" n="11"/>pars illi persone: satis liquet in libro iosue de partione 
+      <lb ed="#P" n="12"/>terre promissionis.
+    </p>
+            <p xml:id="JM7jmZ-d47466-d1e398">
+      ¶ Contra secundam conclusio 
+      <lb ed="#P" n="13"/>nem argumentor ipsa est contra doctrinam christi in 
+      <lb ed="#P" n="14"/>actibus apostolorum actuum quarto scribitur mul 
+      <lb ed="#P" n="15"/>titudinis autem credentium erat cor vnum et anima 
+      <lb ed="#P" n="16"/>vna: Rec quisque eorum que possidebat aliquid 
+      <lb ed="#P" n="17"/>suum esse dicebat sed erant illis omnia communia 
+      <lb ed="#P" n="18"/>ex illo facto christi venerabiles patres suas religio 
+      <lb ed="#P" n="19"/>nes fundarunt volentes omnia esse communia. basilius 
+      <lb ed="#P" n="20"/>augustinus et reliqui: ergo conclusio et eius proba 
+      <lb ed="#P" n="21"/>tio est inualida. Regatur quod conclusio sit contra do 
+      <lb ed="#P" n="22"/>ctrinam christi et institutiones cenobitarum: et 
+      di<lb ed="#P" n="23" break="no"/>stingo quod expediat habere omnia in communi / vel in 
+      <lb ed="#P" n="24"/>toto orbe / vel in eius magna parte et sic nego: vel in 
+      <lb ed="#P" n="25"/>vna parua communitate que penitus abdicat bona 
+      <lb ed="#P" n="26"/>in particulari contenta solis necessariis: et sic 
+      con<lb ed="#P" n="27" break="no"/>cedo. aliquid expedit vni parue communitati quod 
+      <lb ed="#P" n="28"/>non conducit toti populo: patet de non esu carnium 
+      <lb ed="#P" n="29"/>in carthusiensibus: sed non expedit toti populo. 
+      <lb ed="#P" n="30"/>Potes inopportunam replicam cudere: centum 
+      po<lb ed="#P" n="31" break="no"/>sunt habere omnia in communi vt cluniaci et non 
+      <lb ed="#P" n="32"/>est slatus in centum precise vt patet consideranti vi 
+      <lb ed="#P" n="33"/>tas patrum: igitur totus mundus licite potest. vel 
+      <lb ed="#P" n="34"/>da precisum statum: hoc tibi missum facio. 
+      </p>
+            <p xml:id="JM7jmZ-d47466-d1e448">
+               <lb ed="#P" n="35"/>¶ Contra tertiam conclusionem argumentor 
+      pro<lb ed="#P" n="36" break="no"/>bando quod dominia rerum separata sunt de iure nature. 
+      <lb ed="#P" n="37"/>institu. de rerum diuisione. § fere. fere igitur bestio 
+      <lb ed="#P" n="38"/>dicit iustinianus) volucres / pisces / et omnia anima 
+      <lb ed="#P" n="39"/>lia que in mari / terra / celo nascuntur: simul atque si albi 
+      <lb ed="#P" n="40"/>aliquo capta fuerint iure gentium statim illius esse 
+      <lb ed="#P" n="41"/>incipiunt. Quod enim ante nullius est illud natural 
+      <lb ed="#P" n="42"/>ratione occupanti conceditur: non alio iure fingusius 
+      <lb ed="#P" n="43"/>filius sarchradi sceptrum in septentrionali parte britam 
+      <lb ed="#P" n="44"/>nie accepit. Hoc idem patet de aliis contractibus 
+      <lb ed="#P" n="45"/>qui de iure gentium sunt. in institu. de rerum diuisi 
+      <lb ed="#P" n="46"/>one. § per traditionem. iure naturali res nobis acd 
+      <lb ed="#P" n="47"/>rantur: nichil enim tam conueniens est naturali equi 
+      <lb ed="#P" n="48"/>tati quam voluntatem domini volentis rem suam in alium tran 
+      <lb ed="#P" n="49"/>ferre ratam haberi. Respondeo isti contractus et 
+      <lb ed="#P" n="50"/>multi iusti tituli quo ad genus hoc est in communi 
+      <lb ed="#P" n="51"/>vel in contractu sunt de iure naturali / sed cum tal 
+      <lb ed="#P" n="52"/>specificatione quali communiter res acquiruntur et 
+      <lb ed="#P" n="53"/>proteguntur h oc est de iure humano et constitutio 
+      <lb ed="#P" n="54"/>nes principum robur dant. non est de iure nature quod 
+      <lb ed="#P" n="55"/>fera bestia cum manus tuas euaserit est occupantis 
+      <lb ed="#P" n="56"/>et non domestica nisi per constitutionem imperato 
+      <lb ed="#P" n="57"/>riam: idem de prescriptione vsucapione / de deceptio 
+      <lb ed="#P" n="58"/>ne vltra dimidium iusti preci: et breuiter in 
+      omni<lb ed="#P" n="59" break="no"/>bus istis contractibus inuoluitur communiter ali¬ 
+      <!--187.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="60"/>quid quod est peregrinum a iure naturali quamquam illu 
+      <lb ed="#P" n="61"/>non repugnet. rerum prima diuisio videtur fuisse 
+      <lb ed="#P" n="62"/>ab hominibus introducta vel per sortes a filiis noc 
+      <lb ed="#P" n="63"/>vel a patre diuidente: sic geneseos decimum capunt 
+      <lb ed="#P" n="64"/>sonare videtur: et beatus hieronymus in libro de 
+      <lb ed="#P" n="65"/>pebraicis questionibus: sem asiam illa via iure 
+      ac<lb ed="#P" n="66" break="no"/>cepit: cham affricam: iaphet europam: licet in asia 
+      <lb ed="#P" n="67"/>aliquid obtinuerit ab imao et tauco montibus vsque 
+      <lb ed="#P" n="68"/>ad fluuium famatissimum tanaym secantem asiam 
+      <lb ed="#P" n="69"/>ab europa: idem videtur fuisse factum de terra quam 
+      <lb ed="#P" n="70"/>acceperunt abraham et loth. gene. xiii. fortasse adhuc 
+      <lb ed="#P" n="71"/>terra non erat sufficienter inhabitata. Interdum 
+      <lb ed="#P" n="72"/>iniuste ita inhiat humanum genus libidini dominandi 
+      <lb ed="#P" n="73"/>corpus et animam pro imperiis augendis exponi 
+      <lb ed="#P" n="74"/>vt de venatore nembroth et nembrothide nino 
+      babi<lb ed="#P" n="75" break="no"/>loniorum et posteris clarum est videre non modo pro 
+      <lb ed="#P" n="76"/>habendo sibi dominio sed aliis patet de sopiro qui 
+      <lb ed="#P" n="77"/>sibi nasum labia et aures prescidit vt babiloniam 
+      <lb ed="#P" n="78"/>dario lucrifaceret: idem de sinone (si maroni 
+      credi<lb ed="#P" n="79" break="no"/>tur pro capienda troia agamenoni et grecis. sic 
+      a<lb ed="#P" n="80" break="no"/>theniensium crodrus rex se morti exposuit: interdum 
+      <lb ed="#P" n="81"/>illud heroice fit: aliqui reges honestam habuerunt ori 
+      <lb ed="#P" n="82"/>ginem regnandi vt saul et dauid primo regum apud 
+      <lb ed="#P" n="83"/>gentes in lumine naturali ambulantes aliquis 
+      ma<lb ed="#P" n="84" break="no"/>gnus habens familiam in vno regno et non regnum 
+      <lb ed="#P" n="85"/>broficiscitur in aliud inhabitatum cum suis et ibi dya 
+      <lb ed="#P" n="86"/>dema capit: cum in nullius potestate est id 
+      occupan<lb ed="#P" n="87" break="no"/>ti conceditur sicut fecit fingusius de hibernia quae tunc 
+      <lb ed="#P" n="88"/>scotia vocabatur proficiscens in britanniam sedem 
+      <lb ed="#P" n="89"/>accepit in septentrionali parte eiusdem occidentem 
+      <lb ed="#P" n="90"/>versus tercentis et tringinta annis ante incarnationem 
+      <lb ed="#P" n="91"/>saluatori christi: alii reges communiter sic promoti sunt quand 
+      <lb ed="#P" n="92"/>equales occuparunt vnum regnum vel patriam 
+      pri<lb ed="#P" n="93" break="no"/>mo conuenerunt inter se vt aliquis inter eos eorum 
+      iu<lb ed="#P" n="94" break="no"/>dicio optimus ad regendum assumeretur quinno 
+      <lb ed="#P" n="95"/>centes in quiete protegeret et peccatores secundum 
+      <lb ed="#P" n="96"/>grauitatem delictorum mulctaret ei a tota communitate 
+      <lb ed="#P" n="97"/>dati sunt agri amplissimi vel tributa vt 
+      vnumquenli<lb ed="#P" n="98" break="no"/>pet et multos in potentia superaret: alioquin 
+      sper<lb ed="#P" n="99" break="no"/>neretur et non posset punire malefactores: ei magna 
+      <lb ed="#P" n="100"/>militum cohors data est in custodiam ne ab aliis 
+      po<lb ed="#P" n="101" break="no"/>tentibus opprimeretur ne ipso perturbato vel extim 
+      <lb ed="#P" n="102"/>cto mutaret res publica regem. quo fit rex est propter 
+      <lb ed="#P" n="103"/>bonum patrie et patria non fit propter regem. 
+      Se<lb ed="#P" n="104" break="no"/>cundo patet quod rex debet se seruare immunem a 
+      peri<lb ed="#P" n="105" break="no"/>culis tenendo grauitatem regiam ne contemnatur a 
+      po<lb ed="#P" n="106" break="no"/>tentibus pro bono publico policie. Tertio sequitur 
+      <lb ed="#P" n="107"/>quod debet se exponere periculo vite quando casus ho 
+      <lb ed="#P" n="108"/>nestus vrget pro deffensione patrie et bona pace eius 
+      <lb ed="#P" n="109"/>dem et non se temere exponere periculo nesuus ca 
+      <lb ed="#P" n="110"/>sus sit toti politie calamitas. Quarto sequitur quanm 
+      <lb ed="#P" n="111"/>to maius est periculum de herede futuro tantosollicitius 
+      <lb ed="#P" n="112"/>debet se preseruare. ceterum licet heres regis non 
+      <lb ed="#P" n="113"/>sit prudentissimus et optimus tamen est optimus ad 
+      <lb ed="#P" n="114"/>regendum. prestat habere regem per successionem 
+      <lb ed="#P" n="115"/>quam per electionem cum in cuiuslibet regis electio  
+      <lb ed="#P" n="116"/>ne essent trice sine fine et concurreretur ad arma 
+      <lb ed="#P" n="117"/>in ruinam totius politie: potentes haberent factones inter se 
+      <lb ed="#P" n="118"/>et cum hoc esset exaltatio noue familie in maiestatem regi 
+      <!--188.xml-->
+      <pb ed="#P" n="87-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>am inopinate talis rex contemneretur: propterea 
+      pro<lb ed="#P" n="2" break="no"/>uisum est quod tali familie et heredibus prorimis 
+      de<lb ed="#P" n="3" break="no"/>tur regnum: non est sic de maximo pontifice et 
+      infe<lb ed="#P" n="4" break="no"/>rioribus cum supponantur ecclesiastici viri esse 
+      spiri<lb ed="#P" n="5" break="no"/>tuales et raro vt intuemur pro huiusmodi electionibus 
+      <lb ed="#P" n="6"/>ad arma cruenta concurritur: multo melius est 
+      re<lb ed="#P" n="7" break="no"/>gnum regi per vnum quam per communitatem raro 
+      <lb ed="#P" n="8"/>communitates diu durarunt: quia multi certant de paritate 
+      <lb ed="#P" n="9"/>felicia tempora bonorum auxerunt romanorum im 
+      <lb ed="#P" n="10"/>perium sed diu sub senatu non stetit sed bella intem 
+      <lb ed="#P" n="11"/>siua sequuta sunt vt inter domum marii et sille in stran 
+      <lb ed="#P" n="12"/>gem innumerabilem ciuium nec cessatum est quo 
+      <lb ed="#P" n="13"/>ad cesar ad monarchiam totum reduxit: nulla com 
+      <lb ed="#P" n="14"/>munitas nunc est alicuius momenti nisi sola 
+      vene<lb ed="#P" n="15" break="no"/>ta: attenuate sunt ferme ad nichilum omnes alie con 
+      <lb ed="#P" n="16"/>munitates in hac tempestate in italia: et nunc sicut 
+      <lb ed="#P" n="17"/>intelligimus in materiis arduis dissensiente senatu 
+      <lb ed="#P" n="18"/>et patriciis opus est reducere onus totius materie 
+      <lb ed="#P" n="19"/>in paucorum deliberationibus. quocirca prestat ha 
+      <lb ed="#P" n="20"/>bere vnum supremum monarcham in regno a cuius 
+      <lb ed="#P" n="21"/>nutu omnia diriguntur dummodo is vtatur consilio 
+      <lb ed="#P" n="22"/>sapientum et postea eis conuenientibus vel 
+      dissen<lb ed="#P" n="23" break="no"/>tientibus concludat a parte que sibi placet. Ex istis 
+      <lb ed="#P" n="24"/>patet quod regnum prestat timocratie et aristocratie et 
+      <lb ed="#P" n="25"/>hoc concedit aristoteles octauo ethico. et homer 
+      <lb ed="#P" n="26"/>secundo iliados. Secundo patet quod reges habentes vix 
+      <lb ed="#P" n="27"/>terras statui regio sufficientes non liberaliter ( imo 
+      <lb ed="#P" n="28"/>prodige / agunt dantes terras has vel earum partem 
+      <lb ed="#P" n="29"/>suis famulis vel familiaribus in hereditatem nisi a 
+      <lb ed="#P" n="30"/>liud speciale occurrat.
+    </p>
+            <p xml:id="JM7jmZ-d47466-d1e708">
+      ¶ Sed hic mouebo vnam du 
+      <lb ed="#P" n="31"/>bitationem cum est sermo de dominio rerum et policia 
+      <lb ed="#P" n="32"/>an sit bona policia in regno in quo agricole et 
+      rura<lb ed="#P" n="33" break="no"/>les non habent territoria perpetuo soluendo 
+      pen<lb ed="#P" n="34" break="no"/>siones debitas veris dominis quotannis: et mouetur du 
+      <lb ed="#P" n="35"/>bitatio propter nostrates: in scotia per totum 
+      colo<lb ed="#P" n="36" break="no"/>ni variantur ad nutum dominorum soli: quod dico de vno 
+      <lb ed="#P" n="37"/>agricola idem intelligas per totum regnum: sortes 
+      <lb ed="#P" n="38"/>agricola habet terram locaticiam pro tempore 
+      quat<lb ed="#P" n="39" break="no"/>tuor vel quinque annorum et non amplius in fine ter 
+      <lb ed="#P" n="40"/>mini dominus potest illum eiicere sicut plerunque fit. Re 
+      <lb ed="#P" n="41"/>spondeo ad dubitationem affirmatiue est mala poli 
+      <lb ed="#P" n="42"/>cia: probatur: illa policia que est causa multorum 
+      de<lb ed="#P" n="43" break="no"/>trimentorum reipublice: et nullum bonorum est 
+      ma<lb ed="#P" n="44" break="no"/>la: sic est de policia data: igitur. consequentia clares 
+      <lb ed="#P" n="45"/>cum maiore: probatio minoris: sequuntur hec incon 
+      <lb ed="#P" n="46"/>uenientia quod terra inutiliter colitur / quod domus sunt ca 
+      <lb ed="#P" n="47"/>duce / paupertas / iniusticia / et innumerabilia mala:¬ 
+      <lb ed="#P" n="48"/>quod terra infructuose colitur: probatur: nescit qua ho 
+      <lb ed="#P" n="49"/>ra terra spoliabitur propterea non audet operam 
+      na<lb ed="#P" n="50" break="no"/>uare improbam et impensas in paucis annis timens 
+      <lb ed="#P" n="51"/>ne alius coligat mel ab illo mellificatum: ex hoc 
+      ti<lb ed="#P" n="52" break="no"/>met struere domus statui ruralium et patrie conue 
+      <lb ed="#P" n="53"/>nientes: cum lapidum cementi et materie 
+      opposi<lb ed="#P" n="54" break="no"/>to modo fit ad campum sennaar: per hoc 
+      appare<lb ed="#P" n="55" break="no"/>bit diues vel a domino vel eius consanguineis vel 
+      ser<lb ed="#P" n="56" break="no"/>uis eiicietur domini in fine termini capiunt nouam 
+      pe<lb ed="#P" n="57" break="no"/>cuniam vltra firmam communem breuiter isti nichil 
+      au<lb ed="#P" n="58" break="no"/>dent negare domino soli suis consanguineis vel famu 
+      <lb ed="#P" n="59"/>lis. iniustitia: patet cum vnus capit terram quam ali¬ 
+      <!--188.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="60"/>habuit cedes non pauce sequuntur cum isti quamquam 
+      ad<lb ed="#P" n="61" break="no"/>uersitatibus premantur post nobiles saltem 
+      aptis<lb ed="#P" n="62" break="no"/>simi sunt ad bellum et inhabitantes vrbes 
+      fortitu<lb ed="#P" n="63" break="no"/>dine bellica audenter nimirum assueti sunt dura 
+      per<lb ed="#P" n="64" break="no"/>ferre ab ineunte etate et tenuiter educantur 
+      secun<lb ed="#P" n="65" break="no"/>dum illud maronis secundo georgi. Et patiens operum 
+      <lb ed="#P" n="66"/>paruoque assueta iuuentus. Ex altera parte magna 
+      <lb ed="#P" n="67"/>iniusticia cum dominus aliud ei precipit siue phas siue ne 
+      <lb ed="#P" n="68"/>phas illud complere satagit et se omni discrimini 
+      ex<lb ed="#P" n="69" break="no"/>ponit ne ipse et familia a terra eiciatur. propterea 
+      <lb ed="#P" n="70"/>oeni non diligunt eos nec libenter terras locant eis 
+      <lb ed="#P" n="71"/>nisi animosi extreme fuerint si terra perpetuo 
+      dare<lb ed="#P" n="72" break="no"/>tur sicut in aliis regnis terra plus valeret in duplo quam 
+      <lb ed="#P" n="73"/>valeat domus essent pulchre et robuste vt videre est 
+      <lb ed="#P" n="74"/>in vrbibus vbi domus sunt multo meliores quam in par 
+      <lb ed="#P" n="75"/>tibus istis. oppositomodo est de domibus ruralibus 
+      <lb ed="#P" n="76"/>more casarum constructis: et tamen constat 
+      agricultu<lb ed="#P" n="77" break="no"/>ram cuiuslibet artis et regni esse basim. vnde 
+      mar<lb ed="#P" n="78" break="no"/>cus tullius in de senectute. et primo officiorum de ea 
+      <lb ed="#P" n="79"/>loquens ait. omnium rerum ex quibus aliquid oritur 
+      <lb ed="#P" n="80"/>nichil est agricultura melius / nichil vberius / nichil dul 
+      <lb ed="#P" n="81"/>cius / nichil libero homine dignius / et eiusdem 
+      tem<lb ed="#P" n="82" break="no"/>pestatis. poeta. O fortunatos nimium sua si bona 
+      <lb ed="#P" n="83"/>norunt agricolas quibus ipsa procul discordibus ar 
+      <lb ed="#P" n="84"/>mis: fundit humo facilem victum iustissima tellus. at 
+      <lb ed="#P" n="85"/>secura quies et nescia fallere vita. hoc ante hos de 
+      <lb ed="#P" n="86"/>ducit scite philosophorum princeps. sexti politico. 
+      <lb ed="#P" n="87"/>quarto. et primi economicorum secundo. et secundo ge 
+      <lb ed="#P" n="88"/>brgicorum. sacra deum sanctique patres extrema per 
+      <lb ed="#P" n="89"/>llos: iusticia excedens terris vestigia fecit Et 
+      ad<lb ed="#P" n="90" break="no"/>huc ponam aliquas conclusiones. prima est. 
+      Nun<lb ed="#P" n="91" break="no"/>quam terra perpetuo dabitur sub annuo censu nisi 
+      om<lb ed="#P" n="92" break="no"/>nes domini conueniant vel maior pars. Secunda 
+      con<lb ed="#P" n="93" break="no"/>clusio iudicio meo omnes tenentur consentire de 
+      <lb ed="#P" n="94"/>danda terra agricolis pro annuo censu. prior conclu 
+      <lb ed="#P" n="95"/>sio probatur. minus curabunt suos dominos qui terras 
+      per<lb ed="#P" n="96" break="no"/>petuas habent quam illi habentes terras 
+      temporane<lb ed="#P" n="97" break="no"/>as nec cum dominis ita facile ibunt ad bellum sicut alii 
+      <lb ed="#P" n="98"/>ergo pauci domini non consentient nisi omnes 
+      volue<lb ed="#P" n="99" break="no"/>rint vbi hoc vbilibet in regno contingit omnia 
+      es<lb ed="#P" n="100" break="no"/>sent consona. Secunda coclusio probatur: omnes 
+      <lb ed="#P" n="101"/>de regno tenentur procurare vtilitatem rei publice 
+      <lb ed="#P" n="102"/>regni et maxime rex et domini qui curam debent habere 
+      <lb ed="#P" n="103"/>Secundo arguitur ad idem qui possunt succurrere et 
+      <lb ed="#P" n="104"/>tenentur inopie subditorum sine eorum grauamine 
+      <lb ed="#P" n="105"/>non sucurrentes non bene agunt: rex et domini huius re 
+      <lb ed="#P" n="106"/>gni sunt huiusmodi igitur. Probatio minoris sicut 
+      <lb ed="#P" n="107"/>plebei et inferiores honorem et census debitos 
+      <lb ed="#P" n="108"/>non reddentes indiscrete agunt: ita maiores curam 
+      <lb ed="#P" n="109"/>eorum habentes tenentur iusticiam et bonam 
+      poli<lb ed="#P" n="110" break="no"/>ciam inter illos seruare et potissimum vbi possunt 
+      <lb ed="#P" n="111"/>sine eorum iactura: sed hoc possunt vt in 
+      solutio<lb ed="#P" n="112" break="no"/>nibus argumentorum dicetur: igitur 
+      <lb ed="#P" n="113"/>Alius error est inter agricolas ex parte eorum pro 
+      <lb ed="#P" n="114"/>ueniens erubescunt suos liberos arti mechanice tra 
+      <lb ed="#P" n="115"/>dere / calcificibus sertoribus et huiusmodi ipoteca 
+      <lb ed="#P" n="116"/>abiectissima irrisorie tradunt: sed eos curiis 
+      princi<lb ed="#P" n="117" break="no"/>pum vel aliter indisciplinatos relinquunt inertes vt 
+      <lb ed="#P" n="118"/>sue vite cum adoleuerint vix prouidere sciunt hic ex 
+      <!--189.xml-->
+      <pb ed="#P" n="87-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>ror non solos colonos tangit sed multos alios in 
+      re<lb ed="#P" n="2" break="no"/>gno. Fortasse dicis artes mechanice sunt viles et non 
+      <lb ed="#P" n="3"/>libero homini digne. vt cicero dicit primo officorum 
+      <lb ed="#P" n="4"/>inquiens. Opificesque omnes in sordida arte 
+      versan<lb ed="#P" n="5" break="no"/>tur nec vero quicquam ingenuum potest habere officina 
+      <lb ed="#P" n="6"/>minimeque artes probande qui ministre sunt 
+      volupta<lb ed="#P" n="7" break="no"/>tum. Cetarii lanii coci sartores piscatores. Multifa 
+      <lb ed="#P" n="8"/>riam respondeo: tum primo romani habebant 
+      ser<lb ed="#P" n="9" break="no"/>uos sicut pecora: tales non reperiuntur in britannia 
+      <lb ed="#P" n="10"/>vel in gallia et sic serui poterant ista exercere. 
+      Se<lb ed="#P" n="11" break="no"/>cundo ipse loquitur de magnis et diuitibus. 
+      loqui<lb ed="#P" n="12" break="no"/>tur ad ciceronem filium et similes. Insuper si quis 
+      <lb ed="#P" n="13"/>vult habere artem reperiet aliquas honestas sed ne 
+      <lb ed="#P" n="14"/>cessarium est toti corpori mistico habere varias par 
+      <lb ed="#P" n="15"/>tes sicut alique partes corporis humani habent ho 
+      <lb ed="#P" n="16"/>nestius officium quam alie tamen sine officio partium vi 
+      <lb ed="#P" n="17"/>lium corpus existere nequit: sic est in proposito nul 
+      <lb ed="#P" n="18"/>la ars mechanica est inhonesta popularibus vel sal 
+      <lb ed="#P" n="19"/>tem plebeis.
+    </p>
+            <p xml:id="JM7jmZ-d47466-d1e953">
+      ¶ Contra secundam conclusionem 
+      ar<lb ed="#P" n="20" break="no"/>gumentor: hoc dato quod darentur terre in perpetuum 
+      <lb ed="#P" n="21"/>plebei dominis non perent nec cum suo domino vero equita 
+      <lb ed="#P" n="22"/>rent in eius deffensionem contra inimicum eum iniuste 
+      <lb ed="#P" n="23"/>vexantem nec gratis irent ad bellum contra hostes 
+      <lb ed="#P" n="24"/>regni cuius oppositum nunc faciunt hec sunt 
+      incomn<lb ed="#P" n="25" break="no"/>uenientia et illud dannum esset maius quam bonum 
+      se<lb ed="#P" n="26" break="no"/>quens ex perpetuitate census: hic non tantum respi 
+      <lb ed="#P" n="27"/>ciendum est ad bonum priuatum ex vna parte sed ad 
+      <lb ed="#P" n="28"/>malum ex parte opposita. rursus capio sortem dominum 
+      <lb ed="#P" n="29"/>arguitur sic. a terra est huius domini sortis: ergo potes 
+      <lb ed="#P" n="30"/>locare eius terram temporanee pro paruo vel 
+      ma<lb ed="#P" n="31" break="no"/>gno tempore sicut ei libet et tenere totam terram in 
+      <lb ed="#P" n="32"/>manibus propriis et habere seruos qui colunt suas 
+      <lb ed="#P" n="33"/>terras cum propriis bobus eis soluendo pro 
+      labo<lb ed="#P" n="34" break="no"/>ribus: ergo non tenetur locare aliis perpetuo sicut 
+      <lb ed="#P" n="35"/>de terris in vrbe contingit. Preterea domini non 
+      tan<lb ed="#P" n="36" break="no"/>tum haberent de terris sicut nunc habent et sic per 
+      <lb ed="#P" n="37"/>petuitas census esset in dannum dominorum. Ad primum 
+      <lb ed="#P" n="38"/>nego quod plebei dominis non parerent constituerentur 
+      <lb ed="#P" n="39"/>eis leges sicut est in francia anglia et aliis regnis. 
+      <lb ed="#P" n="40"/>nunquid videmus in anglia nobis contigua plebei 
+      <lb ed="#P" n="41"/>et agricole vnanimiter surgunt in deffensionem sud 
+      <lb ed="#P" n="42"/>rum dominorum amor plus facit ad hoc quam rigor et pa 
+      <lb ed="#P" n="43"/>riforma propriis sumptibus irent ad bellum sicut 
+      <lb ed="#P" n="44"/>nunc vadunt vt est in aragonia et catilonia potest 
+      <lb ed="#P" n="45"/>rex vti eisdem penis circa eos non euntes ad 
+      bel<lb ed="#P" n="46" break="no"/>lum sicut nunc vtitur. Ad secundum argumentum 
+      <lb ed="#P" n="47"/>nego consequentiam de institutis de his qui sui vel alient 
+      <lb ed="#P" n="48"/>iuris sicut. §. in ptate. Expedit enim reipublice ne 
+      <lb ed="#P" n="49"/>sua re quis male vtatur. interdum rationabiliter pro 
+      <lb ed="#P" n="50"/>hibetur alicui ferre arma propria: prohibetur 
+      car<lb ed="#P" n="51" break="no"/>thusiensibus parisi emere vlterius agros vt aiun 
+      <lb ed="#P" n="52"/>sic est vetitum incolis loudoniarum emere terras do 
+      <lb ed="#P" n="53"/>minorum in campis et relinquere terras ecclesie sine 
+      <lb ed="#P" n="54"/>scitu regis. in anglia potest res publica cogere 
+      ali<lb ed="#P" n="55" break="no"/>quem vendere sua in casu statuendo ei precium et ei 
+      <lb ed="#P" n="56"/>prohibendone proprium vendat. si dominus vellet 
+      te<lb ed="#P" n="57" break="no"/>nere aliquas terras pro seipso quae colerentur a suis 
+      <lb ed="#P" n="58"/>bobus dummodo reliquas locaret in perpetuo 
+      cem<lb ed="#P" n="59" break="no"/>su nichil mali est. Ad vltimum vbi dicitur domini non taui 
+      <!--189.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="60"/>tum haberent de terris sicut nunc habent: hoc ne 
+      <lb ed="#P" n="61"/>go imo multo amplius videat titius dominus a pagum 
+      <lb ed="#P" n="62"/>quem habet qui dat ei annue centum scuta et in fine 
+      <lb ed="#P" n="63"/>septem annorum capit centum scuta iam dominus non 
+      ha<lb ed="#P" n="64" break="no"/>bet quotannis centum et viginti scuta pro firma et 
+      <lb ed="#P" n="65"/>illa pecunia leuata reperiet platonem plebeum qui 
+      <lb ed="#P" n="66"/>ti dabit quotannis pro eodem pago centum quadra 
+      <lb ed="#P" n="67"/>ginta scuta in annuo censu vel in emphiteosi anne 
+      <lb ed="#P" n="68"/>tendo etiam conditiones aliquas vasalli qui feudum te 
+      <lb ed="#P" n="69"/>net vt teneat fidelitatem domino in bello iusto vel 
+      qua<lb ed="#P" n="70" break="no"/>uis alia via et hoc potest agricola quamquam non multum 
+      <lb ed="#P" n="71"/>lucratur in primis annis vt amphiteota solet tam 
+      <lb ed="#P" n="72"/>post terram impinguatam lucrum non modicum 
+      <lb ed="#P" n="73"/>habebit: nichil tunc relinquetur incultum: non est qust 
+      <lb ed="#P" n="74"/>tio quomodo prouidebitur filiis dominorum vt pater 
+      <lb ed="#P" n="75"/>in aliis regionibus: si istud fieret opinione mea 
+      re<lb ed="#P" n="76" break="no"/>gnum in quadruplo plus valeret tunc fructus 
+      do<lb ed="#P" n="77" break="no"/>mus et similia haberentur tanta vbertate sicut in 
+      re<lb ed="#P" n="78" break="no"/>liquis regnis secundum proportionem patrie fatemur 
+      <lb ed="#P" n="79"/>quanuis hoc vtile: quinimo vtilissimum foret non esse 
+      <lb ed="#P" n="80"/>temptandum imperiose a principe sine consensu 
+      eo<lb ed="#P" n="81" break="no"/>rum ad quos spectat propter simultates et 
+      scisma<lb ed="#P" n="82" break="no"/>ta que interuenire possunt. vtendum est etiam bona 
+      <lb ed="#P" n="83"/>prudentia ne terra totius regni simul offeratur plus 
+      <lb ed="#P" n="84"/>offerenti ne multitudo colonorum statim a sede ex 
+      <lb ed="#P" n="85"/>pellatur in disturbium reipublice et eorum iacturam 
+      <lb ed="#P" n="86"/>prodesset eis dare dummodo rationabiliter 
+      offera<lb ed="#P" n="87" break="no"/>rent egre istud amittetur in parliamento dominorum vni 
+      <lb ed="#P" n="88"/>uersaliter congregatorum nisi contionatores 
+      ver<lb ed="#P" n="89" break="no"/>bi diuini ad partem ante congregationem bonesta 
+      <lb ed="#P" n="90"/>tem et vtilitatem dominorum et subditorum ostenderent 
+      <lb ed="#P" n="91"/>videntes in quo latet impedimentum vt suadere pos 
+      <lb ed="#P" n="92"/>sunt et persuadere oppositum. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

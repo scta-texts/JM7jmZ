@@ -1,0 +1,826 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 3</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 3</title>
+               <date when="2021-07-06">July 06, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-M4Saaa">Paris 1509</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-06" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="51-v"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="JM7jmZ-d28633"><!-- l1d11q3 -->
+            <head xml:id="JM7jmZ-d28633-Hd1e108">Quaestio 3</head>
+            <head xml:id="JM7jmZ-d28633-Hd1e111" type="question-title">
+      An solus panis triticeus sit conveniens
+      materia huius sacramenti et vinum de vite?
+    </head>
+            <p xml:id="JM7jmZ-d28633-d1e114">
+               <lb ed="#P" n="76"/>¶ Distinctionis vndecime questio tertia. 
+      <lb ed="#P" n="77"/>CIrca hanc distinctionem queritur tertio an 
+      <lb ed="#P" n="78"/>solus panis triticeus sit conueniens 
+      mate<lb ed="#P" n="79" break="no"/>ria huius sacramenti et vinum de vite
+    </p>
+            <p xml:id="JM7jmZ-d28633-d1e125">
+      ter<lb ed="#P" n="80" break="no"/>nini sunt clari. Respondeo affirmatiue et sola cau 
+      <lb ed="#P" n="81"/>sa est institutio diuina. illud patet de consecratione 
+      <lb ed="#P" n="82"/>distin. quinta. capostolis non oportet sacramento et plu 
+      <lb ed="#P" n="83"/>tibus aliis in illo pane creditur christus consecras 
+      <lb ed="#P" n="84"/>se et in hoc vino et quia in iudea vina sunt fortia et 
+      <lb ed="#P" n="85"/>societas cum christo erat sobria verisimile est quod vl 
+      <lb ed="#P" n="86"/>num erat aqua dilutum. Etiam sanguis et aqua 
+      e<lb ed="#P" n="87" break="no"/>gressi sunt latus christi: propterea aqua debet 
+      misce<lb ed="#P" n="88" break="no"/>ri vino non de necessitate sed de congruentia non suf 
+      <lb ed="#P" n="89"/>ficit aqua cadens de aere in pluuia in vite nec 
+      posi<lb ed="#P" n="90" break="no"/>ta in dolio sed presbiter debet imponere hoc 
+      omit<lb ed="#P" n="91" break="no"/>tens peccat tamen consecrat / an farina pasta et illa 
+      <lb ed="#P" n="92"/>que sunt eiusdem speciei essentialis cum pane suffi 
+      <lb ed="#P" n="93"/>ciant non lustratum est communiter tenetur quod non teneat 
+      <lb ed="#P" n="94"/>bresbiter consuetudinem sunt congruentie de 
+      pa<lb ed="#P" n="95" break="no"/>ne triticeo que est optimus panis et vinum inter om 
+      <lb ed="#P" n="96"/>nes potus est excellentissimus et sic figura optimi 
+      <lb ed="#P" n="97"/>cibi spiritualis vinum optime letificat dicit glosa 
+      <lb ed="#P" n="98"/>brdinaria prime corinthiorum. xi. maior pars panis 
+      <lb ed="#P" n="99"/>debet esse triticea: multa hic dicuntur ad que 
+      te<lb ed="#P" n="100" break="no"/>nues rationes habemus securum est ergo presbite 
+      <lb ed="#P" n="101"/>ro consecrare in hoc quod certum est. Sed petitur 
+      <lb ed="#P" n="102"/>quomodo deducitur ex euangelistis quod requiritur 
+      <lb ed="#P" n="103"/>panis triticeus. dico licet non habeatur ex hiis 
+      ex<lb ed="#P" n="104" break="no"/>traditione ecclesie hoc habemus si deus instituisset 
+      <lb ed="#P" n="105"/>in alio pane apostoli vel eorum successores 
+      inter<lb ed="#P" n="106" break="no"/>dum alio pane vsi fuissent in consecrando vix 
+      suffi<lb ed="#P" n="107" break="no"/>cit hic dicere nihil sufficit pro corpore christi nisi sit 
+      <lb ed="#P" n="108"/>ciusdem speciei cum pane triticeo quia omne vinum 
+      suf<lb ed="#P" n="109" break="no"/>ficit et forte album etrubeum specie essentiali diffe 
+      <lb ed="#P" n="110"/>runt cum vnum soluit aliud obstipat de vino acetoso hoc 
+      <lb ed="#P" n="111"/>est acri dummodo est eiusdem speciei specialissime cum 
+      <lb ed="#P" n="112"/>vino non dubium est quin sufficit si sit purum acetum 
+      <lb ed="#P" n="113"/>am est alterius speciei. viii. methace nec potesticon 
+      <lb ed="#P" n="114"/>uerti in vinum requiritur vinum esse expressum de 
+      <lb ed="#P" n="115"/>botro non potest efficax argumentum deduci 
+      con<lb ed="#P" n="116" break="no"/>tra dicentem vinum album et rubeum specie acciden¬ 
+      <!--118.xml-->
+      <pb ed="#P" n="52-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>tali solum differre illud est rationabilius triticum 
+      se<lb ed="#P" n="2" break="no"/>minatum in terra leodiensium vt fertur mutatur in 
+      si<lb ed="#P" n="3" break="no"/>liginem: ergo signum est quod frumentum et siligo non dis 
+      <lb ed="#P" n="4"/>ferunt specie essentiali et si sic siligo sufficit / simile 
+      <lb ed="#P" n="5"/>de pisis contingit vidimus glegorni pisa optima semi 
+      <lb ed="#P" n="6"/>nata que muscida produxerunt et contra non videtur 
+      <lb ed="#P" n="7"/>ita facilis lapsus de specie in speciem essentialem si 
+      sili<lb ed="#P" n="8" break="no"/>go sit alterius speciei essentialis a tritico non 
+      suffi<lb ed="#P" n="9" break="no"/>cit.
+    </p>
+            <p xml:id="JM7jmZ-d28633-d1e234">
+      ¶ Contra hanc conclusionem arguitur sic / 
+      pa<lb ed="#P" n="10" break="no"/>nis mixtus ex tritico et siligine sufficit et ille no est 
+      <lb ed="#P" n="11"/>triticeus ergo non solus triticeus requiritur. consequen 
+      <lb ed="#P" n="12"/>tia tenet virtualiter a parte copulatiue ad totam 
+      co<lb ed="#P" n="13" break="no"/>pulatiuam negatiuam solus panis triticeus est 
+      conue<lb ed="#P" n="14" break="no"/>niens materia huius sacramenti equiualet saltem in 
+      <lb ed="#P" n="15"/>consequendo copulatiue. Forte dicis si minor pars 
+      <lb ed="#P" n="16"/>fuerit triticea iam ibi non consecratur. Contra 
+      po<lb ed="#P" n="17" break="no"/>no quod tota hostia sit pedalitatis et vna quarta 
+      triti<lb ed="#P" n="18" break="no"/>cea tres quarte siliginose iam in vna parte triticea 
+      <lb ed="#P" n="19"/>conficietur corpus domini et illa est minor pars totius ho 
+      <lb ed="#P" n="20"/>stie igitur. Preterea vel sub qualibet parte hostie 
+      <lb ed="#P" n="21"/>est corpus christi vel sub aliqua et aliqua non vel sub 
+      <lb ed="#P" n="22"/>tota solum cathece non primum quia tunc capiens hostiam 
+      <lb ed="#P" n="23"/>in infinitis partibus caperet / non secundum da partem sub 
+      <lb ed="#P" n="24"/>qua est et partem sub qua non est / si dicas est sub par 
+      <lb ed="#P" n="25"/>te sensibili et non sub parte insensibili. Contra sit 
+      <lb ed="#P" n="26"/>pars sensibilis digitalis vel est sub qualibet parte 
+      <lb ed="#P" n="27"/>eius digiti vel sub illa tota et non sub aliqua parte 
+      <lb ed="#P" n="28"/>eius. Si primum oportet redire in primum menbrum / non 
+      <lb ed="#P" n="29"/>secundum postquam est penetratiue in loco secundum multos / non est 
+      <lb ed="#P" n="30"/>imaginabile quod sit sub tota hostia vel aliqua parte et 
+      <lb ed="#P" n="31"/>non sub qualibet parte illius. secundum membrum da 
+      <lb ed="#P" n="32"/>re non potes quando presbiter hostiam tripertitur corpus 
+      <lb ed="#P" n="33"/>christi est sub qualibet illarum partium et non 
+      inci<lb ed="#P" n="34" break="no"/>pit sub illis partibus per fractionem: ergo prius erat 
+      <lb ed="#P" n="35"/>sub eis.
+    </p>
+            <p xml:id="JM7jmZ-d28633-d1e294">
+      ¶ Ad primum respondetur quod triticum 
+      <lb ed="#P" n="36"/>potest misceri cum siligine non capitur hic mixtio vt 
+      <lb ed="#P" n="37"/>est miscibilium alteratorum vnio vt aristoteles capit in 
+      <lb ed="#P" n="38"/>de generatione Sed pro iuxta positione granorum 
+      <lb ed="#P" n="39"/>et farinarum diuersarum specierum vt solet esse panis 
+      <lb ed="#P" n="40"/>plebeus vel triticum manet in vna parte separatim 
+      <lb ed="#P" n="41"/>vt argumentum tangit si primum puta sit mixta 
+      po<lb ed="#P" n="42" break="no"/>sitio partium Ad hoc quod totus panis catholice sit tri 
+      <lb ed="#P" n="43"/>ticeus oportet quod maior pars sit triticea et est simile 
+      <lb ed="#P" n="44"/>secundum eos qui tenent quod qualitates contrarie in 
+      gradi<lb ed="#P" n="45" break="no"/>bus remissis se compatiuntur si gradus albedinis 
+      <lb ed="#P" n="46"/>gradus nigredinis exuperent subiectum est album sic 
+      <lb ed="#P" n="47"/>est in proposito tunc corpus christi est sub tota 
+      ho<lb ed="#P" n="48" break="no"/>stia catholice et sub qualibet parte sensibili habente 
+      <lb ed="#P" n="49"/>plus de tritico quod pro tanto dico stat quod sit vna pars 
+      <lb ed="#P" n="50"/>sensibilis plus de siligine habens et sub illa parte non 
+      <lb ed="#P" n="51"/>est corpus christi si vna quarta sit triticea. et tres quar 
+      <lb ed="#P" n="52"/>te sint siliginose iam totus panis catholice est siligiosus 
+      <lb ed="#P" n="53"/>et vna quarta triticea sed sub illa quarta potest con 
+      <lb ed="#P" n="54"/>fici corpus christi si presbiter habeat intentionem 
+      com<lb ed="#P" n="55" break="no"/>secrandi in illa parte si habeat intentionem 
+      conse<lb ed="#P" n="56" break="no"/>crandi illum panem demonstrando totum magis 
+      <lb ed="#P" n="57"/>dubium est an illa intensio sufficit ad hoc quod corpus 
+      <lb ed="#P" n="58"/>christi sit sub illa parte Et arguitur quod non quia totus 
+      <lb ed="#P" n="59"/>ille panis non est triticeus ergo non est materia debi 
+      <!--118.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="60"/>ta et eodemmoo arguam si vna medietas sit triticea 
+      pro<lb ed="#P" n="61" break="no"/>cise si propter istas rationes concedas ibi non esse 
+      <lb ed="#P" n="62"/>corpus christi. Contra si tres quarte sint triticee es 
+      <lb ed="#P" n="63"/>vna quarta siliginosa corpus christi est ibidem et est mo 
+      <lb ed="#P" n="64"/>teria debita et non obstante corpus christi non est sub 
+      <lb ed="#P" n="65"/>qualibet parte hostie sed sub maiori parte hostie. 
+      <lb ed="#P" n="66"/>Propterea dicitur esse in tota cathece. Ex illo sic 
+      <lb ed="#P" n="67"/>arguo ergo si vna sit triticea et tres quarte siliginose 
+      <lb ed="#P" n="68"/>licet totus panis cathece dicatur siliginosus corpus 
+      <lb ed="#P" n="69"/>christi potest esse sub speciebus illius quarte triticee 
+      <lb ed="#P" n="70"/>quia est ibi materia debita et si corpus christi est in par 
+      <lb ed="#P" n="71"/>te hostie est in tota. Pretera volens consecrare omnes 
+      <lb ed="#P" n="72"/>has hostias demonstrando multas inter quas est 
+      <lb ed="#P" n="73"/>vna siliginosa consecrat omnes triticeas quia sunt ma 
+      <lb ed="#P" n="74"/>teria debita et intensio est debita: ergo volens in hiis 
+      <lb ed="#P" n="75"/>hostiis consecrare corpus domini vbi est materia 
+      debi<lb ed="#P" n="76" break="no"/>ta consecrat. Respondetur concedendo 
+      conclusio<lb ed="#P" n="77" break="no"/>nem rationum affirmatiuarum. Ad argumentum nega 
+      <lb ed="#P" n="78"/>tiuum conceditur quod totus ille panis non est triticeus 
+      <lb ed="#P" n="79"/>et propterea non sub qualibet parte consecratur 
+      cor<lb ed="#P" n="80" break="no"/>pus domini sed bene sub aliqua et hoc tenendo quod 
+      <lb ed="#P" n="81"/>siligo sit alterius speciei. Ad secundum 
+      argumen<lb ed="#P" n="82" break="no"/>tum vbi petitur an corpus obristi est sub qualibet 
+      <lb ed="#P" n="83"/>parte hostie altissioderensis. enet quod non sed sub tota. Sed  
+      <lb ed="#P" n="84"/>contra quando tripertitur incipit esse sub qualibet 
+      ter<lb ed="#P" n="85" break="no"/>tia: ergo fractio facit corpus christi esse sub hac par 
+      <lb ed="#P" n="86"/>te. Respondit ipse hoc est consecratione et 
+      fractio<lb ed="#P" n="87" break="no"/>ne simul hic modus est preter rationem vt postea 
+      <lb ed="#P" n="88"/>dicetur. Sed contra dicis non est itensio presbiteri con 
+      <lb ed="#P" n="89"/>secrare quanlibet partem sed solum hanc hostiam. 
+      <lb ed="#P" n="90"/>Insuper partito speculo vmago incipit esse in 
+      sin<lb ed="#P" n="91" break="no"/>gulis partibus et ante non erat nisi in toto ergo. Re 
+      <lb ed="#P" n="92"/>spondetur / est intensio presbiteri consecrare 
+      pane<lb ed="#P" n="93" break="no"/>ante se et quelibet pars est homogenea ante se. Ad 
+      <lb ed="#P" n="94"/>aliud non est simile de agente naturali vbi ab vnico 
+      <lb ed="#P" n="95"/>sit vna reflectio a partibus discontinuis varie 
+      re<lb ed="#P" n="96" break="no"/>flectiones. Pro illo notabis duplex est pars quedam 
+      <lb ed="#P" n="97"/>sensibilis que sentiri potest / aliqua est ita parua que 
+      <lb ed="#P" n="98"/>sentiri non potest et hoc potest dupliciter esse vel in 
+      <lb ed="#P" n="99"/>suo toto vel extra suum totum secundum hoc 
+      po<lb ed="#P" n="100" break="no"/>no proprositiones. Prima est corpus christi existens 
+      <lb ed="#P" n="101"/>in tota hostia est sub qualibet parte illius quantuncunque 
+      <lb ed="#P" n="102"/>parua capio hostiam pure triticeam. probatur. da 
+      <lb ed="#P" n="103"/>vnam partem hostie quancumque volueris quaero a te an 
+      <lb ed="#P" n="104"/>ibi est aliqua pars corporis christi an nulla / si primum 
+      <lb ed="#P" n="105"/>vbicunque est vna pars corporis christi ibi est 
+      queli<lb ed="#P" n="106" break="no"/>bet est penetratio partium / vel simul coexistentia 
+      <lb ed="#P" n="107"/>in ordine ad locum secundum alium modum / si nulla pars cor 
+      <lb ed="#P" n="108"/>poris christi est ibi non est imaginabile quod corpus christi 
+      <lb ed="#P" n="109"/>est in hosi a lnicet sortes sit in suo loco totali et in nulla 
+      <lb ed="#P" n="110"/>parte eius tamen pars est in parte loci. Item quan 
+      <lb ed="#P" n="111"/>do ho. tia diuiditur duobus quilibet istorum accipit 
+      <lb ed="#P" n="112"/>corpus christi et non incipit ibi esse corpus christi 
+      <lb ed="#P" n="113"/>de nouo vt videtur ita facile intelligitur a docto 
+      cor<lb ed="#P" n="114" break="no"/>pus christi longum septem pedibus esse in qualibet 
+      <lb ed="#P" n="115"/>parte hostie sicut in totali. Rursus consecretur 
+      pa<lb ed="#P" n="116" break="no"/>nis longitudinis decem pedum vel corpus christi 
+      <lb ed="#P" n="117"/>est sub qualibet parte illius hostie et habeo intentum 
+      <lb ed="#P" n="118"/>vel sub aliqua et aliqua non est assigna rationem quam 
+      <!--119.xml-->
+      <pb ed="#P" n="52-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>assignare nequis / absonum est dicere quod non potest con 
+      <lb ed="#P" n="2"/>secrari in pane decem pedum imo non est status 
+      <lb ed="#P" n="3"/>magnitudine nec in multitudine hostiarum sicut ba 
+      <lb ed="#P" n="4"/>ptisans pro pecunia vel vpocrisi baptisat sic conse 
+      <lb ed="#P" n="5"/>crans pro pecunia vel vt faciat aliquid aliud perperam con 
+      <lb ed="#P" n="6"/>secrat: ergo a fortiori in magno pane siue capiatur 
+      <lb ed="#P" n="7"/>sicut non sufficit materia et forma et intensio mini 
+      <lb ed="#P" n="8"/>stri remoto posteriore non remouetur prius / hostiam 
+      <lb ed="#P" n="9"/>dari est posterius consecratione igitur. non est stan 
+      <lb ed="#P" n="10"/>dum in talibus si presbiter consecrat omnes panes in 
+      <lb ed="#P" n="11"/>phalis vel fenestra pistori an tenetur restituere pa 
+      <lb ed="#P" n="12"/>nes quos transsubstantiat cum est sermo de deo 
+      im<lb ed="#P" n="13" break="no"/>mortali et rebus arduis secundum regulam oratorum non 
+      <lb ed="#P" n="14"/>sunt miscende ineptiole. Item hostia est 
+      homoge<lb ed="#P" n="15" break="no"/>nia ergo est eadem ratio totius et partis. Item 
+      hi<lb ed="#P" n="16" break="no"/>larius papa de consecratione. d. ii. vbi pars est cor 
+      <lb ed="#P" n="17"/>poris christi est et totum / exemplificat de colligente 
+      <lb ed="#P" n="18"/>manna in parua quantitate vel magna forte potes 
+      <lb ed="#P" n="19"/>dari panis quem presbiter consecrare nequit scilicet si po 
+      <lb ed="#P" n="20"/>natur longissimus et prabiter in vno extremo potest 
+      <lb ed="#P" n="21"/>illum panem consecrare vsque ad aliquam distantiam 
+      <lb ed="#P" n="22"/>sed illud non prouenit ob magnitudinem vel 
+      multitu<lb ed="#P" n="23" break="no"/>dinem sed ob distantiam aliquam que impedit / si alius 
+      <lb ed="#P" n="24"/>presbiter vel idem staret in alio extremo ille magnus 
+      <lb ed="#P" n="25"/>panis consecrabitur. si quis dicat quelibet pars 
+      il<lb ed="#P" n="26" break="no"/>lius panis consecratur ab eodem praesbitero existente 
+      <lb ed="#P" n="27"/>in vno loco cum totus est presens et est vnum 
+      con<lb ed="#P" n="28" break="no"/>tinuum hoc magis fauet nostre conclusioni / si quis vel 
+      <lb ed="#P" n="29"/>let consecrare multitudinem pro exercitu zersis vel 
+      <lb ed="#P" n="30"/>darii potest eis abeuntibus non impeditur consecri 
+      <lb ed="#P" n="31"/>tio etiam vna hostia sufficit mille / pro consecratione 
+      <lb ed="#P" n="32"/>non oportet videre hostiam patet de ceco / a paucis 
+      <lb ed="#P" n="33"/>retroactis annis de vorda machliniensis factus est 
+      <lb ed="#P" n="34"/>sacerdos cecus. Secunda propositio dabilis est ita 
+      <lb ed="#P" n="35"/>parua pars panis triticei quod illa propter paruitater 
+      <lb ed="#P" n="36"/>seorsum sentiri non potest. probatur. sensibile aliquod 
+      <lb ed="#P" n="37"/>a remotis non possumus videre propter paruitate 
+      <lb ed="#P" n="38"/>vbi magnum possumus / appropinquet illud paruum 
+      <lb ed="#P" n="39"/>sensibile quo ad possumus videre et diminuatur ad 
+      <lb ed="#P" n="40"/>huc desinet videri et sic procedendo per totam 
+      sphe<lb ed="#P" n="41" break="no"/>ram in qua potest videri. Item ad hoc est experien 
+      <lb ed="#P" n="42"/>tia et ratio. Et si dicas diuidatur vna hostia in centum 
+      <lb ed="#P" n="43"/>partes maximas non sensibiles manentibus 
+      par<lb ed="#P" n="44" break="no"/>tibus iuxta se positis iam tota multitudo est sensibi 
+      <lb ed="#P" n="45"/>lis: ergo in tota multitudine est corpus christi et 
+      ta<lb ed="#P" n="46" break="no"/>men non sub aliqua illarum pariium. Respondetur 
+      <lb ed="#P" n="47"/>quod nec est corpus christi sub tota multitudine nec suf 
+      <lb ed="#P" n="48"/>aliqua parte illius multitudinis quia non constituunt 
+      <lb ed="#P" n="49"/>aliquod vnum stat totam multitudinem videri et nul 
+      <lb ed="#P" n="50"/>lam partem eius que est vnum hoc aliquid videri. pe 
+      <lb ed="#P" n="51"/>tet. in cumulo grani propter iuxta positionem granorum 
+      <lb ed="#P" n="52"/>et si hostia perforetur erit vnitas sufficiens ad sensibi 
+      <lb ed="#P" n="53"/>le signum in reliquo. Tertia propositio dabilis est 
+      <lb ed="#P" n="54"/>vna pars ita parua in toto sub qua est corpus christi 
+      <lb ed="#P" n="55"/>ita quod si illa esset separata a toto desineret corpus christi 
+      <lb ed="#P" n="56"/>esse sub illa. probatur. corpus christi solum est ibi es 
+      <lb ed="#P" n="57"/>pacto diuino pepigit quod ibi erit quando minister vdo 
+      <lb ed="#P" n="58"/>neus super materia debita proferat verba 
+      requisi<lb ed="#P" n="59" break="no"/>ta cum intensione faciendi quod ecclesia intendit 
+      <!--119.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="60"/>quemadmodum in materia organisata ad 
+      susceptio<lb ed="#P" n="61" break="no"/>nem anime intellectiue illam creat et creando 
+      ma<lb ed="#P" n="62" break="no"/>teriam informat sed illa parua materia non est deb 
+      <lb ed="#P" n="63"/>ta quia non est sacramentum. Sacramentum est inui 
+      <lb ed="#P" n="64"/>sibilis gratie visibilis forma hoc est signum 
+      sensi<lb ed="#P" n="65" break="no"/>bile quemadmodum non est hic. igitur. Ex propositio 
+      <lb ed="#P" n="66"/>ne prima adiuncto vero sequitur quod corpus christi 
+      <lb ed="#P" n="67"/>est in infinitis partibus hostie. probatur. ibi sunt infini 
+      <lb ed="#P" n="68"/>te partes proportionales et in qualibet earum est 
+      to<lb ed="#P" n="69" break="no"/>tum corpus christi et quelibet pars eius igitur: et est 
+      <lb ed="#P" n="70"/>in infinitum parua parte nulla tamen pars hostie est 
+      <lb ed="#P" n="71"/>infinite parua non valet dictum aliorum partes in 
+      con<lb ed="#P" n="72" break="no"/>tinuo non habent actualem distinctionem nec sunt 
+      <lb ed="#P" n="73"/>plures sed vnum / sunt infinite partes existentes quarum 
+      <lb ed="#P" n="74"/>nulla est alia. Secundum correlarium capiens vnam 
+      <lb ed="#P" n="75"/>hostiam corpus christi capit in infinitis temporibus 
+      <lb ed="#P" n="76"/>partialibus sed est idem tempus totale. Tertium 
+      <lb ed="#P" n="77"/>correlarium ex tertia propositione sequens corp 
+      <lb ed="#P" n="78"/>christi est sub vna parte hostie et si illa pars esset 
+      se<lb ed="#P" n="79" break="no"/>parata a toto corpus christi desineret esse sub illa. 
+      <lb ed="#P" n="80"/>Quartum correlarium hostia sic potest diuidi quod 
+      cor<lb ed="#P" n="81" break="no"/>pus christi sub nulla parte remanet. patet. si diuida 
+      <lb ed="#P" n="82"/>tur in multas partes quarum quelibet est insensibilis 
+      <lb ed="#P" n="83"/>iam ibi non esset corpus christi. Quinto sequitur per 
+      <lb ed="#P" n="84"/>locum a contrario sensu imo fortius ex medio effi 
+      <lb ed="#P" n="85"/>catiori quod presbiter potest quadripertiri eandem hostiam 
+      <lb ed="#P" n="86"/>multis puta quattuor hominibus et quilibet illorum 
+      <lb ed="#P" n="87"/>sumit totum christi corpus ac si haberet integram 
+      ho<lb ed="#P" n="88" break="no"/>stiam. hoc patet quelibet pars est sensibilis et sub quae 
+      <lb ed="#P" n="89"/>libet tali est corpus christi et manet sub illa / non 
+      ta<lb ed="#P" n="90" break="no"/>men debet presbiter facere nisi in necessitate sed te 
+      <lb ed="#P" n="91"/>nere consuetudinem paterie et ecclesie qua isto modo 
+      <lb ed="#P" n="92"/>non vtitur. Sed contra ista arguitur sequeretur quod 
+      <lb ed="#P" n="93"/>laicus potest facere corpus christi esse sub istis 
+      spe<lb ed="#P" n="94" break="no"/>ciebus in sensu composito consequens est falsum ergo 
+      <lb ed="#P" n="95"/>et antecedens. falsitas consequentis est nota et infra 
+      <lb ed="#P" n="96"/>patebit. soli presbiteri sunt ministri huius sacrami 
+      <lb ed="#P" n="97"/>ti / quod sequatur patet sic capio species vini diuidatur 
+      <lb ed="#P" n="98"/>illud vinum in multas partes quarum quelibet est in 
+      <lb ed="#P" n="99"/>sensibilis iam corpus christi desinit esse sub qualibes 
+      <lb ed="#P" n="100"/>illarum partium ex quarto correlario reuniat laicus iam 
+      <lb ed="#P" n="101"/>incipit ibi esse corpus christi quod probo semper ma 
+      <lb ed="#P" n="102"/>net sub illis speciebus quousque corrumpuntur omnino. 
+      <lb ed="#P" n="103"/>Preterea sub in infinitum parua parte hostie sepa 
+      <lb ed="#P" n="104"/>rate potest este corpus christi: ergo tertia 
+      proposi<lb ed="#P" n="105" break="no"/>tio et correlaria illata falsa: probo antecedens que 
+      <lb ed="#P" n="106"/>libet pars seorsum est sensibilis. Forte negas imo 
+      <lb ed="#P" n="107"/>est aliqua pars minima sensibilis ita quod corpus christi 
+      <lb ed="#P" n="108"/>est sub illa et qualibet parte illius et si parua quantum 
+      <lb ed="#P" n="109"/>cunque ab ea auferatur desinit esse sub illa. Contra 
+      <lb ed="#P" n="110"/>non est minimum sensibile ergo male dicis. signetur 
+      <lb ed="#P" n="111"/>et sit digitalis longitudinis et profunditatis idem 
+      <lb ed="#P" n="112"/>est michi pisalis auferatur vna parua pars a parte 
+      <lb ed="#P" n="113"/>posteriori illius quod signas minimum adhuc residuum 
+      <lb ed="#P" n="114"/>possum videre: quod patet. alioquin dabitur 
+      vlti<lb ed="#P" n="115" break="no"/>mum instans esse completum visionis: patet. incipiat 
+      <lb ed="#P" n="116"/>illud diuidi per remotionem de presenti iam illud post 
+      <lb ed="#P" n="117"/>hoc non potest videri immedietate post hoc peius se 
+      <lb ed="#P" n="118"/>habebit ad videndum esto quod successiue fiat ablatio 
+      <!--120.xml-->
+      <pb ed="#P" n="53-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>partium. Fortasse dicis et bene non datur minimum 
+      <lb ed="#P" n="2"/>sensibile sed da tur maximum non sensibile. Contre 
+      <lb ed="#P" n="3"/>signetur illa pars et gratia exempli sit 
+      magnitudi<lb ed="#P" n="4" break="no"/>nis vnius grani millii hoc non potest sentiri ab ipsa 
+      <lb ed="#P" n="5"/>potentia demonstrando potentiam visiuam sortis: po 
+      <lb ed="#P" n="6"/>test tamen alterius hominis vel aquile in media re 
+      <lb ed="#P" n="7"/>gione aeris videntis pisciculum in mari. Fortasse 
+      di<lb ed="#P" n="8" break="no"/>cis oportet habere respectum ad potentiam hominis 
+      <lb ed="#P" n="9"/>medio modo videntis vel optime videntis sicut erat 
+      <lb ed="#P" n="10"/>moyses cuius oculi in senio mortis non caligaue 
+      <lb ed="#P" n="11"/>rant vel lincei. Quero a te quare hoc dicis assigna 
+      <lb ed="#P" n="12"/>rationem vel intelligis de homine optine actualiter 
+      <lb ed="#P" n="13"/>vidente vel possibiliter / si primum tunc secundum quod homines 
+      <lb ed="#P" n="14"/>bene vel male vident desinit corpus christi esse ibid 
+      <lb ed="#P" n="15"/>tempore innocentie homines melius viderunt quam nund 
+      <lb ed="#P" n="16"/>si de possibili contra nullus talis quocumque homine vi 
+      <lb ed="#P" n="17"/>dente dato datur vel dari potest homo melius 
+      vi<lb ed="#P" n="18" break="no"/>dens. Eodemmoo de sensu tactus argumentabor. Ad  
+      <lb ed="#P" n="19"/>primum argumentum dubium est si laicus reuniat 
+      <lb ed="#P" n="20"/>illas species vel presbiter nichil proferendo an 
+      inci<lb ed="#P" n="21" break="no"/>piat ibi esse corpus christi. RNescis probare neganti 
+      <lb ed="#P" n="22"/>quod sic. Tum secundo diceretur quod hoc est ex pacto diuino et 
+      <lb ed="#P" n="23"/>vi prioris consecrationis a presbitero. Tum tertio 
+      <lb ed="#P" n="24"/>datur minimum naturale in speciebus sicut in aliis 
+      <lb ed="#P" n="25"/>rebus naturalibus et illud est sensibile a sensu suffi 
+      <lb ed="#P" n="26"/>ciente et sic manet corpus christi sub qualibet tali spe 
+      <lb ed="#P" n="27"/>cie seorsum. dicis illud minimum naturale potest 
+      di<lb ed="#P" n="28" break="no"/>uidi. ad hoc respondetur in materia de minmo. sed  
+      <lb ed="#P" n="29"/>ad quam potentiam oportet respicere deus nouit 
+      <lb ed="#P" n="30"/>Sed quod tangebatur inter arguendum de minimo sen 
+      <lb ed="#P" n="31"/>sibili vel maximo non sensibili datur secundum et 
+      li<lb ed="#P" n="32" break="no"/>cet illud seorsum causet species aliquas ad 
+      poten<lb ed="#P" n="33" break="no"/>tiam visiuam sortis ille propter remissionem non suffi 
+      <lb ed="#P" n="34"/>ciunt causare visionem in hunc oculum sed dicis sicut 
+      <lb ed="#P" n="35"/>calor intensus causat intensum calorem ita remissus 
+      <lb ed="#P" n="36"/>remissum ergo sic erit de calore et speciebus assumptum 
+      <lb ed="#P" n="37"/>negatur. est aliquis calor ita paruus quod nichil potest 
+      <lb ed="#P" n="38"/>producere in hoc passum propter resistentiam. 
+      pa<lb ed="#P" n="39" break="no"/>tet. de maximo calore a quob passum non potest pati 
+      <lb ed="#P" n="40"/>et a quolibet minore actiuo. parilis ambages potest 
+      <lb ed="#P" n="41"/>fundari de propinquitate et distantia petendo in qua 
+      <lb ed="#P" n="42"/>distantia bomo poet consecrare vltra maius interuallum 
+      <lb ed="#P" n="43"/>videt linceus quam lippus / sed an detur status in 
+      ma<lb ed="#P" n="44" break="no"/>ximum dubium est apud aliquos postquam magna pars 
+      <lb ed="#P" n="45"/>est sensibilis sicut potest consecrare omnes panes in 
+      <lb ed="#P" n="46"/>foro ita potest licet perperam agit totum vinum in 
+      do<lb ed="#P" n="47" break="no"/>lio sancti bernardi consecrare. si quis dicat corpus 
+      <lb ed="#P" n="48"/>christi esse in hostia sub qualibet parte que est sensibilis 
+      <lb ed="#P" n="49"/>seorsum et sub nulla parte illius partis non rationa 
+      <lb ed="#P" n="50"/>biliter loquitur nec recederet a modo ltissiodererensis. quem rei 
+      <lb ed="#P" n="51"/>probamus. Forte dicis nulla datur pars quin illa 
+      po<lb ed="#P" n="52" break="no"/>test sentiri. patet da vnam paruam quae diuisa non potest 
+      <lb ed="#P" n="53"/>aliqua eius pars sentiri sit a sic argumentor b et o 
+      <lb ed="#P" n="54"/>medietates a causabant visionem in suo toto 
+      natu<lb ed="#P" n="55" break="no"/>raliter ille partes separate sunt agentia naturalia ergo 
+      <lb ed="#P" n="56"/>concurrunt vt antea quando erant partes totius a 
+      insu<lb ed="#P" n="57" break="no"/>per eadem visio numero repraesentabat a totum bet c 
+      <lb ed="#P" n="58"/>medietates suas. ergo si b sit vel c eadem visio quae prius 
+      <lb ed="#P" n="59"/>erat manebit transeat quod b et ccausabunt visionem in 
+      <!--120.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="60"/>toto sed non sequitur quod causabunt extra suum totum 
+      <lb ed="#P" n="61"/>quelibet pars in toto diutius conseruatur quam extra 
+      <lb ed="#P" n="62"/>suum totum ceteris partibus et partes granis 
+      ve<lb ed="#P" n="63" break="no"/>lotius descendunt in suo toto quam extra suum totum 
+      <lb ed="#P" n="64"/>et sic quelibet pars in toto magis concurrit ad pro 
+      <lb ed="#P" n="65"/>ductionem visionis totius et suemet quam separatim 
+      <lb ed="#P" n="66"/>non est status in minimo naturali in toto secus est 
+      <lb ed="#P" n="67"/>extra suum totum et licet quelibet pars primo se re 
+      <lb ed="#P" n="68"/>presentat secundario ad representationem ceterarum 
+      <lb ed="#P" n="69"/>partium concurrit est vna visio representans 
+      albe<lb ed="#P" n="70" break="no"/>dinem pedalem et dinstinguitur ab a visione represen 
+      <lb ed="#P" n="71"/>tante medietatem illius pedalitatis visiones varia 
+      <lb ed="#P" n="72"/>rum partium illius pedalitatis numero 
+      distingun<lb ed="#P" n="73" break="no"/>tur sed constituunt vnam qualitatem cum sint eiui 
+      <lb ed="#P" n="74"/>dem speciei specialissime in eadem anima sicut 
+      noti<lb ed="#P" n="75" break="no"/>cia sortis et platonis constituunt vnam formam sed  
+      <lb ed="#P" n="76"/>non quelibet pars illius forme representat sortem 
+      <lb ed="#P" n="77"/>nec qualibet platonem et sicut sunt partes commicantes et 
+      <lb ed="#P" n="78"/>non communicantes in albedine ita est de visione. 
+      <lb ed="#P" n="79"/>si dicas si quelibet pars proportionalis in toto 
+      re<lb ed="#P" n="80" break="no"/>presentat se erit visio infinite intensa in oculo si hoc 
+      <lb ed="#P" n="81"/>admittas videtur rationabile quod potentia finite 
+      ca<lb ed="#P" n="82" break="no"/>pacitatis actiue immutabitur a forma infinita dicai 
+      <lb ed="#P" n="83"/>quod minoris partis est remissior visio. sed dicis tunc recedem 
+      <lb ed="#P" n="84"/>do a visibili mox desinent parue partes videri ab 
+      ocu<lb ed="#P" n="85" break="no"/>lo manente visione magnarum partium cum citius re 
+      <lb ed="#P" n="86"/>missa visio corrumpetur quam intensa. Insuper si que 
+      <lb ed="#P" n="87"/>libet pars superficialis videatur quando quis est in 
+      <lb ed="#P" n="88"/>pera videndi et quelibet pars primo causat 
+      visio<lb ed="#P" n="89" break="no"/>nem sui tunc cum ibi sint sex vel septem gradus equa 
+      <lb ed="#P" n="90"/>liter applicatiqualibet illorum graduum videbitur et 
+      <lb ed="#P" n="91"/>scimus distinguere vnum gradum ab alio sicut vnam 
+      <lb ed="#P" n="92"/>medietatem vel tertiam ab alia virtute illius visionis 
+      <lb ed="#P" n="93"/>Respondetur inter arguendum quod minoris partis 
+      <lb ed="#P" n="94"/>proportionalis minor est visio intensiue et sicut in in 
+      <lb ed="#P" n="95"/>finitum parua est aliqua pars proportionalis illius 
+      <lb ed="#P" n="96"/>albedinis ita in infinitum remissa est visio alicuius 
+      <lb ed="#P" n="97"/>partis licet cuiuslibet partis proportionalis visio 
+      <lb ed="#P" n="98"/>sit certe et determinate intentionis sed per elongatio 
+      <lb ed="#P" n="99"/>nem a visibili non est equalis remissio visionis parue 
+      <lb ed="#P" n="100"/>partis et magne si per recessum octo pedum a 
+      maxi<lb ed="#P" n="101" break="no"/>mum non sensibile seorsum minus cognoscitur per quar 
+      <lb ed="#P" n="102"/>tam partem vnius gradus et b est quadruplum ad a 
+      <lb ed="#P" n="103"/>oportet quod proportionaliter admittat ad aliud / 
+      con<lb ed="#P" n="104" break="no"/>cedo quod quilibet gradus superficialis de sex vel octo 
+      <lb ed="#P" n="105"/>causat sui visionem sed talis visio non est nata 
+      cau<lb ed="#P" n="106" break="no"/>sare iudicium de distinctione partium impurius 
+      co<lb ed="#P" n="107" break="no"/>gnoscimus aliqua in eodem loco quam in locis separa 
+      <lb ed="#P" n="108"/>tis si duo lapides pedales vel infiniti essent 
+      pene<lb ed="#P" n="109" break="no"/>tratiue non poneremus discrimen sicut inter duos 
+      <lb ed="#P" n="110"/>vel tres lapides separatos loco et situ at dices tunc 
+      <lb ed="#P" n="111"/>causabitur infinita species in medio et infinita 
+      vi<lb ed="#P" n="112" break="no"/>sio in oculo: ergo non debebam habere pro inconuenien 
+      <lb ed="#P" n="113"/>ti quod anima immutetur ab infinita visione. Responde 
+      <lb ed="#P" n="114"/>tur concedendo de speciebus non videtur quod se 
+      im<lb ed="#P" n="115" break="no"/>pediant de visione nego / nisi deus concurrat specia 
+      <lb ed="#P" n="116"/>liter minando causalitatem actiuam visus tunc non ha 
+      <lb ed="#P" n="117"/>berem pro inconuenienti sed stando in capacitate 
+      <lb ed="#P" n="118"/>finita actiua ipsius anime. forte dicis habebit noti¬ 
+      <!--121.xml-->
+      <pb ed="#P" n="53-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>cias octo vel decem lapidum et non plurium cum 
+      <lb ed="#P" n="2"/>capacitas actiua est iam repleta. contra omnia agentia 
+      <lb ed="#P" n="3"/>sunt equaliter applicata et eque cito: ergo si aliqui 
+      <lb ed="#P" n="4"/>lapides visiones distinctas producunt et reliqui 
+      <lb ed="#P" n="5"/>ponamus primam causam equaliter concurrere 
+      <lb ed="#P" n="6"/>supponamus lapides equaliter coloratos et cetere 
+      <lb ed="#P" n="7"/>paria quod vnum visibile non est magis dispositum ad 
+      <lb ed="#P" n="8"/>producendam visionem eius quam aliud. dicis nullum 
+      <lb ed="#P" n="9"/>lapidem videbit non est maiorratio de vno quam 
+      ali<lb ed="#P" n="10" break="no"/>sicut de vase pleno aqua obstructo superius 
+      haben<lb ed="#P" n="11" break="no"/>te duo foramina non est maior ratio quod aqua egredia 
+      <lb ed="#P" n="12"/>tur per vnum foramen quam aliud et non poterit omnia 
+      <lb ed="#P" n="13"/>visibilia simul videre: contra ergo dabis potentiam 
+      <lb ed="#P" n="14"/>visiuam bene dispositam et visibile in debita distan 
+      <lb ed="#P" n="15"/>tia et medium bene dispositum et tamen nichil 
+      vi<lb ed="#P" n="16" break="no"/>debit nec causabitur visio. Forte dicis multitud 
+      <lb ed="#P" n="17"/>specierum vel visionis corrumpet sensum et nulla 
+      <lb ed="#P" n="18"/>erit visio Contra defendi potest quod nulla est 
+      spe<lb ed="#P" n="19" break="no"/>cies in medio vel organo / etiam ponamus deun 
+      <lb ed="#P" n="20"/>impedire illam corruptionem. Respondetur dico quod nu 
+      <lb ed="#P" n="21"/>lum illorum lapidum distincte videbit cum equalis 
+      <lb ed="#P" n="22"/>est ratio in omnibus et non potest illos simul distincte 
+      <lb ed="#P" n="23"/>cognoscere sed erit vna noticia coufusa causata ab 
+      <lb ed="#P" n="24"/>illis omnibus representans omnes copulatim et 
+      nul<lb ed="#P" n="25" break="no"/>lum distincte / a lapis non est bene applicatus 
+      stanti<lb ed="#P" n="26" break="no"/>bus circunstantiis ad hoc quod distincte videatur. con 
+      <lb ed="#P" n="27"/>tra illud arguitur quilibet istorum octo graduum 
+      <lb ed="#P" n="28"/>albedinis distincte videtur a sorte loquor de grad 
+      <lb ed="#P" n="29"/>bus superficialibus et tamen penetratiue simul sunt 
+      <lb ed="#P" n="30"/>ergo penetratio non impedit / assumptum patet. queli 
+      <lb ed="#P" n="31"/>bet pars proportionalis superficialis secundum 
+      extensio<lb ed="#P" n="32" break="no"/>nem huius pedalis distincte videtur ergo quilibet 
+      <lb ed="#P" n="33"/>gradus secundum intensionem superficialis / insuper non 
+      <lb ed="#P" n="34"/>euaditur quin tot a noticia est infinita illorum 
+      infini<lb ed="#P" n="35" break="no"/>torum lapidum illa visio causatur ab infinitis 
+      lapi<lb ed="#P" n="36" break="no"/>dibus quorum quilibet equalem portionem illius vi 
+      <lb ed="#P" n="37"/>sionis producit: ergo tota visio est infinita: ergo 
+      in<lb ed="#P" n="38" break="no"/>cidimus in illud quod euitare intendimus. Ad primum. con 
+      <lb ed="#P" n="39"/>sequentia est nulla propter infinitatem illorum lapidum 
+      <lb ed="#P" n="40"/>et finitatem gradualem partium equalium non commican 
+      <lb ed="#P" n="41"/>tium si essent infiniti gradus penitus esset idem / etiam 
+      <lb ed="#P" n="42"/>nego antecedens melius cognoscimus vt 
+      experien<lb ed="#P" n="43" break="no"/>tia docet partes extensas extra seinuicem quam 
+      inten<lb ed="#P" n="44" break="no"/>sas in eodem situ hanc intentionem gradualem 
+      cogno<lb ed="#P" n="45" break="no"/>scimus distincte. patet hanc extensionem 
+      cognosci<lb ed="#P" n="46" break="no"/>mus distincte et hec extensio est hec intensio gradua 
+      <lb ed="#P" n="47"/>lis igitur / sed non cognoscimus distinctionem gra 
+      <lb ed="#P" n="48"/>dualem intensionis. Ad secundum nego antecedens es 
+      <lb ed="#P" n="49"/>ad probationem conceditur quod illa visio causatur al 
+      <lb ed="#P" n="50"/>infinitis lapidibus et nego presuppositum de 
+      equali<lb ed="#P" n="51" break="no"/>tate portionis vnus lapis non concurrit ad vnam 
+      <lb ed="#P" n="52"/>partem noticie ad quam non concurrit quilibet 
+      ali<lb ed="#P" n="53" break="no"/>lapis sed ad vnam noticiam totalem que represet 
+      <lb ed="#P" n="54"/>tat omnes simul concurrunt: simile potest dari de 
+      <lb ed="#P" n="55"/>cumulo grani qui a remotis videtur et nullum granum vi 
+      <lb ed="#P" n="56"/>detur licet quodlibet granum ad noticiam illius noticie 
+      <lb ed="#P" n="57"/>partialiter concurrit. si quilibet lapis causaret 
+      par<lb ed="#P" n="58" break="no"/>tialem noticiam quam non causat alius 
+      argumen<lb ed="#P" n="59" break="no"/>tum concluderet infinitatem cum essent infinite per¬ 
+      <!--121.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="60"/>tes equales non communicantes. Sed contra illud 
+      <lb ed="#P" n="61"/>argumentor habeat sortes noticiam a lapidis 
+      distin<lb ed="#P" n="62" break="no"/>cte tunc sequitur quod per penetrationem aliorum 
+      lapi<lb ed="#P" n="63" break="no"/>dum cum illo desinet primus videri quod non videtur 
+      <lb ed="#P" n="64"/>dicendum cum citius se iuuarent quam impedirent. dico quod 
+      <lb ed="#P" n="65"/>illud non sequitur si successiue applicarentur 
+      lapi<lb ed="#P" n="66" break="no"/>des quousque capacitas actiua anime sortis esset re 
+      <lb ed="#P" n="67"/>pleta alii lapides superuenientes non videbuntur 
+      <lb ed="#P" n="68"/>difficultas est maior quando simul applicantur. Sed con 
+      <lb ed="#P" n="69"/>tra istud arguitur si essent infinite anime separate vel 
+      <lb ed="#P" n="70"/>angeli in eodem loco vnum visibile a causabit 
+      infini<lb ed="#P" n="71" break="no"/>tas distinctas noticias in illis: ergo per idem infinita ob 
+      <lb ed="#P" n="72"/>iecta causabunt infinitam noticiam in anima vel an 
+      <lb ed="#P" n="73"/>gelo. assumptum patet a causasset noticiam distinctam 
+      <lb ed="#P" n="74"/>sui in b animam vel angelum si solitarie fiat nec 
+      vide<lb ed="#P" n="75" break="no"/>tur nec apparet quomodo cet d impediunt angelum brergo 
+      <lb ed="#P" n="76"/>quilibet eorum habebit noticiam distinctam de a 
+      ob<lb ed="#P" n="77" break="no"/>iecto. Respondetur concedendo antecedens vide 
+      <lb ed="#P" n="78"/>tur michi antecedens debet concedi non video in hoc im 
+      <lb ed="#P" n="79"/>pedimentum debere rationabiliter dari / sed 
+      conse<lb ed="#P" n="80" break="no"/>quentia est nulla. ad primum non sequitur angelum 
+      <lb ed="#P" n="81"/>vel animam esse infinite capacitatis actiue tamen hoc 
+      <lb ed="#P" n="82"/>sequitur ad secundum. non debet nos mouere infini 
+      <lb ed="#P" n="83"/>tas mltitudinis noticiarum sicut nec infiniti angeli 
+      <lb ed="#P" n="84"/>vel anime date non apparet quod eadem noticia numero in 
+      <lb ed="#P" n="85"/>quolibet illorum causetur esto quod species visibilis 
+      <lb ed="#P" n="86"/>mltiplicate apud illos. At dicis ex isto sequitur quod 
+      <lb ed="#P" n="87"/>nunc de lege quilibet angelus bonus vel malus vel 
+      <lb ed="#P" n="88"/>anima separata habet infinitas noticias de quocumque 
+      <lb ed="#P" n="89"/>obiecto viso. patet. angelus et si partibilis est tamen 
+      <lb ed="#P" n="90"/>est in loco diuisibuli ponatur angelus in circulo 
+      cen<lb ed="#P" n="91" break="no"/>tum pedum vel vnius et in qualibet parte illius tunc 
+      <lb ed="#P" n="92"/>sic iste angelus michael in circumferentia circuli 
+      pro<lb ed="#P" n="93" break="no"/>pe a obiectum habet noticiam de a in secunda parte pro 
+      <lb ed="#P" n="94"/>portionali illius circuli remotiori habet noticiam de a 
+      <lb ed="#P" n="95"/>obiecto licet forte remissiorem tamen est remotior ab 
+      ob<lb ed="#P" n="96" break="no"/>iecto et sic in tertia parte proportionali illius circu 
+      <lb ed="#P" n="97"/>li quadrati vel quadranguli secundum modum figure 
+      <lb ed="#P" n="98"/>loci angelici non videtur quod existentia eius in vno lo 
+      <lb ed="#P" n="99"/>co impediret noticiam eius habendam in alio loco cum 
+      <lb ed="#P" n="100"/>non videtur repugnare quecumque paruitas loci 
+      an<lb ed="#P" n="101" break="no"/>gelo vel anime separate si esset quadrangulus et an 
+      <lb ed="#P" n="102"/>gelus esset in prima parte proportionali tertia et sic 
+      <lb ed="#P" n="103"/>in abissum alternatim iam potest habere noticias infi 
+      <lb ed="#P" n="104"/>nitas obiecti. videtur quod continuitas non debeat ob 
+      <lb ed="#P" n="105"/>esse. Respondetur si esset alternatim in 
+      quadrangu<lb ed="#P" n="106" break="no"/>lo non video quare non haberent infinitas noticias et 
+      <lb ed="#P" n="107"/>opinabile est quod iam habeat totidem licet potest dari 
+      <lb ed="#P" n="108"/>discrimen sortes nunc in duobus locis habet duas 
+      <lb ed="#P" n="109"/>noticias eiusdem obiecti sed si esset in eodem loco non 
+      <lb ed="#P" n="110"/>esset idem argumentum nunc non est minus de 
+      ani<lb ed="#P" n="111" break="no"/>ma corpus informante quae videtur suscipere noticiam 
+      <lb ed="#P" n="112"/>intuitiuam in infinitis partibus capitis. Sed contra 
+      <lb ed="#P" n="113"/>totum processum de noticia confusa infinitorum 
+      la<lb ed="#P" n="114" break="no"/>pidum arguitur sic. anima stante eius finitate 
+      acti<lb ed="#P" n="115" break="no"/>ua potest cum auxilio habere plures noticias nec hoc 
+      <lb ed="#P" n="116"/>arguit maiorem perfectionem eius quam habere 
+      pau<lb ed="#P" n="117" break="no"/>cas sine auxilio. patet de luce requisita ad 
+      produ<lb ed="#P" n="118" break="no"/>ctionem specierum in medio quae per regulam inueniende 
+      <!--122.xml-->
+      <pb ed="#P" n="54-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>causalitatis actiue concurrit ad productionem spe 
+      <lb ed="#P" n="2"/>cierum cum color sine luce producere nequit 
+      spe<lb ed="#P" n="3" break="no"/>cies color et lux producunt et hoc vult 
+      commentator<lb ed="#P" n="4" break="no"/>iii. de anima commento. xxxvi. non est maioris 
+      actiui<lb ed="#P" n="5" break="no"/>tatis ferre pondus duarum librarum cum auxilio vnius 
+      <lb ed="#P" n="6"/>quam vnius libre sine auxilio et trium cum duplici auxi 
+      <lb ed="#P" n="7"/>lio et sic consequenter sine statu. propterea conceditur a 
+      <lb ed="#P" n="8"/>gregorio quod intellectus separatus potest habere no 
+      <lb ed="#P" n="9"/>ticias tot actuales quot species habet cum a quali 
+      <lb ed="#P" n="10"/>bet iuuatur. Respondeo licet sic auxilum a quolibus 
+      <lb ed="#P" n="11"/>obiecto potentia semper magis et magis facit et tan 
+      <lb ed="#P" n="12"/>dem erit status eius actiuitatis secus est de latione potes 
+      <lb ed="#P" n="13"/>deris vbi potentia non plus conatur ferendo mille 
+      <lb ed="#P" n="14"/>libras cum. ix. c. xcix. ei equalibus quam ferendo vnam 
+      li<lb ed="#P" n="15" break="no"/>bram et sic non debilitatur potentia portatia sortis 
+      <lb ed="#P" n="16"/>plus iuuando ferre mille libras cum numero 
+      signa<lb ed="#P" n="17" break="no"/>to quam ferendo vnam sine ope simle est de luce ad con 
+      <lb ed="#P" n="18"/>productionem specierum / vel secundum alios est 
+      dispo<lb ed="#P" n="19" break="no"/>sitio requisita solum et forte non requiritur. patet. de 
+      <lb ed="#P" n="20"/>existente in tenebris qui potest alium in lumine vide 
+      <lb ed="#P" n="21"/>re sed in hoc non insisto. idem patet de sole et equo 
+      <lb ed="#P" n="22"/>et si essent infinita animalia secundum aristotelem cum quolibet 
+      <lb ed="#P" n="23"/>equaliter concurreret sol. et quicquid sit de 
+      verita<lb ed="#P" n="24" break="no"/>te conclusionis gregorii de qua alibi / sua probatio est 
+      <lb ed="#P" n="25"/>inefficax difficilius est intelligere mille noticias 
+      a<lb ed="#P" n="26" break="no"/>ctuales cum speciebus quam ducentas et sic compara 
+      <lb ed="#P" n="27"/>tio de latione lapidum est nulla. At forte dicis dixi 
+      <lb ed="#P" n="28"/>mus a pricipio huius digressiuncile visiones partium 
+      <lb ed="#P" n="29"/>se intendunt: ergo albedo magni corporis 
+      appare<lb ed="#P" n="30" break="no"/>bit maior quam parui et sic pars et totum non apparebum 
+      <lb ed="#P" n="31"/>vniformiter alba. Respondetur licet intensior sit vl 
+      <lb ed="#P" n="32"/>sio qua representatur totum quam pars non tamen 
+      in<lb ed="#P" n="33" break="no"/>tensius representatur totum / sicut alibi diximus noti 
+      <lb ed="#P" n="34"/>cia sortis et platonis se se intendunt sed non intensius 
+      <lb ed="#P" n="35"/>videtur sortes ob superuenientem platonis noticiam. 
+      <lb ed="#P" n="36"/>Forte dicis cumulus grani videtur et tamen nullum 
+      <lb ed="#P" n="37"/>granum videtur: ergo non inconuenit aliquod vnum 
+      <lb ed="#P" n="38"/>videri dato quod nulla pars eius videatur: ergo aggre 
+      <lb ed="#P" n="39"/>gatum duorum maximorum non sensibilium videbitur 
+      <lb ed="#P" n="40"/>et nulla medietas etiam in suo toto / hoc est verum 
+      <lb ed="#P" n="41"/>in magna intercapedine secus est dummodo est 
+      poten<lb ed="#P" n="42" break="no"/>tia bene disposita ad videndum in bona 
+      propin<lb ed="#P" n="43" break="no"/>quitate quantanlibet paruam partem videt et vnam di 
+      <lb ed="#P" n="44"/>scernit ab alia.
+    </p>
+            <p xml:id="JM7jmZ-d28633-d1e1382">
+      ¶ Secundo arguitur. habeat 
+      pres<lb ed="#P" n="45" break="no"/>biter nouem hostias coram se et intendatur consecrare 
+      <lb ed="#P" n="46"/>octo non tamen specificet intensionem 
+      determina<lb ed="#P" n="47" break="no"/>te ad has octo magis quam ad illas. Arguitur sic vel so 
+      <lb ed="#P" n="48"/>lum octo consecrat et patet quod non / non est maior ratio 
+      <lb ed="#P" n="49"/>quod has octo consecraret quam illas / et sic omnes vel nu 
+      <lb ed="#P" n="50"/>las. Forte dicis et ita dicendum est nullas 
+      conse<lb ed="#P" n="51" break="no"/>crat intensio illa confusa non sufficit sed 
+      determi<lb ed="#P" n="52" break="no"/>nata determinando se ad istas octo vel ad illas. 
+      <lb ed="#P" n="53"/>Contra. sequeretur quod presbiter nullam partem ho 
+      <lb ed="#P" n="54"/>stie consecrat quod non est dicendum. patet. 
+      inten<lb ed="#P" n="55" break="no"/>dit solum consecrare illam hostiam et non cogita 
+      <lb ed="#P" n="56"/>quicquam de partibus et tamen partes consecrat. Con 
+      <lb ed="#P" n="57"/>firmatur illud idem si presbiter ponat mille hostias 
+      <lb ed="#P" n="58"/>dummoo intendit eas omnes consecrare esto quod nesciat 
+      <lb ed="#P" n="59"/>numerum consecrat ergo ille similiter. Item po¬ 
+      <!--122.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="60"/>natur quod presbiter intendat consecrare totam 
+      ho<lb ed="#P" n="61" break="no"/>stiam catholice et nullam partem eius. Arguitur sic 
+      <lb ed="#P" n="62"/>presbiter consecrat partem et tamen non intendit 
+      <lb ed="#P" n="63"/>imo oppositum formaliter. Respondetur ad 
+      pri<lb ed="#P" n="64" break="no"/>mum argumentum vt arguendo dictum est quod nullas 
+      <lb ed="#P" n="65"/>consecrat / et arguendo tangitur causa. Ad replicam ne 
+      <lb ed="#P" n="66"/>go quod nullam partem hostie consecrat postquam 
+      inten<lb ed="#P" n="67" break="no"/>dit determinate consecrare hanc hostiam non 
+      opor<lb ed="#P" n="68" break="no"/>tet cogitare de partibus postquam totum non 
+      consecra<lb ed="#P" n="69" break="no"/>tur partibus non consecratis quando totum est pure tri 
+      <lb ed="#P" n="70"/>ticeum et nullam partem intendit excipere. Ad cen 
+      <lb ed="#P" n="71"/>firmationem conceditur quod presbiter habens mille 
+      <lb ed="#P" n="72"/>hostias eas consecrat dummoo intendit eas omnes 
+      con<lb ed="#P" n="73" break="no"/>secrare et nullam excipit postquam sunt omnes presen 
+      <lb ed="#P" n="74"/>tia sufficienti. Ad aliud argumentum vbi ponis quod 
+      <lb ed="#P" n="75"/>intendat presbiter consecrare totam bostiam et nuf 
+      <lb ed="#P" n="76"/>lam partem dicitur quod nichil consecrat propter repu 
+      <lb ed="#P" n="77"/>gnantiam cum modo quo corpus christi est in hostia. 
+      <lb ed="#P" n="78"/>Ex hiis patet. si presbiter velit consecrare vnam me 
+      <lb ed="#P" n="79"/>dietatem eucharistie vage ad nullam partem deter 
+      <lb ed="#P" n="80"/>minando nichil consecrat secus est si velit hanc partem 
+      <lb ed="#P" n="81"/>demonstrando medietatem prope se vel remotam 
+      <lb ed="#P" n="82"/>a se iam vnam medietatem praecise consecrat. Secundo 
+      <lb ed="#P" n="83"/>patet: si presbiter velit consecrare primam partem 
+      <lb ed="#P" n="84"/>proportionalem tertiam quintam et sic de ceteris imperibus 
+      <lb ed="#P" n="85"/>consecrat sine statu. non est putandum quod ibi sit 
+      sta<lb ed="#P" n="86" break="no"/>tus in maxima parte non sensibili vel minimo quod sic 
+      <lb ed="#P" n="87"/>quia quelibet pars est in suo toto licet ibi panes non 
+      <lb ed="#P" n="88"/>constituant vnum albedo tamen constituit esto quod 
+      par<lb ed="#P" n="89" break="no"/>tes impares panis consecrentur est aliquod vnum 
+      al<lb ed="#P" n="90" break="no"/>bedine cuius vna pars est in subiecto et altera extra 
+      <lb ed="#P" n="91"/>subiectum. Ex illo sequitur quod presbiter nunc de 
+      le<lb ed="#P" n="92" break="no"/>ge potest facere infinitam multitudinem rerum sepa 
+      <lb ed="#P" n="93"/>ratarum cathece infinitum. patet. quia ibi est secunda pars 
+      <lb ed="#P" n="94"/>proportionalis panis quarta sexta et sic consequen 
+      <lb ed="#P" n="95"/>ter per partes pares et ille partes non continuantur 
+      <lb ed="#P" n="96"/>quia inter omnes partes mediat corpus christi et licet 
+      <lb ed="#P" n="97"/>illud correlarium non satis mordenti videatur 
+      extra<lb ed="#P" n="98" break="no"/>neum Iprsum tamen cum fundamento iudicio meo est 
+      <lb ed="#P" n="99"/>verum. Si ponatur talis hostia ad latus calicis an cor 
+      <lb ed="#P" n="100"/>pus christi est propinqus calici quam panis potest esse 
+      <lb ed="#P" n="101"/>questio et dicitur quod quolibet pane ibi existentem 
+      cor<lb ed="#P" n="102" break="no"/>pus christi est propinquius quia corpus christi est inter 
+      <lb ed="#P" n="103"/>secundam partem proportionalem panisl et calice 
+      <lb ed="#P" n="104"/>inter quartam proportionalem et calicem et sic de qua 
+      <lb ed="#P" n="105"/>libet parte proportonali panis. Sed hic potenst esse 
+      <lb ed="#P" n="106"/>disceptatio an infinite partes proportionales panis 
+      <lb ed="#P" n="107"/>tangant calicem et nulla pars proportionalis panis 
+      <lb ed="#P" n="108"/>tangit calicem. Supponamus partes proportiona 
+      <lb ed="#P" n="109"/>les hostie minores accedere ad calicem. Sit secunda 
+      <lb ed="#P" n="110"/>propositio / nulla pars proportionalis hostie tangit 
+      <lb ed="#P" n="111"/>calicem. patet. nec hec nec illa et sic de singulis et 
+      <lb ed="#P" n="112"/>sic probabitur quod nullus panis tangit calicem. 
+      Ter<lb ed="#P" n="113" break="no"/>tia propositio infinita multitudo panum tangit 
+      cali<lb ed="#P" n="114" break="no"/>cem quando nullus panis tangit calicem. patet in 
+      <lb ed="#P" n="115"/>casu nostro ante consecrationem panis erat 
+      imme<lb ed="#P" n="116" break="no"/>diatus calici similiter tota albedo et si ipsa albedo 
+      es<lb ed="#P" n="117" break="no"/>set partita in partes proportionales minoribus 
+      ap<lb ed="#P" n="118" break="no"/>propinquantibus calici sine partitione partium pro¬ 
+      <!--123.xml-->
+      <pb ed="#P" n="54-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>portionalium iam nulla pars proportionalis 
+      albe<lb ed="#P" n="2" break="no"/>dinis tangit calicem et infinite tangunt calicem cum 
+      <lb ed="#P" n="3"/>nichil mediat inter calicem et albedinem si quelibtut 
+      <lb ed="#P" n="4"/>pars proportionalis separetur a toto parte remanet 
+      <lb ed="#P" n="5"/>te in simili situ sicut ante erat iam patet tertia propo 
+      <lb ed="#P" n="6"/>sitio. Quarta propositio. corpus christi est 
+      immedia<lb ed="#P" n="7" break="no"/>tum calici. patet. in infinitum propinquus calici est 
+      <lb ed="#P" n="8"/>aliquis panis in hac multitudine et quolibet pane 
+      <lb ed="#P" n="9"/>hoc corpus christi est propinquius: ergo in infinitum pro 
+      <lb ed="#P" n="10"/>pinquum est corpus christi calici cum singularisatur 
+      <lb ed="#P" n="11"/>terminus corpus consequentia est bena / si staret confuse 
+      tan<lb ed="#P" n="12" break="no"/>tum consequentia non haberet colorem vt patet sic 
+      arguen<lb ed="#P" n="13" break="no"/>do in infinitum propinque calici accedit vna pars 
+      pro<lb ed="#P" n="14" break="no"/>portionalis consecrata et qualibet parte 
+      proportio<lb ed="#P" n="15" break="no"/>nali consecrata panis est propinquior calici ergo 
+      ali<lb ed="#P" n="16" break="no"/>quis panis est infinite propinquus vel immediatus ca 
+      <lb ed="#P" n="17"/>lici nulla est apparentia in valore huius consequenti. At dicis 
+      <lb ed="#P" n="18"/>si presbiter moueat calicem versus maiores partes 
+      <lb ed="#P" n="19"/>proportionales vel prius pes calicis erit supra partem 
+      <lb ed="#P" n="20"/>proportionalem consecratam et illa est vltima vel su 
+      <lb ed="#P" n="21"/>per non consecratam et sequitur idem Propterea sit. quinta 
+      <lb ed="#P" n="22"/>propositio immediate post boc instans in quo sumus 
+      <lb ed="#P" n="23"/>quod est vltimum instans non esse motus pes calicis vi 
+      <lb ed="#P" n="24"/>cinior pertransibit duas partes proportionales tres 
+      <lb ed="#P" n="25"/>quattuor et sic sine statu et non prius consecratam quae 
+      <lb ed="#P" n="26"/>non consecratam. patet. quocumque instanti dato pos 
+      <lb ed="#P" n="27"/>boc instans pes calicis erit supra vnam partem 
+      pro<lb ed="#P" n="28" break="no"/>portionalem vel extra et inter illud et terminum a quo 
+      <lb ed="#P" n="29"/>mediant immunere partes proportionales igitur. 
+      <lb ed="#P" n="30"/>Si presbiter ponat vnam hostiam quam intendit 
+      com<lb ed="#P" n="31" break="no"/>secrare altero illam bostiam auferente presbitero 
+      <lb ed="#P" n="32"/>inscio sed aliam ponente petis an consecrat. dicitur quod 
+      <lb ed="#P" n="33"/>sic dummoo intensio eius est consecrare hoc quod est 
+      <lb ed="#P" n="34"/>ante se. Sed si aliquis ponat duas dummoo presbiter 
+      <lb ed="#P" n="35"/>credit quod est vna quarum vna ocultatur sub altera 
+      di<lb ed="#P" n="36" break="no"/>citur quod consecrat superiorem quia sua intensio est illan 
+      <lb ed="#P" n="37"/>consecrare: an presbiter consecret vinum in pede 
+      ca<lb ed="#P" n="38" break="no"/>licis vel in ora eiusdem vel hostiam in medio altari 
+      <lb ed="#P" n="39"/>videndum est de intentione ministri dato quod opinetur 
+      <lb ed="#P" n="40"/>panem ex punctis componi vel non dummodo intendit 
+      <lb ed="#P" n="41"/>consecrare ante se positum consecrat. Ex 
+      solutio<lb ed="#P" n="42" break="no"/>ne patet. si presbiter velit consecrare omnes hostias 
+      <lb ed="#P" n="43"/>ante se preter vnam nichil consecrat vna excipitur et no 
+      <lb ed="#P" n="44"/>est maior ratio de vna quam de alia: ergo nulla consecra 
+      <lb ed="#P" n="45"/>tur. Si velit consecrare eas omnes preter suprimam 
+      <lb ed="#P" n="46"/>vel infimam omnes ea dempta sunt consecrate. 
+      Eo<lb ed="#P" n="47" break="no"/>demmoo si duo presbiteri sic se habeant quod vnus vulti 
+      <lb ed="#P" n="48"/>consecrare vnam medietatem et alius aliam nichil 
+      <lb ed="#P" n="49"/>consecrant sed si vnus velit consecrare medietatem 
+      <lb ed="#P" n="50"/>vicinam sibi et eodemmoo alius consecrant illam hostiam 
+      <lb ed="#P" n="51"/>et tota est consecrata ab eis copulati / si presbiter ve 
+      <lb ed="#P" n="52"/>lit consecrare vnam tertiam vel quartam determi 
+      <lb ed="#P" n="53"/>natam bostie illam consecrat. si duo vel tres velini 
+      <lb ed="#P" n="54"/>eandem bostiam consecrare dummoo siml desinunt 
+      <lb ed="#P" n="55"/>in prolatione verborum quilibet eorum consecrat / si vnus 
+      <lb ed="#P" n="56"/>protulerit formam ante alios ille solus consecrat 
+      <lb ed="#P" n="57"/>nichil valet hoc si velit referre prolationem ad idem 
+      <lb ed="#P" n="58"/>instans quia tunc consecrans mane volens corpus christi es 
+      <lb ed="#P" n="59"/>se sub speciebus panis post meridiem hoc potest facere 
+      <!--123.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="60"/>omnes possunt proferre. dato quod vnus ante alium 
+      ter<lb ed="#P" n="61" break="no"/>minat prolationem quando dubitatur de 
+      consecra<lb ed="#P" n="62" break="no"/>tione hostie potest cathegorice consecrari. secus est in 
+      <lb ed="#P" n="63"/>baptismo eodemmoo in negotio nostro pricipali et ma 
+      <lb ed="#P" n="64"/>teria non est consecrabilis ab aliis cum nec est vinum 
+      <lb ed="#P" n="65"/>nec panis triticeus vt supra de baurismo diximus. 
+      <lb ed="#P" n="66"/>Sic etiam apparensiquis presbiter dicat super vino 
+      <lb ed="#P" n="67"/>hoc est corpus maum / nichil consecrat licet illa ma 
+      <lb ed="#P" n="68"/>teria sit consecrabilis non tamen per illam forman 
+      <lb ed="#P" n="69"/>eodemmoo dicendo super pane triticeo / hic est calix san 
+      <lb ed="#P" n="70"/>guinis mei non consecrat non est materia consecra 
+      <lb ed="#P" n="71"/>bilis per illam formam. dato quod idem contineatur in 
+      <lb ed="#P" n="72"/>vtroque sacramento. Sed contra totam solutionem. 
+      <lb ed="#P" n="73"/>arguitur. dictum est nichil consecrat quia vel omnes 
+      <lb ed="#P" n="74"/>vel nullas et non est maior ratio etc. calor corrumpit 
+      <lb ed="#P" n="75"/>vnum gradum frigoris in quarta parte hore: ergo 
+      <lb ed="#P" n="76"/>quemlibet vel aliquem et aliquem non vel nullum et no 
+      <lb ed="#P" n="77"/>tum est quod aliquem et aliquem non esto quod nos lateat 
+      <lb ed="#P" n="78"/>pari ratione debemus dicere quod octo consecrantur lib 
+      <lb ed="#P" n="79"/>cet lateat quae sunt ille octo. dicitur quod illa non est causa sed 
+      <lb ed="#P" n="80"/>deffectus intentionis determinate quod partialiter a 
+      <lb ed="#P" n="81"/>posteriori ostendimus quia vel consecrat omnes vel nul 
+      <lb ed="#P" n="82"/>las nec ad hoc currere debemus nisi quando 
+      vrge<lb ed="#P" n="83" break="no"/>mur potest fieri argumentum eo pacto quod venenum 
+      <lb ed="#P" n="84"/>consecrat. patet tenetur sumere si cadat in vinum hoc 
+      <lb ed="#P" n="85"/>est in species vini. Sed hoc negatur debet animal laua 
+      <lb ed="#P" n="86"/>ri et conburi si fuerit paruus serpens aranea vel mu 
+      <lb ed="#P" n="87"/>sca vel pluma et cineres conseruari in piscina et 
+      a<lb ed="#P" n="88" break="no"/>liud vinum consecrari. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

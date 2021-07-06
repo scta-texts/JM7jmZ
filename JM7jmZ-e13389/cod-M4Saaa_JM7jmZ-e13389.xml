@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 3 
+      Quod aliqui sunt
+      homines qui nec
+      salvabuntur nec
+      damnabuntur.
+    </title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 3 
+      Quod aliqui sunt
+      homines qui nec
+      salvabuntur nec
+      damnabuntur.
+    </title>
+               <date when="2021-07-06">July 06, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-M4Saaa">Paris 1509</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-06" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="204-r"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="JM7jmZ-e13389"><!-- l4d46q3 -->
+            <head xml:id="JM7jmZ-e13389-Hd1e108">Quaestio 3</head>
+            <head xml:id="JM7jmZ-e13389-Hd1e111" type="questio-title">
+      Quod aliqui sunt
+      homines qui nec
+      salvabuntur nec
+      damnabuntur.
+    </head>
+            <p xml:id="JM7jmZ-e13389-d1e114">
+               <lb ed="#P" n="66"/>¶ Distinctionis quadragesime sexte quaestio tertia. 
+      <lb ed="#P" n="67"/>Rhac tertia questione adhuc instabimus 
+      ali<lb ed="#P" n="68" break="no"/>quibus argumentis contra dicta in principio 
+      <lb ed="#P" n="69"/> huius quadragesime sexte distinctionis et hoc 
+      <lb ed="#P" n="70"/>sic aliqui sunt homines qui nec saluabuntur nec 
+      dam<lb ed="#P" n="71" break="no"/>nabuntur ergo pro meritis et demeritis eis non dabitur 
+      <lb ed="#P" n="72"/>primium et supplicium. antecedens patet demonstrando praedestinatum 
+      <lb ed="#P" n="73"/>et prescitum. Et confirmatur secundum legem discedens cum 
+      <lb ed="#P" n="74"/>quocumque mortali debet puniri infinita pena intensiue 
+      <lb ed="#P" n="75"/>et hoc non fit: igitur. assumptum patet peccans contra so 
+      <lb ed="#P" n="76"/>cium aliquali guitate peccat contra regentem plus 
+      pec<lb ed="#P" n="77" break="no"/>cat per eundem actum quam contra socium contra primarium plus 
+      <lb ed="#P" n="78"/>peccat quam contra regentem et sic gradatim conscendendo 
+      <lb ed="#P" n="79"/>per cancellarium / epraeos / reges / et infinita media pos 
+      <lb ed="#P" n="80"/>sibilia modo quodlibet tale creabile deus excedit 
+      er<lb ed="#P" n="81" break="no"/>go peccans cotra deum hoc est suum praeceptum transgre 
+      <lb ed="#P" n="82"/>diens infinite peccat quod eundem actum faciens contra ma 
+      <lb ed="#P" n="83"/>iorem plus peccat quam ipsum faciens contra inferiorem. patet 
+      <lb ed="#P" n="84"/>v. ethicorum. v. propterea nititur penam talionis pitago  
+      <lb ed="#P" n="85"/>ricorum reprehendere philosophus non valet dicere si sint 
+      ex<lb ed="#P" n="86" break="no"/>trema finita media erint finita. i. posteriorum in infinito 
+      <lb ed="#P" n="87"/>magnitudine. hoc verum habet non tamen in multitudine 
+      <lb ed="#P" n="88"/>Respondetur concedendo quod aliqui nec saluabuntur 
+      <lb ed="#P" n="89"/>nec dannabuntur diuisiue ista est vera isti non saluabum 
+      <lb ed="#P" n="90"/>tur est vna negatiua non pregnans cuius extrema non 
+      <lb ed="#P" n="91"/>supponunt pro eodem vel eisdem ergo vera. Insuper ad  
+      <lb ed="#P" n="92"/>veritatem huius negatiue sufficit quod iste vel ille non 
+      sal<lb ed="#P" n="93" break="no"/>uabitur disiunctiue. quod patet ad veritatem affirmati 
+      <lb ed="#P" n="94"/>ue requiritur quod iste et iste saluabitur copulatiue de modn 
+      <lb ed="#P" n="95"/>strando eos omnes modo sicut copulatiua affirma 
+      <lb ed="#P" n="96"/>tiua et disiunctiua composita ex partibus 
+      contradicen<lb ed="#P" n="97" break="no"/>tibus contradicunt in forma vel in valore sic si vna pro 
+      <lb ed="#P" n="98"/>positio requirit copulatiuam que sufficit ad eius veri 
+      <lb ed="#P" n="99"/>ficationem alia disiunctiuam concommnitatur. isti tamen salua 
+      <lb ed="#P" n="100"/>buntur et dannabuntur copulatim. dicis ex isto sequi 
+      <lb ed="#P" n="101"/>tur quod plures sunt non dannati quam dannati cuius opposi 
+      <lb ed="#P" n="102"/>tum ante innuimus. patet. demonstrando omnes mortuos 
+      <lb ed="#P" n="103"/>ista est vera isti non sunt dannati et isti sunt palores quam dan 
+      <lb ed="#P" n="104"/>nati. dico plures sunt non dannati quam dannati sed non sunt 
+      <lb ed="#P" n="105"/>plures homines saluati quam dannati sufficit quilibet homo 
+      <lb ed="#P" n="106"/>est saluatus vel dannatus vel erit in sensu composito. Ad  
+      <lb ed="#P" n="107"/>aliud argumentum conceditur quod semper peccans con 
+      <lb ed="#P" n="108"/>tra maiorem plus peccat sed quia non semper inter 
+      <lb ed="#P" n="109"/>quoscumque duos seruatur equalis latitudo non conclu 
+      <lb ed="#P" n="110"/>ditur quod peccatum contra deum est infinite malicie in deacce 
+      <lb ed="#P" n="111"/>ptibilitate sic scilicet quod infinita pena in gradu tali pecca 
+      <lb ed="#P" n="112"/>to respondeat. Insuper peccatum cotra socium est 
+      com<lb ed="#P" n="113" break="no"/>tra deum et quelibet transgressio inferiorum est contra 
+      <lb ed="#P" n="114"/>deum. hac via concludetur quodlibet continuum est infini 
+      <lb ed="#P" n="115"/>tum accepta vna parua parte datur vna pars 
+      ma<lb ed="#P" n="116" break="no"/>ior illa et quacumque demonstrata datur maior illa et to¬ 
+      <!--423.xml-->
+      <pb ed="#P" n="204-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>tum qualibet est maius hac via concludam circulum quem 
+      <lb ed="#P" n="2"/>libet esse infinite continentie quia ex eisdem lineis 
+      equali<lb ed="#P" n="3" break="no"/>bus tetragonus plus continet quam trigonus et sexagonu 
+      <lb ed="#P" n="4"/>plus quam pentagonus et sic ascedendo per figuras pol 
+      <lb ed="#P" n="5"/>gonias ex multitudine angulorum vsus circulum au 
+      <lb ed="#P" n="6"/>getur capacitas ex hiis non concluditur figura agona 
+      <lb ed="#P" n="7"/>infinite capacitatis accipito analogiam in noticia dei 
+      <lb ed="#P" n="8"/>que est finita entitas et tamen inter deum et hanc formi 
+      <lb ed="#P" n="9"/>cam creabiles sunt infinite substantie imperfectiores 
+      <lb ed="#P" n="10"/>deo et formica perfectiores inter illas substantias non 
+      <lb ed="#P" n="11"/>datur perfectissimarum noticia loquor de noticia 
+      sub<lb ed="#P" n="12" break="no"/>stantiarum creatarum et tamen qualibet earum noticia dei est 
+      <lb ed="#P" n="13"/>perfectior que non propterea est infinite perfecta et sicut 
+      <lb ed="#P" n="14"/>illa consequentia non tenet in rebus specie distinctis sed hic est 
+      <lb ed="#P" n="15"/>distinctio accidentaria sufficiens in discrimen peccatorum 
+      <lb ed="#P" n="16"/>Insuper est difficile signare equalem excessum 
+      infini<lb ed="#P" n="17" break="no"/>torum in aliis rebus comparabilibus consequentia est bona vt non 
+      <lb ed="#P" n="18"/>datur maxima quantitas in hac multitudine 
+      demon<lb ed="#P" n="19" break="no"/>strando pedale bipedale tripedale quadrupedale et 
+      <lb ed="#P" n="20"/>sic sine statu et quolibet istorum a est maius ergo a est 
+      <lb ed="#P" n="21"/>infinite magnum. sic probabo quod dabis michi librum tui 
+      <lb ed="#P" n="22"/>in fine quattuor annorum cum vno scuto in fine primi an 
+      <lb ed="#P" n="23"/>ni defalcabis libram parisiensem in secundo tantum et si 
+      <lb ed="#P" n="24"/>consequenter et sic dabis librum gratis cum pecunia si 
+      <lb ed="#P" n="25"/>proportionabiliter decrescat precium non nego quin 
+      <lb ed="#P" n="26"/>deus potest infligere iuste infinitam penam in gradu pro 
+      <lb ed="#P" n="27"/>quolibet peccato sed ex sua misericordia et lege posi 
+      <lb ed="#P" n="28"/>ta hoc non facit. at dicis est magna pena infligere 
+      <lb ed="#P" n="29"/>penam infinitam extensiue pro peccato momentaneo. ad bc 
+      <lb ed="#P" n="30"/>respondit beatus gregorius in moralibus super illo 
+      v<lb ed="#P" n="31" break="no"/>bo. iob. xli. Estimabit abissum et allegatur de peni. d. i. 
+      <lb ed="#P" n="32"/>voluissent. peccatum perpetuo manet cum non dimittitur 
+      <lb ed="#P" n="33"/>in hac via et sic pro perpetuo peccato infinita pen 
+      <lb ed="#P" n="34"/>extensiue infligitur. rursus pro vno actu 
+      momenta<lb ed="#P" n="35" break="no"/>neo inter homines homo mittitur in exilium perpetuo et si 
+      <lb ed="#P" n="36"/>semper viueret ita maneret. sic dicit beatus augusti 
+      <lb ed="#P" n="37"/>inus. xxi. deciuitate dei. xi. octo gontona penarum ex tu 
+      <lb ed="#P" n="38"/>lio allegans dannum vincula carceres talionem ignomi 
+      <lb ed="#P" n="39"/>niam exilium mortem seruitutem nullum eorum nisi mors 
+      <lb ed="#P" n="40"/>potest in ita breui tempore infligi sicut peccatum erat 
+      <lb ed="#P" n="41"/>factum vtraque solutio est bona.
+    </p>
+            <p xml:id="JM7jmZ-e13389-d1e322">
+      ¶ Secundo argume 
+      <lb ed="#P" n="42"/>tor pro quolibet mortali peccato erit infinitus 
+      crucia<lb ed="#P" n="43" break="no"/>tus. Arguitur sic quelibet pars huius mortalis es 
+      <lb ed="#P" n="44"/>peior hoc veniali dato vel sic cuiuslibet partis pro 
+      <lb ed="#P" n="45"/>portionalis pena huius mortalis est peior quam pena 
+      <lb ed="#P" n="46"/>huius venialis. sed huius venialis pena est alicuius 
+      <lb ed="#P" n="47"/>cruciatus ergo pena totalis huius mortalis est infi 
+      <lb ed="#P" n="48"/>niti cruciatus siue in gradu siue non. parum refert ni 
+      <lb ed="#P" n="49"/>timur probare quod infinite crucietur. quod consequentia 
+      <lb ed="#P" n="50"/>valeat patet in omni materia si a est alicuius quantite 
+      <lb ed="#P" n="51"/>tis et quelibet pars huius continui est maior a iam con 
+      <lb ed="#P" n="52"/>tinuum est infinite magnum. dico consequentiam 
+      princi<lb ed="#P" n="53" break="no"/>palem nichil valere in rebus diuersarum specierun 
+      <lb ed="#P" n="54"/>hoc non tenet sicut non sequitur quelibet pars 
+      propor<lb ed="#P" n="55" break="no"/>tionalis huius albedinis hac nigredine demonstran 
+      <lb ed="#P" n="56"/>do nigredinem in pupilla oculi cui est perfectior et hec 
+      <lb ed="#P" n="57"/>nigredo est alicuius perfectionis ergo totalis albedo 
+      <lb ed="#P" n="58"/>est infinite perfecta. si dicas tunc eneruo vnam 
+      ratio<lb ed="#P" n="59" break="no"/>nem in materia de ebrietate in infinitum parum aliquis isto 
+      <!--423.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="60"/>rum peccat et hoc peccatum quolibet aliorum est 
+      mi<lb ed="#P" n="61" break="no"/>nus etc. non putabam illam rationem insolubilem sed 
+      ca<lb ed="#P" n="62" break="no"/>sum vtcumque munire cum aliis rationibus curauimus. di 
+      <lb ed="#P" n="63"/>cis tunc si in infinitum parua pena respondet alicui pari 
+      <lb ed="#P" n="64"/>puius mortalis et quelibet pars peccati mortalis se 
+      <lb ed="#P" n="65"/>cundum intensionem est peccatum mortale pena peccati 
+      <lb ed="#P" n="66"/>venialis erit equaliter intensa quod inconuenit: nego hoc 
+      <lb ed="#P" n="67"/>inconuenire sicut stat dare nigredinem in vngue ethio 
+      <lb ed="#P" n="68"/>pis esse equaliter intensam in gradu cum albedine sui 
+      <lb ed="#P" n="69"/>dentis sed non equaliter perfectam sed aimaduersione non 
+      <lb ed="#P" n="70"/>indignum est non quelibet pars pene huius in 
+      purga<lb ed="#P" n="71" break="no"/>torio plus cruciat quam pena huius viatoris puta coli 
+      <lb ed="#P" n="72"/>ca passio patet in infinitum parua est aliqua pars hu 
+      <lb ed="#P" n="73"/>ius pene purgatorii sufficit quod totalis pena purgato 
+      <lb ed="#P" n="74"/>rii istam colicam passionem in acerbitate exuperat nec 
+      <lb ed="#P" n="75"/>oportet de totali si vnus praesbiter diceret pro centum sil 
+      <lb ed="#P" n="76"/>quolibet die vnam missam pro eis omnibus et cuilibet suf 
+      <lb ed="#P" n="77"/>ficeret vna missa pena totalis istorum ante finem 
+      mul<lb ed="#P" n="78" break="no"/>tum remittetur. Existo patet stat dare penam debitam 
+      <lb ed="#P" n="79"/>furto simplici esse equalem in gradu cum pena alicuius 
+      <lb ed="#P" n="80"/>odii dei. patet. cum vna parua parte odii et etiam in cru 
+      <lb ed="#P" n="81"/>ciatu et in acerbitate alioquin totalis pena odii erit 
+      <lb ed="#P" n="82"/>infinite acerbitatis: sed dicis differunt in specie. pro 
+      <lb ed="#P" n="83"/>pterea non sunt comparabiles. Respondetur stilus et 
+      <lb ed="#P" n="84"/>acetum comparantur in perfectionem entitatiua non tamen 
+      <lb ed="#P" n="85"/>in acutie. quo fit stat aliquem discedentem in mortali es 
+      <lb ed="#P" n="86"/>veniali puniri equaliter in gradu cum duobus 
+      mor<lb ed="#P" n="87" break="no"/>talibus.
+    </p>
+            <p xml:id="JM7jmZ-e13389-d1e429">
+      ¶ Tertio argumentor alicui peccato secundum 
+      <lb ed="#P" n="88"/>legem statutam respondet infinita pena intensiue sed 
+      <lb ed="#P" n="89"/>illa non infligetur: igitur. assumptum patet. odiat deum 
+      <lb ed="#P" n="90"/>sortes pro tempore quo tenetur eum diligere et plato omit 
+      <lb ed="#P" n="91"/>tat tunc sic peccato platonis respondet aliqua 
+      pe<lb ed="#P" n="92" break="no"/>na in inferno et est alicuius malicie in infinitum peius 
+      <lb ed="#P" n="93"/>est peccatum sortis. quod patet. sit suum odium inten 
+      <lb ed="#P" n="94"/>sum vt quattuor ponantur infiniti ad imaginationem 
+      <lb ed="#P" n="95"/>quorum quilibet odiat deum sortes vt quattuor cicero 
+      <lb ed="#P" n="96"/>vt duo petrus vt vnum et sic in abissum geometrice tunc 
+      <lb ed="#P" n="97"/>sic quodlibet istorum odiorum est peius omissione pla 
+      <lb ed="#P" n="98"/>tonis sortes peccat vno peccato omnia hec includente 
+      <lb ed="#P" n="99"/>igitur vel non est opus ponere infinitatem hominum 
+      <lb ed="#P" n="100"/>sed sic ducatur argumentum quelibet pars 
+      propor<lb ed="#P" n="101" break="no"/>tionalis huius odii est peius quam hec omissio quia eam 
+      <lb ed="#P" n="102"/>includit et aliquid aliud et omissio est alicuius cert 
+      <lb ed="#P" n="103"/>malicie ergo hoc odium est infinite malicie quod sit ali 
+      <lb ed="#P" n="104"/>qua pura omissio alibi ostensum est.
+    </p>
+            <p xml:id="JM7jmZ-e13389-d1e469">
+      ¶ Ad hoc 
+      argu<lb ed="#P" n="105" break="no"/>mentum respondetur negando assumptum et nego quod quae 
+      <lb ed="#P" n="106"/>libet pars illius commissionis sit peior hac omissione 
+      <lb ed="#P" n="107"/>segregando omissionem imbibitam in commissione sed qui 
+      <lb ed="#P" n="108"/>libet illorum committens per odium dei grauius peccat quam 
+      <lb ed="#P" n="109"/>omittens sed hoc non solum ortum habet a commissione cum 
+      <lb ed="#P" n="110"/>quilibet odiens omittit hic potest esse replica omissio 
+      <lb ed="#P" n="111"/>naturaliter inuoluitur in commissione ergo non 
+      impu<lb ed="#P" n="112" break="no"/>tatur. consequentia patet non alias dicimus continuatio 
+      <lb ed="#P" n="113"/>nem naturalem actus mali eliciti in instanti non esse 
+      <lb ed="#P" n="114"/>imputabilem. Respondeo si hoc probare niteris 
+      <lb ed="#P" n="115"/>argumentum principale attenuas si omissio 
+      culpa<lb ed="#P" n="116" break="no"/>bilis non inuoluatur in quolibet actu odiendi non 
+      <lb ed="#P" n="117"/>habebis quanlibet partem illius odii peiorem hac 
+      <lb ed="#P" n="118"/>omissione.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

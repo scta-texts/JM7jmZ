@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 13</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 13</title>
+               <date when="2021-07-06">July 06, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-M4Saaa">Paris 1509</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-06" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="91-r"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="JM7jmZ-d50301"><!-- l4d15q13 -->
+            <head xml:id="JM7jmZ-d50301-Hd1e108">Quaestio 13</head>
+            <head xml:id="JM7jmZ-d50301-Hd1e111" type="question-title">
+      An dissuadens alicui
+      intrare religionem tenetur
+      intrare religionem illo
+      nolente postea intrare
+    </head>
+            <p xml:id="JM7jmZ-d50301-d1e114">
+               <lb ed="#P" n="44"/>¶ Distinctionis decime quinte questio decima tertia. 
+      <lb ed="#P" n="45"/>DEcimo tertio queritur an dissuadens alicui 
+      <lb ed="#P" n="46"/>intrare religionem tenetur intrare religio 
+      <lb ed="#P" n="47"/>Unem illo nolente postea intrare.
+    </p>
+            <p xml:id="JM7jmZ-d50301-d1e125">
+      Respon. 
+      <lb ed="#P" n="48"/>detur multiphariam quis dissuadet alicui intrare re 
+      <lb ed="#P" n="49"/>ligionem vel quia iudicat illum qui dissuadet ineptum in 
+      <lb ed="#P" n="50"/>trare religionem vel credit esse vtilius huic pro ten 
+      <lb ed="#P" n="51"/>pore dare operam litteris vt sit maior fructus in 
+      ec<lb ed="#P" n="52" break="no"/>clesia dei ratione istius vel pro salute anime quam dissua 
+      <lb ed="#P" n="53"/>dens procurat ab isto quia eum erudit in via morum vel 
+      <lb ed="#P" n="54"/>eum nutrit et sic dissuadens non peccat: ergo alio postea 
+      <lb ed="#P" n="55"/>nolente religionem intrare dissuadens non obligabitur 
+      <lb ed="#P" n="56"/>si hoc faciat maliuolentia contra religionem (quod raro 
+      <lb ed="#P" n="57"/>accidit) suadeat postea illi intrare religionem quod si 
+      <!--196.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="58"/>noluerit studeat habere alium qui religionem ingredia 
+      <lb ed="#P" n="59"/>tur quem si reperire nequit ipe tenetur intrare secundum 
+      <lb ed="#P" n="60"/>aliquos exemplo raymundi dissuadentis cuidam 
+      no<lb ed="#P" n="61" break="no"/>uicio stare in religione quo volente religionem intra 
+      <lb ed="#P" n="62"/>uit predictus raymundus. Item qui ordinat seruum 
+      <lb ed="#P" n="63"/>alicuius in presbiterum tenetur ad estimationem 
+      ser<lb ed="#P" n="64" break="no"/>ui et inferius in sacramento ordinis patebit proba 
+      <lb ed="#P" n="65"/>tiones iste non ostendunt propositum vt ompinor. for 
+      <lb ed="#P" n="66"/>te raymundus libere intrauit et si fecit conscientiam 
+      <lb ed="#P" n="67"/>quod tenebatur intrare ei imputetur aliqua conscientia 
+      <lb ed="#P" n="68"/>erronea non nocet habenti sed prodest secunda 
+      ra<lb ed="#P" n="69" break="no"/>tio de seruo ordiato non concludit vmo citius contra facto 
+      <lb ed="#P" n="70"/>es: contra dominum ibi est iniuria auferendo alienum vel iprsum 
+      <lb ed="#P" n="71"/>indisponendo ad seruitia antiqua cum in casu nostro 
+      <lb ed="#P" n="72"/>iste nunquam fuit religiosus dato quod esset nouitius a 
+      re<lb ed="#P" n="73" break="no"/>ligione hac nichil tollitur multum refert prope habere 
+      <lb ed="#P" n="74"/>et habere actu impediens idoneum ab assecutione 
+      be<lb ed="#P" n="75" break="no"/>neficii habendi non tantum peccat ac si eum priuaret ab ha 
+      <lb ed="#P" n="76"/>bito. insuper forte iste ita bene viuit praesbiter vel 
+      lai<lb ed="#P" n="77" break="no"/>cus in seculo sicut vixisset in religione licet tota reli 
+      <lb ed="#P" n="78"/>gio sit melior quam non religio stat plerosque non religio 
+      <lb ed="#P" n="79"/>sos esse multis religiosis meliores si suaderem sorti 
+      <lb ed="#P" n="80"/>polenti intrare conuentum beate marie de monte carme 
+      <lb ed="#P" n="81"/>o intrare ordinem augustinensium an propterea essem obli 
+      <lb ed="#P" n="82"/>gatus intrare pro eo carmelitas. dicis vtrumque istorum 
+      <lb ed="#P" n="83"/>est licitum sic licitum est huic stare in saeculo homo non semper 
+      <lb ed="#P" n="84"/>tenetur ad melius suadeat illi intrare vel studeat ha 
+      <lb ed="#P" n="85"/>bere alium vel recompenset conuentui secundum iudicium pru 
+      <lb ed="#P" n="86"/>dentum. Eodem moo si quis induxit aliquem ad peccandum 
+      <lb ed="#P" n="87"/>peniteat et studeat eum reuocare ad viam veritatis vel 
+      <lb ed="#P" n="88"/>si virgini fecit iniuriam eam deflorando reparet 
+      secun<lb ed="#P" n="89" break="no"/>dum iudicium prudentum. illud exodi. xxii. nunc non 
+      li<lb ed="#P" n="90" break="no"/>gat sed satis accedit ad lumen naturale et potissimum 
+      <lb ed="#P" n="91"/>vbi virgo fuit honesta et est et erat illusa ab isto. sed  
+      <lb ed="#P" n="92"/>dicis cum hic loquuti sumus de religioso quomodo tene 
+      <lb ed="#P" n="93"/>tur ad restitutionem illicite consumptorum cum nichil 
+      ha<lb ed="#P" n="94" break="no"/>beat. respondetur viuat artius et studeat per amicos le 
+      <lb ed="#P" n="95"/>cturam vel contionem facere recompensam. Sed hic du 
+      <lb ed="#P" n="96"/>bitatur quodo mulier nobilis habens drimogenitum 
+      spu<lb ed="#P" n="97" break="no"/>rium quem dominus eques auratus comes vel habens amplum 
+      <lb ed="#P" n="98"/>patrimonium credit esse suum constat mulieri de 
+      opposi<lb ed="#P" n="99" break="no"/>to et loquamur in britannia vbi in vtroque regno 
+      primo<lb ed="#P" n="100" break="no"/>genitus succedit in toto videtur quod hec mulier 
+      mane<lb ed="#P" n="101" break="no"/>bit in peccato permittit filium alterius ignobilis forte 
+      <lb ed="#P" n="102"/>succedere in patrionio secundo genitus est verus he 
+      <lb ed="#P" n="103"/>res. si dicas consulendus est intrare religionem vel ca 
+      <lb ed="#P" n="104"/>vere ordines sacros incassum laborabis: si dicas ei quod 
+      <lb ed="#P" n="105"/>sit spurius non tenetur assentire nec assentiet dicet 
+      ma<lb ed="#P" n="106" break="no"/>tri facile crediderim vos impudicam sed non credo quin 
+      <lb ed="#P" n="107"/>rum filius talis domini quare non reputastis me spurium a pri 
+      <lb ed="#P" n="108"/>cipio quare debeam plus credere nunc quam a principio. si 
+      <lb ed="#P" n="109"/>dicat viro forte recidetur et reddet se infamen et eius 
+      <lb ed="#P" n="110"/>peccatum est occultum. Respondetur si mulier vi 
+      <lb ed="#P" n="111"/>deat filium talis conditionis quod acquiescet ei 
+      dicen<lb ed="#P" n="112" break="no"/>ti et habuerit strictam conscientiam potest dicere filio et 
+      <lb ed="#P" n="113"/>suggerere ei intrare religionem vel capere ordines si 
+      <lb ed="#P" n="114"/>videat virum clementem et quod ipsa non est in 
+      ali<lb ed="#P" n="115" break="no"/>quo periculo occisionis potest dicere viro casum 
+      ra<lb ed="#P" n="116" break="no"/>tionabilius est quod fama sua que est mala meretrix 
+      <!--197.xml-->
+      <pb ed="#P" n="91-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>quopericulo occisionis potest dicere viro casum 
+      ra<lb ed="#P" n="2" break="no"/>tionabilius est quod fama sua que est mala meretrix 
+      <lb ed="#P" n="3"/>propaletur viro quam verus heres careat hereditati. 
+      <lb ed="#P" n="4"/>Si videat virum terribilem et filium large con 
+      <lb ed="#P" n="5"/>scientie neutri dicat diminuat de bonis communibus 
+      <lb ed="#P" n="6"/>quantum potest et bene loquatur de secundo genito patr 
+      <lb ed="#P" n="7"/>dans pecuniam vt emat terras secundo genito. et quid 
+      <lb ed="#P" n="8"/>quid potest colligere ad partem det illi si sciat bene 
+      pe<lb ed="#P" n="9" break="no"/>cuniam disponere et licet spurius succedat in maiore parte 
+      <lb ed="#P" n="10"/>mulier non potest adhibere aliud remedium ipsa est in 
+      <lb ed="#P" n="11"/>ter duo de seruanda fama et propria vita et ne mari 
+      <lb ed="#P" n="12"/>tus committat vxoricidium ex vna parte et de restituo 
+      <lb ed="#P" n="13"/>da hereditate ex altera parte flectat se ad minus non 
+      <lb ed="#P" n="14"/>restituendo hereditatem et doleat quod ipsa est 
+      impossi<lb ed="#P" n="15" break="no"/>bilitata et sic ipsa non est amplius in peccato est apparem 
+      <lb ed="#P" n="16"/>tia quod ipsa in articulo mortis congreget duos vel tres 
+      <lb ed="#P" n="17"/>sacerdotes vel viros probos dicens eis casum si ipsa 
+      <lb ed="#P" n="18"/>viuat quod taceant sinautem si ipsa moriatur quod illi tres v 
+      <lb ed="#P" n="19"/>ro significent sed iterum in oppositum est apparentia vix 
+      <lb ed="#P" n="20"/>illis tribus dabitur fides. item nec mulieri quae tenuit isti 
+      <lb ed="#P" n="21"/>legittimum a principio essent lites inter virum et pentes 
+      <lb ed="#P" n="22"/>vxoris forte nullum aliorum crederet legittimum tabe 
+      <lb ed="#P" n="23"/>sceret tristicia et occideret spurium plano marte vl 
+      <lb ed="#P" n="24"/>dolo. propterea in toto vtatur mulier consilio sapien 
+      <lb ed="#P" n="25"/>tum confessorum duorum vel trium quibus ipa confitebitur 
+      <lb ed="#P" n="26"/>delictum qui nouerut conditionem viri et spurii quia secun 
+      <lb ed="#P" n="27"/>dum hoc variande sunt responsiones. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

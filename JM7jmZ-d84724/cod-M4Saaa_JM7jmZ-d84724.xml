@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 4</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 4</title>
+               <date when="2021-07-06">July 06, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-M4Saaa">Paris 1509</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-06" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="153-r"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="JM7jmZ-d84724"><!-- l4d27q4 -->
+            <head xml:id="JM7jmZ-d84724-Hd1e108">Quaestio 4</head>
+            <head xml:id="JM7jmZ-d84724-Hd1e111" type="question-title">
+      An licet
+      dispensare cum
+      bigamo
+    </head>
+            <p xml:id="JM7jmZ-d84724-d1e114">
+               <lb ed="#P" n="52"/>¶ Distinctionis vigesime septime questio quarta. 
+      <lb ed="#P" n="53"/>CIrca eandem distinctionem quarto quero an 
+      <lb ed="#P" n="54"/>in licet dispensare cum bigamo.
+    </p>
+            <p xml:id="JM7jmZ-d84724-d1e123">
+      Pro solutione 
+      <lb ed="#P" n="55"/>Oquestionis notabis Digamus dicitur a bis 
+      <lb ed="#P" n="56"/>et gamus mulier quasi binas habens vxores sicui 
+      <lb ed="#P" n="57"/>monogamus vnius vxoris vir bigamia sex modis 
+      <!--320.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="58"/>contrahitur non ponendo discrimen inter bigamsas 
+      <lb ed="#P" n="59"/>veram vel interpretatiuam: primo cum quis habuerit sud 
+      <lb ed="#P" n="60"/>cessiue duas vxores legittias et quanlibet earum 
+      co<lb ed="#P" n="61" break="no"/>gnouit. xviii. q. vlti. c. acutus. Secundo quando variis 
+      tempori<lb ed="#P" n="62" break="no"/>bus quis habuerit duas vxores vnam de iure aliam de 
+      <lb ed="#P" n="63"/>facto. de big. nuper. Tertio quando quis habet plures vxo 
+      <lb ed="#P" n="64"/>res simul vnam de iure / alteram de facto cognitas. 
+      <lb ed="#P" n="65"/>Quarto quando contrahitur cum vidua et quelibet cor 
+      <lb ed="#P" n="66"/>rupta vocatur vidua: quod patet si contineat meretrix 
+      <lb ed="#P" n="67"/>ipsa est casta non castitate coniugali nec virginali et 
+      <lb ed="#P" n="68"/>go viduali: quod ibi sit bigamia. xxxiii. d. c. maritum. 
+      <lb ed="#P" n="69"/>et extra de biga. c. debitum. Quinto quando cognoscitur 
+      <lb ed="#P" n="70"/>propria vxor cum ipsa est cognita ab alio. xxxiiii. d. si 
+      <lb ed="#P" n="71"/>cuius. Sexto quando post votum sollenne continentie con 
+      <lb ed="#P" n="72"/>trahitur de facto licet non possit de iure. xxi. q. i. quot 
+      <lb ed="#P" n="73"/>quot. Quo fit concubinarius cum vna vel pluribus in 
+      <lb ed="#P" n="74"/>sacris vel non sacris regulariter vel seculariter num 
+      <lb ed="#P" n="75"/>quam fit bigamus cum non est matrionium existens nec 
+      <lb ed="#P" n="76"/>apparens hoc est nec verum nec presumptum. extra eo 
+      <lb ed="#P" n="77"/>dem. c. penulti. nemo est iudicandus bigamus nisi vbi 
+      <lb ed="#P" n="78"/>est expresse repertum de spon. cum apud. Secundo patet: 
+      <lb ed="#P" n="79"/>velle cognoscere plures vxoratas nisi sequatur 
+      es<lb ed="#P" n="80" break="no"/>fectus non arguit bigamiam. Tertio patet: vnum 
+      cog<lb ed="#P" n="81" break="no"/>scere plures non arguit bigamiam: patet cognoscen 
+      <lb ed="#P" n="82"/>do non vxores suas. Quarto patet: quis per eundem 
+      <lb ed="#P" n="83"/>actum incurrit bigamiam et contrahit matrimonium 
+      <lb ed="#P" n="84"/>patet post sponsalia de futuro cognoscendo viduam 
+      <lb ed="#P" n="85"/>actu maritali. Quinto patet maior bigamia venit ex per 
+      <lb ed="#P" n="86"/>te mulieris quam ex parte viri licet solus vir bigamus nominetur. 
+      </p>
+            <p xml:id="JM7jmZ-d84724-d1e199">
+               <lb ed="#P" n="87"/>¶ Dis praenotatis conclusiue respondetur: romanus ponti 
+      <lb ed="#P" n="88"/>fex potest dispensare cum bigamo vt conscendat ad ordi 
+      <lb ed="#P" n="89"/>nes. Secunda conclusio non licet bigamo cape ordines sine dis 
+      <lb ed="#P" n="90"/>pensatione. i. peccat capiendo.
+    </p>
+            <p xml:id="JM7jmZ-d84724-d1e211">
+      ¶ Tertia conclusio 
+      baptis<lb ed="#P" n="91" break="no"/>mus non tollit bigamiam. Prima conclusio probatur 
+      <lb ed="#P" n="92"/>in quolitet iure positiuo pure humano potest maximus 
+      <lb ed="#P" n="93"/>pontifex dispensare: sed sic est de promotione bigami 
+      <lb ed="#P" n="94"/>quod patet: non est plus contra ius nature quod bigamus 
+      pro<lb ed="#P" n="95" break="no"/>moueatur quam quod monagomus nec principium practicum eui 
+      <lb ed="#P" n="96"/>dens ex terminis nec conclusio inde deducibilis nec 
+      <lb ed="#P" n="97"/>contra ius diuinum vt dicetur in solutione vnius argunm 
+      <lb ed="#P" n="98"/>ti. hoc patet. l. d. c. quicunque penitens. Secunda conclusio patet 
+      <lb ed="#P" n="99"/>ex. de biga. c. de bigamis. quilicet per bigamiam efficitur 
+      ir<lb ed="#P" n="100" break="no"/>regularis. xxxiii. d. c. maritum. xxxiiii. d. c. coquscamus 
+      <lb ed="#P" n="101"/>et. c. sequenti. ibi est defectus vnius sacramenti christus vnicus 
+      <lb ed="#P" n="102"/>vnice ecclesie contrahitur. xxvi. d. acutus propter suspitionem 
+      <lb ed="#P" n="103"/>future incontinentie. lxxxii. d. proposuisti. in fine talis 
+      <lb ed="#P" n="104"/>non potest esse orator castitatis. xxvi. d. vna. §. bigamus. 
+      </p>
+            <p xml:id="JM7jmZ-d84724-d1e244">
+               <lb ed="#P" n="105"/>¶ Tertia conclusio patet. xxxiiii. d. c. si quis viduam. xxvi. d. acu 
+      <lb ed="#P" n="106"/>tius. et. c. vna. xxviii. q. iii. acutius. hoc communiter reliquit 
+      <lb ed="#P" n="107"/>modus beati hiero.
+    </p>
+            <p xml:id="JM7jmZ-d84724-d1e253">
+      ¶ Contra primam conclusionem arguitur sic: 
+      <lb ed="#P" n="108"/>non licet romano potifici dispensare contra ius diuinum sed  
+      <lb ed="#P" n="109"/>bigamum promoueri ad ordies est contra ius diuinum. 
+      <lb ed="#P" n="110"/>i. ad thinothe. iii. oportet cprisum esse irrephensibilem vnius 
+      vxo<lb ed="#P" n="111" break="no"/>ris virum. ergo bigamus prohibetur promoueri ad ordines. 
+      </p>
+            <p xml:id="JM7jmZ-d84724-d1e264">
+               <lb ed="#P" n="112"/>¶ Insuper contra secundam conclusionem argumentor: qui 
+      <lb ed="#P" n="113"/>duxit mulierem nescit an est virgo frequenter habet 
+      corru<lb ed="#P" n="114" break="no"/>ptam putans habere castam: ergo pariculosum est talibus conscen 
+      <lb ed="#P" n="115"/>dere ad ordines nescitur an sint bigami. Ad 
+      pri<lb ed="#P" n="116" break="no"/>mum concedo de reuocatione potest tamen interpretari 
+      <!--321.xml-->
+      <pb ed="#P" n="153-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>casum ambiguum in iure diuino in quo sensu debeat 
+      <lb ed="#P" n="2"/>intelligiet exponere vnum passum per alium aucto 
+      <lb ed="#P" n="3"/>ritatiue: sed reuocare non potest inferior legem 
+      su<lb ed="#P" n="4" break="no"/>perioris sed hic non est prohibitio de iure diuino 
+      a<lb ed="#P" n="5" break="no"/>postolus multa consulit a seipso vt patet prime co 
+      <lb ed="#P" n="6"/>rinthyorum septimo. dico ego non dominus in 
+      proposi<lb ed="#P" n="7" break="no"/>to a seipso consulit vt patet per illa que simili contextum 
+      <lb ed="#P" n="8"/>phibentur quae constat esse prohibitiones humanas non vine 
+      <lb ed="#P" n="9"/>lentum non percussorem et tales non prohibentur de 
+      <lb ed="#P" n="10"/>iure diuino vt liquet: igitur.
+    </p>
+            <p xml:id="JM7jmZ-d84724-d1e305">
+      ¶ Sed contra illud ar 
+      <lb ed="#P" n="11"/>gumentorextra de bigamis capitulo secundo dicitu 
+      <lb ed="#P" n="12"/>non licet dispensare cum bigamo quia hoc esset con 
+      <lb ed="#P" n="13"/>tra apostolum. dico quod hoc scripsit romanus pontu 
+      <lb ed="#P" n="14"/>fex inferiori: patet de lucio tertio illud capitulum di 
+      <lb ed="#P" n="15"/>rigente ad spalensem archiepiscopum: etiam hoc pe 
+      <lb ed="#P" n="16"/>nitur propter difficultatem que ponitur in 
+      dispen<lb ed="#P" n="17" break="no"/>satione raro dispensatur lucius tamen dispensauit 
+      <lb ed="#P" n="18"/>cum pannormitano eprieo nec hoc est proprie contre 
+      <lb ed="#P" n="19"/>apostolum dispensare sed solum contra verba apostoli 
+      <lb ed="#P" n="20"/>vbi est rationabilis causa dispensandi annueret apo 
+      <lb ed="#P" n="21"/>stolus dispensationi cum maximo pontifice spalens 
+      <lb ed="#P" n="22"/>archieprieo non est data facultas hoc faciendi et sic vo 
+      <lb ed="#P" n="23"/>cauit lucius hoc esse contra apostolum. Forte causa dispensat 
+      <lb ed="#P" n="24"/>di non valuit et sic contra apostolum: etiam ei non erat l 
+      <lb ed="#P" n="25"/>commissum licet causa erat rationabilis lucius dicit 
+      <lb ed="#P" n="26"/>in caplo super de bigamis quod homines sunt spolian 
+      <lb ed="#P" n="27"/>di ordinibus intelligatur ab exequutione ordies co 
+      <lb ed="#P" n="28"/>lati auferri non possunt a maximo pontifice nec ab 
+      <lb ed="#P" n="29"/>alio viatore: quando papa dispensat cum bigamo 
+      <lb ed="#P" n="30"/>non facit quod nunquam fuerit bigamus sed tollit 
+      il<lb ed="#P" n="31" break="no"/>lam irregularitatem canonicam. ex isto patet mul 
+      <lb ed="#P" n="32"/>ta superfiua recitat et ponit glosa in capitulo super 
+      <lb ed="#P" n="33"/>de bigamis. Ad secundum dico sufficere quod vir pu 
+      <lb ed="#P" n="34"/>tet suam vxorem esse virginem quando eam ducit 
+      <lb ed="#P" n="35"/>nec constatei certitudinaliter an vxor eius est casta 
+      <lb ed="#P" n="36"/>castitate coniugali tempore matrimonii sufficit ei nescire 
+      <lb ed="#P" n="37"/>de opposito esto quod fama paucorum de ea male 
+      lo<lb ed="#P" n="38" break="no"/>quatur: multi multa loquuntur: non debet promo 
+      <lb ed="#P" n="39"/>uendus facere explorationem an vxor eius est 
+      pu<lb ed="#P" n="40" break="no"/>dica.
+    </p>
+            <p xml:id="JM7jmZ-d84724-d1e373">
+      ¶ Ex isto sequuntur propositiones. 
+      </p>
+            <p xml:id="JM7jmZ-d84724-d1e377">
+               <lb ed="#P" n="41"/>¶ Prima est: plerique sunt bigami vel formaliter vel 
+      <lb ed="#P" n="42"/>interpretatiue credunt se monaganos.
+    </p>
+            <p xml:id="JM7jmZ-d84724-d1e384">
+      ¶ Secundo 
+      <lb ed="#P" n="43"/>sequitur quod aliqui bigami promouentur ad ordines 
+      <lb ed="#P" n="44"/>sine dispensatione: patet de illo qui non credit se e 
+      <lb ed="#P" n="45"/>se bigamum nec habet motiuum sufficiens creden 
+      <lb ed="#P" n="46"/>di.
+    </p>
+            <p xml:id="JM7jmZ-d84724-d1e395">
+      ¶ Tertio sequitur: aliquis impeditur ab ordin 
+      <lb ed="#P" n="47"/>bus sine culpa eius propter impudicitiam vxoris 
+      <lb ed="#P" n="48"/>sed non sine causa. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

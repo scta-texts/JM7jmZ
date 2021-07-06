@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 1</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 1</title>
+               <date when="2021-07-06">July 06, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-M4Saaa">Paris 1509</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-06" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="-r"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="JM7jmZ-d72139"><!-- l4d23q1 -->
+            <head xml:id="JM7jmZ-d72139-Hd1e108">Quaestio 1</head>
+            <head xml:id="JM7jmZ-d72139-Hd1e111" type="question-title">
+      An extrema unctio sit
+      sacramentum novae
+      legis?
+    </head>
+            <p xml:id="JM7jmZ-d72139-d1e114">
+               <lb ed="#P" n="9"/>¶ Distinctionis vigesime tertie quaestio vnica. 
+      <lb ed="#P" n="10"/>CIrca hanc distinctionem vigesimam tertiam 
+      <lb ed="#P" n="11"/>Quero an extrema vnctio sit sacramentum 
+      <lb ed="#P" n="12"/>noue legis.
+    </p>
+            <p xml:id="JM7jmZ-d72139-d1e125">
+      Pro solutione aduerte quod 
+      ba<lb ed="#P" n="13" break="no"/>ptismus est contra originale principaliter. praesentia con 
+      <lb ed="#P" n="14"/>tra mortale: extrema vnctio contra veniale. 
+      Extre<lb ed="#P" n="15" break="no"/>mam vnctio realiter est oleum consecratum et sic est 
+      <lb ed="#P" n="16"/>signum sensibile quam admodum quodlibet sacramentum 
+      <lb ed="#P" n="17"/>debet esse. quelibet species debet distincte connotare 
+      <lb ed="#P" n="18"/>id quod per genus confuse connotatur hoc complexum 
+      <lb ed="#P" n="19"/>extrema vnctio supponit pro oleo benedicto conno 
+      <lb ed="#P" n="20"/>tationes eius ex quid nominis euadunt. Et sic 
+      diffi<lb ed="#P" n="21" break="no"/>nitur. Extrema vnctio est sacramentum infirmo a 
+      <lb ed="#P" n="22"/>presbitero applicatum in determinatis partibus 
+      cor<lb ed="#P" n="23" break="no"/>poris. circa quinque sensus exteriores applicatur. circa 
+      <lb ed="#P" n="24"/>aures quia sunt duo rami illi consensus. circa duos ocu 
+      <lb ed="#P" n="25"/>los. circa duas nares. circa duas manus et hoc pro 
+      <lb ed="#P" n="26"/>sensu tactus in manibus multum tactus exercentur non 
+      <lb ed="#P" n="27"/>in lingu a propter horrorem sed super os in pedibus 
+      <lb ed="#P" n="28"/>et lumbis quia in his menbris peccamus id est 
+      executio<lb ed="#P" n="29" break="no"/>nem peccatorum exercemus si menbris orbetur inungatur in 
+      <lb ed="#P" n="30"/>partibus propiquis vtitur pro forma talibus verbis per 
+      <lb ed="#P" n="31"/>istam sanctam vnctionem et suam piissimam mntiniam percat tibi 
+      <lb ed="#P" n="32"/>deus quicquid narium lingue tactus vel huiusmodi vitio 
+      de<lb ed="#P" n="33" break="no"/>liquisti non capitur hic forma proprie sed methaphorice 
+      </p>
+            <p xml:id="JM7jmZ-d72139-d1e173">
+               <lb ed="#P" n="34"/>¶ Ex hiis patent alique propositiones. Prima est 
+      <lb ed="#P" n="35"/>uod infirmus solus est capax huius sacramenti. Ex qua 
+      <lb ed="#P" n="36"/>sequitur quod si in aliquo periculo homo inungatur non 
+      pro<lb ed="#P" n="37" break="no"/>dest ei quia non est capax in potentia propinqua. istud 
+      <lb ed="#P" n="38"/>patet iacobi. v. infirmatus quis in vobis inducat 
+      pres<lb ed="#P" n="39" break="no"/>biteros ecclesie et orent super eum vnguentes eum oled 
+      <lb ed="#P" n="40"/>in nomine domini. Et oratio fidei saluabit infirmum et 
+      alle<lb ed="#P" n="41" break="no"/>uiabit eum dominus: et si in peccatis sit remittentur ei beatus 
+      <lb ed="#P" n="42"/>iacobus erat prouulgator huius sacramenti non est 
+      in<lb ed="#P" n="43" break="no"/>stitutor quia est filius dei. Ex isto patet quid facit 
+      ex<lb ed="#P" n="44" break="no"/>trema vnctio allcuiat infirmum quo ad venialia 
+      pec<lb ed="#P" n="45" break="no"/>cata etiam morbum si saluti anime laborantis conducan 
+      <lb ed="#P" n="46"/>confert gratiam sicut cetera sacramenta. Secunda 
+      con<lb ed="#P" n="47" break="no"/>clusio principalis sequens duo decedentes in 
+      equali<lb ed="#P" n="48" break="no"/>bus meritis hoc dempto quod vnus habet extremam 
+      <lb ed="#P" n="49"/>vnctionem et non alter plus premiabitur quam alter in celo 
+      <lb ed="#P" n="50"/>esto quod alter velit iniungi sed non potest habere praesbiterum 
+      <lb ed="#P" n="51"/>sed moritur anquam praesbiter venit. hoc patet virtute ope 
+      <lb ed="#P" n="52"/>ris operati confertur gratia et discedens cum maiori gra 
+      <lb ed="#P" n="53"/>tia maiorem gloriam habebit. quod morbum aleuiat patet 
+      <lb ed="#P" n="54"/>extra de sacra vnctione. cum venisset. Tertio sequitur 
+      <lb ed="#P" n="55"/>quod laicus non potest ministrare hoc sacramentum de il 
+      <lb ed="#P" n="56"/>l lo qui credit se esse praesbiterum et non est. dicas sicut 
+      su<lb ed="#P" n="57" break="no"/>. pra tetigimus.
+    </p>
+            <p xml:id="JM7jmZ-d72139-d1e229">
+      ¶ Istis notatis Respondetur ad 
+      <!--275.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="58"/>questionem affirmatiue conclusio probationis non egen 
+      <lb ed="#P" n="59"/>de hoc quod legitur de sancta genouefa quod inungeba 
+      <lb ed="#P" n="60"/>oleo et curauit hoc erat miraculose nec vtute operis 
+      <lb ed="#P" n="61"/>operati conferebatur gratia. potes argumentari pro 
+      <lb ed="#P" n="62"/>bando quod oleum non debet esse sanctificatum capiatur 
+      <lb ed="#P" n="63"/>oleum sacrum vna copina imponatur alia copina vel to 
+      <lb ed="#P" n="64"/>tum oleum est sacrum et sic habeo quod secunda copina quam 
+      <lb ed="#P" n="65"/>signo b et primam a tunc sequitur quod b est sufficiens tamen 
+      <lb ed="#P" n="66"/>non est sanctificatum. si dicas totum oleum non esse 
+      sa<lb ed="#P" n="67" break="no"/>crum. Contra impositio aque non benedicte cum aqua 
+      <lb ed="#P" n="68"/>benedicta non tollit quin tota aqua sit benedicta. patet 
+      <lb ed="#P" n="69"/>ex consuetudine ecclesie: ergo idem erit in oleo non 
+      conse<lb ed="#P" n="70" break="no"/>crato mixto cum consecrato. Forte dicis et bene sacrum 
+      <lb ed="#P" n="71"/>tanquam dignius trahit ad se non sacrum. vt glosa dicit. 
+      <lb ed="#P" n="72"/>de consecratione ecclesie vel altaris. quod in dubiis. vbi 
+      <lb ed="#P" n="73"/>innocentius tertius dicit nec negamus qui oleum non 
+      <lb ed="#P" n="74"/>consecratum consecrato possit oleo commisceri vult per 
+      <lb ed="#P" n="75"/>hoc dicere totum manet consecratum. quod potest esse mixtio 
+      <lb ed="#P" n="76"/>illi epraeo ad quem scripsit non cadebat in dubium. 
+      Con<lb ed="#P" n="77" break="no"/>tra hoc arguitur si vinum misceatur cum sanguine totum 
+      <lb ed="#P" n="78"/>non efficitur sanguis. patet. extra de celebratione mis 
+      <lb ed="#P" n="79"/>sarum. cum marte. §. quesiuisti. et tamen sanguis est dignior 
+      <lb ed="#P" n="80"/>sed superius simile tangitur in fine de eucharistia 
+      <lb ed="#P" n="81"/>non insisto. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

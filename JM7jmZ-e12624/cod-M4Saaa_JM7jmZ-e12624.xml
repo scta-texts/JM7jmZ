@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 1</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 1</title>
+               <date when="2021-07-06">July 06, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-M4Saaa">Paris 1509</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-06" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="202-v"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="JM7jmZ-e12624"><!-- l4d46q1 -->
+            <head xml:id="JM7jmZ-e12624-Hd1e108">Quaestio 1</head>
+            <head xml:id="JM7jmZ-e12624-Hd1e111" type="question-title">
+      An Deus aequaliter
+      punit intensive in
+      eodem foro aequaliter
+      peccantes
+    </head>
+            <p xml:id="JM7jmZ-e12624-d1e114">
+               <lb ed="#P" n="101"/>¶ Distinctionis quadragesime sexte quaestio prima. 
+      <lb ed="#P" n="102"/>MAgister in hac quadragesima sexta distin 
+      <lb ed="#P" n="103"/>ctione loquitur de iusticia et mina an sint 
+      <lb ed="#P" n="104"/>llin deo et an distingantur inter se pro illo 
+      <lb ed="#P" n="105"/>Isuccincte partransiens dico tales qualita 
+      <lb ed="#P" n="106"/>tes non esse in deo nec virtutes morales ei 
+      inhere<lb ed="#P" n="107" break="no"/>re nec aliquod accidens et non modo secundum fidem sed phi 
+      <lb ed="#P" n="108"/>osophos est hoc verum. patet. <ref xml:id="JM7jmZ-e12624-Rd1e133">x. ethicorum.</ref> ridiculum est 
+      <lb ed="#P" n="109"/>laudare deum secundum virtutem moralem siue secundum 
+      <lb ed="#P" n="110"/>earum actus sed quia deus in premiando et puniendo 
+      <lb ed="#P" n="111"/>luste agit et vtitur clementia cum iusticia dicitur habere 
+      <lb ed="#P" n="112"/>iusticiam et misericordi am secundum scripturam. quo fit 
+      <lb ed="#P" n="113"/>mina dei est iusticia dei. Secundo patet iusticia et 
+      mise<lb ed="#P" n="114" break="no"/>ricordia dei non distinguntur essentialiter: sed alia ra 
+      <lb ed="#P" n="115"/>tione deus vocatur iustus alia rationemisericors hec 
+      <lb ed="#P" n="116"/>missa faciens peccata aliquas quaestiones.
+    </p>
+            <p xml:id="JM7jmZ-e12624-d1e154">
+      ¶ Circa ma¬ 
+      <!--420.xml-->
+      <pb ed="#P" n="203-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>teriam penarum et primiorum tangendo de proportione pe 
+      <lb ed="#P" n="2"/>ne ad culpam et premii ad meritum eadem est difficultas 
+      <lb ed="#P" n="3"/>Et quero an deus equaliter punit intensiue in eodem 
+      <lb ed="#P" n="4"/>foro equaliter peccantes et constat quod sic secundum 
+      mensu<lb ed="#P" n="5" break="no"/>ram delicti erit et plagarusm modus et quantum se glorifi 
+      <lb ed="#P" n="6"/>cauit in delitiis tantum illi date tormenti et luctus. 
+      deu<lb ed="#P" n="7" break="no"/>teronomii. xxv. et apocalipsis. xviii. hoc est 
+      equali<lb ed="#P" n="8" break="no"/>bus peccatis dabuntur equales pene gradualiter in 
+      <lb ed="#P" n="9"/>eodem foro et equis meritis paria primia.
+    </p>
+            <p xml:id="JM7jmZ-e12624-d1e183">
+      ¶ Contra 
+      <lb ed="#P" n="10"/>hanc conclusionem argumentor sic vna culpa excedit 
+      <lb ed="#P" n="11"/>aliam indiuisibiliter et nulla pena aliam excedit 
+      indi<lb ed="#P" n="12" break="no"/>uisibiliter ergo secundum legem non punit equaliter peccan 
+      <lb ed="#P" n="13"/>tes equali pena gradualiter. assumptum patet. sint 
+      <lb ed="#P" n="14"/>nunc in boc instanti inchoatiuo hore future sortes 
+      <lb ed="#P" n="15"/>et plato in peccatis equalibus vel in non peccatis et in 
+      <lb ed="#P" n="16"/>hora sequenti demereantur vniformiter sic scilicet quod 
+      sor<lb ed="#P" n="17" break="no"/>tes in instanti terminante horam futuram (quod dicatur a) ha 
+      <lb ed="#P" n="18"/>beat demeritum vt quattuor et tunc in a instanti primo 
+      <lb ed="#P" n="19"/>plato non sit vel de meritis loquamur et redit in idem 
+      <lb ed="#P" n="20"/>isti equaliter punientur. patet. vtriusque totalem penam 
+      <lb ed="#P" n="21"/>deus videt et nullo excessu diuisibili pena sortis 
+      pe<lb ed="#P" n="22" break="no"/>nam platonis exuperat et nulla est pena indiuisibilis 
+      <lb ed="#P" n="23"/>et non minori pena punietur sortes quam plato vt constat er 
+      <lb ed="#P" n="24"/>go equali pena puniuntur. quod inequaliter peccant 
+      pa<lb ed="#P" n="25" break="no"/>tet sortes erit in maiore peccato in a instanti quam 
+      pla<lb ed="#P" n="26" break="no"/>to erit post a instans vel in a instanti vel an a instans 
+      <lb ed="#P" n="27"/>ergo sortes erit in maiore peccato quam plato erit con 
+      <lb ed="#P" n="28"/>sequentia est lucida. assumptum patet quia nec plato erit 
+      <lb ed="#P" n="29"/>in a instanti nec post a instans ad demerendum in 
+      resura<lb ed="#P" n="30" break="no"/>rectione non demerebitur imputabiliter nec plato erit in 
+      <lb ed="#P" n="31"/>maiore demerito ante a instans quam sortes erit in a instan 
+      <lb ed="#P" n="32"/>ti cum semper ante a instans ex ipotesi erant in peccatis 
+      <lb ed="#P" n="33"/>equalibus eodemmoo potest duci argumentum de meriti 
+      <lb ed="#P" n="34"/>et est argumentum commune in materia intensionis de albe 
+      <lb ed="#P" n="35"/>dine.
+    </p>
+            <p xml:id="JM7jmZ-e12624-d1e243">
+      ¶ Aliqui concedunt quod indiuisibiliter peccatum sortis est 
+      <lb ed="#P" n="36"/>maius peccato platonis et eodem moo eius pena est in 
+      <lb ed="#P" n="37"/>diuisibiliter maior alia sed cum non ponimus latitudinem 
+      <lb ed="#P" n="38"/>conflari ex indiuisibilibus dicamus biphariam ad argu 
+      <lb ed="#P" n="39"/>mentum proportionabiliter ad argumentum tactum in. xvi 
+      <lb ed="#P" n="40"/>distinctione huius. in primis dico quod equaliter peccant 
+      <lb ed="#P" n="41"/>et equaliter puniuntur et plato habebit tot peccata 
+      si<lb ed="#P" n="42" break="no"/>cut sortes habebit in a instanti quia plato in tempore 
+      ter<lb ed="#P" n="43" break="no"/>minato ad a instans habebit tantum peccatum sicut sor 
+      <lb ed="#P" n="44"/>tes habebit in a sed in nullo instanti vite sue habebit 
+      <lb ed="#P" n="45"/>tantum peccatum plato sicut sortes habebit in a et 
+      eo<lb ed="#P" n="46" break="no"/>demmoo si albedo esset successiue producta.
+    </p>
+            <p xml:id="JM7jmZ-e12624-d1e269">
+      ¶ Aliomoo 
+      <lb ed="#P" n="47"/>dicitur quod sortes habebit maiorem culpam quam plato 
+      habe<lb ed="#P" n="48" break="no"/>bit: sed cum anima platonis manet in a instanti habebis 
+      <lb ed="#P" n="49"/>tantum demeritum sicut sortes in a et sic equaliter 
+      pu<lb ed="#P" n="50" break="no"/>niuntur sicut si sortes et plato continue albefiant vni 
+      <lb ed="#P" n="51"/>formiter per horam sequentem ponendo de albedine 
+      <lb ed="#P" n="52"/>sicut de culpa licet sortes habebit maiorem albedinem 
+      <lb ed="#P" n="53"/>in a instanti quam plato habebit non tamen habebit maio 
+      <lb ed="#P" n="54"/>rem albedinem quam materia platonis habebit vel albe 
+      <lb ed="#P" n="55"/>do sortis non erit intensior in a instanti quam albedo 
+      pla<lb ed="#P" n="56" break="no"/>tonis erit in a instanti cum albedo est in instanti 
+      termi<lb ed="#P" n="57" break="no"/>nanti horam. secus est si tunc primo non esset. in prima medie 
+      <lb ed="#P" n="58"/>tate hore future et in quolibet instanti intrinseco hore fu 
+      <lb ed="#P" n="59"/>ture sortes et plato habebunt equales albediues et erunt 
+      <!--420.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="60"/>equaliter albi. non propterea sequitur quod sortes excedet 
+      <lb ed="#P" n="61"/>platonem in albedine indiuisibiter imo diuisibiliter per totam 
+      <lb ed="#P" n="62"/>albedinem cathegoreumatice quam habebit. sed non est 
+      <lb ed="#P" n="63"/>separandus excessus adequatus albedinis quam habe 
+      <lb ed="#P" n="64"/>bit sortes super albedinem quam habebit plato.
+    </p>
+            <p xml:id="JM7jmZ-e12624-d1e315">
+      ¶ 
+      Con<lb ed="#P" n="65" break="no"/>tra illud arguitur pertranseant sortes et plato vnum 
+      pe<lb ed="#P" n="66" break="no"/>dale vniformitur sic scilicet quod quando sortes est primo in puncto 
+      <lb ed="#P" n="67"/>terminatiuo sue pedalitatis tunc primo plato non sit ar 
+      <lb ed="#P" n="68"/>guitur sic totam illam lineam pedalem pertransiuit plato er 
+      <lb ed="#P" n="69"/>go tantam albedinem habuit plato sicut sortes et sic de 
+      <lb ed="#P" n="70"/>peccato vel merito consequentia tenet conuenienti si 
+      <lb ed="#P" n="71"/>militudine. antecedens patet quanlibet partem proportionalem 
+      <lb ed="#P" n="72"/>puius linee pertransiuit plato capiendo partes mi 
+      <lb ed="#P" n="73"/>nores versus extremum remotius si neges propter 
+      se<lb ed="#P" n="74" break="no"/>cundam medietatem linee quae est pars proportionalis secundum 
+      <lb ed="#P" n="75"/>aliam diuisionem saltem quanlibet partem proportionalem 
+      <lb ed="#P" n="76"/>secundum illam diuisionem pertransiuit plato ergo omnes partes 
+      <lb ed="#P" n="77"/>pportionales partransiuit sed ille partes proportiona 
+      <lb ed="#P" n="78"/>les sunt hoc pedale ergo hoc pedale partransiuit. 
+      for<lb ed="#P" n="79" break="no"/>te dicis male concluditur vel non sequitur quanlibet 
+      par<lb ed="#P" n="80" break="no"/>tem proportionalem pertransiuit plato ergo omnes sicut 
+      <lb ed="#P" n="81"/>non sequitur quelibet pars proportionalis solis est ali 
+      <lb ed="#P" n="82"/>quid minus sole ergo iste partes proportionales sunt 
+      <lb ed="#P" n="83"/>aliquid minus sole omnibus demonstratis contra 
+      sal<lb ed="#P" n="84" break="no"/>tem ponatur medium lutosum vel aliud non refert a 
+      <lb ed="#P" n="85"/>diuidendum a b nouacula quod in fine hore b sit et medium 
+      <lb ed="#P" n="86"/>diuidatur et complete sit diuisum ponatur aliud medium 
+      <lb ed="#P" n="87"/>omnino simile diuidendum a c nouacula vniformiter mo 
+      <lb ed="#P" n="88"/>ta sicut b per totam horam preteritam simus nos in fine ho 
+      <lb ed="#P" n="89"/>re et tunc primo c non sit queritur an medium complete 
+      <lb ed="#P" n="90"/>sit diuisum a c nouacula vel aliquid remanet diuidendum 
+      <lb ed="#P" n="91"/>non secundum quia vnum mobile obtusum nullam reperiet resi 
+      <lb ed="#P" n="92"/>stentiam in medio quod diuidebat c nouacula si aliquam 
+      <lb ed="#P" n="93"/>reperiet dabitur longitudo sine latitudine et 
+      profun<lb ed="#P" n="94" break="no"/>ditate in substantia corporea si concedas totum medium 
+      <lb ed="#P" n="95"/>esse diuisum a c nouacula quia medietates separantur a 
+      <lb ed="#P" n="96"/>seinuicem et sunt in instanti terminante horam quod sufficit 
+      <lb ed="#P" n="97"/>contra hoc medium est complete diuisum ergo ab aliquo 
+      <lb ed="#P" n="98"/>agente est complete diuisum non a c cum in instanti terminam 
+      <lb ed="#P" n="99"/>te horam non est simile potest fieri de calefactiuo quod produ 
+      <lb ed="#P" n="100"/>cit successiue calorem vt quattuor et in instanti quo calor 
+      <lb ed="#P" n="101"/>vt quattuor primo est calefactiuum non est iam calor vt 
+      <lb ed="#P" n="102"/>quattuor est productus complete petatur a quo complete 
+      <lb ed="#P" n="103"/>est productus si ibi tergiuerseris quod calor prope agens 
+      <lb ed="#P" n="104"/>broducit vnum alium calorem et secundus calor producit 
+      <lb ed="#P" n="105"/>tertium et sic consequenter capiatur vnum albefactiuum vbi 
+      <lb ed="#P" n="106"/>effectus non coadiuuat causam ad producendum reli 
+      <lb ed="#P" n="107"/>quum effectum. Respondetur sufficit quod effectus sit 
+      <lb ed="#P" n="108"/>i instanti terminante tempus non requiritur existentia ipius 
+      <lb ed="#P" n="109"/>agentis et conceditur quod illud medium est diuisum com 
+      <lb ed="#P" n="110"/>plete et c ipsum diuidebat. non tamen sequitur quod vnquam 
+      <lb ed="#P" n="111"/>plato habebit albedinem vt quattuor informatiue vel 
+      <lb ed="#P" n="112"/>quod habeat meritum vel demeritum vt quattuor. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 1</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 1</title>
+               <date when="2021-07-06">July 06, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-M4Saaa">Paris 1509</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-06" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="195-v"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="JM7jmZ-e08634"><!-- l4d44q1 -->
+            <head xml:id="JM7jmZ-e08634-Hd1e108">Quaestio 1</head>
+            <head xml:id="JM7jmZ-e08634-Hd1e111" type="question-title">
+      An infernus sit sub
+      terra
+    </head>
+            <p xml:id="JM7jmZ-e08634-d1e114">
+               <lb ed="#P" n="58"/>¶ Distinctionis quadragesime quarte questio prima 
+      <!--405.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="59"/>Irca quadragesimam quartam 
+      distinctio<lb ed="#P" n="60" break="no"/>IInem Queritur an infernus sit sub terra:
+    </p>
+            <p xml:id="JM7jmZ-e08634-d1e127">
+      non 
+      <lb ed="#P" n="61"/>alloquimur pro inferno vt nominet cruciatum 
+      <lb ed="#P" n="62"/>sed vt locum cruciatus dicat ponitur conclusio 
+      as<lb ed="#P" n="63" break="no"/>firmatiua: probatur conclusio per glosam esaye de 
+      <lb ed="#P" n="64"/>cimo quarto infernus subtus conturbatus est: dicit 
+      <lb ed="#P" n="65"/>quod infernus est sub terra: hoc patet per glosam super 
+      <lb ed="#P" n="66"/>illud ione secundo: proiecisti me in profundum in cor 
+      <lb ed="#P" n="67"/>de maris: dicit sicut cor est in medio animalis sic in 
+      <lb ed="#P" n="68"/>fernus in medio terre perhibetur. Insuper augusti 
+      <lb ed="#P" n="69"/>nus libro secundo retracta. capitul. vicesimo 
+      quar<lb ed="#P" n="70" break="no"/>to retractans illud quod de inferno dixerat duodecino 
+      <lb ed="#P" n="71"/>super genesim inquit: magis mihi videor dicere de 
+      <lb ed="#P" n="72"/>buisse quod sub terris sint quam rationem reddere cur sub 
+      <lb ed="#P" n="73"/>terra esse credantur. et ad hoc est ratio sicut spiritus 
+      <lb ed="#P" n="74"/>beati premiantur in loco eminentissimo et in 
+      circum<lb ed="#P" n="75" break="no"/>ferentia circuli: sic decens est quod dannati puniantur in 
+      <lb ed="#P" n="76"/>loco abiectissimo scilicet in centro vel circa ipsum. 
+      <lb ed="#P" n="77"/>Chore datan et abyron terra absorpsit. nume. xvi. 
+      <lb ed="#P" n="78"/>hoc est ad infernum descenderunt. et secundo 
+      me<lb ed="#P" n="79" break="no"/>theoro. aristo. ponens opiniones de generatione 
+      ma<lb ed="#P" n="80" break="no"/>ris allegat sextum modum platonis quod circa 
+      medi<lb ed="#P" n="81" break="no"/>um mundi est copia aquarum et vocatur certaries 
+      <lb ed="#P" n="82"/>et sexto eneydos. Bis patet in preceps tantum 
+      ten<lb ed="#P" n="83" break="no"/>ditque sub vmbris: quantus ad ethereum celi 
+      suspe<lb ed="#P" n="84" break="no"/>ctus olympum.
+    </p>
+            <p xml:id="JM7jmZ-e08634-d1e182">
+      ¶ Contra hanc conclusionem 
+      ar<lb ed="#P" n="85" break="no"/>gumentor: plures sunt dannati quam saluati secundum 
+      <lb ed="#P" n="86"/>illud mathei vicesimo secundo: multi sunt vocati: 
+      <lb ed="#P" n="87"/>pauci vero electi. et vicesimo de trinitate capitulo 
+      <lb ed="#P" n="88"/>vicesimo primo: plures homines erunt in penis quam in 
+      <lb ed="#P" n="89"/>gloria. simile dicit ca. vndecimo eiusdem: et lata est 
+      <lb ed="#P" n="90"/>via que ducit ad perditionem et multi ingrediuntur 
+      <lb ed="#P" n="91"/>per illam cui suffragatur maro sexto eneydos. 
+      Fa<lb ed="#P" n="92" break="no"/>cilis est descensus auerni. Noctes atque dies patet acri 
+      <lb ed="#P" n="93"/>ianna ditis. Sed reuocare gradum superasque 
+      eua<lb ed="#P" n="94" break="no"/>dere ad auras. hoc opus hic labor est pauci quos 
+      <lb ed="#P" n="95"/>equus amauit. Iupiter aut ardens euexit ad 
+      ethe<lb ed="#P" n="96" break="no"/>ra virtus Dii geniti potuere. ad hoc est ratio plur 
+      <lb ed="#P" n="97"/>mi erant a principio infideles et sunt heretici et ma 
+      <lb ed="#P" n="98"/>le viuentes christiani: sed cum corpora erint assum 
+      <lb ed="#P" n="99"/>pta post iudicium non omnia illa corpora possunt 
+      es<lb ed="#P" n="100" break="no"/>se in terra etiam oportet assignare vnam partem 
+      ter<lb ed="#P" n="101" break="no"/>re pro limbo puerorum. Respondetur: admisso an 
+      <lb ed="#P" n="102"/>tecedente pro prima parte quia est rationabilis sed 
+      <lb ed="#P" n="103"/>negetur minor: omnia corpora dannatorum possunt 
+      <lb ed="#P" n="104"/>esse in terra per compressionem ad motum rote: se 
+      <lb ed="#P" n="105"/>cundum illud psalm. ixxxii. deus meus pone illos 
+      <lb ed="#P" n="106"/>vt rotam: et sicut oues in inferno positi sunt psaltmm. 
+      <lb ed="#P" n="107"/>quadragesimo octauo. vnde oues in estate compri 
+      <lb ed="#P" n="108"/>muntur propter ardorem solis euntes agminatim 
+      <lb ed="#P" n="109"/>ad vmbram in hyeme gregatim vt mutuo 
+      anheli<lb ed="#P" n="110" break="no"/>tu et colore se muniant. Secundo deus potest 
+      con<lb ed="#P" n="111" break="no"/>uertere speram aque in parte vel in toto in terram 
+      <lb ed="#P" n="112"/>et rarefacere alias partes vel augere aeris vel ignis 
+      <lb ed="#P" n="113"/>ne sit vacuum quousque sit locus sufficiens. Tertio 
+      <lb ed="#P" n="114"/>dico: potest deus ponere omnia corpora dannatorum 
+      <lb ed="#P" n="115"/>sine condensatione in foramine acus hoc ostensum 
+      <lb ed="#P" n="116"/>est in decima distinctione huius. Quarto dico: 
+      ter<lb ed="#P" n="117" break="no"/>ra hiis omnibus sufficit si omnes homines essent in 
+      <!--406.xml-->
+      <pb ed="#P" n="196-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>superficie terre habitate parum occuparent et cum hoc sunt 
+      <lb ed="#P" n="2"/>montes inui et plana terra difficulter inhabitata in 
+      <lb ed="#P" n="3"/>plerisque locis propter calorem frigus et immanes 
+      be<lb ed="#P" n="4" break="no"/>stias et insulas forte reperibiles. Si vera sit opinio thec 
+      <lb ed="#P" n="5"/>losii / ambrosii / macrobii et crastotenis quod cuilibet ergo 
+      <lb ed="#P" n="6"/>dui in celo respondeant septingenta stadia in terra iam 
+      ter<lb ed="#P" n="7" break="no"/>re circuitus ducenta quinquaginta duo millia stadia con 
+      <lb ed="#P" n="8"/>tinebit. patet. ducendo tercenta sexaginta in septingenta ci 
+      <lb ed="#P" n="9"/>ius diametrus facile reperitur supponendo ex geome 
+      <lb ed="#P" n="10"/>tria practica regulam infallibilem quod circumferentie ad 
+      dia<lb ed="#P" n="11" break="no"/>metrum est proportio tripla sesqui septima sicut vigin 
+      <lb ed="#P" n="12"/>ti duorum ad septem partire ambitum terre per. xxii. et in 
+      <lb ed="#P" n="13"/>numero quotiente exibit vndecim millia quadringenta 
+      <lb ed="#P" n="14"/>quinquaginta quattuor vna secunda et vna vicesima se 
+      <lb ed="#P" n="15"/>cunda quem vicesime secunde partis numerum subtrahe 
+      <lb ed="#P" n="16"/>a numero ambitus terre et relinquuntur ducenta 
+      qua<lb ed="#P" n="17" break="no"/>draginta millia quingenta quadraginta quique et de 
+      <lb ed="#P" n="18"/>cem vicesime secunde huius residui quere tertiam partem 
+      <lb ed="#P" n="19"/>priseum per tria diuidendo et erit octuaginta millia cer 
+      <lb ed="#P" n="20"/>tum octuaginta vnum semis et septem vicesime secunde et 
+      <lb ed="#P" n="21"/>habes diametrum terre que si in duas partes seiunga 
+      <lb ed="#P" n="22"/>tur habebitur terre semidiameter scilicet quadraginta 
+      <lb ed="#P" n="23"/>millia nonaginta et viginti vigesime secunde 
+      crassitu<lb ed="#P" n="24" break="no"/>do a superficie terre vsque ad centrum et si vellis 
+      ha<lb ed="#P" n="25" break="no"/>bere milliaria partire hunc numerum per octo et sic pro 
+      <lb ed="#P" n="26"/>funditatem immensam habebis in terra et magnum erit 
+      <lb ed="#P" n="27"/>interuallum vtendo modo ptolomei quod potes simili 
+      <lb ed="#P" n="28"/>terdeducere. vnde hic imaginemur pedem circini im 
+      <lb ed="#P" n="29"/>mobile in centro terre ducatur alius pes trahendo 
+      <lb ed="#P" n="30"/>circulum paruum secundum illam petitionem primi euclidis 
+      su<lb ed="#P" n="31" break="no"/>per centrum quodlibet circulum quantumlibet occupando 
+      <lb ed="#P" n="32"/>pesignare dicatur iste circulus a rursus eodem pede 
+      <lb ed="#P" n="33"/>in centro immobili expandatur alius vltra periferiam circu 
+      <lb ed="#P" n="34"/>li a ad aliqualem distantiam ducatur circulus b et sic d 
+      <lb ed="#P" n="35"/>inceps pessimus est in centro vt diabolus tanquam 
+      pes<lb ed="#P" n="36" break="no"/>simus in suo carcere perpetuo alii proximi ei im malitia 
+      <lb ed="#P" n="37"/>accedunt in circulo a vt mali demones machometus 
+      <lb ed="#P" n="38"/>arrius / nero / iudas et similes et sic per ordinem. sed dicis 
+      <lb ed="#P" n="39"/>tunc existentes in circulo b habebunt pedes super capita 
+      <lb ed="#P" n="40"/>existentium in circulo a nam qui existunt in circulo a non 
+      <lb ed="#P" n="41"/>tendunt vlterius cum sint ex omni parte centri si nullum 
+      <lb ed="#P" n="42"/>esset impedimentum non progrederentur vlterius cum 
+      <lb ed="#P" n="43"/>ibi sit maximus descensus existentes in circulo b appetunt 
+      <lb ed="#P" n="44"/>descendere habent resistentiam ab aliis qui existunt in 
+      <lb ed="#P" n="45"/>circulo c vtrosque deprimunt quemadmodum equus fert 
+      <lb ed="#P" n="46"/>ybernicum et pondus in suo collo ac si esset immediatum 
+      <lb ed="#P" n="47"/>equo et sic existentes prope centrum deprimuntur ab o 
+      <lb ed="#P" n="48"/>bus superioribus et sic tandem suffocabuntur et peribunt 
+      <lb ed="#P" n="49"/>Dicitur quod non suffocabuntur deus eos praeseruabit non 
+      <lb ed="#P" n="50"/>morientur querent mortem et fugiet ab eis propterea pena 
+      <lb ed="#P" n="51"/>lius erit. an purgatorium sit vicinius inferno quam limbus 
+      <lb ed="#P" n="52"/>puerorum incertum est limbus patrum pro tempore quo 
+      <lb ed="#P" n="53"/>erat fuit supremus propterea inter abraham et diuitem 
+      <lb ed="#P" n="54"/>epulonem fuit magnum chaos probabile est quod 
+      purga<lb ed="#P" n="55" break="no"/>torium sit in superficie inferni nunc et limbus puerorum 
+      <lb ed="#P" n="56"/>super augebitur post diem iudici infernus imbibem 
+      <lb ed="#P" n="57"/>do purgatorium et limbus puerorum erit circa 
+      su<lb ed="#P" n="58" break="no"/>perficiem terre in terra vt opinor.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

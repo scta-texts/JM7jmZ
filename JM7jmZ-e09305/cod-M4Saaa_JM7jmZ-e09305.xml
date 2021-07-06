@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 3</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 3</title>
+               <date when="2021-07-06">July 06, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-M4Saaa">Paris 1509</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-06" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="196-v"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="JM7jmZ-e09305"><!-- l4d44q3 -->
+            <head xml:id="JM7jmZ-e09305-Hd1e108">Quaestio 3</head>
+            <head xml:id="JM7jmZ-e09305-Hd1e111" type="question-title">
+      An corpus
+      damnati possit
+      calefieri
+    </head>
+            <p xml:id="JM7jmZ-e09305-d1e114">
+               <lb ed="#P" n="106"/>¶ Distinctionis quadragesime quarte questio tertia. 
+      <lb ed="#P" n="107"/> Rit ergo tertia questio huius quadragesime 
+      <lb ed="#P" n="108"/>iquarte distinctionis probando quod corpus 
+      dan<lb ed="#P" n="109" break="no"/>nati non potest calefieri.
+    </p>
+            <p xml:id="JM7jmZ-e09305-d1e125">
+      patet si sic hoc est per 
+      <lb ed="#P" n="110"/>introductionem caloris sed hoc non / non potest habere vnum 
+      <lb ed="#P" n="111"/>gradum vel duos caloris. patet. vel hoc est pex primum 
+      <lb ed="#P" n="112"/>instans quo corpus machometi habebit calorem vt 
+      <lb ed="#P" n="113"/>quattuor supponamus pro ipsa difficultate quod 
+      habe<lb ed="#P" n="114" break="no"/>bit calorem vt octo et quod ille calor pure partibiliter 
+      <lb ed="#P" n="115"/>introducetur ab igne circunstante et probatur quod numquam 
+      <lb ed="#P" n="116"/>habebit calorem vt quattuor. patet. vel datur primum 
+      <!--408.xml-->
+      <pb ed="#P" n="197-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>instans quo hoc corpus habebit calorem vt quattuor 
+      <lb ed="#P" n="2"/>vel vltimum in quo non habebit calorem vt quattuor 
+      <lb ed="#P" n="3"/>cum incipiat esse oportet quod per alterum istorum 
+      instan<lb ed="#P" n="4" break="no"/>tium hic calor capiat exordium non primum quia sit a istans 
+      <lb ed="#P" n="5"/>quo corpus machometi habebit calorem vt quattuor 
+      <lb ed="#P" n="6"/>ille calor est diuisibilis et non est extra subiectum ergo  
+      <lb ed="#P" n="7"/>alicui subiecto diuisibili inheret simuls illud diuisibile 
+      <lb ed="#P" n="8"/>digitaliter medietas illius digitalitatis prope agens 
+      <lb ed="#P" n="9"/>citius habuit calorem vt quattuor quam tota ista digita 
+      <lb ed="#P" n="10"/>litas cum agens extrinsecum citius agat in partem 
+      vici<lb ed="#P" n="11" break="no"/>nam quam remotam equaliter dispositam non est hic sermo 
+      <lb ed="#P" n="12"/>de minimo naturali in suo toto: ergo non dedisti a in 
+      <lb ed="#P" n="13"/>stans in quo hoc corpus habet calorem primo vt quat 
+      <lb ed="#P" n="14"/>tuor nec secundum puta non datur vltimum instans quo 
+      <lb ed="#P" n="15"/>non habet calorem vt quattuor signetur illud instans 
+      <lb ed="#P" n="16"/>et sit b tunc in b instanti hoc corpus non habet calorem 
+      <lb ed="#P" n="17"/>vt quattuor ergo distat a calore vt quattuor et non in 
+      <lb ed="#P" n="18"/>diuisibiliter et immediate post hoc acquiret calorem vs 
+      <lb ed="#P" n="19"/>quattuor ergo subito acquirit illum gradum. hoc argu 
+      <lb ed="#P" n="20"/>mento dicit vnus medicus dictus simoo de 
+      lendina<lb ed="#P" n="21" break="no"/>ria concluserat fratri paulo de venetiis parme tempo 
+      <lb ed="#P" n="22"/>re floridi studii et multis aliis qui multo melius intel 
+      <lb ed="#P" n="23"/>ligebant nec repperit virum qui ei hoc argumentum di 
+      <lb ed="#P" n="24"/>luerit argumentum est commune et cuilibet prima fro 
+      <lb ed="#P" n="25"/>te occurreret venanti materiam de intentione. 
+      Re<lb ed="#P" n="26" break="no"/>spondetur negando quod numquam habebit calorem vt 
+      quat<lb ed="#P" n="27" break="no"/>tuor per vltimum instans no esse introducitur calor 
+      <lb ed="#P" n="28"/>vt quattuor hoc est in b incipit calor vt quattuor 
+      es<lb ed="#P" n="29" break="no"/>se in hoc subiecto per remotionem de praesenti et 
+      positione<lb ed="#P" n="30" break="no"/>de futuro et concedo quod quilibet calor non terminatus 
+      <lb ed="#P" n="31"/>ad agens quem habet hoc corpus in b instanti exced 
+      <lb ed="#P" n="32"/>tur a colore medio diuisibiliter sed non propterea sed 
+      <lb ed="#P" n="33"/>tur quod calor vt quattuor subito introducetur cum in 
+      <lb ed="#P" n="34"/>nullo excessu diuisibili gradus vt quattuor quemlibet 
+      <lb ed="#P" n="35"/>calorem qui est in b instanti in hoc corpore excedit nul 
+      <lb ed="#P" n="36"/>la enim pars illius caliditatis terminata ad extremum 
+      <lb ed="#P" n="37"/>versus ignem excessu diuisibili exceditur a ergodu medio 
+      <lb ed="#P" n="38"/>in boc instanti b quilibet gradus citra medium est in 
+      <lb ed="#P" n="39"/>hoc subiecto gradus medius est remisissimus qui non 
+      <lb ed="#P" n="40"/>est in hoc subiecto quod nullus sit excessus quo quilibet 
+      <lb ed="#P" n="41"/>caliditas in hoc corpore exceditur a gradu medio 
+      <lb ed="#P" n="42"/>quem supponimus vt quattuor. patet in proportione 
+      du<lb ed="#P" n="43" break="no"/>pla non quelibet caliditas in hoc corpore 
+      excedi<lb ed="#P" n="44" break="no"/>tur a gradu medio. patet. hic est caliditas vt tres 
+      <lb ed="#P" n="45"/>calor vt tria cum duabus tertiis gradus super tria 
+      <lb ed="#P" n="46"/>cum tribus quartis super tria cum septem octauis cum no 
+      <lb ed="#P" n="47"/>naginta nouem centesimis super tria sicut in nulla pro 
+      <lb ed="#P" n="48"/>portione hoc totum est maitus sua parte quantitatiua 
+      <lb ed="#P" n="49"/>non stes in hoc quod vndique caliditas circunstet corpus 
+      <lb ed="#P" n="50"/>huius pseudo prophete eadem est difficultas eundo 
+      <lb ed="#P" n="51"/>ad partes centrales corporis sed ponamus ignem ad vnum 
+      <lb ed="#P" n="52"/>atus solum vt res sit lucidior pro nunc supponamus 
+      <lb ed="#P" n="53"/>latitudinem vniformitur difformen terminatam ad aliquem 
+      <lb ed="#P" n="54"/>gradum ad ipsum terminari exclusiue et non inclusiue 
+      <lb ed="#P" n="55"/>vt latitudo caliditatis a non gradu vsque ad octo vni 
+      <lb ed="#P" n="56"/>formiter difformiter non habet octo sed quemlibet 
+      ergo<lb ed="#P" n="57" break="no"/>dum citra octo si oppositum teneremus iam dicendum 
+      es<lb ed="#P" n="58" break="no"/>set quod datur primum instans in quo habet calorem vt 
+      <lb ed="#P" n="59"/>quattuor et ille calor est in subiecto diuisibili sed in¬ 
+      <!--408.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="60"/>diuisibiliter vt corpus sphericum tangit perfecte planum 
+      <lb ed="#P" n="61"/>punctualiter sed non in puncto negando indiuisibilia in 
+      <lb ed="#P" n="62"/>continuo.
+    </p>
+            <p xml:id="JM7jmZ-e09305-d1e288">
+      ¶ Sed contra istud argumentor in b instan 
+      <lb ed="#P" n="63"/>ti hoc corpus non habet caliditatem vt quattuor et im 
+      <lb ed="#P" n="64"/>mediate post boc instans b habebit calorem supra 
+      <lb ed="#P" n="65"/>quattuor et prius habebit calorem vt quattuor quam 
+      ca<lb ed="#P" n="66" break="no"/>liditatem supra quattuor ergo gradus medius non in 
+      <lb ed="#P" n="67"/>troducitur per vltimum instans non esse quod immediate 
+      <lb ed="#P" n="68"/>post boc instans hoc corpus habebit caliditatem 
+      su<lb ed="#P" n="69" break="no"/>pra quattuor. probatur. ane quodlibet instans futurum erit 
+      <lb ed="#P" n="70"/>caliditas vt quattuor in hoc corpore et illa caliditas 
+      <lb ed="#P" n="71"/>per solutionem habebit subiectum diuisibile et 
+      medie<lb ed="#P" n="72" break="no"/>tas illius partis prope agens habebit caliditatem super 
+      <lb ed="#P" n="73"/>quattuor anquam medietas remotior habebit quattuor 
+      <lb ed="#P" n="74"/>quod prius habebit calorem vt quattuor quam calorem supra 
+      <lb ed="#P" n="75"/>quattuor. patet. cum omnes gradus successiue 
+      intro<lb ed="#P" n="76" break="no"/>ducuntur et ordinate introducetur calor vt quattuor 
+      <lb ed="#P" n="77"/>ante calorem supra quattuor. Forte dicis et sic dicen 
+      <lb ed="#P" n="78"/>dum est immediate post hoc corpus habebit calorem 
+      <lb ed="#P" n="79"/>vt quattuor immediate post hoc istud corpus 
+      habe<lb ed="#P" n="80" break="no"/>bit calorem supra quattuor in nullo instanti habebit 
+      <lb ed="#P" n="81"/>calorem vt quattuor qui in eodem habebit calorem vltra 
+      <lb ed="#P" n="82"/>quattuor quocumquam gradu vltra medium dato citius 
+      <lb ed="#P" n="83"/>habebit gradum medium. Contra probatur quod citius 
+      <lb ed="#P" n="84"/>gradum medium habebit quam gradum vltra medium et hoc 
+      <lb ed="#P" n="85"/>sic cito habebit gradum medium et cito habebit gradum 
+      <lb ed="#P" n="86"/>vltra medium et nullum gradum vltra medium ita cito 
+      <lb ed="#P" n="87"/>habebit sicut gradum medium ergo citius habebit gra 
+      <lb ed="#P" n="88"/>dum medium quam gradum vltra medium. consequentia 
+      pa<lb ed="#P" n="89" break="no"/>tet ab exponentibus ad exponibilem ratione 
+      comparati<lb ed="#P" n="90" break="no"/>ui gradus omnes exponentes clarent non debet esse dubium 
+      <lb ed="#P" n="91"/>in illa nullum gradum medium ita cito habebit sicut gra 
+      <lb ed="#P" n="92"/>dum medium quia da oppositum aliquem gradum medium 
+      <lb ed="#P" n="93"/>ita cito habebit sicut gradum medium signetur ille gra 
+      <lb ed="#P" n="94"/>dus sit vt quinque contra in quocumque instanti est quinque 
+      <lb ed="#P" n="95"/>in hoc subiecto qui excedit diuisibiliter gradum me 
+      <lb ed="#P" n="96"/>dium prius erat gradus medius in hoc subiecto quod 
+      <lb ed="#P" n="97"/>patet iste quintus gradus successiue acquiritur ergo 
+      <lb ed="#P" n="98"/>medietas eius prius acquirebatur et quandocunque erat 
+      <lb ed="#P" n="99"/>quattuor cum dimidio erat gradus medius et adhud 
+      <lb ed="#P" n="100"/>non acquirebatur gradus vt quique: eodemmoo probare 
+      <lb ed="#P" n="101"/>potes quod non acquiritur caliditas vt quattuor cum di 
+      <lb ed="#P" n="102"/>midio ante quattuor inter arguendum responsum est 
+      <lb ed="#P" n="103"/>vsque ad vltimam replicam. dicitur ratione termini stan 
+      <lb ed="#P" n="104"/>tis determinate oportet dare singularem et non inchoa 
+      <lb ed="#P" n="105"/>re expositionem a comparatiuo vt aliqua pars continui 
+      <lb ed="#P" n="106"/>est maior parte continui illa est falsa et eam exponendo 
+      <lb ed="#P" n="107"/>vt iacet exponentes essent vere gradum medium in vl 
+      <lb ed="#P" n="108"/>timo loco distribuitur ratione comparatiui et 
+      dictio<lb ed="#P" n="109" break="no"/>nis quam in primo loco stat determinate demus hanc sin 
+      <lb ed="#P" n="110"/>gularem bunc gradum medium ita cito habebit sicut 
+      <lb ed="#P" n="111"/>gradum vltra medium. modo hec est falsa in quocumque 
+      in<lb ed="#P" n="112" break="no"/>stanti hoc corpus habet hunc gradum medium ille est 
+      <lb ed="#P" n="113"/>extensus per subiectum et cum est iste gradus medius in 
+      <lb ed="#P" n="114"/>hoc subiecto demonstrando medietatem subiecti re 
+      <lb ed="#P" n="115"/>motiorem ab agenti tunc est gradus vltra medium 
+      <lb ed="#P" n="116"/>prope agens et prius fuit gradus vltra medium. 
+      pro<lb ed="#P" n="117" break="no"/>pterea istum gradum iam datum non ita cito habebit 
+      si<lb ed="#P" n="118" break="no"/>cut gradum vltra medium. eodemmoo hec est falsa istud 
+      <!--409.xml-->
+      <pb ed="#P" n="197-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>corpus ita cito habebit gradum medium sicut gradum 
+      <lb ed="#P" n="2"/>medium patet per idem fundamentum potes dicere sic 
+      <lb ed="#P" n="3"/>debet exponi vt iacet sortes cito habebit gradum me 
+      <lb ed="#P" n="4"/>dium et cito habebit gradum vltra medium et non ita 
+      <lb ed="#P" n="5"/>tito habebit gradum vltra medium sicut gradum me 
+      <lb ed="#P" n="6"/>dium modo tertia exponens est falsa sed quia 
+      pos<lb ed="#P" n="7" break="no"/>sunt esse intricature logicales ex parte expositionis 
+      <lb ed="#P" n="8"/>et suppositione de ita sicut quod confundat confuse tantum 
+      <lb ed="#P" n="9"/>imc biliter in quibus non est insistendum in prosequutione 
+      <lb ed="#P" n="10"/>nostri negotii et licet non sit actio ab extrinseco in par 
+      <lb ed="#P" n="11"/>te propinqua qui aliqua erit in remota tamen intentio 
+      <lb ed="#P" n="12"/>erit in parte vicina quam remota et quacumque remota data 
+      <lb ed="#P" n="13"/>citius aget in propinquam loquuti sumus hic de 
+      agen<lb ed="#P" n="14" break="no"/>te extrinseco si agens fuisset intrinsecum sicut forma 
+      <lb ed="#P" n="15"/>aque respectu frigoris producendi bene dabitur primum 
+      <lb ed="#P" n="16"/>instans frigoria vt quattuor vel duo cum omne agens 
+      <lb ed="#P" n="17"/>equaliter agit in plura passa equaliter applicata. sed 
+      <lb ed="#P" n="18"/>stante casu questionis principalis est vna alia 
+      diffi<lb ed="#P" n="19" break="no"/>cultas querendo per quod instans corpus machometi ha 
+      <lb ed="#P" n="20"/>bebit caliditatem secundum se totum capio totum sincathe 
+      <lb ed="#P" n="21"/>goce hoc est quando habebit caliditatem secundum se et quodlibet 
+      <lb ed="#P" n="22"/>sui et arguitur quod non potest sic habere caliditatem quia 
+      <lb ed="#P" n="23"/>vel hoc est per primum instans esse vel vltimum instans 
+      <lb ed="#P" n="24"/>non esse neutrum est dicendum igitur omnis res incipiens 
+      <lb ed="#P" n="25"/>incipit per primum instans este vel vltimum instans non 
+      <lb ed="#P" n="26"/>esse nec aliquo pacto occurrit instantia extra casum 
+      <lb ed="#P" n="27"/>de productione c angeli in istis formis hoc vtrobique 
+      <lb ed="#P" n="28"/>tenet quod neutrum est dicendum. probatur. sit corpus 
+      ma<lb ed="#P" n="29" break="no"/>chometi profundum tribus pedibus et ignis applicatus 
+      <lb ed="#P" n="30"/>bectori vel dorso illa dimentio est profunditas cum est 
+      <lb ed="#P" n="31"/>minima inter tres maxima est longitudo et media la 
+      <lb ed="#P" n="32"/>titudo patet per dimentiones arche noc. geneseos. vi. 
+      <lb ed="#P" n="33"/>trecentorum cubitorum erat longitudo arche 
+      quinqua<lb ed="#P" n="34" break="no"/>ginta cubitorum latitudo et tringinta cubitorum alti 
+      <lb ed="#P" n="35"/>tudo hoc est profunditas si dimentiones fuerint eose 
+      <lb ed="#P" n="36"/>les has denominationes non sic inuenies tunc sit vel 
+      <lb ed="#P" n="37"/>datur primum instans quo hoc corpus habet calidita 
+      <lb ed="#P" n="38"/>tem secundum se totam vel vltimum in quo non habet calidi 
+      <lb ed="#P" n="39"/>tatem secundum se totum si primum vel hec caliditas in 
+      extre<lb ed="#P" n="40" break="no"/>mo remotiori est alicuius certe intentionis vel infini 
+      <lb ed="#P" n="41"/>te remissionis secundum non est dandum quelibet 
+      calidi<lb ed="#P" n="42" break="no"/>tas habet partes graduales ergo illa erit alicuius 
+      <lb ed="#P" n="43"/>certe intentionis ergo eius dimedietas quo ad inten 
+      <lb ed="#P" n="44"/>tionem prius producebatur in fine et sic a instans est pri 
+      <lb ed="#P" n="45"/>mum instans in quo hoc corpus habet caliditatem secundum 
+      <lb ed="#P" n="46"/>se totum supponamus a instans esse presens nunc in quo 
+      <lb ed="#P" n="47"/>nos sumus. insuper tota ista caliditas tripedalis secundum 
+      <lb ed="#P" n="48"/>extentionem vel habet partes secundum intentionem vel non pu 
+      <lb ed="#P" n="49"/>ta duas medietates si des secundum iam aliquis calor no 
+      <lb ed="#P" n="50"/>habet partes graduales si primum iam vna medietas 
+      <lb ed="#P" n="51"/>fuit producta ante aliam quia ponimus pure successiue il 
+      <lb ed="#P" n="52"/>lum calorem fuisse genitum. Si dicas a esse vltimum 
+      in<lb ed="#P" n="53" break="no"/>stans in quo hoc corpus non habet caliditatem secundum se 
+      to<lb ed="#P" n="54" break="no"/>tum tunc nunc non habet caliditatem secundum se totum sed aliud 
+      <lb ed="#P" n="55"/>restat calefiendum signetur illa pars sit b in boc 
+      instan<lb ed="#P" n="56" break="no"/>ti b non est calefactum et immediate post hoc erit 
+      cale<lb ed="#P" n="57" break="no"/>factum ergo subito calefiet quod est falsum cum ponimus 
+      <lb ed="#P" n="58"/>cal orem pure partibiliter esse productum. forte dicis 
+      <lb ed="#P" n="59"/>a eset vltimum instans in quo non habet caliditatem vt 
+      <!--409.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="60"/>octo et aliud restat sic calefiendum et immediate post hoc 
+      <lb ed="#P" n="61"/>totum erit calefactum sed non sequitur quod subito calefiet 
+      <lb ed="#P" n="62"/>quia cuiuslibet partis calefiende datur vna pars calefa 
+      <lb ed="#P" n="63"/>cta secundum extremum intensius sunt infinite partes calefien 
+      <lb ed="#P" n="64"/>de secundum se totas. patet de illis que terminantur ad extre 
+      <lb ed="#P" n="65"/>mum remissius sed nulla est pars terminata ad illud ex 
+      <lb ed="#P" n="66"/>tremum quin aliqua pars eius habet calorem imo medie 
+      <lb ed="#P" n="67"/>tas eius habet calorem due tertie habent calorem secund 
+      <lb ed="#P" n="68"/>se totas quattuor quinte nonaginta nouem millesime 
+      <lb ed="#P" n="69"/>habent caliditatem secundum se totas nec deus potest 
+      sepa<lb ed="#P" n="70" break="no"/>rare partem calefactam secundum se totam a non calefacta quia 
+      <lb ed="#P" n="71"/>nulla talis est non datur subiectum adequatum illius 
+      <lb ed="#P" n="72"/>caloris et si diuidatur corpus hoc secundum partes 
+      propor<lb ed="#P" n="73" break="no"/>tionales maioribus prope ignem proportione dupla 
+      <lb ed="#P" n="74"/>tripla vel alia quacumque numerali qualibet pars propor 
+      <lb ed="#P" n="75"/>tionalis est calefacta secundum se totam sed non sequitur quod que 
+      <lb ed="#P" n="76"/>libet pars est calefacta secundum se totam vt patet de vltima 
+      <lb ed="#P" n="77"/>quarta sic respondit robertus hollot in determina 
+      <lb ed="#P" n="78"/>tionibus.
+    </p>
+            <p xml:id="JM7jmZ-e09305-d1e593">
+      ¶ Sed contra istud arguitur quelibet pars 
+      <lb ed="#P" n="79"/>proportionalis secundum hanc diuisionem saltem est calefacta 
+      <lb ed="#P" n="80"/>tunc prima pars proportionalis est calefacta scilicet pe 
+      <lb ed="#P" n="81"/>dale cum semis que est equalis aggregato omnium 
+      par<lb ed="#P" n="82" break="no"/>tium proportionabilium sequentium ergo partes 
+      sequen<lb ed="#P" n="83" break="no"/>tes reddunt pedale cum dimidio ergo tripedale est ca 
+      <lb ed="#P" n="84"/>lefactum secundum se totum non est fuga nisi dicere primam 
+      <lb ed="#P" n="85"/>diuisibiliter excedere reliquas que parum valet quia 
+      <lb ed="#P" n="86"/>sic dabitur vnum pondus quod indiuisibiliter excedit aliud 
+      <lb ed="#P" n="87"/>et sit a minimum pondus quod sortes non potest portare 
+      <lb ed="#P" n="88"/>indiuisibiliter exuperans b tunc b erit maximum 
+      pom<lb ed="#P" n="89" break="no"/>dus quod sortes potest portare sed dicet aduersarius  
+      <lb ed="#P" n="90"/>hoc non inconuenire. patet. dando corpus bipedale 
+      ni<lb ed="#P" n="91" break="no"/>grum planum et cadit corpus perfecte spericum album et 
+      <lb ed="#P" n="92"/>albefactiuum vt creta et conseruet deus cretam ne mi 
+      <lb ed="#P" n="93"/>nutatim frangatur cadat illud spericum super alte 
+      <lb ed="#P" n="94"/>rum pedalium iprsum solum albifaciendo in puncto con 
+      <lb ed="#P" n="95"/>tractus tunc altera medietas aliam impartibiliter exu 
+      <lb ed="#P" n="96"/>berabit sed de hoc alias proinde teneamus quod corpus 
+      <lb ed="#P" n="97"/>datum habet caliditatem secundum se totum per primum 
+      <lb ed="#P" n="98"/>instans esse et ita de quolibet alio corpore quod pure 
+      per<lb ed="#P" n="99" break="no"/>tibiliter calefit sed tunc restat respondere argumento 
+      <lb ed="#P" n="100"/>in oppositum quando sic arguitur in extremo remotiori ab 
+      <lb ed="#P" n="101"/>gne calor erit infinite remissionis vel loqueris de pum 
+      <lb ed="#P" n="102"/>cto terminatiuo illius tripedalitatis et dicitur quod nul 
+      <lb ed="#P" n="103"/>us calor illi inheret si de aliquo puncto intrinseco il 
+      <lb ed="#P" n="104"/>lius tripedalitatis et dico quod in illo est calor vel cum 
+      <lb ed="#P" n="105"/>illo imaginemur puncta et calorem ei inherere quorum 
+      <lb ed="#P" n="106"/>vtrumque minus rationabile censeo sed calor in quocunque 
+      <lb ed="#P" n="107"/>puncto intrinseco est alicuius certe intentionis sed in 
+      <lb ed="#P" n="108"/>infinitum remissus est calor in hoc subiecto quia 
+      qua<lb ed="#P" n="109" break="no"/>cumque remissione data datur remissior calor in hoc subie 
+      <lb ed="#P" n="110"/>cto. ex quo non sequitur quod aliquis calor huius 
+      subie<lb ed="#P" n="111" break="no"/>cti est infinite remissus. Ad secundum argumentum quo 
+      <lb ed="#P" n="112"/>dicis tota ista caliditas tripedalis vel habet partes 
+      <lb ed="#P" n="113"/>secundum intentionem et cetera dicitur quod totus ille calor 
+      <lb ed="#P" n="114"/>est diuisibilis secundum intentionem si totus ille calor sit ab 
+      <lb ed="#P" n="115"/>octo vsque ad non gradum poterit diuidin duas 
+      medie<lb ed="#P" n="116" break="no"/>tates secundum intentionem scilicet ab quattuor vsque ad non gradum 
+      <lb ed="#P" n="117"/>et nego quod vna illarum medietatum producebatur ante 
+      <lb ed="#P" n="118"/>aliam nunc primo vtraque illarum medietatum est producta 
+      <!--410.xml-->
+      <pb ed="#P" n="198-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>et si hic calor diuidatur in duas medietates secundum 
+      in<lb ed="#P" n="2" break="no"/>tensionem et illarum medietatum quelibet diuidatur in 
+      <lb ed="#P" n="3"/>partes proportionales quo ad extentionem 
+      maiori<lb ed="#P" n="4" break="no"/>bus terminatis versus agens et quelibet pars vnius 
+      <lb ed="#P" n="5"/>producitur ante partem proportionalem alterius ei respon 
+      <lb ed="#P" n="6"/>dentem non sequitur quod vnus totalis calor producitur 
+      <lb ed="#P" n="7"/>ante alium sicut in achille eenonico quanlibet part 
+      <lb ed="#P" n="8"/>proportionalem spati partransit mobile tardum an mobi 
+      <lb ed="#P" n="9"/>le velox et tamen in eodem instanti primo illud spacium est 
+      <lb ed="#P" n="10"/>ab vtroque mobili pertransitum. quo fit licet non cuius 
+      <lb ed="#P" n="11"/>libet gradus qualitatis ex vna parte ad non 
+      gradu<lb ed="#P" n="12" break="no"/>terminate successiue producte dantur duo gradus per 
+      <lb ed="#P" n="13"/>totum extensi vnus ante alium productus tamen cuiuslibet 
+      <lb ed="#P" n="14"/>qualitatis ad gradum ex vtraque parte terminate dan 
+      <lb ed="#P" n="15"/>tur duo gradus per totum extensi vnus an alium 
+      produ<lb ed="#P" n="16" break="no"/>ctus. Eodemmodo conceditur quod dabitur primum instans 
+      <lb ed="#P" n="17"/>quo corpus machometi habet calorem vt quattuor secundum 
+      <lb ed="#P" n="18"/>se totum calorem vt tria secundum se totum dabitur primum istan 
+      <lb ed="#P" n="19"/>inquo quelibet pars proportionalis erit calida vt 
+      quat<lb ed="#P" n="20" break="no"/>tuor puta in instanti quo in extremo remotiore eri 
+      <lb ed="#P" n="21"/>caliditas vt quattuor et in illo instanti primo quelibet 
+      <lb ed="#P" n="22"/>pars proportionalis erit calida supra quattuor. quod pa 
+      <lb ed="#P" n="23"/>tet da vnam partem proportionalem non calidam super 
+      quat<lb ed="#P" n="24" break="no"/>tuor et cum quelibet pars proportionalis habet infini 
+      <lb ed="#P" n="25"/>tas post se versus partes minutiores non prius cale 
+      <lb ed="#P" n="26"/>fiet pars propinqua agenti quam remota quod est falsum que 
+      <lb ed="#P" n="27"/>libet pars proportionalis fuit calida supra quattuor 
+      <lb ed="#P" n="28"/>ane hoc istans ista stant qualibet pars proportionalis fuit in ali 
+      <lb ed="#P" n="29"/>quo instanti ane hoc istans calida super quattuor et in nullo in 
+      <lb ed="#P" n="30"/>stanti ante boc instans qualibet pars proportionalis 
+      <lb ed="#P" n="31"/>fuit calida super quattuor nec sic inconuenit dare pro 
+      <lb ed="#P" n="32"/>positiones de praeterito et praesenti simul incipientes esse 
+      <lb ed="#P" n="33"/>veras sicut si deus in qualibet parte proportionali 
+      <lb ed="#P" n="34"/>hore praeterite produxit vnum angelum et nos sumus in 
+      in<lb ed="#P" n="35" break="no"/>stanti terminante illam horam iam verum est dicere primo 
+      <lb ed="#P" n="36"/>quilibet istorum augelorum est demonstrando infinitos 
+      <lb ed="#P" n="37"/>et quilibet istorum prius fuit imo sine signo 
+      distributi<lb ed="#P" n="38" break="no"/>uo hoc patet alibi in insolubilibus diximus has siml 
+      <lb ed="#P" n="39"/>incipere esse veras sortes animal est et sortes animal 
+      <lb ed="#P" n="40"/>fuit cum animal est praedicatum et ampliatur ad praeteritum sub di 
+      <lb ed="#P" n="41"/>iunctione ad praesens. Sed petis quomodo stabit corp 
+      <lb ed="#P" n="42"/>datum calidum difformiter quia in parte propinqua erit 
+      <lb ed="#P" n="43"/>maior calor quam in remota. sed dicis calor partis 
+      pro<lb ed="#P" n="44" break="no"/>pinque calefacit partem remotam que erat citra octo 
+      <lb ed="#P" n="45"/>secunda calefacit tertiam et sic per totum erit calor vt octo 
+      <lb ed="#P" n="46"/>quia effectus hic iuuat suam causam stat in parte 
+      pro<lb ed="#P" n="47" break="no"/>pinqua esse statum quod agens cum influentia dei 
+      gene<lb ed="#P" n="48" break="no"/>rali non concurrit ad intensiorem gradum quam vt octo vel 
+      <lb ed="#P" n="49"/>decem non semper producit calorem gradualiter ma 
+      <lb ed="#P" n="50"/>iorem et maiorem sed conseruat calorem iam productum in vno 
+      <lb ed="#P" n="51"/>tempore dato erit ita magnus calor intensiue sicut 
+      <lb ed="#P" n="52"/>vnquam post hoc erit in hac aqua super ignem nec carnes 
+      <lb ed="#P" n="53"/>vel pisces stant prope ignem vt intensiorem calorem 
+      su<lb ed="#P" n="54" break="no"/>scipiant ab igne sed vtconseruetur calor qui excoque 
+      <lb ed="#P" n="55"/>re cruditates potest in magno tempore quas non potest 
+      <lb ed="#P" n="56"/>in paruo et si ignis in infinitum gradualiter possit 
+      pro<lb ed="#P" n="57" break="no"/>ducere suapte natura deus non concurrit vltra calo 
+      <lb ed="#P" n="58"/>rem qui sufficienter aliquem cruciat secundum sua 
+      demeri<lb ed="#P" n="59" break="no"/>ta. at si ponas hunc ignem cum influentia dei generali non 
+      <!--410.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="60"/>satis posse calefacere perditissimos peccatores deo plus 
+      <lb ed="#P" n="61"/>suffragante possunt intensiorem calorem producere. Si 
+      <lb ed="#P" n="62"/>calor vt octo in corpore denso putatur producere pos 
+      <lb ed="#P" n="63"/>se calorem supra octo propter eius actiuitatem si deus 
+      <lb ed="#P" n="64"/>ergo coagat potest producere in corpore denso vel 
+      <lb ed="#P" n="65"/>raro vltra octo sicut si sortes potentia portatiua tes 
+      <lb ed="#P" n="66"/>minatur in minimum pondus quod non potest leuare sine 
+      <lb ed="#P" n="67"/>ope alterius non tamen terminatur in illud pondus 
+      <lb ed="#P" n="68"/>aliis suffragantibus. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

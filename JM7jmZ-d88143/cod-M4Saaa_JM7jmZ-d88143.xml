@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 3</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 3</title>
+               <date when="2021-07-06">July 06, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-M4Saaa">Paris 1509</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-06" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="159-r"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="JM7jmZ-d88143"><!-- l4d30q3 -->
+            <head xml:id="JM7jmZ-d88143-Hd1e108">Quaestio 3</head>
+            <head xml:id="JM7jmZ-d88143-Hd1e111" type="question-title">
+      An fuit verum
+      matrimonium inter
+      Mariam
+      et Ioseph
+    </head>
+            <p xml:id="JM7jmZ-d88143-d1e114">
+               <lb ed="#P" n="62"/>¶ Distinctionis trigesime questio tertia. 
+      <lb ed="#P" n="63"/>Veritur tertio an fuit verum matrimonium 
+      <lb ed="#P" n="64"/>inter mariam et ioseph.
+    </p>
+            <p xml:id="JM7jmZ-d88143-d1e123">
+      Ponitur conclusio 
+      <lb ed="#P" n="65"/> beata virgo erat coniunx et virgo simul et 
+      <lb ed="#P" n="66"/>mortua est virgo: hoc patet auctoritatibus omni 
+      lu<lb ed="#P" n="67" break="no"/>ce clarioribus in questione non ancipite quid opus 
+      <lb ed="#P" n="68"/>est testimonio beata virgo: dicit beatus augustinus 
+      <lb ed="#P" n="69"/>in libro de vitiis et concupiscentiis: et magister 
+      alle<lb ed="#P" n="70" break="no"/>gat in littera beata maria proposuit se seruaturam 
+      <lb ed="#P" n="71"/>votum virginitatis in corde sed ipsum votum non 
+      <lb ed="#P" n="72"/>expressit ore luce primo angelo respondit / 
+      quomo<lb ed="#P" n="73" break="no"/>do fiet istud quoniam virum non cognosco: si ipsa non 
+      <lb ed="#P" n="74"/>fuisset actualiter adhuc cognita et non habens 
+      vira<lb ed="#P" n="75" break="no"/>ginitatem in mente non fuisset bona responsio 
+      ar<lb ed="#P" n="76" break="no"/>changelo sed volebat dicere ego firmiter proposui 
+      <lb ed="#P" n="77"/>in animo seruare virginitatem sed ipsa erat docta a 
+      <lb ed="#P" n="78"/>spiritu sancto quod poterat habitare cum ioseph et eum 
+      <lb ed="#P" n="79"/>capere in virum ei dando suum corpus sed 
+      certio<lb ed="#P" n="80" break="no"/>rata reddebatur a deo quod ioseph corporis vsum nun 
+      <lb ed="#P" n="81"/>quam peteret. sed radix tunc est in quo consistit matrino 
+      <lb ed="#P" n="82"/>nium si in datione actus coniugalis quomodo cum 
+      il<lb ed="#P" n="83" break="no"/>lo stat virginitas. Respondetur quod in datione mutua cor 
+      <lb ed="#P" n="84"/>porum puta in dando dominium sui corporis et non dando 
+      <lb ed="#P" n="85"/>vsum sui dominii nisi petatur aliquis potest alicui dare do 
+      <lb ed="#P" n="86"/>minium sui corporis non dando ei vsum illius domini quod 
+      <lb ed="#P" n="87"/>patet de illo qui iurauit quod contrahet matrimonium 
+      po<lb ed="#P" n="88" break="no"/>stea intendit intrare religionem alexandm tertius epreo 
+      <lb ed="#P" n="89"/>exoniensi extra de spon. et matrimo. commissum. dicit 
+      <lb ed="#P" n="90"/>quod talis potest contrahere et postea intrare religionem 
+      <lb ed="#P" n="91"/>et sic contrahit matrimonium et nunquam intendit dare 
+      <lb ed="#P" n="92"/>mulieri vsum sui corpis: sic erat de beata virgine que 
+      <lb ed="#P" n="93"/>erat docta a spum sancton quod contraheret. quod ioseph non pe 
+      <lb ed="#P" n="94"/>teret debitum ipsa dedit ipsi ioseph sui corpris dominium 
+      <lb ed="#P" n="95"/>reseruans sibiipsi vsum sui corpris: nec sequitur er 
+      <lb ed="#P" n="96"/>ista via quod inter fratrem et sororem potest matrimonium 
+      <lb ed="#P" n="97"/>contrahi quia non sunt habiles: illud patet totum. xxvii. quod 
+      <lb ed="#P" n="98"/>ii. beata maria. et si dicas. xxvii. q. i. sunt quidam. 
+      vouem<lb ed="#P" n="99" break="no"/>tibus vginibus non solum nubere sed velle nubere 
+      danna<lb ed="#P" n="100" break="no"/>bile est dicetur quod hoc verum est nisi aliqua esset docta 
+      <lb ed="#P" n="101"/>a spum sancto quod alter debitum non exigeret et quod ei 
+      prodes<lb ed="#P" n="102" break="no"/>set contrahere matrimonium alis male agit exponen 
+      <lb ed="#P" n="103"/>do se discrimini cadendi a virginitate propter viri 
+      so<lb ed="#P" n="104" break="no"/>cietatem.
+    </p>
+            <p xml:id="JM7jmZ-d88143-d1e212">
+      ¶ Sed contra illud totum arguitur: sequeretur quod es 
+      <lb ed="#P" n="105"/>set matrimonium cum conditione non reddendi debitum 
+      <lb ed="#P" n="106"/>vel cum contrario vnius boni matrionii quod est falsum 
+      <lb ed="#P" n="107"/>et contra romanum ponificem. extra de conditio. 
+      appo<lb ed="#P" n="108" break="no"/>in dispensatione vel in aliis contractibus. ca. vlti. Forte 
+      <lb ed="#P" n="109"/>respondes concedendo quod est matrimonium nec illa conditio 
+      <lb ed="#P" n="110"/>matrimonio repugnat de non petere debitum modo 
+      ho<lb ed="#P" n="111" break="no"/>nesto sed conditiones inhoneste contra tria bona matrionit 
+      <lb ed="#P" n="112"/>matrimonium impediunt vt si procures abortiuum vel si 
+      <lb ed="#P" n="113"/>non serues matrionii fidem vel si alium possum te viuente 
+      <lb ed="#P" n="114"/>capere. Contra illud argumntor: ex isto sequitur quod 
+      <lb ed="#P" n="115"/>mulier non tenetur reddere viro petenti debitum 
+      <lb ed="#P" n="116"/>consequens est falsum et contra maximum pontificem 
+      <!--333.xml-->
+      <pb ed="#P" n="159-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>de conuersione coniugatorum. ex publico. iudex con 
+      <lb ed="#P" n="2"/>pellet eum vel eam intrare religionem infra spacium 
+      <lb ed="#P" n="3"/>duorum mensium vel reddere debitum vt ibi pater 
+      <lb ed="#P" n="4"/>et patet consequentia quia reddere vsum corperis non 
+      <lb ed="#P" n="5"/>est de ratione matrimonii imo aduenticium matrionio 
+      <lb ed="#P" n="6"/>ad quod nemo tenetur. Respondeo replica hec petit venam 
+      <lb ed="#P" n="7"/>huius materie et dico quod non sufficit ad matrimonium 
+      <lb ed="#P" n="8"/>dare corporis dominium dissentiendo de vsu saltem ad 
+      <lb ed="#P" n="9"/>hoc quod sit matrimonium eiusdem rationis cum ma 
+      <lb ed="#P" n="10"/>trimonio communi vt replica tangit nec hoc volebat 
+      be<lb ed="#P" n="11" break="no"/>ta virgo sed ipsa dedit dominium sui corporis 
+      ip<lb ed="#P" n="12" break="no"/>si ioseph relinquens vsum dispositionis diuine et 
+      <lb ed="#P" n="13"/>certiorata erat quod ioseph non peteret vsum corpris: 
+      <lb ed="#P" n="14"/>nec ipsa petere debebat et hoc stat cum virginitatm 
+      <lb ed="#P" n="15"/>et forte taliter contraxit iohannes euangelista. S 
+      <lb ed="#P" n="16"/>ponas ioseph petiuisse vsum corporis beate virgi 
+      <lb ed="#P" n="17"/>nis quid ipsa tenebatur facere. Respondeo ponis 
+      <lb ed="#P" n="18"/>quintum pedem in ariete et casum preter legem 
+      vn<lb ed="#P" n="19" break="no"/>de mulier que contrahitur potest se bifariam habere: 
+      <lb ed="#P" n="20"/>vnomodo volendo contrahere matrimonium et vo 
+      <lb ed="#P" n="21"/>lendo dare viro dominium sui corporis 
+      nichilcogitan<lb ed="#P" n="22" break="no"/>do de vsu corporis: vel si cogitet relinquens dispo 
+      <lb ed="#P" n="23"/>sitioni diuine et sic fecit beata virgo et hoc proposi 
+      <lb ed="#P" n="24"/>tum compatit virginitatem et verum est 
+      matrimo<lb ed="#P" n="25" break="no"/>nium tale potest fieri inter frigidum et sterilem 
+      dum<lb ed="#P" n="26" break="no"/>modo hoc cognoscant. Aliomodo mulier habet 
+      <lb ed="#P" n="27"/>propositum dandi suum corpus viro et vsum 
+      cathe<lb ed="#P" n="28" break="no"/>gorice et adhuc tale propositum vt supra patuit in 
+      <lb ed="#P" n="29"/>questione precedenti spectat ad virginitatem ante 
+      <lb ed="#P" n="30"/>quam sit cognita / licet multum assimiletur castitati con 
+      <lb ed="#P" n="31"/>iugali et sic non est ita pura virginitas sicut pria quam 
+      <lb ed="#P" n="32"/>non decuit beatam virginem habere. Alie mulieres 
+      <lb ed="#P" n="33"/>contrahentes communiter / siue habeant primum 
+      pro<lb ed="#P" n="34" break="no"/>positum / siue secundum tenentur reddere debitum 
+      <lb ed="#P" n="35"/>quia hoc ratio et lex statuit pro loco et tempore / non 
+      <lb ed="#P" n="36"/>autem beata virgo / ioseph ab ea nichil petebat quod si 
+      <lb ed="#P" n="37"/>importunius arguens ponat preter legem ioseph de 
+      <lb ed="#P" n="38"/>bitum petiuisse vt sit satisfactum sue impudentie cum 
+      <lb ed="#P" n="39"/>iosephetiam mortuus est virgo non parue 
+      reputa<lb ed="#P" n="40" break="no"/>tionis erat sanctus ioseph in conspectu trinitatis cum 
+      <lb ed="#P" n="41"/>debebat habere coniugem matrem dei. dico beata 
+      <lb ed="#P" n="42"/>virgo non reddidisset ei debitum nec tenebatur: quia 
+      <lb ed="#P" n="43"/>ipsa erat certiorata a deo de opposito fateor quod car 
+      <lb ed="#P" n="44"/>nalis copula non est de ratione matrionii inter mu 
+      <lb ed="#P" n="45"/>tos erat matrimonium inter quos nunquam erat 
+      car<lb ed="#P" n="46" break="no"/>nalis copula: si duo contraherent et ambo vouerent 
+      <lb ed="#P" n="47"/>continentiam ante carnalem copulam neuter 
+      tene<lb ed="#P" n="48" break="no"/>tur alteri reddere debitum dato quod alter peteret vl 
+      <lb ed="#P" n="49"/>proximius loquendo: si post verba de presenti duo 
+      <lb ed="#P" n="50"/>contraherent sortes et berta et deus prohiberet eis 
+      <lb ed="#P" n="51"/>reddere debitum / in illo casu neuter tenetur alter 
+      <lb ed="#P" n="52"/>reddere debitum esto quod alter petat. ideo non placet 
+      <lb ed="#P" n="53"/>michi quod martinus dicit quod beata virgo 
+      teneba<lb ed="#P" n="54" break="no"/>tur reddere debitum si ioseph petiuisset vt patet in 
+      <lb ed="#P" n="55"/>solutione quarti argumenti contra tertiam conclu 
+      <lb ed="#P" n="56"/>sionem. Sed pro ampliore intelligentia dico aliquod 
+      <lb ed="#P" n="57"/>est matrimonium in quo est essentiale reddere debi 
+      <lb ed="#P" n="58"/>tum petenti: patet post carnalem copulam si alter 
+      <lb ed="#P" n="59"/>petat pro tempore et loco alter non dans debitum 
+      <!--333.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="60"/>peccat. idem patet ante carnalem copulam lapsis 
+      <lb ed="#P" n="61"/>duobus mensibus et illud est matrimonium comu 
+      <lb ed="#P" n="62"/>ne. Aliud est matrimonium et non ita commune in 
+      <lb ed="#P" n="63"/>quo vnus non tenetur reddere alteri debitum: patet 
+      <lb ed="#P" n="64"/>ante duos menses vel cum pacto non reddere 
+      de<lb ed="#P" n="65" break="no"/>bitum vel post votum emissum ab vtroque: vel si de 
+      <lb ed="#P" n="66"/>us prohiberet reddere debitum modo ille terminus 
+      <lb ed="#P" n="67"/>matrimonium vniuoce dicitur de vtroque licet non 
+      <lb ed="#P" n="68"/>sit idem in eis / sicut animal dicitur vniuoce de 
+      ho<lb ed="#P" n="69" break="no"/>mine et equo / licet inter illa sit magnum discrimen 
+      <lb ed="#P" n="70"/>sicut aliquod est animal de cuius essentia est anima 
+      <lb ed="#P" n="71"/>rationalis. patet de homine / aliquod est animal de 
+      <lb ed="#P" n="72"/>cuius essentia non est necesse habere animam ratio 
+      <lb ed="#P" n="73"/>nalem: patet de boue sed sicut non est necessarium 
+      <lb ed="#P" n="74"/>ad animal in communi habere animam rationalem 
+      <lb ed="#P" n="75"/>sed sufficit habere animam sensitiuam sic ad matri 
+      <lb ed="#P" n="76"/>monium in communi sufficit dare dominium corporum 
+      <lb ed="#P" n="77"/>mutuo vt predictum est.
+    </p>
+            <p xml:id="JM7jmZ-d88143-d1e419">
+      ¶ Contra conclusionem 
+      <lb ed="#P" n="78"/>arguitur: non licuit mulieribus viris alterius tribus 
+      <lb ed="#P" n="79"/>nubere numerorum vltimo: ioseph non erat tribus ma 
+      <lb ed="#P" n="80"/>rie. luce secundo. erat de tribu iuda quia de tribu dauid 
+      <lb ed="#P" n="81"/>maria autem erat de tribu leui quia erat cognata eli 
+      <lb ed="#P" n="82"/>gabet luce primo: igitur. Preterea probatur quod ma 
+      <lb ed="#P" n="83"/>ria non mansit virgo vsque ad mortem. euangelista di 
+      <lb ed="#P" n="84"/>cit mathei primo. et accepit coniugem suam et non 
+      <lb ed="#P" n="85"/>cognoscebat eam donec peperit filium suum primo 
+      <lb ed="#P" n="86"/>genitum: ergo videtur dicere quod cognouit eam post 
+      <lb ed="#P" n="87"/>quam christus erat natus. Ad primum respondetur 
+      di<lb ed="#P" n="88" break="no"/>stingo quod non licuit mulieri capere virum alterius tri 
+      <lb ed="#P" n="89"/>bus: vel si illa mulier erat heres parentum et sic con 
+      <lb ed="#P" n="90"/>ceditur. numerorum vltimo querimonia filiarum 
+      sal<lb ed="#P" n="91" break="no"/>phaad que erant de tribu ioseph preponebatur 
+      co<lb ed="#P" n="92" break="no"/>ram moyse an licuit eis habere viros aliarum tribuum 
+      <lb ed="#P" n="93"/>diffiniuit moyses quod nonne esset confusio in tribubus 
+      <lb ed="#P" n="94"/>par ratio videtur de omnibus mulieribus 
+      heredi<lb ed="#P" n="95" break="no"/>bus et filiabus salphaad vel aliis mulieribus et sic 
+      <lb ed="#P" n="96"/>negatur licuit eis capere viros cuiuscunque tribus. de 
+      <lb ed="#P" n="97"/>beata virgine videtur quod erat heres ioachim / erat so 
+      <lb ed="#P" n="98"/>ligenita licet beata anna habuit alias duas filias 
+      ex<lb ed="#P" n="99" break="no"/>duobus aliis viris vt patet ex carminibus. Anna so 
+      <lb ed="#P" n="100"/>let dici tres concepisse marias. Quas genuere viri 
+      <lb ed="#P" n="101"/>ioachim / cleophas / salomeque. Das duxere viri / 
+      io<lb ed="#P" n="102" break="no"/>seph / alpheus / ebedeus. Prima parit christum / ia 
+      <lb ed="#P" n="103"/>cobumque secunda minorem. Et ioseph iustum 
+      pe<lb ed="#P" n="104" break="no"/>perit cum simone iudam. Tertia maiorem 
+      iacobun<lb ed="#P" n="105" break="no"/>volucremquem iohannem. Et pulchrius hec tangit man 
+      <lb ed="#P" n="106"/>tuanus primo libro de beata virgine ismeria erat so 
+      <lb ed="#P" n="107"/>ror anne que erat mater elvztabeth. Ismerie soror 
+      <lb ed="#P" n="108"/>anna fuit regalis origo. Et soboles magni veniens 
+      <lb ed="#P" n="109"/>pauidis ab alto. Sanguine zacharie conniunx sata sei 
+      <lb ed="#P" n="110"/>mine prime. Tres triplici parte marias tribus 
+      an<lb ed="#P" n="111" break="no"/>na maritis. Progenuit sanctum et summo genus 
+      <lb ed="#P" n="112"/>ethere dignum. Prima deo sacros partus dedit alte 
+      <lb ed="#P" n="113"/>ra natos. Quattuor alpheo iudam simona iacobum. 
+      <lb ed="#P" n="114"/>Et qui iusticie clarum cognomen habebat. Tertia 
+      <lb ed="#P" n="115"/>de natis tibi quos eebedee duobus / Edidit. Et sic 
+      <lb ed="#P" n="116"/>non licuit beate virgini capere virum alterius tribus 
+      <lb ed="#P" n="117"/>et sic conuincitur quod erant eiusdem tribus elyzabeth 
+      <lb ed="#P" n="118"/>erat de tribu leui sed tribus sacerdotalis et regia 
+      <!--334.xml-->
+      <pb ed="#P" n="160-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>erant commixte et sic beata virgo de vtraque tribu 
+      de<lb ed="#P" n="2" break="no"/>scendit: sed tunc est dubium esto quod mathei primo dedu 
+      <lb ed="#P" n="3"/>catur genealogia ioseph de domo dauid christus non 
+      <lb ed="#P" n="4"/>erat filius ioseph sed ex spiritus sancto sine patre ge 
+      <lb ed="#P" n="5"/>nitus ex purissimo sanguine beatissime vginis quo 
+      <lb ed="#P" n="6"/>ad humanitatem. Forte dicis et sic dicunt doctores quod 
+      <lb ed="#P" n="7"/>postquam beatus matheus mathei primo deducit ioseph 
+      <lb ed="#P" n="8"/>et duxit beatam virginem et ipra erat heres ipa erat 
+      eius<lb ed="#P" n="9" break="no"/>dem tribus. Contra ex hoc non habes quod ipa erat de 
+      <lb ed="#P" n="10"/>domo dauid quia in tribu iuda multe erant domus et 
+      <lb ed="#P" n="11"/>familie a dauid domus fratrum dauid erant de tribu 
+      <lb ed="#P" n="12"/>iuda sicut ipe dauid et non cogebantur mulieres duci 
+      <lb ed="#P" n="13"/>re viros sue familie sed licuit capere cuiuscumque fami 
+      <lb ed="#P" n="14"/>lie virum dum modo in sua tribu manerent. Respondetur 
+      <lb ed="#P" n="15"/>quod credendum est auctoritati beati mathei quemadmodem 
+      <lb ed="#P" n="16"/>credimus et hebrei credunt moysi dicenti. In 
+      princi<lb ed="#P" n="17" break="no"/>pio creauit deus celum et terram. Ad secundum argumentum 
+      <lb ed="#P" n="18"/>mathei primo solutio tangitur extra de verborum 
+      sigatio<lb ed="#P" n="19" break="no"/>ne. ioseph. et est beati hieronimi. locus a contrario sen 
+      <lb ed="#P" n="20"/>su ibi locum non habtet: donec est modus loquendi scri 
+      <lb ed="#P" n="21"/>pture patet in veteri testamento. Sede a dextris meis 
+      <lb ed="#P" n="22"/>donec ponam inimicos etc. et coruus non reuersus est 
+      <lb ed="#P" n="23"/>donec aqua siccauerit. gen. viii. et tamen coruus non redie 
+      <lb ed="#P" n="24"/>bat secundum quod solet dici coruum in diluuio noe emittebat 
+      <lb ed="#P" n="25"/>qui ingratus fuerat non reueniebat. etc. et non 
+      cogno<lb ed="#P" n="26" break="no"/>uerant sepulcrum moysi donec in hodiernum diem. 
+      <lb ed="#P" n="27"/>deuteronomii. xxxiiii. Primogenitus est ille an quae 
+      <lb ed="#P" n="28"/>nemo nascitur et hoc ab artistis solet dici dictio 
+      su<lb ed="#P" n="29" break="no"/>berlatiui gradus exponitur negatiue et affirmatiue 
+      <lb ed="#P" n="30"/>negatiue ante quem nullus et sic capitur hic et sic non est 
+      <lb ed="#P" n="31"/>terminus relatiuus non sequitur ille est primus ergo est 
+      <lb ed="#P" n="32"/>respectu secundi bene quidem affirmatiue et est modus lo 
+      <lb ed="#P" n="33"/>quendi in leuitico sacerdotibus debentur primogenita 
+      <lb ed="#P" n="34"/>et constat anquam alia generantur: sic respondit iohannes 
+      <lb ed="#P" n="35"/>damascenus libro. iiii. cap. viii. Aliomoo exponitur illud 
+      <lb ed="#P" n="36"/>et non cognoscebat eum donec peprit mox postquam con 
+      <lb ed="#P" n="37"/>cepit relucebat corpus beate virginis quod eam vt antea 
+      <lb ed="#P" n="38"/>cognoscere non poterat nimirum cum dominus glorie erat in 
+      <lb ed="#P" n="39"/>vtero: moysi resplendebant radii vt cornua vt popu 
+      <lb ed="#P" n="40"/>lus eum vix cognoscere poterat. ii. corinth. iii. quare 
+      <lb ed="#P" n="41"/>sic non erat hic sed postquam pepit saluatorem melius eam 
+      <lb ed="#P" n="42"/>cognouit quam antea non est sermo de cognoscere car 
+      <lb ed="#P" n="43"/>naliter sed per visionem intuitiuam. Et si dicas beata 
+      <lb ed="#P" n="44"/>virgo fuisset non cognita ab aliis quemadmodum 
+      vni<lb ed="#P" n="45" break="no"/>uersus israel non potuit intueri moysen. 
+      Respon<lb ed="#P" n="46" break="no"/>detur quod deus potuit impedire illam claritatem ne 
+      age<lb ed="#P" n="47" break="no"/>ret in oculis aliorum sed solum in ioseph quemadmodum 
+      <lb ed="#P" n="48"/>angeli relicti suis naturis possunt intueri secreta cor 
+      <lb ed="#P" n="49"/>dis deus id sibi soli reseruat et illud est rationabile 
+      <lb ed="#P" n="50"/>de moyse et ioseph de moyse quidem vt populus co 
+      <lb ed="#P" n="51"/>gnosceret gloriam dei et pareret moysi eorum legifero 
+      <lb ed="#P" n="52"/>qui erat totius populi dux sc li ioseph qui dabatur 
+      <lb ed="#P" n="53"/>in obsequium beate virginis et in testimonium 
+      virgini<lb ed="#P" n="54" break="no"/>tatis illud apparuit. euangelista dicit math. primo. 
+      <lb ed="#P" n="55"/>Cum ioseph esset vir iustus fuisset iniustus si nisus 
+      <lb ed="#P" n="56"/>fuisset beatam virginem cognoscere postquam sciebat eam 
+      <lb ed="#P" n="57"/>deum genuisse et quando euangelista tacuisset iusticiam 
+      <lb ed="#P" n="58"/>ioseph hoc argumentum est tibi euidens sue iusticie quia 
+      <lb ed="#P" n="59"/>alioquin non permissum fuisset matrimonium inter dei 
+      <!--334.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="60"/>matrem preuisam ab initio et ante secula et ipisum sanctum 
+      <lb ed="#P" n="61"/>ioseph. Sed an ioseph cognouit eam esse grauidam 
+      <lb ed="#P" n="62"/>a spiritus sancto antequam ei angelus intimauit exploratum 
+      <lb ed="#P" n="63"/>non habeo mathei primo habetur. Cum esset despon 
+      <lb ed="#P" n="64"/>sata mater iesu maria ioseph anquam conuenirent inuenta 
+      <lb ed="#P" n="65"/>est in vtero habens de spiritu sancto: ioseph autem vir 
+      <lb ed="#P" n="66"/>eius cum esset iustus et noluit eam traducere voluit 
+      oc<lb ed="#P" n="67" break="no"/>culte dimittere eam: quidam dicunt quod non reputabat se 
+      <lb ed="#P" n="68"/>dignum habitare cum ea et voluit abire propter 
+      indigni<lb ed="#P" n="69" break="no"/>tatem anequam angelus ei reuelauit. hoc habet origenes in 
+      <lb ed="#P" n="70"/>omelia natiuitatis christi: glosa ordinaria super illo vbo 
+      <lb ed="#P" n="71"/>inuenta est in vtero habens dicit. inuenit ioseph in 
+      <lb ed="#P" n="72"/>vtero habere sed non de spiritu sancto sciebat esse cum 
+      <lb ed="#P" n="73"/>postea vt dubius deliberaret dimittere eam. traduce 
+      <lb ed="#P" n="74"/>re tantum valet sicut propalare licet martinus super hoc 
+      <lb ed="#P" n="75"/>impugnet guidonem carmelitam dicens apud nullos ant 
+      <lb ed="#P" n="76"/>quos doctores terminum in illa sigatione acceptum sed 
+      <lb ed="#P" n="77"/>videat glosam interlinearem pro guidone et est beati io 
+      <lb ed="#P" n="78"/>hannis crisostomi / iohannes crisostomus super illo ver 
+      <lb ed="#P" n="79"/>bo desponsata dicit. desponsata id est domi habita 
+      <lb ed="#P" n="80"/>et omelia quarta super iohannem dicit. in domo ioseph 
+      <lb ed="#P" n="81"/>erat anquam conuenirent / exponit glosa anquam conuenirent 
+      <lb ed="#P" n="82"/>ad carnalem copulam et accepit eam in suam non in domum 
+      <lb ed="#P" n="83"/>suam a quae eam non eiecerat sed accepit in affectum. 
+      <lb ed="#P" n="84"/>Secundo arguitur christus habuit fratres vt patet 
+      <lb ed="#P" n="85"/>nathei. xii. et non ex parte patris vt notum ost et per con 
+      <lb ed="#P" n="86"/>sequens nec ex parte vtriusque relinquitur ergo quod ex 
+      per<lb ed="#P" n="87" break="no"/>te matris. Aliqui dicunt ad hoc quod ioseph habuit ex as 
+      <lb ed="#P" n="88"/>tera muliere et ipse reputabatur apud iudeos filius 
+      <lb ed="#P" n="89"/>ioseph et sic illi filii ioseph vocabantur fratres eius et 
+      <lb ed="#P" n="90"/>hoc in vna solutione tenet martinus non est verosimi 
+      <lb ed="#P" n="91"/>le quod ioseph vnquam cognouit mulierem imo quod semper da 
+      <lb ed="#P" n="92"/>batur beate virgini vgo in obsequium paterio sanctus io 
+      <lb ed="#P" n="93"/>seph postea saluator matri obsequium prestitit. 
+      </p>
+            <p xml:id="JM7jmZ-d88143-d1e723">
+               <lb ed="#P" n="94"/>¶ Tertio arguitur iohannes in passione qui virgo 
+      <lb ed="#P" n="95"/>et filius sororis beate virginis erat et hoc dicit beatus 
+      <lb ed="#P" n="96"/>hieronimus contra elindrum hereticum ex illo satis conuincitur 
+      <lb ed="#P" n="97"/>quod sanctus ioseph iam mortuus erat esto quod aliqui 
+      di<lb ed="#P" n="98" break="no"/>cant oppositum. propterea autem dico quod omnes 
+      consangui<lb ed="#P" n="99" break="no"/>nei dicebantur fratres apud hebreos tunc abraham 
+      <lb ed="#P" n="100"/>vocauit loth fratrem. gen. xiii. sarram sororem. gen. xx 
+      <lb ed="#P" n="101"/>et patet solutio argumenti. potest esse argumentum de 
+      <lb ed="#P" n="102"/>exitu christi extra vterum beate virginis ad 
+      proban<lb ed="#P" n="103" break="no"/>dum quod claustra virginalia dirupta sunt. Ad hoc 
+      re<lb ed="#P" n="104" break="no"/>spondit damascenus. xv. capite sui quarti quod beata 
+      <lb ed="#P" n="105"/>virgo egressa est per locum consuetum licet aliqui fabulan 
+      <lb ed="#P" n="106"/>tur christum editum per latus beate virginis sed adhuc 
+      <lb ed="#P" n="107"/>remanet modus de apertura claustrorum virginalium 
+      <lb ed="#P" n="108"/>si illa apperuit christus in egressu non semper manserunt 
+      <lb ed="#P" n="109"/>integra tenendo omnia que ipse ponit potes dicere 
+      co<lb ed="#P" n="110" break="no"/>pus christi egressum est per claustra virginalia quae 
+      inte<lb ed="#P" n="111" break="no"/>gra manserunt et erat penetratio corporum vel erat 
+      <lb ed="#P" n="112"/>in vtero beate vginis nouem menses et amplius: postea 
+      <lb ed="#P" n="113"/>exiuit vterum deipare virginis et non iuit per medium vt 
+      <lb ed="#P" n="114"/>corpus christi idem accedit ad sacramentum euchari. post 
+      <lb ed="#P" n="115"/>verba consecrationis modus aliorum non est omnino reli 
+      <lb ed="#P" n="116"/>ciendus de egressu per latus cum honestatem sapiat et non 
+      <lb ed="#P" n="117"/>constat de opposito. an ioseph erat iuuenis quando pri 
+      <lb ed="#P" n="118"/>mo desponsabatur beate virgini vel erat senex vt 
+      <!--335.xml-->
+      <pb ed="#P" n="160-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>pingitur cum glo. dicat esaime. Ixii. habitabit iuuenis 
+      <lb ed="#P" n="2"/>cum virgine id est ioseph cum beata virgine crisantus 
+      <lb ed="#P" n="3"/>cum daria de pictura: dicatur illud boratii pictoribus 
+      <lb ed="#P" n="4"/>atque poetis quidlibet audendi semper datur equae po 
+      <lb ed="#P" n="5"/>testas virginitas beate virginis non est magis suspe 
+      <lb ed="#P" n="6"/>cta cum iuuene quam cum sene fertur et pie credo quod nullus 
+      <lb ed="#P" n="7"/>ex ea vnquam impudice mouebatur deus non actiue ad 
+      <lb ed="#P" n="8"/>hoc concurrebat hoc singulariter erat conueniens da 
+      <lb ed="#P" n="9"/>re sue matri. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 2</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 2</title>
+               <date when="2021-07-06">July 06, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-M4Saaa">Paris 1509</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-06" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="122-v"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="JM7jmZ-d67840"><!-- l4d19q2 -->
+            <head xml:id="JM7jmZ-d67840-Hd1e108">Quaestio 2</head>
+            <head xml:id="JM7jmZ-d67840-Hd1e111" type="question-title">
+      an fraterna correctio sit 
+      de praecepto.
+    </head>
+            <p xml:id="JM7jmZ-d67840-d1e114">
+               <lb ed="#P" n="91"/>¶ Distinctionis decime none questio secunda. 
+      <lb ed="#P" n="92"/>SEcundo circa hanc distinctionem decimam 
+      <lb ed="#P" n="93"/>s nonam queritur an fraterna correctio sit 
+      <lb ed="#P" n="94"/>de precepto.
+    </p>
+            <p xml:id="JM7jmZ-d67840-d1e125">
+      ¶ Pro solutione questionis 
+      <lb ed="#P" n="95"/>noto quod fraterna correctio est caritatiua admonitio de 
+      <lb ed="#P" n="96"/>peccato cauendo. et affirmatiue respondetur ad 
+      ti<lb ed="#P" n="97" break="no"/>tulum questionis. Ecclesiast. decimo septimo. vni 
+      <lb ed="#P" n="98"/>cuique mandauit deus de proximo suo si elemosina 
+      <lb ed="#P" n="99"/>corporalis in necessitate sit de praecepto a fortiori 
+      spi<lb ed="#P" n="100" break="no"/>ritualis de impedimento peccati si non 
+      annuncia<lb ed="#P" n="101" break="no"/>ueris ei sanguinem eius de manu tua requiram. 
+      <lb ed="#P" n="102"/>Ezechielis tertio. facientis culpam habet qui 
+      po<lb ed="#P" n="103" break="no"/>test corrigere negligit. octuagesima sexta distinctio 
+      <lb ed="#P" n="104"/>ne. Culpam. sed error correctio fraterna est 
+      prece<lb ed="#P" n="105" break="no"/>ptum affirmatiuum obligans pro loco et tempore 
+      <lb ed="#P" n="106"/>hoc est certitudine morali mihi constat hic est corri 
+      <lb ed="#P" n="107"/>gibilis a me et nunc est optimum tempus nec sunt 
+      <lb ed="#P" n="108"/>alii ad quos magis correctio spectat qui iudicio pru 
+      <lb ed="#P" n="109"/>dentum eum corrigent si iudicem quod eum exaspera 
+      <lb ed="#P" n="110"/>bo et ad iram prouocabo tacendum est vel nunc est 
+      <lb ed="#P" n="111"/>neptus correctioni vel iratus vel iudicatus absor 
+      <lb ed="#P" n="112"/>ptus tristicia non est procedendum quare 
+      Eliapha<lb ed="#P" n="113" break="no"/>themanites baldach sintes et sophar naamachites 
+      <lb ed="#P" n="114"/>septem diebus et septem noctibus cumiob 
+      sede<lb ed="#P" n="115" break="no"/>runt antequam secum disputare orsi sunt iob secundo putantes 
+      <lb ed="#P" n="116"/>eum absorptum tristicia et ira. Quo fit stat sortem 
+      <!--260.xml-->
+      <pb ed="#P" n="123-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>non corriplinter platonem et ciceronem sine 
+      illo<lb ed="#P" n="2" break="no"/>rum peccato quando vterque credit alium elatorem 
+      <lb ed="#P" n="3"/>animarum inter scabella duo cecidit anus humo si 
+      <lb ed="#P" n="4"/>vterque de alio dubitat et putat alium scire de 
+      pec<lb ed="#P" n="5" break="no"/>cato conueniant inter se secundum personam viri 
+      <lb ed="#P" n="6"/>corrigendum est si superior mansuete et sine 
+      strepi<lb ed="#P" n="7" break="no"/>tu contumelia vel verbere. vnde apostolus prime 
+      <lb ed="#P" n="8"/>ad thimotheum quinto. seniorem ne increpaueris  
+      <lb ed="#P" n="9"/>sed obsecra vt patrem. propterea dionysius 
+      redara<lb ed="#P" n="10" break="no"/>guit demophilum monachum quia sacerdotem et 
+      <lb ed="#P" n="11"/>se maiorem correxerat irreuerenter eum percutiens 
+      <lb ed="#P" n="12"/>et ab ecclesia eiiciens de casu inter petrum et 
+      pau<lb ed="#P" n="13" break="no"/>lum. ad galathas secundo. peccantem coram omn 
+      <lb ed="#P" n="14"/>bus argue coram omnibus vt ceteri timorem 
+      ha<lb ed="#P" n="15" break="no"/>beant. vt prima questione septima. capitulo. paulus. 
+      <lb ed="#P" n="16"/>non oportet vagari ad corrigendos proximos et eo 
+      <lb ed="#P" n="17"/>rum vitam explorare: sed peccata incidentia remo 
+      <lb ed="#P" n="18"/>uere oportet. iuxta illud beati augustini in libro de 
+      <lb ed="#P" n="19"/>verbis domini admonet nos dominus noster non negligere 
+      <lb ed="#P" n="20"/>inuicem peccata nostra non querendo quid 
+      repre<lb ed="#P" n="21" break="no"/>hendas. sed videndo quid corrigas alioquin effice 
+      <lb ed="#P" n="22"/>remur exploratores vite aliorum contra illud 
+      pro<lb ed="#P" n="23" break="no"/>uerbiorum vigesimo quarto. non queras 
+      impieta<lb ed="#P" n="24" break="no"/>tem in domo iusti et non vastes requiem eius etiam 
+      <lb ed="#P" n="25"/>de venialibus et paruis non est insistendum. 
+      <lb ed="#P" n="26"/>Preterea notabis circa illud math. decimo 
+      octa<lb ed="#P" n="27" break="no"/>uo. Si peccauerit in te frater tuus peccatum 
+      fra<lb ed="#P" n="28" break="no"/>tris potest triphariam se habere vel est publicum et 
+      <lb ed="#P" n="29"/>notorium / vel sic occultum quod probari non potest 
+      <lb ed="#P" n="30"/>nec est diffamatus vel est partim occultum partim 
+      <lb ed="#P" n="31"/>manifestum hoc est apud aliquos graues fama est 
+      <lb ed="#P" n="32"/>lesa vel aliquibus duobus vel pluribus constat in 
+      <lb ed="#P" n="33"/>primo membro non requiritur secreta admonitio 
+      <lb ed="#P" n="34"/>cum prelatus potest talem corrigere bonum est 
+      ta<lb ed="#P" n="35" break="no"/>men illi dicere ac si esset aliqualiter occultum 
+      se<lb ed="#P" n="36" break="no"/>creta admonitio de qua loquimur est ad seruandam 
+      <lb ed="#P" n="37"/>famam que nunc est amissa si peccatum sit omnino 
+      <lb ed="#P" n="38"/>dccultum solus ego scio: et tunc distinguo vel est in 
+      <lb ed="#P" n="39"/>detrimentum temporale vel spirituale aliorum 
+      vt<lb ed="#P" n="40" break="no"/>puta est clauiger vel custos porte vel curam habens 
+      <lb ed="#P" n="41"/>vt anthenor et eneas de troia secundum daretem vel est 
+      <lb ed="#P" n="42"/>hereticus ad inficiendum populum si credam quod 
+      pro<lb ed="#P" n="43" break="no"/>pter meam secretam admonitionem quiescit ibi 
+      si<lb ed="#P" n="44" break="no"/>stendum est sinautem dicam illi qui potest occurrere 
+      <lb ed="#P" n="45"/>salua eius fama secundum quod est possibile bonum 
+      com<lb ed="#P" n="46" break="no"/>mune et salus innocentum est preferenda fame 
+      hu<lb ed="#P" n="47" break="no"/>lus mali. si peccatum sit nociuum ipsi peccanti 
+      so<lb ed="#P" n="48" break="no"/>um quod non potest probari ego solus scio nec pecca 
+      <lb ed="#P" n="49"/>tor est infamatus tunc est monendus et si audierii 
+      <lb ed="#P" n="50"/>bene est sinautem sistendum est nec denunciandum 
+      <lb ed="#P" n="51"/>est prelato. Si peccatum sit preteritum nescirem pro 
+      <lb ed="#P" n="52"/>bare et factum est si futurum iudicio meo sanior est 
+      <lb ed="#P" n="53"/>modus ille quod non debeo adducere primo vnum te 
+      <lb ed="#P" n="54"/>stem et postea alium vt sic habeam duos testes. 
+      se<lb ed="#P" n="55" break="no"/>cundum illud beati augustini non debeo esse explo 
+      <lb ed="#P" n="56"/>rator vite aliene et hoc prelato inquantum prelatus si 
+      <lb ed="#P" n="57"/>videatur esse bonus potens tenere materiam secre 
+      <lb ed="#P" n="58"/>tam et alium impedire a peccato possum ei dicere 
+      in<lb ed="#P" n="59" break="no"/>quantum paulus vel petrus. et illud roboratur vicesi¬ 
+      <!--260.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="60"/>ma secunda: questione sexta. capitulo. hoc videtur 
+      <lb ed="#P" n="61"/>de illo qui audit alium falsum iurare si peccatum sit 
+      <lb ed="#P" n="62"/>partim occultum puta fama publica non est contra 
+      <lb ed="#P" n="63"/>hunc sed pauci sciunt possum procedere secundum 
+      <lb ed="#P" n="64"/>doctrinam euangelicam primo vnum testem addu 
+      <lb ed="#P" n="65"/>cendo eorum qui sciunt postea alium. Sed contra 
+      <lb ed="#P" n="66"/>dicis ioseph Senesis trigesimo septimo. accusauit 
+      <lb ed="#P" n="67"/>fratres super crimine pessimo et tamen non 
+      loqui<lb ed="#P" n="68" break="no"/>tur scriptura de correctione secreta. Insuper 
+      bea<lb ed="#P" n="69" break="no"/>tus augustinus dicit in regula qui non corrigitur per 
+      <lb ed="#P" n="70"/>secretam admonitionem fratris denunciandus est 
+      <lb ed="#P" n="71"/>plato non tanquam publice persone. Respondetur for 
+      <lb ed="#P" n="72"/>te ioseph admonuerat eos in secreto etiam 
+      iuuen<lb ed="#P" n="73" break="no"/>tus reddidit eum in hoc incircunspectum non valet 
+      <lb ed="#P" n="74"/>dicere accusauit et non denunciauit in accusatione 
+      <lb ed="#P" n="75"/>si probationem non inducat punitur pena talionis. 
+      <lb ed="#P" n="76"/>secus est in denunciatione de beato augustino 
+      po<lb ed="#P" n="77" break="no"/>test dici intelligit dummodo peccatum est partim 
+      <lb ed="#P" n="78"/>publicum vel loquitur de occasionibus vel 
+      aliqui<lb ed="#P" n="79" break="no"/>bus leuibus aliqui solent aliqua parua errata 
+      con<lb ed="#P" n="80" break="no"/>fiteri publice in capitulo que non lacerant famam. 
+      </p>
+            <p xml:id="JM7jmZ-d67840-d1e359">
+               <lb ed="#P" n="81"/>¶ Dubitatur que res est fama et an eam rodere sit 
+      <lb ed="#P" n="82"/>grande peccatum. Dicitur fama nonnunquam capitur 
+      <lb ed="#P" n="83"/>bro gloria. vt virgilius primo eneydos. Sum pius 
+      <lb ed="#P" n="84"/>eneas raptos que ex hoste penates. Classe veho 
+      <lb ed="#P" n="85"/>metum fama super ethera notus. Interdum 
+      capi<lb ed="#P" n="86" break="no"/>tur pro iudicio hominum quod habetur de aliquo 
+      <lb ed="#P" n="87"/>qui interdum est inter paucos: interdum inter 
+      plu<lb ed="#P" n="88" break="no"/>res secundum quod plures habent iudicium actuale vel 
+      <lb ed="#P" n="89"/>habituale de aliquo et in vtranque partem capitur in 
+      <lb ed="#P" n="90"/>malam. quarto eneydos. Fama malum quo non est 
+      <lb ed="#P" n="91"/>aliud velotius vllum. Mobilitate viget vires 
+      acqui<lb ed="#P" n="92" break="no"/>rit eundo. et que sequuntur. Dicitur quod est grande pec 
+      <lb ed="#P" n="93"/>catum. quod patet: est frenum retrahendi hominem 
+      <lb ed="#P" n="94"/>a peccato: ergo illud tollens vt homo in vitium pre 
+      <lb ed="#P" n="95"/>ceps ruit magnam iniuriam fratri facit. Insuper 
+      <lb ed="#P" n="96"/>fama prestat opibus. Ecclesiast. quadragesimo pri 
+      <lb ed="#P" n="97"/>mo. curam habe de bono nomine hoc enim perma 
+      <lb ed="#P" n="98"/>net magis quam mille thesauri magni et preciosi. vide 
+      <lb ed="#P" n="99"/>hoc in lenonibus et abiectis mulieribus: imo sicut 
+      <lb ed="#P" n="100"/>dicunt cum habetur aliqua mala opinio inter 
+      ali<lb ed="#P" n="101" break="no"/>quam mulierem cum aliquo est periculum 
+      perden<lb ed="#P" n="102" break="no"/>de incontinentie detrahere fame alterius causat 
+      ri<lb ed="#P" n="103" break="no"/>xas scismata et reddit detrahentem inuisum et 
+      com<lb ed="#P" n="104" break="no"/>temptibilem: propterea patres ordinarunt 
+      lectio<lb ed="#P" n="105" break="no"/>nes salutares in mensa ne homines sinistre loquan 
+      <lb ed="#P" n="106"/>tur et religiosi: propterea sedent super vnam partem 
+      <lb ed="#P" n="107"/>et non ex opposito solent nostrates dicere si 
+      aufera<lb ed="#P" n="108" break="no"/>tur portio a monito mehosensi silebit. silentium in 
+      <lb ed="#P" n="109"/>claustro silentium post completorium hinc beati 
+      au<lb ed="#P" n="110" break="no"/>gustini carmina in luce prodierunt. Quisquis amat 
+      <lb ed="#P" n="111"/>dictis absentum rodere vitam. Hanc mensam 
+      ve<lb ed="#P" n="112" break="no"/>litam nouerit esse sibi. Quare quodam magno 
+      pre<lb ed="#P" n="113" break="no"/>lato detrahenti aliis dixit vel abiret vel carmina de 
+      <lb ed="#P" n="114"/>leret. vnus bonus religiosus incipiens studere cum 
+      <lb ed="#P" n="115"/>venit ad dixi custodiam linguam meam: noluit pro 
+      <lb ed="#P" n="116"/>cedere vlterius dixit satis se habere de hac vna 
+      le<lb ed="#P" n="117" break="no"/>ctione. et cum quidam iusserat cuidam prudenti phi 
+      <lb ed="#P" n="118"/>losopho adire macellum et optimas carnes et pes¬ 
+      <!--261.xml-->
+      <pb ed="#P" n="123-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>simas emere quiattulitlinguam si bona est lingua 
+      <lb ed="#P" n="2"/>est optima caro: si mala pessima. Propterea 
+      ligur<lb ed="#P" n="3" break="no"/>gus apud lacedemonios statuit vt nullus 
+      adoles<lb ed="#P" n="4" break="no"/>cens in publico consersu loqueretur nisi rogatus. E 
+      <lb ed="#P" n="5"/>pytagoras samius auditoribus indixit silentium aliis maius 
+      <lb ed="#P" n="6"/>aliis minus secundum eorum capacitatem vt intelligerent 
+      <lb ed="#P" n="7"/>antequam loquerentur hinc duos oculos et duas aures 
+      <lb ed="#P" n="8"/>et vnam linguam nobis contulit deus dentium 
+      mul<lb ed="#P" n="9" break="no"/>titudinem cum labiis vallatam et cum quidam 
+      solo<lb ed="#P" n="10" break="no"/>ni in conuiuio exprobraret quod stultus esset eo quod tace 
+      <lb ed="#P" n="11"/>ret cui solon scito stultos nescire tacere signum 
+      sa<lb ed="#P" n="12" break="no"/>bientis est scire silere detractio et contumelia 
+      diffe<lb ed="#P" n="13" break="no"/>runt in connotato: aliqui dicunt detractionem esse 
+      <lb ed="#P" n="14"/>circa famam / contumeliam contra honorem seiugent 
+      <lb ed="#P" n="15"/>queso illi honorem a fama. dico quod detrahere est 
+      ma<lb ed="#P" n="16" break="no"/>le dicere de aliquo in absentia. contumelia est ipisum 
+      <lb ed="#P" n="17"/>afficere iniuria in presentia contingit dente canino 
+      <lb ed="#P" n="18"/>famam alterius ledere de per se ei falsum imponem 
+      <lb ed="#P" n="19"/>do vocando eum malum vpocritam rusticum vel 
+      <lb ed="#P" n="20"/>negando eum ita doctum ita probum esse vt 
+      asseri<lb ed="#P" n="21" break="no"/>tur. interdum crimen occultum preter rationem 
+      di<lb ed="#P" n="22" break="no"/>cendo. sed hic nota corrosor fame qui est dicatulus 
+      <lb ed="#P" n="23"/>acerans famam huius et illius sua in absentia 
+      per<lb ed="#P" n="24" break="no"/>amplius denigrabit te non mireris cum doctioribus 
+      <lb ed="#P" n="25"/>te et melioribus detrahit et tibi similiter detrahet a 
+      <lb ed="#P" n="26"/>liquis de per accidens hoc est preter intentionem ex 
+      <lb ed="#P" n="27"/>nimia dicacitate famam alterius denigrat et illud 
+      <lb ed="#P" n="28"/>peccatum est minus. Sed subdubitas an peccator 
+      <lb ed="#P" n="29"/>teneatur fratrem corrigere. dicendum duplex est pec 
+      <lb ed="#P" n="30"/>cator scilicet publicus et occultus: similiter est 
+      cor<lb ed="#P" n="31" break="no"/>rectio publica et occulta occultus non deobligatur 
+      <lb ed="#P" n="32"/>ab hoc precepto nec in occulto nec in publico potest 
+      <lb ed="#P" n="33"/>reniti peccato fratris nec aliquem scandalisat in pu 
+      <lb ed="#P" n="34"/>blico non decet si sit publicus peccator. secundum 
+      <lb ed="#P" n="35"/>illud psalmiste. peccatori dixit deus quare tu 
+      ener<lb ed="#P" n="36" break="no"/>uas iusticias meas et assumis testamentum meum 
+      <lb ed="#P" n="37"/>per os tuum. Psalmo quadragesimo nono. glosa 
+      <lb ed="#P" n="38"/>interlinearis augustini hoc contra predicantem 
+      se<lb ed="#P" n="39" break="no"/>curus tamen qui audit a quocunque audit. et glosa 
+      <lb ed="#P" n="40"/>marginalis cass. quare eneruas id est quasi commu 
+      <lb ed="#P" n="41"/>ni sermone ad hierusalem profers aliquid de mes 
+      <lb ed="#P" n="42"/>maiestate hoc contra predicatores inquit: non 
+      <lb ed="#P" n="43"/>enim lectionegatur ad boc allegat illud prime 
+      co<lb ed="#P" n="44" break="no"/>rinthiorum non. Castigo corpus meum et in seruitu 
+      <lb ed="#P" n="45"/>tem redigone cum aliis predicem reprobus 
+      effici<lb ed="#P" n="46" break="no"/>ar notanter predicem et non legam stat virum 
+      bo<lb ed="#P" n="47" break="no"/>num dicere et non bene sicut grammaticum et non gran 
+      <lb ed="#P" n="48"/>matice secundo ethicorum cui quadrat illud beati grego 
+      <lb ed="#P" n="49"/>rii cuius vita despicitur restat vt eius predicatio con 
+      <lb ed="#P" n="50"/>lemnatur et est auctoritas canonisata. iii. questione 
+      <lb ed="#P" n="51"/>vii. capulo. infames. § finali. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

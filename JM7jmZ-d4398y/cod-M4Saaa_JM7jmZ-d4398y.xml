@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 2</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 2</title>
+               <date when="2021-07-06">July 06, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-M4Saaa">Paris 1509</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-06" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="8-v"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="JM7jmZ-d4398y"><!-- l1d1q2 -->
+            <head xml:id="JM7jmZ-d4398y-Hd1e108">Quaestio 2</head>
+            <head xml:id="JM7jmZ-d4398y-Hd1e111" type="question-title">
+      Utrum haec sit bona diffinitio
+      sacramenti: sacramentum est
+      invisibilis gratiae visibilis forma
+    </head>
+            <p xml:id="JM7jmZ-d4398y-d1e114">
+               <lb ed="#P" n="57"/>¶ Distinctionis prime questio secunda. 
+      <lb ed="#P" n="58"/>Trum hec sit bona diffinitio sacramenti. 
+      <lb ed="#P" n="59"/> Sacramentum est inuisibilis gratie visibi¬ 
+      <!--031.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="60" break="no"/>lis forma.
+    </p>
+            <p xml:id="JM7jmZ-d4398y-d1e130">
+      ¶ Circa hanc quaestionem antequam ad eam 
+      <lb ed="#P" n="61"/>respondeatur: veniunt aliqui termini declarandi. 
+      <lb ed="#P" n="62"/>Primo quid diffinitio. et postea quid sacramentum. 
+      <lb ed="#P" n="63"/>Unod doctores communiter hic determinant de diffinitio 
+      <lb ed="#P" n="64"/>ne / sed quia materia est logica decorum non censui 
+      in<lb ed="#P" n="65" break="no"/>sistere secundum magistros realium. sacramentum est rela 
+      <lb ed="#P" n="66"/>tio rationis causata per actum instituentis ipsius dei 
+      si<lb ed="#P" n="67" break="no"/>gni sensibilis. quo concurrit ad suum signatum. et vnum 
+      <lb ed="#P" n="68"/>purum nichil. quemadmodum est quelibet secunda inten 
+      <lb ed="#P" n="69"/>tio per eos. et tunc consequenter dicendum est quod non potest 
+      <lb ed="#P" n="70"/>diffiniri diffinitione quid rei. Non placet michi ille 
+      <lb ed="#P" n="71"/>modus relationum non pono res absolutas nec re 
+      <lb ed="#P" n="72"/>latiuas nisi quia per terminos significatas eadem res 
+      <lb ed="#P" n="73"/>puta sortes significatur per terminum de predicamen 
+      <lb ed="#P" n="74"/>to substantie et relationis. et tunc dicitur quod 
+      tedio<lb ed="#P" n="75" break="no"/>sum est dare in singulis sacramentis que entia sunt 
+      <lb ed="#P" n="76"/>postquam sacramenta dicuntur constare ex materia es 
+      <lb ed="#P" n="77"/>forma que equiuoce capiuntur hic / et in philosophia 
+      <lb ed="#P" n="78"/>naturali. et materia non vniformitur in penitentia et ma 
+      <lb ed="#P" n="79"/>trimonio accipiter / et aliter in baptismo vt suis in 
+      lo<lb ed="#P" n="80" break="no"/>cis videbitur. In baptismo aqua est materia 
+      me<lb ed="#P" n="81" break="no"/>thaphorice. quia secundum aristotelem: materia sub vtroque 
+      <lb ed="#P" n="82"/>extremo transmutationis naturalis manet recedente 
+      <lb ed="#P" n="83"/>forma. Sic aqua elementaris abeuntibus verbis et in 
+      <lb ed="#P" n="84"/>tentione. quare verba et intentio forme nomen nam 
+      <lb ed="#P" n="85"/>ciscuntur et aqua materie Tunc oportet incidere in hanc dis 
+      <lb ed="#P" n="86"/>iunctiuam quod baptismus pro aqua verbis et 
+      inten<lb ed="#P" n="87" break="no"/>tione supponit. vel aliquo eorum / sed de boc infra. 
+      <lb ed="#P" n="88"/>Pro quo nunc supponitur quod aqua est baptismus 
+      <lb ed="#P" n="89"/>sed ille terminus baptismus non absolute 
+      suppo<lb ed="#P" n="90" break="no"/>nit pro aqua. et sic suo modo in aliis sacramentis 
+      <lb ed="#P" n="91"/>dicetur. et sic secundum terminos quos habemus non 
+      <lb ed="#P" n="92"/>diffinitur diffinitione quidditatiua sed diffinitione 
+      <lb ed="#P" n="93"/>descriptiua. et licet ponatur verum genus non 
+      ta<lb ed="#P" n="94" break="no"/>men differentia magis propria. Quare contritio non 
+      <lb ed="#P" n="95"/>est sacramentum. esto quod significet gratiam siue sit 
+      <lb ed="#P" n="96"/>signum sensibile sensu auditus. vt verba / siue sensti 
+      <lb ed="#P" n="97"/>visus vt aqua. Ex isto sequitur quod lingue ignis non 
+      <lb ed="#P" n="98"/>erant sacramenta actuum secundo. quia non erant cau 
+      <lb ed="#P" n="99"/>sa effectiua gratie virtute operis operati. 
+      eodemmo<lb ed="#P" n="100" break="no"/>do de columba Tuce. iii. nec serpens numeri. xxi. 
+      <lb ed="#P" n="101"/>nec agnus paschalis exodi duodecimo. Ex isto 
+      se<lb ed="#P" n="102" break="no"/>quitur quod sacramenta efficaciam ab homnie habere non 
+      <lb ed="#P" n="103"/>possunt: quia bomo non potest concurrere efficaci 
+      <lb ed="#P" n="104"/>ter ad gratiam. licet terminos instituere possit. 
+      Po<lb ed="#P" n="105" break="no"/>nitur sensibile quod ostam relinquit. et causa est 
+      in<lb ed="#P" n="106" break="no"/>quit. quia licet sacramenta sint nunc sensibilia. 
+      ta<lb ed="#P" n="107" break="no"/>men possunt esse insensibilia / et diffinitio debet 
+      con<lb ed="#P" n="108" break="no"/>uerti cum diffinito mediante quacumque copula hoc 
+      <lb ed="#P" n="109"/>grandefacit aliacenus sed non valet. Tum primo. per 
+      <lb ed="#P" n="110"/>eum contritio esset sacramentum nisi aliud 
+      super<lb ed="#P" n="111" break="no"/>addat. Tum secundo. in istis mutabilibus non 
+      re<lb ed="#P" n="112" break="no"/>quiritur conuertibilitas nisi secundum quod nunc inter 
+      dis<lb ed="#P" n="113" break="no"/>finitionem et diffinitum. diffinitio vniuersalis non 
+      <lb ed="#P" n="114"/>conuenit cuilibet. quod aliqui ex successione 
+      tem<lb ed="#P" n="115" break="no"/>poris vniuersale vocant: et ita diffiniendo 
+      propo<lb ed="#P" n="116" break="no"/>sitiones de modo loquendi consueto et in multis aliis 
+      <lb ed="#P" n="117"/>Tum tertio sufficit conuertibilitas secundum legem quemadmo 
+      <lb ed="#P" n="118"/>dum aliqua consequentia publice conceditur in scolis (et bene¬ 
+      <!--032.xml-->
+      <pb ed="#P" n="9-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>quam logicus negaret: quia simpliciter oppositum 
+      <lb ed="#P" n="2"/>consequentis stat cum astete. Richil est magis ridicu 
+      <lb ed="#P" n="3"/>lum in theologia quam in illis labrustis figere pedem. 
+      <lb ed="#P" n="4"/>Aliqui falso rentur conditiones diffinitionum metha 
+      <lb ed="#P" n="5"/>phisicarum debere quadrare cum his que a 
+      consue<lb ed="#P" n="6" break="no"/>tudine vel voluntate dependent.
+    </p>
+            <p xml:id="JM7jmZ-d4398y-d1e278">
+      ¶ Ex isto patet 
+      <lb ed="#P" n="7"/>quod diffinitio magistri est bona: tamen visibile capi 
+      <lb ed="#P" n="8"/>pro sensibili. propter antonomasiam sensus primo 
+      <lb ed="#P" n="9"/>methaphisice sensum visus pro aliis sensibus deli 
+      <lb ed="#P" n="10"/>gimus. Est modus loquendi hominem regens dicit d 
+      <lb ed="#P" n="11"/>scipulo vides esto quod sit sermo de auditu. et in 
+      scri<lb ed="#P" n="12" break="no"/>ptura exodi. xx. cunctus populus videbat voces. ide 
+      <lb ed="#P" n="13"/>patet apocalip. primo.
+    </p>
+            <p xml:id="JM7jmZ-d4398y-d1e297">
+      ¶ Contra diffinitionem sed 
+      <lb ed="#P" n="14"/>tramenti argumentor. sacramentum non confert 
+      <lb ed="#P" n="15"/>gratiam sed solus deus. ergo male ponitur a mag 
+      <lb ed="#P" n="16"/>stro et eius causa existat. Forte dicis intelligitur de 
+      <lb ed="#P" n="17"/>dat gratiam accipienti tale signum. Contra. tunc 
+      <lb ed="#P" n="18"/>actus exterior bonus vt genuflexio erit 
+      sacramen<lb ed="#P" n="19" break="no"/>tum quia est signum sensibile ratione cuius 
+      confer<lb ed="#P" n="20" break="no"/>tur gratia. dicis non ratione operis operati sed opi 
+      <lb ed="#P" n="21"/>rantis. Contra. tunc contritio per hoc remouetur cum 
+      <lb ed="#P" n="22"/>est opus ipsius operantis etiam actus exterior est 
+      bo<lb ed="#P" n="23" break="no"/>nus vt genuflexio coram imagine: ergo ratione illi 
+      <lb ed="#P" n="24"/>us operis operati confertur gratia: alioquin dabitur 
+      <lb ed="#P" n="25"/>actus bonus relatus in finem cum omnibus 
+      circum<lb ed="#P" n="26" break="no"/>stantiis debitis ratione cuius non dabitur gratia ab 
+      <lb ed="#P" n="27"/>habente charitatem quod reputatur absurdum. 
+      Di<lb ed="#P" n="28" break="no"/>cis forte non datur alia gratia ab illa que datur 
+      ra<lb ed="#P" n="29" break="no"/>tione boni actus interioris. secus est in 
+      sacramen<lb ed="#P" n="30" break="no"/>tis. Contra. est actus bonus meritorius realiter di 
+      <lb ed="#P" n="31"/>stinctus ab actu interiori. ergo ei respondit noua gra 
+      <lb ed="#P" n="32"/>tia et noua gloria ab actu interiori. etiam secundum 
+      il<lb ed="#P" n="33" break="no"/>los qui dicunt quod actus exterior aliquid bonitatis ad 
+      <lb ed="#P" n="34"/>dit super actum interiorem argumentum currit. 
+      </p>
+            <p xml:id="JM7jmZ-d4398y-d1e345">
+               <lb ed="#P" n="35"/>¶ Responsum est sufficienter in prosequutioue ar 
+      <lb ed="#P" n="36"/>gumenti demptis aliquibus punctis. siue ex diffini 
+      <lb ed="#P" n="37"/>tione olram et aliacensus sequitur contritionem esse 
+      sa<lb ed="#P" n="38" break="no"/>cramentum vel ne parum mea interest cum 
+      exposi<lb ed="#P" n="39" break="no"/>tione quando isti diffinitioni sufficit / quod preter ratio 
+      <lb ed="#P" n="40"/>nem loquuntur contra beatum aug. magistrum / et communi 
+      <lb ed="#P" n="41"/>ter loquentes. agminatim omnes ponunt signum 
+      <lb ed="#P" n="42"/>sensibile. dico quod eadem gratia datur ratione actus 
+      <lb ed="#P" n="43"/>interioris eliciti / et actus exterioris ab eo 
+      impera<lb ed="#P" n="44" break="no"/>ti: et illatio est nulla. interior actus et exterior 
+      reali<lb ed="#P" n="45" break="no"/>ter distinguntur. ergo gratia et gloria respondens. 
+      <lb ed="#P" n="46"/>vt patet in suo loco / in secundo vbi queritur an actus 
+      <lb ed="#P" n="47"/>exterior laudem vel vituperium actui interiori 
+      super<lb ed="#P" n="48" break="no"/>addit. Si dicas argumentum esse grandius contra 
+      <lb ed="#P" n="49"/>positionem illam que tenet actum exteriorem bor 
+      <lb ed="#P" n="50"/>nitatem habere super interiorem mea non refert cum po 
+      <lb ed="#P" n="51"/>sitionem illam non teneo. etiam hec ratio ab eis elui 
+      <lb ed="#P" n="52"/>potest. bonitas actus exterioris dependet ab 
+      inte<lb ed="#P" n="53" break="no"/>riore. et licet in sacramento eucharistie penitentio 
+      <lb ed="#P" n="54"/>et matrimonii non conferatur gratia nisi 
+      prehabi<lb ed="#P" n="55" break="no"/>to bono actu interiori. tamen adhuc datur gratia 
+      <lb ed="#P" n="56"/>ratione operis operati super actum interiorem et ex 
+      <lb ed="#P" n="57"/>teriorem: patet: eant duo ad sacramentum titius et nimius 
+      <lb ed="#P" n="58"/>titio detur eucha. nimio putatata eucha. titius maiore 
+      <lb ed="#P" n="59"/>gstram habebit quam alter. et sic vbi est verum matrionium 
+      <!--032.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="60"/>inter titium et bertam et putatum matrionium ex igno 
+      <lb ed="#P" n="61"/>ratione inuisibili inter sempronium et tibergam 
+      exi<lb ed="#P" n="62" break="no"/>stentes in quarto gradu consanguineitatis: quo ad 
+      <lb ed="#P" n="63"/>actum exteriorem vnus suscipit sacramentum non alitur. 
+      </p>
+            <p xml:id="JM7jmZ-d4398y-d1e415">
+               <lb ed="#P" n="64"/>¶ Contra dicis. sempronio non confertur gratia ma 
+      <lb ed="#P" n="65"/>trimonialis. dispensat maximus pontifex manet ma 
+      <lb ed="#P" n="66"/>trimonium. nec dabitur illa gratia si non de nouo con 
+      <lb ed="#P" n="67"/>sentiant.
+    </p>
+            <p xml:id="JM7jmZ-d4398y-d1e426">
+      ¶ Dico quod datur gratia matrimonialis quando 
+      <lb ed="#P" n="68"/>incipit esse matrimonium.
+    </p>
+            <p xml:id="JM7jmZ-d4398y-d1e431">
+      ¶ Secundo 
+      argumen<lb ed="#P" n="69" break="no"/>tor ex tota diffinitione aqua benedicta esset sacra 
+      <lb ed="#P" n="70"/>mentum. et sic essent plura quam septem quod est fa 
+      <lb ed="#P" n="71"/>sum. Patet currendo per totam diffinitionem. to 
+      <lb ed="#P" n="72"/>lit veniale peccatum. ergo confert gratiam. idem 
+      <lb ed="#P" n="73"/>patet in benedictione epraorum et abbatum.
+    </p>
+            <p xml:id="JM7jmZ-d4398y-d1e444">
+      ¶ Ru 
+      <lb ed="#P" n="74"/>sus. vnius diffiniti debet esse vnica diffinitio. modo 
+      <lb ed="#P" n="75"/>beatus augustinus dat aliam inquiens. Sacramet 
+      <lb ed="#P" n="76"/>tum est in quo sub tegmento rerum visibilium viri 
+      <lb ed="#P" n="77"/>diuina salutem hominis secretius operatur.
+    </p>
+            <p xml:id="JM7jmZ-d4398y-d1e456">
+      ¶ Ad patet 
+      <lb ed="#P" n="78"/>mum istorum respondetur in. xxiii. distinctione 
+      </p>
+            <p xml:id="JM7jmZ-d4398y-d1e461">
+               <lb ed="#P" n="79"/>¶ Ad secundum dicitur. omnes diffinitiones coincidum 
+      <lb ed="#P" n="80"/>non requiritur sinonimitas. sed sufficit conuertib 
+      <lb ed="#P" n="81"/>litas in diffinitione quidditatiua hominis methaes a pae 
+      <lb ed="#P" n="82"/>test poni genus proximum impositum vel quodcumque 
+      <lb ed="#P" n="83"/>genus remotum.
+    </p>
+            <p xml:id="JM7jmZ-d4398y-d1e474">
+      ¶ Tertio argumentor probande 
+      <lb ed="#P" n="84"/>quod non debet esse signum sensibile. contraria contra 
+      <lb ed="#P" n="85"/>riis curantur. non alias quartana laborans vtitur vi 
+      <lb ed="#P" n="86"/>no et calido et continua vel quotidiana laborans 
+      vti<lb ed="#P" n="87" break="no"/>tur frigid. sed adam peccauit per sensum et signa 
+      <lb ed="#P" n="88"/>sensibilia. Senesis. iii. ergo remedium debet 
+      appli<lb ed="#P" n="89" break="no"/>cari per insensibilia.
+    </p>
+            <p xml:id="JM7jmZ-d4398y-d1e490">
+      ¶ Ad tertium negatur maior 
+      <lb ed="#P" n="90"/>vtrobique. dolor est medicina doloris, nonunquam patet. 
+      <lb ed="#P" n="91"/>de illo qui habet digitum conbustum quem protin 
+      <lb ed="#P" n="92"/>comminus ad ignem dirigit. etiam in his que ad 
+      po<lb ed="#P" n="93" break="no"/>pulum instituuntur maior non habet verum. late 
+      <lb ed="#P" n="94"/>ret nos semper de remedio insensibili. ea propter 
+      <lb ed="#P" n="95"/>opus erat remediis nos non fugientibus.
+    </p>
+            <p xml:id="JM7jmZ-d4398y-d1e506">
+      ¶ Sed 
+      com<lb ed="#P" n="96" break="no"/>tra dicis. corpus christi sub hostia est sacramentum 
+      <lb ed="#P" n="97"/>et res secundum magistrum. viii. distinctione idem dicitur 
+      <lb ed="#P" n="98"/>communiter de caractere in baptismo quod est res et 
+      <lb ed="#P" n="99"/>sacramentum.
+    </p>
+            <p xml:id="JM7jmZ-d4398y-d1e517">
+      ¶ Dicitur quod ibi capitur 
+      sacramen<lb ed="#P" n="100" break="no"/>tum pro signo vel signato rei sacre. sicut imago cru 
+      <lb ed="#P" n="101"/>cifixi vel diue virginis. et non sicut capimus in pro 
+      <lb ed="#P" n="102"/>posito.
+    </p>
+            <p xml:id="JM7jmZ-d4398y-d1e527">
+      ¶ Quarto argumentor. sacramentum est si 
+      <lb ed="#P" n="103"/>gnum vel demonstratiuum et hoc non. quia quamdiu 
+      <lb ed="#P" n="104"/>sacramentum est gratia non est in anima vel preno 
+      <lb ed="#P" n="105"/>sticum ethoc non. quando sacramentum non est 
+      ni<lb ed="#P" n="106" break="no"/>chil facit respectu gratie.
+    </p>
+            <p xml:id="JM7jmZ-d4398y-d1e538">
+      ¶ Respondetur 
+      sacra<lb ed="#P" n="107" break="no"/>mentum aliquod est signum rememoratiuum vt eucha 
+      <lb ed="#P" n="108"/>ristia et baptismus respectu passionis / respectu gra 
+      <lb ed="#P" n="109"/>tie est signum prenosticum: in primo non esse sacra 
+      <lb ed="#P" n="110"/>menti gratia infunditur: non a sacramento: sed a deo 
+      <lb ed="#P" n="111"/>ex pacto post complementum sacramenti nisi 
+      fue<lb ed="#P" n="112" break="no"/>rit obex in suscipiente. potest esse argumentum quod non 
+      <lb ed="#P" n="113"/>est de ratione sacramenti quod virtute operis operati 
+      <lb ed="#P" n="114"/>conferatur gratia per matrimoninm. sed de hoc in 
+      <lb ed="#P" n="115"/>ferius distinctione. xxvi.
+    </p>
+            <p xml:id="JM7jmZ-d4398y-d1e560">
+      ¶ Ex omnibus patet quod 
+      <lb ed="#P" n="116"/>sacramentum noue legis bene diffinitur per hoc 
+      co<lb ed="#P" n="117" break="no"/>plexum. Sacramentum est signum sensibile ad cuius acceptio 
+      <lb ed="#P" n="118"/>nem in disposito vertute operis operati a deo confertur gra 
+      <!--033.xml-->
+      <pb ed="#P" n="9-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>tia. Relinquo illam clausulam quam ponit magister 
+      <lb ed="#P" n="2"/>vteius imaginem gerat et causa existat. vlt ima parti 
+      <lb ed="#P" n="3"/>cula aliquos existimare fecit / vt ex subi ecta 
+      mate<lb ed="#P" n="4" break="no"/>ria eluccscet) quod sacramenta causalitatem aliquam 
+      <lb ed="#P" n="5"/>habent ad caracterem et ad ornatum: enucleata est suf 
+      <lb ed="#P" n="6"/>ficienter diffinitio ex dictis. quo fit hec non est diffi 
+      <lb ed="#P" n="7"/>nitio sacramenti vt in proposito capitur. Sacramen 
+      <lb ed="#P" n="8"/>tum est alicuius rei sacre signum. patet. hoc conuenit 
+      <lb ed="#P" n="9"/>imagini crucifixi. nec columba que apparuit in 
+      ba<lb ed="#P" n="10" break="no"/>ptismo est sacramenntum.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

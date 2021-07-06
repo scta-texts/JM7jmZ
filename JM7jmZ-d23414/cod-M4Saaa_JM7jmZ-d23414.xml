@@ -1,0 +1,1278 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 2</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 2</title>
+               <date when="2021-07-06">July 06, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-M4Saaa">Paris 1509</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-06" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="42-r"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="JM7jmZ-d23414"><!-- l1d10q2 -->
+            <head xml:id="JM7jmZ-d23414-Hd1e108">Quaestio 2</head>
+            <head xml:id="JM7jmZ-d23414-Hd1e111" type="question-title">
+      An implicet contradictionem
+      idem corpus numero
+      esse circumscriptive in diversis
+      locis
+    </head>
+            <p xml:id="JM7jmZ-d23414-d1e114">
+               <lb ed="#P" n="94"/>¶ Distinctionis decime questio secunda. 
+      <lb ed="#P" n="95"/>QVeritur secundo circa hanc decimam 
+      di<lb ed="#P" n="96" break="no"/>stinctionem. an implicet contradictionem. 
+      <lb ed="#P" n="97"/>haidem corpus numero esse circunscriptiue 
+      <lb ed="#P" n="98"/>in diuersis locis. duo sunt hic modi opinandi vari 
+      <lb ed="#P" n="99"/>quorum vnus affirmatiue respondet quem multi imi 
+      <lb ed="#P" n="100"/>tati sunt sanctus thomas egidius romanus 
+      henri<lb ed="#P" n="101" break="no"/>cus de gandauo et durandus. Alia est opinio quam 
+      <lb ed="#P" n="102"/>tenet altissioderensis. et alexander de halles questione. xliiii. 
+      <lb ed="#P" n="103"/>partis et duns. Ad materiam pono hanc 
+      conclusio<lb ed="#P" n="104" break="no"/>nem. nullam contradictionem implicat idem corpus 
+      <lb ed="#P" n="105"/>esse circunscriptiue in pluribus locis totalibus quan 
+      <lb ed="#P" n="106"/>conclusionem sic probo. in legenda sancti martini 
+      <lb ed="#P" n="107"/>legitur quod sanctus pater ambrosius ipo celebrante 
+      <lb ed="#P" n="108"/>mediolani simul interfuit exequiis sancti martini 
+      <lb ed="#P" n="109"/>cum inter celebrandum mediolani stetisset diu fatiga 
+      <lb ed="#P" n="110"/>to populo accessit clericus domine hora est nimis 
+      tar<lb ed="#P" n="111" break="no"/>da at ille eram turonis etc. vide legendam non 
+      po<lb ed="#P" n="112" break="no"/>tes dicere quod indiuisibiliter erat turonis cantans 
+      le<lb ed="#P" n="113" break="no"/>ctiones nulla est tibi fuga nisi legendam negare illud 
+      <lb ed="#P" n="114"/>idem patet de corpore beati baldredi quod in tribus 
+      <lb ed="#P" n="115"/>locis dicitur esse aldhamen praeston et tynygamen trita 
+      <lb ed="#P" n="116"/>est historia apudglegornum et partes illas. propterea 
+      <!--099.xml-->
+      <pb ed="#P" n="42-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>arguitur ratione facere idem corpus in duobus locis 
+      <lb ed="#P" n="2"/>in vno circunscriptiue et in alio diffinitiue est 
+      pone<lb ed="#P" n="3" break="no"/>re idem corpus in duobus locis et cum hoc aliud mi 
+      <lb ed="#P" n="4"/>raculum quod in vno indiuisibiliter se habet: ergo faci 
+      <lb ed="#P" n="5"/>lius est ex parte facti facere idem corpus 
+      circunscri<lb ed="#P" n="6" break="no"/>ptiue in tribus locis quod in duobus locis et in vno nouo mi 
+      <lb ed="#P" n="7"/>raclo. Tertio arguitur ad idem ille equus in a instanti ge 
+      <lb ed="#P" n="8"/>nerat equum perisi (sit ita) quare in eodem instanti 
+      de<lb ed="#P" n="9" break="no"/>producere non potest rome eundem equum et sic idem 
+      <lb ed="#P" n="10"/>erit in duobus locis Preterea illud non implicat: erg 
+      <lb ed="#P" n="11"/>deus potest illud facere. consequentia tenet per 
+      ma<lb ed="#P" n="12" break="no"/>ximam theologicam: antecedens patet soluendo ra 
+      <lb ed="#P" n="13"/>tiones aduersariorum et etiam inducendo fortassis ita 
+      <lb ed="#P" n="14"/>apparentes quae omnes infra soluentur / hec conclusio 
+      <lb ed="#P" n="15"/>non est michi dubia. Pretere a ponatur sortes in 
+      duo<lb ed="#P" n="16" break="no"/>bus locis diffinitiue sicut corpus christi est in loco 
+      <lb ed="#P" n="17"/>sibille et edimburgi vel deus potest extendere 
+      cor<lb ed="#P" n="18" break="no"/>pus sortis sibille illo existente edimburgi vel non secundum 
+      <lb ed="#P" n="19"/>non est dicendum sic iam est de corpore in celo et in 
+      <lb ed="#P" n="20"/>terra quo facto quero an potest edimburgi extende 
+      <lb ed="#P" n="21"/>re corpus sortis hoc est facere esse diffinitiue in 
+      lo<lb ed="#P" n="22" break="no"/>co vel non illo corpore sic existente sibille si sic habeo 
+      <lb ed="#P" n="23"/>idem corpus in duobus locis circunscriptiue quod erat 
+      <lb ed="#P" n="24"/>probandum si casum neges quaero quare citius potest 
+      <lb ed="#P" n="25"/>extendere corpus sibille quam edimburgi. Item si 
+      de<lb ed="#P" n="26" break="no"/>struatur illud corpus sibille quod amplius ibi non fue 
+      <lb ed="#P" n="27"/>rit potest illud corpus extendere edimburgi vt certum 
+      <lb ed="#P" n="28"/>est vel esse debet et mirum est quod corporalis existen 
+      <lb ed="#P" n="29"/>tia corporis sibille impedit eius extensionem 
+      edibur<lb ed="#P" n="30" break="no"/>gi et idem potest ostendi de christo qui apparuit 
+      bea<lb ed="#P" n="31" break="no"/>to petro casus est vulgatus propter locum domine 
+      <lb ed="#P" n="32"/>quo vadis et tamen corpus christi tunc erat in celo 
+      <lb ed="#P" n="33"/>patet de consecra. d. ii. cap. prima heresis. amplius 
+      <lb ed="#P" n="34"/>deus potest ponere vnum angelum rome et parisii 
+      <lb ed="#P" n="35"/>ergo idem corpus. consequentia claret et aduersarii 
+      <lb ed="#P" n="36"/>non negarent. probo antecedens. deus potest 
+      face<lb ed="#P" n="37" break="no"/>re quod panis transsubstantietur in angelum potest face 
+      <lb ed="#P" n="38"/>re quod post prolationem istorum verborum hic est ange 
+      <lb ed="#P" n="39"/>lus desinat panis et incipiat angelus succedere loco 
+      <lb ed="#P" n="40"/>illius: ergo si sit prolatio super duos panes in variis 
+      <lb ed="#P" n="41"/>locis idem angelus erit in duobus locis nec est 
+      in<lb ed="#P" n="42" break="no"/>utile hanc questionem tractare elucidat vnam par 
+      <lb ed="#P" n="43"/>tem difficultatis occurrentis circa eucharistiam. 
+      he<lb ed="#P" n="44" break="no"/>retici et infideles possunt dubitare quodo idem corpus 
+      <lb ed="#P" n="45"/>potest simul esse in variis locis sacramentaliter quia 
+      <lb ed="#P" n="46"/>ad illud sequitur idem corpus esse in pluribus locis 
+      <lb ed="#P" n="47"/>gratia illius conducit hanc questionem in medium 
+      <lb ed="#P" n="48"/>proponere et eius conclusio principalis manuducit ad 
+      <lb ed="#P" n="49"/>intelligentiam eucharistie multoplus quam aduersariorum 
+      <lb ed="#P" n="50"/>mirabile esset si deus non potest parcutere genu 
+      parali<lb ed="#P" n="51" break="no"/>si vel aliomodo quod anima genu non informet et tamen 
+      <lb ed="#P" n="52"/>pedem et partes superiores informabit et sic erit 
+      ani<lb ed="#P" n="53" break="no"/>ma in duobus locis et potest corrumpere corpus sic 
+      <lb ed="#P" n="54"/>conseruando animam.
+    </p>
+            <p xml:id="JM7jmZ-d23414-d1e290">
+      ¶ Contra hanc 
+      conclusio<lb ed="#P" n="55" break="no"/>nem arguitur sequitur quod idem simul et semel potest 
+      <lb ed="#P" n="56"/>talefieri et frigefieri consequens est falsum / contraria 
+      <lb ed="#P" n="57"/>opposita inferunt contradictoria opposita et probo 
+      <lb ed="#P" n="58"/>consequentiam. ponatur sortes rome prope ignem 
+      <lb ed="#P" n="59"/>validum et vltra moutes iperboreos vel mare bal¬ 
+      <!--099.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="60"/>theum vel glaciale prope gelu magnum frigefiet et 
+      <lb ed="#P" n="61"/>calefiet. Huic argumento respondet doctor 
+      subti<lb ed="#P" n="62" break="no"/>lis distinguendo vel calor est tante resistentie sicut 
+      <lb ed="#P" n="63"/>frigus actiuitatis econuerso vel est inequalitas si 
+      <lb ed="#P" n="64"/>primum nec calefiet nec frigefiet. Si calor est 
+      ma<lb ed="#P" n="65" break="no"/>ioris actiuitatis quam frigus resistentie calefiet et non 
+      <lb ed="#P" n="66"/>frigefiet si econuerso frigefiet et non calefiet idem 
+      <lb ed="#P" n="67"/>tenet in duobus locis et in vno loco et ponit vnam 
+      <lb ed="#P" n="68"/>regulam Quecumque sunt priora essentialiter ipso vbi 
+      <lb ed="#P" n="69"/>vniformiter insunt corpori quamuis habenti diuersa vbi 
+      <lb ed="#P" n="70"/>nec variabuntur variato ipso vbi hoc est omnia 
+      abso<lb ed="#P" n="71" break="no"/>luta et respectus intrinsecus aduenientes vniformi 
+      <lb ed="#P" n="72"/>ter conueniunt corpori in vno loco vel diuersis. 
+      <lb ed="#P" n="73"/>Contra hoc arguitur sic / idem in diuersis locis est 
+      <lb ed="#P" n="74"/>maioris actiuitatis id est in maiorem effectum potest 
+      <lb ed="#P" n="75"/>quam esset in vno: ergo male dictum est. consequentia 
+      <lb ed="#P" n="76"/>est clara. probatur assumptum. sit potentia sortis gra 
+      <lb ed="#P" n="77"/>tia exempli terminata ad vnam libram sic quod maius 
+      <lb ed="#P" n="78"/>pondus non potest portare sine fractione numeri po 
+      <lb ed="#P" n="79"/>natur in duobus locis habeat in humeris vnam libram 
+      <lb ed="#P" n="80"/>cum hoc potest aliam leuare quod si neges propter 
+      re<lb ed="#P" n="81" break="no"/>sistentiam quam habet in brachiis vel humeris 
+      de<lb ed="#P" n="82" break="no"/>ponatur ille lapis et sit rome et parisius sortes in 
+      <lb ed="#P" n="83"/>vtroque loco conetur leuare vel potest et sic habet duos 
+      <lb ed="#P" n="84"/>lapides et per consequens plus potest in duobus 
+      <lb ed="#P" n="85"/>locis quam vno solo si non potest leuare lapidem perisii. 
+      <lb ed="#P" n="86"/>Contra est difficile creditu quod lapis rome eum 
+      im<lb ed="#P" n="87" break="no"/>pediret ne leuet perisii: eodemmoo est difficile creditu quod 
+      <lb ed="#P" n="88"/>gelu in montibus ipboreis impediat calorem in 
+      ethio<lb ed="#P" n="89" break="no"/>pia esto quod sit idem passum / illa argumenta eum non 
+      <lb ed="#P" n="90"/>vincerent diceret si sortes haberet vnam libram in 
+      <lb ed="#P" n="91"/>humeris non potest aliam leuare propter 
+      resisten<lb ed="#P" n="92" break="no"/>tiam quam habet si nitatur simul illas duas libras 
+      <lb ed="#P" n="93"/>leuare nichil leuabit quia a proportione minoris 
+      ine<lb ed="#P" n="94" break="no"/>qualitatis non fit actio. vii. phisicorum. Ad aliud con 
+      <lb ed="#P" n="95"/>cederet quod gelu in montibus ipboreis potest 
+      impe<lb ed="#P" n="96" break="no"/>dire calorem in ethiopia modo sit idem passum quod 
+      <lb ed="#P" n="97"/>contingit in proposito et idem homo in diuersis lo 
+      <lb ed="#P" n="98"/>cis non potest habere opinionem et scientiam 
+      subtili<lb ed="#P" n="99" break="no"/>ter certe dicit. Aliter potest dici et fortassis apparem 
+      <lb ed="#P" n="100"/>tius quod idem corpus numero in duobus locis multum 
+      <lb ed="#P" n="101"/>distantibus calefiet et frigefiet simul et semel et ca 
+      <lb ed="#P" n="102"/>lor rome non potest impedire frigus parisii plus re 
+      <lb ed="#P" n="103"/>specu eiusdem subiecti quam essent diuersa subiecta. 
+      <lb ed="#P" n="104"/>illud suadeo nullum agens naturale potest agere 
+      <lb ed="#P" n="105"/>vel impedire nisi in spera sue actiuitatis et 
+      resisten<lb ed="#P" n="106" break="no"/>tie siue sit subiectum aliquod vel non nec mirandum 
+      <lb ed="#P" n="107"/>est quod qualitates contrarie insunt eidem subiecto 
+      si<lb ed="#P" n="108" break="no"/>mul et semel. dato vno miraculo plura vno dato se 
+      <lb ed="#P" n="109"/>quuntur quae alias non sequerentur admisso quod idem sit 
+      <lb ed="#P" n="110"/>in diuersis locis euestigio sequitur idem posse et ascen 
+      <lb ed="#P" n="111"/>dere et descendere simul et semel quid impedimen 
+      <lb ed="#P" n="112"/>ti est vt eadem anima que est in duabus manibus 
+      <lb ed="#P" n="113"/>quando manibus cancellatis vna leuatur altera de 
+      <lb ed="#P" n="114"/>pressa nec valet illud <ref xml:id="JM7jmZ-d23414-Rd1e426">
+                  <name xml:id="JM7jmZ-d23414-Nd1e428">Grego.</name> xvii. distinctione. i.</ref> 
+               <lb ed="#P" n="115"/>vt alibi dictum est quo petit an qualitates 
+      contra<lb ed="#P" n="116" break="no"/>rie possunt se compati et dicit quod illud est per 
+      acci<lb ed="#P" n="117" break="no"/>dens ad motum alterius et sic dicit burleus de 
+      in<lb ed="#P" n="118" break="no"/>tensione forme quia si illa anima esset in loco in quo 
+      <!--100.xml-->
+      <pb ed="#P" n="43-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>est manus leua et manus dextera idem separatim 
+      <lb ed="#P" n="2"/>a manum idem contingere non dubites. Redeundo 
+      <lb ed="#P" n="3"/>ad argumentum concedo quod idem corpus erit 
+      cali<lb ed="#P" n="4" break="no"/>dum et frigidum simul: et quando improbas 
+      con<lb ed="#P" n="5" break="no"/>trarie opposita inferunt contradictorie opposita: 
+      <lb ed="#P" n="6"/>distinguo vel propositiones contrarie de opposito modo 
+      <lb ed="#P" n="7"/>enunciandi et sic concedo quamquam alii non semper illud 
+      <lb ed="#P" n="8"/>admitterent quia secundum eos contrarie possunt 
+      <lb ed="#P" n="9"/>esse vere in sensibus contrariis in contingenti specialiter 
+      <lb ed="#P" n="10"/>capto vt nullum ens contingentur est deus et nullum ens contin 
+      <lb ed="#P" n="11"/>genter non est deus et tanmen ille non inferrent secundum eos contradicto 
+      <lb ed="#P" n="12"/>rie opposita sed hoc ego non recipio / vel quod contra 
+      <lb ed="#P" n="13"/>rie propositiones de contrariis predicamentis in 
+      <lb ed="#P" n="14"/>ferant contradictorie opposita et sic nego et has du 
+      <lb ed="#P" n="15"/>as consequentias sortes est calidus sortes est 
+      fri<lb ed="#P" n="16" break="no"/>gidus: ergo sortes est calidus sortes non est calidus 
+      <lb ed="#P" n="17"/>sortes est frigidus sortes non est frigidus quamquam apud 
+      <lb ed="#P" n="18"/>gentilem philosophum reputaretur consequentia 
+      <lb ed="#P" n="19"/>bona: sed vtique si daret casum cum fidelibus conse 
+      <lb ed="#P" n="20"/>quentiam negaret. Item bona est apparentia si sor 
+      <lb ed="#P" n="21"/>tes habeat quattuor gradus albedinis rome et 
+      to<lb ed="#P" n="22" break="no"/>tidem parisii quod non est albus et niger copulatiue 
+      <lb ed="#P" n="23"/>sed solum secundum apparentiam sed citius fuscum 
+      <lb ed="#P" n="24"/>vel mixtum sed est albus et niger copulatim 
+      quem<lb ed="#P" n="25" break="no"/>admodum si in vno loco haberet totidem gradus 
+      <lb ed="#P" n="26"/>albedinis siue nigredinis non obstante habet 
+      albe<lb ed="#P" n="27" break="no"/>dinem et nigredinem copulatiue.
+    </p>
+            <p xml:id="JM7jmZ-d23414-d1e507">
+      ¶ Secundo 
+      ar<lb ed="#P" n="28" break="no"/>guitur contra conclusionem ex ea sequitur quod 
+      po<lb ed="#P" n="29" break="no"/>tentia actiua sortis non esset terminata et sic 
+      infi<lb ed="#P" n="30" break="no"/>nitum pondus possit portare non sic exponendo non 
+      <lb ed="#P" n="31"/>tantum quin maius de hoc non est questio sed quantum 
+      <lb ed="#P" n="32"/>libet maius: et eodemmodo probabitur de 
+      quali<lb ed="#P" n="33" break="no"/>bet potentia actiua hoc est falsum contra 
+      aristote<lb ed="#P" n="34" break="no"/>lem primo de celo et mundo quinimo illa via 
+      nul<lb ed="#P" n="35" break="no"/>la esset potentia finita: et probatur consequentia: 
+      <lb ed="#P" n="36"/>sortes potens leuare vnam libram in vno loco 
+      po<lb ed="#P" n="37" break="no"/>test in duobus locis leuare duas / in tribus tres / in 
+      <lb ed="#P" n="38"/>quattuor quattuor libras et sic sine statu: ergo si 
+      es<lb ed="#P" n="39" break="no"/>set in infinitis locis potest leuare infinitum pondus 
+      <lb ed="#P" n="40"/>in grauitate quod non videtur dicendum.
+    </p>
+            <p xml:id="JM7jmZ-d23414-d1e539">
+      ¶ Rea 
+      <lb ed="#P" n="41"/>spondetur concedendo quod potentia sortis dato illo 
+      <lb ed="#P" n="42"/>miraculo non est terminata vt argumentum arguit 
+      <lb ed="#P" n="43"/>imo sortes habens mille libras super caput eius 
+      <lb ed="#P" n="44"/>non plus impeditur quam si nichil haberet si ponatur 
+      <lb ed="#P" n="45"/>in mille locis cum mille libris et nichil haberet 
+      su<lb ed="#P" n="46" break="no"/>per caput in alio loco potest portare illam libram ac 
+      <lb ed="#P" n="47"/>si nichil super caput haberet.
+    </p>
+            <p xml:id="JM7jmZ-d23414-d1e557">
+      ¶ Sed contra illud 
+      <lb ed="#P" n="48"/>arguitur: quia per illum modum tersites potest 
+      tan<lb ed="#P" n="49" break="no"/>te grauitatis pondus portare sicut aiax telamonius  
+      <lb ed="#P" n="50"/>consequens est inconueniens: ergo et antecedens: 
+      <lb ed="#P" n="51"/>et patet consequentia de se. Preterea probo quod sor 
+      <lb ed="#P" n="52"/>tes in hoc loco nichil potest portare Arguitur sic: 
+      <lb ed="#P" n="53"/>sortes in hoc loco demonstrando parisium habeat 
+      <lb ed="#P" n="54"/>libram super caput posito quod habeat rome et non pa 
+      <lb ed="#P" n="55"/>risii: ergo non potest portare aliam libram in hoc 
+      <lb ed="#P" n="56"/>loco: probo consequentiam: alioquin in eodem 
+      lo<lb ed="#P" n="57" break="no"/>co potest portare duas libras contra ypotesim. 
+      </p>
+            <p xml:id="JM7jmZ-d23414-d1e581">
+               <lb ed="#P" n="58"/>¶ Respondetur concedendo quod tersistes in pluri¬ 
+      <!--100.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="59"/>bus locis potest tantum portare sicut aiax in vno 
+      <lb ed="#P" n="60"/>vel in paucioribus et sic potest vna musca / imo 
+      ter<lb ed="#P" n="61" break="no"/>sites potest portare vnum pondus infinite 
+      graui<lb ed="#P" n="62" break="no"/>tatis si essent infiniti lapides equales in gravitate: 
+      <lb ed="#P" n="63"/>tersites in infinitis locis cum eis potest eos omnes 
+      <lb ed="#P" n="64"/>simul portare. patet sic. cumulus infinite 
+      resisten<lb ed="#P" n="65" break="no"/>tie portatur ab homine debili nec locus est causa 
+      <lb ed="#P" n="66"/>huius si esset in vacuo et conseruaretur a deo idem  
+      <lb ed="#P" n="67"/>contingeret. Ad aliud concedo antecedens et 
+      ne<lb ed="#P" n="68" break="no"/>go consequentiam: licet sortes in hoc loco habeat 
+      <lb ed="#P" n="69"/>libram super caput non tamen habet libram super 
+      <lb ed="#P" n="70"/>capunt in hoc loco: quia si haberet vnam libram 
+      su<lb ed="#P" n="71" break="no"/>per caput in hoc loco vero vel imaginario non 
+      po<lb ed="#P" n="72" break="no"/>test portare alteram libram in hoc loco.
+    </p>
+            <p xml:id="JM7jmZ-d23414-d1e620">
+      ¶ Sed  
+      <lb ed="#P" n="73"/>contra illud arguitur: quia eodemmodo sanson non 
+      <lb ed="#P" n="74"/>potest portare vnam fabam vel lapillum / capitur 
+      <lb ed="#P" n="75"/>lapillus tante grauitatis sicut vna faba si ponatur 
+      <lb ed="#P" n="76"/>in mille locis tantum ponderabit in vno loco sicut 
+      <lb ed="#P" n="77"/>in alio: ergo si ille lapis in pluribus locis cumeletur in vnum re 
+      <lb ed="#P" n="78"/>plebit totam actiuitatem portatiuam vnius hominis. Re 
+      <lb ed="#P" n="79"/>spondetur negando quod non habet portare vnam fa 
+      <lb ed="#P" n="80"/>bam quia valet hanc nullomodo potest: sed conce 
+      <lb ed="#P" n="81"/>ditur quod non potest portare vnam fabam taliter 
+      di<lb ed="#P" n="82" break="no"/>spositam quia potest replere vnum magnum vas 
+      <lb ed="#P" n="83"/>et deus potest supplere portationem quantum vas re 
+      <lb ed="#P" n="84"/>istit.
+    </p>
+            <p xml:id="JM7jmZ-d23414-d1e649">
+      ¶ Ex istis infero correlaria siue sequantur 
+      <lb ed="#P" n="85"/>sine addito vel ex dictis cum additione manifesti 
+      <lb ed="#P" n="86"/>non cura.
+    </p>
+            <p xml:id="JM7jmZ-d23414-d1e656">
+      ¶ Primum correlarium: esse vbique non 
+      <lb ed="#P" n="87"/>est proprium deo: hoc patet: quia licet sit vbique 
+      se<lb ed="#P" n="88" break="no"/>cundum illud mercuri termagisti deus est spera / 
+      <lb ed="#P" n="89"/>cuius centrum est vbique circunferentia nunsquam: 
+      de<lb ed="#P" n="90" break="no"/>us tamen potest facere quod vnus homo vel equus sit 
+      <lb ed="#P" n="91"/>vbique. Probatur: potest facere in duobus locis oc 
+      <lb ed="#P" n="92"/>cupatiue et non est maior ratio quod sit status in 
+      duo<lb ed="#P" n="93" break="no"/>bus locis quam in tribus / nec in tribus quam quattuor: et 
+      <lb ed="#P" n="94"/>sic sine statu: ergo potest facere vnum corpus esse 
+      <lb ed="#P" n="95"/>vbique sed in hoc est discrimen: quia deus non 
+      po<lb ed="#P" n="96" break="no"/>test esse quin sit vbique et in vacuo imaginario 
+      infi<lb ed="#P" n="97" break="no"/>nito extra celum vt alibi tango creatura autem ex 
+      <lb ed="#P" n="98"/>natura sua non potest esse vbique: nec in hoc debes 
+      <lb ed="#P" n="99"/>admirari quod vna creatura potest esse vbique 
+      destrua<lb ed="#P" n="100" break="no"/>tur omnis locus a loco sortis / iam sortes vt liquet est 
+      <lb ed="#P" n="101"/>vbique. Sed non est idem / corpus esse vbique est 
+      pos<lb ed="#P" n="102" break="no"/>sibile et corpus potest esse vbique / thomista et 
+      gan<lb ed="#P" n="103" break="no"/>densis negantes idem posse esse circumscriptiue in 
+      <lb ed="#P" n="104"/>pluribus locis: primam habent concedere in casu 
+      <lb ed="#P" n="105"/>quem pono si deus destruat omnia alia loca a loco 
+      <lb ed="#P" n="106"/>meo iam illa est vera iohannes est vbique et hoc suf 
+      <lb ed="#P" n="107"/>ficit ad veritatem illius modalis composite sed hec 
+      <lb ed="#P" n="108"/>iohannes potest esse vbique denotat quod iohannes potest 
+      <lb ed="#P" n="109"/>esse in quolibet loco possibili loco ibidem distribuitur 
+      <lb ed="#P" n="110"/>et ampliatur a potest et sic thomista habet illam negare 
+      <lb ed="#P" n="111"/>circumscriptiue loquor sed vtranque concedo: 
+      ac<lb ed="#P" n="112" break="no"/>cipe analogiam omnem hominem esse omnem hominem 
+      <lb ed="#P" n="113"/>est possibile sed non omnis homo potest esse omnis homo imo 
+      <lb ed="#P" n="114"/>omnis homo non potest esse omnis homo non valet consequutio: 
+      <lb ed="#P" n="115"/>omnis homo est vbique: ergo omnis homo potest esse vbique / 
+      <lb ed="#P" n="116"/>sicut nec sequitur omnis homo est omnis homo ergo omnis 
+      <!--101.xml-->
+      <pb ed="#P" n="43-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>homo potest esse omnis homo: quia cum distributione am 
+      <lb ed="#P" n="2"/>pli arguitur virtualiter ab inferiori ad superius consequentialiter 
+      <lb ed="#P" n="3"/>licet non quidditatiue et pred cabilitur. Secundo sequitur 
+      <lb ed="#P" n="4"/>dato illo supernaturali quod idem sit in pluribus locis: 
+      <lb ed="#P" n="5"/>vnus panis potest satiare milonem quinimo omns homines in 
+      <lb ed="#P" n="6"/>exercitu ersis vel darii quiimo vna faba. quod probo 
+      <lb ed="#P" n="7"/>panis in vno loco sufficit pro vno quod si non sufficiat ca 
+      <lb ed="#P" n="8"/>piatur in tribus locis: et eodemmodo arguas de duo 
+      <lb ed="#P" n="9"/>bus locis sufficit duobus: in tribus locis tribus es 
+      <lb ed="#P" n="10"/>sic consequenter igitur. et eodemmodo vna copina vini 
+      <lb ed="#P" n="11"/>sufficit omnibus hominibus pro potu et triticum 
+      <lb ed="#P" n="12"/>vbere sicilie pro tota europa. Tertium correlarium: 
+      <lb ed="#P" n="13"/>vna gutta aque potest ferre vnam nauim imo omnes naues 
+      <lb ed="#P" n="14"/>venetorum vel mundi. probatio. hec gutta in hoc 
+      lo<lb ed="#P" n="15" break="no"/>co tantum valet sicut similis gutta et eadem gutta sicut 
+      <lb ed="#P" n="16"/>vna alia et sic procedendo: sed varie gutte agrega 
+      <lb ed="#P" n="17"/>te possunt ferre omnes naues mundi quia reddunt 
+      me<lb ed="#P" n="18" break="no"/>diterraneum caspium vel hyrcanum et secundum 
+      <lb ed="#P" n="19"/>opinionem pholomei alexandrini indicum ab 
+      oc<lb ed="#P" n="20" break="no"/>ceano separantis indicum vel occeanum. Quartum corre 
+      <lb ed="#P" n="21"/>larium ex vna gutta deus potest subiungere totum mundum 
+      <lb ed="#P" n="22"/>sicut fecit in diebus noc secundum veritatem pirre et deu 
+      <lb ed="#P" n="23"/>calionis secundum ethnicos hoc patet ponendo in 
+      plu<lb ed="#P" n="24" break="no"/>ribus locis continue vel contigue. Quintum corre 
+      <lb ed="#P" n="25"/>larium: deus sic facere potuit de quinque panibus euan 
+      <lb ed="#P" n="26"/>gelicis et fortassis fecit. mathei. xiiii. et iohannis. vi. 
+      <lb ed="#P" n="27"/>ad litteram licet non negamus deum posse alios 
+      pa<lb ed="#P" n="28" break="no"/>nes creasse de nouo vel conuertisse aerem 
+      propin<lb ed="#P" n="29" break="no"/>quum vel remotum in panes: vel quancunque 
+      ali<lb ed="#P" n="30" break="no"/>am materiam quam capere poterat secundum quod 
+      <lb ed="#P" n="31"/>sue bonitati placeret: eodemmodo sicut ignis 
+      con<lb ed="#P" n="32" break="no"/>uertitur in aerem tamen magis ad litteram 
+      so<lb ed="#P" n="33" break="no"/>nat quod ex eisdem panibus sine aliis eos saturauit et 
+      <lb ed="#P" n="34"/>hoc facere poterat ponendo illos panes in pluribus 
+      <lb ed="#P" n="35"/>locis et simliiter de piscibus et eodemmodo 
+      pote<lb ed="#P" n="36" break="no"/>rat heliseus. iiii. regum. iiii. sunamite mulieri 
+      fecis<lb ed="#P" n="37" break="no"/>se et sic expono illud genesis secundo quod ex costa viri si 
+      <lb ed="#P" n="38"/>ne addito fuit formatum corpus mulieris nec 
+      va<lb ed="#P" n="39" break="no"/>let probatio <ref xml:id="JM7jmZ-d23414-Rd1e814">
+                  <name xml:id="JM7jmZ-d23414-Nd1e816" ref="#Rimini">grego. de arimino</name> in oppositum. xviii 
+      <lb ed="#P" n="40"/>distinctio. ii.</ref> quia dicit tunc corpus mulieris fuisset 
+      <lb ed="#P" n="41"/>multo rarius aliis corporibus forte ita rarum sicut 
+      <lb ed="#P" n="42"/>aqua vel aer quia costa non poterat sufficere pro 
+      to<lb ed="#P" n="43" break="no"/>to corpore prime mostris sine rarefactione illud 
+      argu<lb ed="#P" n="44" break="no"/>mentum inquam non valet quia per positionem in pluri 
+      <lb ed="#P" n="45"/>bus locis illud non sequitur imo dico si voluisset 
+      <lb ed="#P" n="46"/>poterat fecisse corpus eue ita densum sicut terra est 
+      <lb ed="#P" n="47"/>vel plumbum: sed bene verum est quod magister 
+      sentem<lb ed="#P" n="48" break="no"/>tiarum tangit ibidem: et <name xml:id="JM7jmZ-d23414-Nd1e839">hugo</name> quod deus potest 
+      face<lb ed="#P" n="49" break="no"/>re corpus magnum ex paruo sine additione: et 
+      ni<lb ed="#P" n="50" break="no"/>colaus de lira insequitur: quia si potest creare vnum 
+      <lb ed="#P" n="51"/>montem ex nichilo potest ex vno pane creare mon 
+      <lb ed="#P" n="52"/>tem sine addito hoc reputo falsum: non reputo pos 
+      <lb ed="#P" n="53"/>sibile deo quod possit facere partem esse totum realiter 
+      <lb ed="#P" n="54"/>vel quod minus sit maius entitatiue sine rarefactione 
+      <lb ed="#P" n="55"/>vel additione illud non contingit in proposito 
+      po<lb ed="#P" n="56" break="no"/>nendo idem in diuersis locis si eadem costa ponatur 
+      <lb ed="#P" n="57"/>in pluribus locis costa non est pars totius sed est 
+      to<lb ed="#P" n="58" break="no"/>tum nec propterea volo fouere opinionem <ref xml:id="JM7jmZ-d23414-Rd1e864">
+                  <name xml:id="JM7jmZ-d23414-Nd1e866">magi 
+      <!--101.xml-->
+      <cb ed="#P" n="b"/>
+                     <lb ed="#P" n="59" break="no"/>stri.</name> xxx. distinctio. ii.</ref> et <name xml:id="JM7jmZ-d23414-Nd1e876">petri comestoris</name> quod ex 
+      par<lb ed="#P" n="60" break="no"/>ua materia que erat in adam sine additione fit totum 
+      <lb ed="#P" n="61"/>compositum: sed sicut aristoteles dicit primo de ge 
+      <lb ed="#P" n="62"/>neratione. Alimentum conuertitur in substantiam 
+      <lb ed="#P" n="63"/>aliti sed illud deo non est impossibile licet non factum 
+      <lb ed="#P" n="64"/>sit in aliis habemus auctoritates que licteraliter so 
+      <lb ed="#P" n="65"/>nant ad illa que posuimus. Sexto sequitur quod vnum 
+      <lb ed="#P" n="66"/>scutum in mille locis valet mille scuta. hoc patet: 
+      <lb ed="#P" n="67"/>quia in vno loco valet vnum scutum et non est ma 
+      <lb ed="#P" n="68"/>ior ratio de vno loco quam alio: ergo valet mille. 
+      Se<lb ed="#P" n="69" break="no"/>ptimo sequitur si ego et sortes habeamus idem scu 
+      <lb ed="#P" n="70"/>tum et hoc me latet capiendo suum scutum 
+      clancu<lb ed="#P" n="71" break="no"/>lum licet non capio alienum inuito domino tamen pecco 
+      <lb ed="#P" n="72"/>peccato furti tantum sicut alter qui furatur vnum 
+      scu<lb ed="#P" n="73" break="no"/>tum non capio alienum sed proprium sed quia credo il 
+      <lb ed="#P" n="74"/>lud esse alienum hoc sufficit in omnibus istis possibi 
+      <lb ed="#P" n="75"/>libus no debemus credere vel opinari sic minime 
+      <lb ed="#P" n="76"/>esse quia deus non multiplicat miraculo sine neces 
+      <lb ed="#P" n="77"/>sitate. Octauo sequitur quod eadem propositio est 
+      ve<lb ed="#P" n="78" break="no"/>ra et falsa: hoc patet capta hac / homo non est animal 
+      <lb ed="#P" n="79"/>est falsa preponatur eadem negatio numero in prin 
+      <lb ed="#P" n="80"/>cipio tunc illa propositio est vera si casus sit 
+      possi<lb ed="#P" n="81" break="no"/>bilis in mente tunc sequitur quod eadem vltimata est 
+      <lb ed="#P" n="82"/>vera et falsa sed an eadem propositio sibi contradi 
+      <lb ed="#P" n="83"/>cat consequenter examina. Nono sequitur negatio 
+      di<lb ed="#P" n="84" break="no"/>stribuit terminum ante se: patet: hec negatio in 
+      pri<lb ed="#P" n="85" break="no"/>cipio distribuit illum terminum bomo hec negatio 
+      <lb ed="#P" n="86"/>in principio est negatio post illum terminum homo 
+      <lb ed="#P" n="87"/>igitur. Decimo sequitur quod propositio cathegoca 
+      <lb ed="#P" n="88"/>est sillogismus. hoc patet: si idem atramentum 
+      po<lb ed="#P" n="89" break="no"/>natur in diuersis locis in vno scribatur 
+      cathegori<lb ed="#P" n="90" break="no"/>ta et in aliis sillogismus et eodemmodo bomo et 
+      <lb ed="#P" n="91"/>asinus sunt termini sinonimi. Diameter quadrati 
+      <lb ed="#P" n="92"/>est costa si ex eadem materia in duobus locis 
+      dia<lb ed="#P" n="93" break="no"/>meter et costa constituantur. In istis decem correlariis la 
+      <lb ed="#P" n="94"/>tenter soluuntur decem argumenta.
+    </p>
+            <p xml:id="JM7jmZ-d23414-d1e957">
+      ¶ Tertio pri 
+      <lb ed="#P" n="95"/>cipaliter arguitur: quia ex illa positione sequitur quodi 
+      <lb ed="#P" n="96"/>briuatiue opposita verificantur de eodem: 
+      conse<lb ed="#P" n="97" break="no"/>quens est falsum quia propter negationem inclusam 
+      <lb ed="#P" n="98"/>in altero extremo sequitur contradictio et patet: 
+      po<lb ed="#P" n="99" break="no"/>sito quod sortes sit rome et ei ibi eruantur oculi parisii 
+      <lb ed="#P" n="100"/>et habeat eos: iam sortes est videns parisi: ergo est 
+      <lb ed="#P" n="101"/>videns a parte in modo ad suum totum 
+      affirmati<lb ed="#P" n="102" break="no"/>ue et vltra: est cecus rome ergo est secus per eundem 
+      <lb ed="#P" n="103"/>locum diametrum. Secundo probatur: eadem 
+      con<lb ed="#P" n="104" break="no"/>sequentia ex opposito consequentis sequitur 
+      opo<lb ed="#P" n="105" break="no"/>situm antecedentis: ergo consequentia est bona per 
+      <lb ed="#P" n="106"/>aristotelem in predicamentis si album est in corpo 
+      <lb ed="#P" n="107"/>re: ergo est in aliquo corpore: probo illam 
+      consequen<lb ed="#P" n="108" break="no"/>tiam: si in nullo corpore est nec omnimo in corpore 
+      <lb ed="#P" n="109"/>erit. probatur antecedens: sortes est rome cecus er 
+      <lb ed="#P" n="110"/>go est cecus alicubi: nam si nullibi est cecus nec 
+      ro<lb ed="#P" n="111" break="no"/>me est cecus: patet a superiore ad inferius 
+      negati<lb ed="#P" n="112" break="no"/>ue cum distributione superioris vel per descensum 
+      <lb ed="#P" n="113"/>Respondetur negando antecedens et admisso 
+      ca<lb ed="#P" n="114" break="no"/>su nego quod sit cecus hec consequentia est nulla 
+      sor<lb ed="#P" n="115" break="no"/>tes est cecus rome: ergo est cecus arguitur a parte 
+      <lb ed="#P" n="116"/>in modo ad suum totum cum dictione negationem 
+      <!--102.xml-->
+      <pb ed="#P" n="44-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>includente hoc liquet accipiendo antecedentis et 
+      <lb ed="#P" n="2"/>consequentis equiualens sortes non videt rome: es 
+      <lb ed="#P" n="3"/>est aptus natus videre: ergo non videt et est aptus 
+      <lb ed="#P" n="4"/>natus videre: et ad aliam probationem negatur quod 
+      <lb ed="#P" n="5"/>ex opposito consequentis sequatur oppositum 
+      an<lb ed="#P" n="6" break="no"/>tecedentis: hec consequentia est nulla sortes non est 
+      <lb ed="#P" n="7"/>secus alicubi: ergo non est cecus rome. hec tamen 
+      <lb ed="#P" n="8"/>bene valet sortes alicubi non est cecus: ergo rome 
+      <lb ed="#P" n="9"/>non est cecus quemadmodum illa consequentia est bona sor 
+      <lb ed="#P" n="10"/>tes est cecus rome ergo alicubi est cecus: sed hec non 
+      <lb ed="#P" n="11"/>valet ergo est cecus alicubi: et eodemmoo si occidatur 
+      <lb ed="#P" n="12"/>in vno loco et viuat in alio / viuat parisii occidatur 
+      <lb ed="#P" n="13"/>rome sortes moritur rome sed non moritur anima 
+      <lb ed="#P" n="14"/>quiescit in brachio sed non quiescit frequenter. 
+      </p>
+            <p xml:id="JM7jmZ-d23414-d1e1044">
+               <lb ed="#P" n="15"/>¶ Quarto arguitur quia secundum dicta si sortes es 
+      <lb ed="#P" n="16"/>set athenis potest habere scientiam / et in tracia opi 
+      <lb ed="#P" n="17"/>nionem hoc est impossibile: quod patet: bene 
+      sequitur<lb ed="#P" n="18" break="no"/>sortes habet opinionem de hac triangulus habet tres 
+      <lb ed="#P" n="19"/>ergo assentit cum formidine et vltra: habet scientiam 
+      <lb ed="#P" n="20"/>ergo assentit sine formidine: sed ex solutione terti 
+      <lb ed="#P" n="21"/>argumenti precedentis priuatiue opposita non pos 
+      <lb ed="#P" n="22"/>sunt verificari de eodem et quod sequatur sic patet: quia 
+      <lb ed="#P" n="23"/>due qualitates contrarie possunt inherere eidem si 
+      <lb ed="#P" n="24"/>ponatur in diuersis locis et equalis est ratio in om 
+      <lb ed="#P" n="25"/>nibus ergo. Respondetur dando omnia dicta 
+      ad<lb ed="#P" n="26" break="no"/>huc non sequitur quemadmodum multi opinantur 
+      <lb ed="#P" n="27"/>qualitates corporeas inherere eidem vel 
+      qualita<lb ed="#P" n="28" break="no"/>tes eiusdem speciei cum eis in gradibus remissis et 
+      <lb ed="#P" n="29"/>in spiritualibus non confiterentur. Secundo 
+      con<lb ed="#P" n="30" break="no"/>cedo quod ille habebit scientiam et opinionem simul 
+      <lb ed="#P" n="31"/>et semel et concedo illam consequentiam: ille hab 
+      <lb ed="#P" n="32"/>opinionem ergo assentit cum formidine: aliam ne 
+      <lb ed="#P" n="33"/>go habet scientiam ergo assentit sine formidine pro 
+      <lb ed="#P" n="34"/>pter negationem inclusam in prepositione siue in con 
+      <lb ed="#P" n="35"/>sequente potest de virtute sermonis concedi assen 
+      <lb ed="#P" n="36"/>tit sine formidine id est aliquo assensu assentit sine 
+      <lb ed="#P" n="37"/>formidine in talibus semper concedatur 
+      consequen<lb ed="#P" n="38" break="no"/>tia cuius consequens est affirmatiuum nullam ne 
+      <lb ed="#P" n="39"/>gationem lambens altera negetur: sed 
+      conceda<lb ed="#P" n="40" break="no"/>tur cum addito et tunc non dabis eadem predica 
+      <lb ed="#P" n="41"/>ta sicut videns et cecus rome non opponuntur sed 
+      <lb ed="#P" n="42"/>se compatiuntur.
+    </p>
+            <p xml:id="JM7jmZ-d23414-d1e1107">
+      ¶ Contra illud arguitur quia tunc 
+      <lb ed="#P" n="43"/>simul aliquis esset ignarus delirus et stultus 
+      sapi<lb ed="#P" n="44" break="no"/>ens et sciens hoc videtur inconueniens igitur: et pa 
+      <lb ed="#P" n="45"/>tet consequentia: sortes athenis potest bene 
+      stude<lb ed="#P" n="46" break="no"/>re in tracia non nauare operam litteris: igitur. 
+      </p>
+            <p xml:id="JM7jmZ-d23414-d1e1118">
+               <lb ed="#P" n="47"/>¶ Respondetur per propositiones. Prima est: no 
+      <lb ed="#P" n="48"/>inconuenit sortem esse scientem et doctum athenis 
+      <lb ed="#P" n="49"/>et esse ignarum in tracia imo hoc contingeret in c 
+      <lb ed="#P" n="50"/>su replice. Secunda propositio talis non est stuli 
+      <lb ed="#P" n="51"/>imprudens ignarus simpliciter hoc patet illi term 
+      <lb ed="#P" n="52"/>ni priuatiue opponuntur huic termino doctus et sa 
+      <lb ed="#P" n="53"/>piens. Ex hiis sequitur si formetur ei questio 
+      stan<lb ed="#P" n="54" break="no"/>te casu in tracia nescit respondere in tracia scit ta 
+      <lb ed="#P" n="55"/>men respondere athenis. Tertia propositio sortes 
+      <lb ed="#P" n="56"/>in tracia est doctus et bene. respondit: quod patet 
+      <lb ed="#P" n="57"/>expositorie sortes athenis bene respondit: sortes a 
+      <lb ed="#P" n="58"/>thenis est sortes in tracia: ergo sortes in tracia 
+      be<lb ed="#P" n="59" break="no"/>ne respondit sed non bene respondit in tracia hoc 
+      <!--102.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="60"/>est modus bene respondendi non peruenit a tracia 
+      </p>
+            <p xml:id="JM7jmZ-d23414-d1e1155">
+               <lb ed="#P" n="61"/>¶ Quinto arguitur: si idem ponatur in duobus lo 
+      <lb ed="#P" n="62"/>cis scilicet rome et parisius stat quod rome peccet et 
+      <lb ed="#P" n="63"/>parisius bene viuat et detestetur sua peccata: ergo 
+      <lb ed="#P" n="64"/>si ille decedat in illis duobus locis simul 
+      saluabi<lb ed="#P" n="65" break="no"/>tur et damnabitur hoc est magnum inconueniens 
+      <lb ed="#P" n="66"/>quod saluabitur. patet: decedit parisius in gratia ergo 
+      <lb ed="#P" n="67"/>saluabitur. hec consequentia est bona theologice: es 
+      <lb ed="#P" n="68"/>vltra: discedit rome in peccato: ergo damnabitur. 
+      <lb ed="#P" n="69"/>Huic argumento respondit aliaceneres. si deus 
+      acce<lb ed="#P" n="70" break="no"/>ptat actum eius in vno loco acceptabit in alio vel 
+      <lb ed="#P" n="71"/>si deacceptabit in vno loco deacceptabit in alio et sic 
+      <lb ed="#P" n="72"/>vel dannabitur vel saluabitur tantum nec est aliter possibile: bene 
+      <lb ed="#P" n="73"/>tamen potest occidere proximum rome et dare 
+      elemosi<lb ed="#P" n="74" break="no"/>nam parisi: sed si deus dationem elemosine 
+      acce<lb ed="#P" n="75" break="no"/>ptet nullibi occisionem deacceptat et illud non est 
+      <lb ed="#P" n="76"/>penitus improbabile. Aliter tamen respondeo non 
+      <lb ed="#P" n="77"/>video inconueniens de potentia dei absoluta de qua 
+      <lb ed="#P" n="78"/>loquimur quod quis sit in gratia et in peccato simul es 
+      <lb ed="#P" n="79"/>semel peccatum sic diffinitur a beato augustino 
+      con<lb ed="#P" n="80" break="no"/>tra faustum. Peccatum est dictum factum vel con 
+      <lb ed="#P" n="81"/>cupitum contra legem dei et quod aliquis simul 
+      faci<lb ed="#P" n="82" break="no"/>at cum lege dei et contra legem dei non est inconue 
+      <lb ed="#P" n="83"/>niens quemadmodum logice loquendo et de vi ver 
+      <lb ed="#P" n="84"/>borum solent tales concedi. si duo pugnant isti 
+      pu<lb ed="#P" n="85" break="no"/>gnant pro se isti pugnant contra se si vnus homo e 
+      <lb ed="#P" n="86"/>set in duobus exercitibus oppositis: Item sit 
+      sor<lb ed="#P" n="87" break="no"/>tes imperator vnius exercitus plato ille homo pla 
+      <lb ed="#P" n="88"/>to est contra sortem et cum sorte nec negatio ibi in 
+      <lb ed="#P" n="89"/>clusa est in contra quia tunc sophiste recte 
+      loquen<lb ed="#P" n="90" break="no"/>tes illas non concederent. Preterea ad deum vnum 
+      <lb ed="#P" n="91"/>per bonum actum acceptare ad vitam eternam per 
+      <lb ed="#P" n="92"/>malum ad eternam penam in inferno nulla 
+      sequi<lb ed="#P" n="93" break="no"/>tur magis contradictio hic quam quod idem simul et semel 
+      <lb ed="#P" n="94"/>sit calidus et frigidus quod ille non negat hoc deo pos 
+      <lb ed="#P" n="95"/>sibile. Rursus sit toto illo anno sortes in duobus lo 
+      <lb ed="#P" n="96"/>cis bonus occidatur a platone ipso dormiente 
+      ro<lb ed="#P" n="97" break="no"/>meiam ibit ad superos hec anima / maneat sortes 
+      <lb ed="#P" n="98"/>parisius duobus annis post hac et peccet 
+      damna<lb ed="#P" n="99" break="no"/>bitur. Propterea deus potest facere quod eadem 
+      ma<lb ed="#P" n="100" break="no"/>teria numero sit in diuersis corporibus tunc erunt 
+      <lb ed="#P" n="101"/>varii homines licet eadem anima et super istum ca 
+      <lb ed="#P" n="102"/>sum potest superedificari pondus totius 
+      argumen<lb ed="#P" n="103" break="no"/>ti. Sed contra illud arguitur: quia per illum 
+      mo<lb ed="#P" n="104" break="no"/>dum nunc stante lege sempronius esset saluatus et 
+      <lb ed="#P" n="105"/>damnatus. quod probo: amputetur ei manus in hoc 
+      <lb ed="#P" n="106"/>anno / iam anima in manu descendit ad inferos po 
+      <lb ed="#P" n="107"/>sito quod sempronius erat in peccato postea ipse viuit 
+      <lb ed="#P" n="108"/>et descedit in gratia ergo saluabitur: ergo eadem 
+      <lb ed="#P" n="109"/>anima stante lege saluabitur et damnabitur. Huic 
+      <lb ed="#P" n="110"/>argumento nichil aliud respondendum est nisi quod 
+      <lb ed="#P" n="111"/>anima que erat in manu desinit informare manum 
+      <lb ed="#P" n="112"/>nec descendit ad inferos oportet expectare quous 
+      <lb ed="#P" n="113"/>que totum compositum desinat esse eadem anima 
+      ad<lb ed="#P" n="114" break="no"/>huc informat residuum corporis sic tibi dicit aduer 
+      <lb ed="#P" n="115"/>sarius quod si sortes occidatur rome anima sua nec 
+      <lb ed="#P" n="116"/>ibit ad superos nec ad inferos: sed desinit 
+      infor<lb ed="#P" n="117" break="no"/>mare illam materiam rome sed non simpliciter 
+      <lb ed="#P" n="118"/>quia informat parisi: Istud non impedit quod 
+      <!--103.xml-->
+      <pb ed="#P" n="44-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>ostendo deus potest facere quod anima que informat 
+      <lb ed="#P" n="2"/>manum quando amputatur manus descendat ad 
+      <lb ed="#P" n="3"/>inferos et perpetuo puniatur pro suo peccato et ea 
+      <lb ed="#P" n="4"/>dem anima postea saluabitur si voluerit nulla est 
+      <lb ed="#P" n="5"/>contradictio sed ex pacto nobiscum fecit quod anima 
+      <lb ed="#P" n="6"/>manebit vel totus homo quamdiu anima aliquam par 
+      <lb ed="#P" n="7"/>tem materie informat in via / sed non est idem esto 
+      <lb ed="#P" n="8"/>quod anima sit in diuersis locis partialibus in manu et 
+      <lb ed="#P" n="9"/>in residuo et in diuersis locis separatis / imo alites 
+      <lb ed="#P" n="10"/>ille contra quem arguo haberet concedere quod 
+      opi<lb ed="#P" n="11" break="no"/>nio et scientia possunt esse in eadem anima in diuer 
+      <lb ed="#P" n="12"/>sis locis separatis quemadmodum concedit de calo 
+      <lb ed="#P" n="13"/>re et frigore. secus est in eodem composito dato quod 
+      <lb ed="#P" n="14"/>anima sit in capite et in pede. Secundo arguo con 
+      <lb ed="#P" n="15"/>tra illam solutionem implicat idem dampnari pena 
+      <lb ed="#P" n="16"/>danni et beatificari: ergo male dictum est. 
+      antece<lb ed="#P" n="17" break="no"/>dens patet: bene sequitur i ille est saluatus: ergo 
+      <lb ed="#P" n="18"/>clare videt deum et eum diligit et gaudet saltem 
+      di<lb ed="#P" n="19" break="no"/>iunctiue sequitur: et vltra: damnatur pena damni: 
+      <lb ed="#P" n="20"/>ergo non clare videt deum quinimo non videt 
+      de<lb ed="#P" n="21" break="no"/>um. Pena damni nichil aliud est quam carentia 
+      per<lb ed="#P" n="22" break="no"/>petua visionis diuine. Illud argumentum non 
+      in<lb ed="#P" n="23" break="no"/>firmat negotium quia tunc concedam simpliciter 
+      <lb ed="#P" n="24"/>ille est beatus / et ille est damnatus pena damni in 
+      <lb ed="#P" n="25"/>inferno et tunc debes inferre ergo non videt deum 
+      <lb ed="#P" n="26"/>clare in inferno quod clare diuine visioni non repugnat 
+      <lb ed="#P" n="27"/>pena: patet: anima christi tristis erat ad mortem. 
+      <lb ed="#P" n="28"/>mathei vicesimo sexto. et cum hoc beata quare 
+      ea<lb ed="#P" n="29" break="no"/>dem anima ergo non potest esse tristis et leta. Petis 
+      <lb ed="#P" n="30"/>a me in tali casuan melius erit anime que est in 
+      ce<lb ed="#P" n="31" break="no"/>lo et in inferno simul quam anime vnius paruuli dece 
+      <lb ed="#P" n="32"/>dentis cum solo originali. Peto iterum a te posito 
+      <lb ed="#P" n="33"/>quod anima eadem sit in diuersis locis potest esse 
+      tri<lb ed="#P" n="34" break="no"/>stis in vno loco et leta in alio imo in eodem loco an 
+      <lb ed="#P" n="35"/>melius est illi anime quam illi que neque tristiciam habet 
+      <lb ed="#P" n="36"/>neque leticiam solue vnum quod habes concedere 
+      <lb ed="#P" n="37"/>possibile et inuenies tuam questionem solutionem 
+      <lb ed="#P" n="38"/>habere posse cum omnibus istis non nego quin de 
+      <lb ed="#P" n="39"/>us potest acceptare in vtroque loco vel 
+      deaccepta<lb ed="#P" n="40" break="no"/>re si voluerit potest acceptare de potentia absoluta 
+      <lb ed="#P" n="41"/>peccatorem pessimum ad vitam eternam sed in 
+      to<lb ed="#P" n="42" break="no"/>to volo habere non impossibile quod eadem anima sit 
+      <lb ed="#P" n="43"/>saluata et dannata in inferno in peccato mortali 
+      ro<lb ed="#P" n="44" break="no"/>me et in gratia parisius. Forte dicis si ponatur idem 
+      <lb ed="#P" n="45"/>in diuersis locis sortes iudicans duos homines 
+      fal<lb ed="#P" n="46" break="no"/>letur et sic obiecto medio et organo bene dispositis 
+      <lb ed="#P" n="47"/>sensus errabit contra philosophum secundo de 
+      ani<lb ed="#P" n="48" break="no"/>ma. Respondetur iudicabit duos homines propitur 
+      <lb ed="#P" n="49"/>varias piramides specierum delatas ad sensum: 
+      ar<lb ed="#P" n="50" break="no"/>gumentum non est maius quam de faba tacta digitis 
+      <lb ed="#P" n="51"/>cancellatis vel oculo parum variato a sua sede 
+      vi<lb ed="#P" n="52" break="no"/>lente vnum vbi sic videns vel tangens censet esse 
+      <lb ed="#P" n="53"/>uo.
+    </p>
+            <p xml:id="JM7jmZ-d23414-d1e1405">
+      ¶ Sexto arguitur: dato quod idem ponatur in in 
+      <lb ed="#P" n="54"/>finitis locis iam talis in quolibet illorum locorum 
+      <lb ed="#P" n="55"/>potest mereri: et sic in vna hora si talis discedat ha 
+      <lb ed="#P" n="56"/>bebit tantam gloriam sicut habet anima christi pari 
+      <lb ed="#P" n="57"/>forma si titius ponatur in infinitis locis potest in vno 
+      <lb ed="#P" n="58"/>illorum locorum peccare et non est maior ratio de 
+      <lb ed="#P" n="59"/>vno loco quam alio: ergo erit in infinitis peccatis mor 
+      <!--103.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="60"/>talibus equalibus: ergo infinitam penam debet pa 
+      <lb ed="#P" n="61"/>ti in inferno: sed hoc est falsum non potest talem pa 
+      <lb ed="#P" n="62"/>ti: eodemmodo de gloria non potest habere infinitam 
+      <lb ed="#P" n="63"/>gloriam: et eodemmodo probabo quod potest habere 
+      <lb ed="#P" n="64"/>nfinitam noticiam intensiue et sic capacitas anime 
+      <lb ed="#P" n="65"/>actiua est infinita. Si dicas ille noticie non 
+      consti<lb ed="#P" n="66" break="no"/>tuunt aliquod vnum esto quod sunt eiusdem speciei 
+      spe<lb ed="#P" n="67" break="no"/>cialissime. Contra et capiamus de albedine quia 
+      <lb ed="#P" n="68"/>fortassis in corporalibus melius intelliges ille albe 
+      <lb ed="#P" n="69"/>dines inherent eidem subiecto primo: ergo 
+      com<lb ed="#P" n="70" break="no"/>ponunt aliquam vnam formam per illud quinti 
+      me<lb ed="#P" n="71" break="no"/>thaphisices. Impossibile est plura accidentia solo 
+      <lb ed="#P" n="72"/>numero differentia inherere eidem quin 
+      constitu<lb ed="#P" n="73" break="no"/>ant aliquod vnum quod si concedas Contra: iam 
+      <lb ed="#P" n="74"/>capio albedinem que est rome et illam que est 
+      pa<lb ed="#P" n="75" break="no"/>risius in diuersis subiectis non constituunt vnum: 
+      <lb ed="#P" n="76"/>ponatur sempronius rome et parisi et ille due 
+      al<lb ed="#P" n="77" break="no"/>bedines informent eum non videtur quod magis faci 
+      <lb ed="#P" n="78"/>ent vnum quam antea. Ad sextum dicitur admittendo 
+      <lb ed="#P" n="79"/>tasum semper teneo deum posse facere infinitum: 
+      <lb ed="#P" n="80"/>concedo quod habebit infinitam gloriam et nego quod 
+      il<lb ed="#P" n="81" break="no"/>lam deus non potest dare. dico quod anima christi ha 
+      <lb ed="#P" n="82"/>bet infinitam gratiam intensiue et gloriam / et hoc 
+      <lb ed="#P" n="83"/>patet in materia de infinito. et eodemmodo dico de 
+      <lb ed="#P" n="84"/>pecto: nec admirari debes quod aliqua anima sit ita be 
+      <lb ed="#P" n="85"/>ata sicut anima christi de potentia dei absoluta de qua 
+      loqui<lb ed="#P" n="86" break="no"/>nur cum hoc tamen dico quod benedicta christi anima habet 
+      <lb ed="#P" n="87"/>infinitam gratiam et gloriam et quelibet alia finitam 
+      <lb ed="#P" n="88"/>Ex consequenti correlarie sequitur quod gratia 
+      ani<lb ed="#P" n="89" break="no"/>me christi est maior quam omnium sanctorum qui fue 
+      <lb ed="#P" n="90"/>runt et erunt gratia possibilis parum nobis condu 
+      <lb ed="#P" n="91"/>cit ad salutem possibile est quod sortes viuat ita bene 
+      <lb ed="#P" n="92"/>sicut magnus doctor gentium vel paulus primus 
+      <lb ed="#P" n="93"/>heremita: sed pro illo non premiabitur sed ex facto 
+      <lb ed="#P" n="94"/>actuum primo dicit beatus lucas. Incepit quidem 
+      <lb ed="#P" n="95"/>iesus facere et docere. non dixit possibiliter facere 
+      <lb ed="#P" n="96"/>et possibiliter docere. Eodemmodo de pena 
+      dica<lb ed="#P" n="97" break="no"/>tur in inferno. Ad aliud an habebit infinitam 
+      noti<lb ed="#P" n="98" break="no"/>ciam intensiue dico quod sic et quod est infinite 
+      capa<lb ed="#P" n="99" break="no"/>citatis actiue in pluribus locis queadmodum 
+      sor<lb ed="#P" n="100" break="no"/>tes in pluribus locis plus potest portare quam in 
+      pau<lb ed="#P" n="101" break="no"/>cis et in eodem loco. Dico etiam quod anima sortis 
+      po<lb ed="#P" n="102" break="no"/>test partialiter actiue concurrere ad infinitam 
+      no<lb ed="#P" n="103" break="no"/>ticiam boc alibi in materia de infinito probatum est 
+      <lb ed="#P" n="104"/>sufficienter vt putamus contra aliacensem per ha 
+      <lb ed="#P" n="105"/>bitus vel supplementum dei. Sed petitur an ille 
+      no<lb ed="#P" n="106" break="no"/>ticie eiusdem speciei specialissime constituant vnam 
+      <lb ed="#P" n="107"/>formam vel ille plures albedines et dicitur quod non 
+      <lb ed="#P" n="108"/>esto quod eidem subiecto inhereant. aristotels 
+      poposi<lb ed="#P" n="109" break="no"/>tio quinto methaphisice intelligenda est 
+      naturali<lb ed="#P" n="110" break="no"/>ter et nullo miraculo presupposito. Sed contra hoc 
+      <lb ed="#P" n="111"/>arguitur: ponatur sortes in decem locis in quolibet 
+      <lb ed="#P" n="112"/>illorum habeat vnum gradum albedinis talis est 
+      al<lb ed="#P" n="113" break="no"/>pus vt decem quia ille albedines constituunt vnam 
+      <lb ed="#P" n="114"/>formam. quod sit albus vt decem patet quia habet de 
+      <lb ed="#P" n="115"/>tem gradus albedinis. Respondetur distinguendo 
+      <lb ed="#P" n="116"/>quod sit albus vt decem: vel extensiue et sic conceditur 
+      <lb ed="#P" n="117"/>vel intensiue et sic negatur non constituunt aliquam 
+      <lb ed="#P" n="118"/>vnam formam et quando illi gradus inhererent eidem 
+      <!--104.xml-->
+      <pb ed="#P" n="45-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>in eodem loco potest deus impedirene faciant vnum 
+      <lb ed="#P" n="2"/>vt michi apparet et hoc ante tactum est in 
+      questio<lb ed="#P" n="3" break="no"/>ne precedenti de albedine in manu christi si essent in 
+      <lb ed="#P" n="4"/>finiti homines quorum quilibet seorsum est 
+      remis<lb ed="#P" n="5" break="no"/>se albus in eodem loco penetratiue nullus eorum 
+      <lb ed="#P" n="6"/>esset infinite albus vel albior quam antea et quando in 
+      <lb ed="#P" n="7"/>le albedines eidem inhererent contradictio non vide 
+      <lb ed="#P" n="8"/>tur quia possunt non constituere vnam formam. 
+      <lb ed="#P" n="9"/>Potes petere si idem bomo sit in diuersis locis cum 
+      <lb ed="#P" n="10"/>eodem obiecto an habebit eandem noticiam numere 
+      <lb ed="#P" n="11"/>et an potest esse seruus et dominus suiipsius. Et ar 
+      <lb ed="#P" n="12"/>odire et diligere se / sed hec tibi missa facio.
+    </p>
+            <p xml:id="JM7jmZ-d23414-d1e1586">
+      ¶ 
+      Se<lb ed="#P" n="13" break="no"/>ptimo arguitur probando quod hec positio implicet. 
+      <lb ed="#P" n="14"/>Ex ea sequitur quod idem est maius seipso et quod pars 
+      <lb ed="#P" n="15"/>est maior suo toto contra communem animi 
+      conce<lb ed="#P" n="16" break="no"/>ptionem prime euclidis. patet. capio globum cereum 
+      <lb ed="#P" n="17"/>rome cuius diameter est pedalis capio medietatem 
+      <lb ed="#P" n="18"/>eius parisii rarefiat quo ad diameter eius sit 
+      tripe<lb ed="#P" n="19" break="no"/>dalis sit pars b totum a b est maius a b est pars a: 
+      <lb ed="#P" n="20"/>igitur. consequentia tenet cum minore ostenditur ma 
+      <lb ed="#P" n="21"/>ior b est longior latior et profundior: ergo secundum 
+      <lb ed="#P" n="22"/>omnem dimensionem maior et hoc sufficit ad 
+      ma<lb ed="#P" n="23" break="no"/>gnitudinem igitur. Respondetur per propositiones 
+      <lb ed="#P" n="24"/>Prima est: aliqua pars est longior suo toto: hoc 
+      pro<lb ed="#P" n="25" break="no"/>bo: capio corpus cuius latitudo est bipedalis et vua 
+      <lb ed="#P" n="26"/>medietas illius corporis sit longa decem pedibus 
+      <lb ed="#P" n="27"/>altera sex pedibus: prima medietas a / secunda b. 
+      <lb ed="#P" n="28"/>totum c / tunc sic arguo: a est longius c: ergo pars 
+      <lb ed="#P" n="29"/>est longior toto cathegoreumatice. Antecedens 
+      <lb ed="#P" n="30"/>patet: a est longa decem pedibus / cnon est longum 
+      <lb ed="#P" n="31"/>decem pedibus: patet: eadem ratione esset longum 
+      <lb ed="#P" n="32"/>sex pedibus ratione alterius partis b: ergo oportet 
+      <lb ed="#P" n="33"/>capere medium inter sex et decem sclicet octo et dice 
+      <lb ed="#P" n="34"/>re quod totum est longum vt octo. Ex illa probatione 
+      <lb ed="#P" n="35"/>sequitur: assumpto alio vero quod non est dabilis 
+      lon<lb ed="#P" n="36" break="no"/>gissima linea si sit detur et sit a / transeat a super cen 
+      <lb ed="#P" n="37"/>trum alicuius circuli a est diuisibilis secundum 
+      la<lb ed="#P" n="38" break="no"/>titudinem pro nunc supponitur est apparentius quam 
+      <lb ed="#P" n="39"/>oppositum imagineris cum hoc centrum circuli in 
+      <lb ed="#P" n="40"/>diuisibile / esto quod non sit abstrahentium non est 
+      men<lb ed="#P" n="41" break="no"/>dacium quando esset diuisibile equaliter quo ad for 
+      <lb ed="#P" n="42"/>titudinem ducam argumentum licet non quo ad cla 
+      <lb ed="#P" n="43"/>ritatem medietas a magis accedit ad centrum quae 
+      <lb ed="#P" n="44"/>due extremales: ergo est longior illis medietatibus 
+      <lb ed="#P" n="45"/>consequentia tenet ad sensum sic euclides docet per 
+      <lb ed="#P" n="46"/>longitudinem reperire diametrum circuli tertio 
+      ele<lb ed="#P" n="47" break="no"/>mentorum propositione septima. Si in 
+      diame<lb ed="#P" n="48" break="no"/>tro circuli inquit punctus preter centrum signetur 
+      <lb ed="#P" n="49"/>et ab eo ad circumferentiam linee plurime 
+      ducan<lb ed="#P" n="50" break="no"/>tur que super centrum transierit omnium erit 
+      longissi<lb ed="#P" n="51" break="no"/>ma que vero diametrum perficiet omnium erit breuissi 
+      <lb ed="#P" n="52"/>ma que autem centro proxime ceteris longiores quam 
+      <lb ed="#P" n="53"/>to vero a centro remotiores tanto breuiores esse con 
+      <lb ed="#P" n="54"/>uenit: idem patet in propositione octaua eiusdem  
+      <lb ed="#P" n="55"/>tertii quanto linea magis accedit ad centrum circuli 
+      <lb ed="#P" n="56"/>tanto est longior et si ponatur centrum diuisibile quae 
+      <lb ed="#P" n="57"/>magis accedit medietatem est longior et que 
+      va<lb ed="#P" n="58" break="no"/>dit ad extremitatem est breuior et sic habetur quod me 
+      <lb ed="#P" n="59"/>dietas linee est longior tota cathece. Et rursus illa 
+      <!--104.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="60"/>medietas potest diuidi in tres partes et sic in infini 
+      <lb ed="#P" n="61"/>tum et si esset lineainfinita secundum longitudinem 
+      <lb ed="#P" n="62"/>finita secundum latitudinem adhuc medietas illius 
+      <lb ed="#P" n="63"/>linee est longior medietatibus in aliquo sensu sicut 
+      <lb ed="#P" n="64"/>vnum infinitum solet excedere reliquum et per con 
+      <lb ed="#P" n="65"/>sequens deus nescit facere lineam longissimam. 
+      </p>
+            <p xml:id="JM7jmZ-d23414-d1e1708">
+               <lb ed="#P" n="66"/>¶ Secunda propositio aliqua pars est intensior sud 
+      <lb ed="#P" n="67"/>toto patet: capiatur vnum corpus vniformiter 
+      dif<lb ed="#P" n="68" break="no"/>formiter calidum vel album incipiens a non 
+      gra<lb ed="#P" n="69" break="no"/>du et terminatum ad octo: hoc totum est calidum 
+      <lb ed="#P" n="70"/>vt quattuor: quia omnis latitudo vniformiter 
+      dis<lb ed="#P" n="71" break="no"/>formiter respondet suo gradui medio medietas in 
+      <lb ed="#P" n="72"/>tensior a quattuor ad octo per idem principium est 
+      <lb ed="#P" n="73"/>calidum vt sex quia est gradus medius inter 
+      quat<lb ed="#P" n="74" break="no"/>tuor et octo: ergo secunda medietas est intensior quam 
+      <lb ed="#P" n="75"/>totum et per consequens pars secundum 
+      intensio<lb ed="#P" n="76" break="no"/>nem est intensior suo toto quod restabat probandum 
+      <lb ed="#P" n="77"/>Iste due propositiones sequuntur ex 
+      fundamen<lb ed="#P" n="78" break="no"/>tis probabilibus. Probabile est etiam quod corpus lon 
+      <lb ed="#P" n="79"/>gum est ita longum sicut longissima pars eius 
+      po<lb ed="#P" n="80" break="no"/>tissimum in corporibus rectis etiam intensio forme 
+      <lb ed="#P" n="81"/>vniformiter difformis metienda per extremum in 
+      <lb ed="#P" n="82"/>tensius vtroque horum modorum communium sequor 
+      <lb ed="#P" n="83"/>secundum exigentiam materie occurrentis. Eodem 
+      <lb ed="#P" n="84"/>modo possum secundum alias dimensiones proba 
+      <lb ed="#P" n="85"/>re. potest fieri processus de homine et sua materia 
+      <lb ed="#P" n="86"/>sed non insisto. Ex istis duabus propositionibus 
+      <lb ed="#P" n="87"/>sequitur quod hec consequentia nichil valet a est 
+      lon<lb ed="#P" n="88" break="no"/>gius b ergo est maius b stat quod recuperet tantum in 
+      <lb ed="#P" n="89"/>latitudine et pro funditate super a quantum a super b 
+      <lb ed="#P" n="90"/>in longitudine. Si petas an sequatur a est in duplo 
+      <lb ed="#P" n="91"/>longius b in duplo latius et in duplo profundius: es 
+      <lb ed="#P" n="92"/>go est duplum ad b. Dicitur quod non sequitur si a est 
+      <lb ed="#P" n="93"/>in duplo longius b cum parili latitudine et 
+      profun<lb ed="#P" n="94" break="no"/>ditate a est duplum ad b. patet capiendo a 
+      bipeda<lb ed="#P" n="95" break="no"/>le et b pedale equalis spissitudinis et latitudinis a 
+      <lb ed="#P" n="96"/>est octuplum ad b. Tertia propositio dubium est in 
+      <lb ed="#P" n="97"/>casu argumenti principalis an a qui est globus cereus 
+      <lb ed="#P" n="98"/>rome per crementum b partis lit bipedalis et vltra 
+      <lb ed="#P" n="99"/>et videtur quod non quia nullibi a est bipedalis et 
+      vl<lb ed="#P" n="100" break="no"/>tra vel dubium est an sit precise pedalis vtrumque 
+      ho<lb ed="#P" n="101" break="no"/>mo tutare potes. sed dico ergo tertiam propositio 
+      <lb ed="#P" n="102"/>nem talem b pars est longior latior et profundior a 
+      <lb ed="#P" n="103"/>patet per tres diametros eius bipedales et a est bi 
+      <lb ed="#P" n="104"/>pedalis solum hic non respicimus ad densitatem 
+      <lb ed="#P" n="105"/>et raritatem dicimus pedale aeris est equali 
+      peda<lb ed="#P" n="106" break="no"/>li terre si ad hoc respiceremus non sic iret illa 
+      pro<lb ed="#P" n="107" break="no"/>positio. Quarta propositio totum semper est plus 
+      <lb ed="#P" n="108"/>entitatiue quam sua pars patet: in quolibet casu quem 
+      <lb ed="#P" n="109"/>tetigimus totum continet partem et aliquid vltra 
+      <lb ed="#P" n="110"/>et sic debet illa communis animi conceptio intelligi 
+      <lb ed="#P" n="111"/>et argumentum ex hiis est solutum si christus 
+      con<lb ed="#P" n="112" break="no"/>secrasset suum corpus in iuuentute sua et conseruasset 
+      <lb ed="#P" n="113"/>eucha. ad trigesimum annum a coruptione et corpus eius 
+      <lb ed="#P" n="114"/>sub eo in trigesimo anno poterat corpus est equalis 
+      <lb ed="#P" n="115"/>magnitudinis in eucharistia et crescere ad cremen 
+      <lb ed="#P" n="116"/>tum corporis sub modo non sacramentali si deus 
+      <lb ed="#P" n="117"/>voluisset vel manere paruum in vno loco et non in 
+      <lb ed="#P" n="118"/>alio sicut idem paruulus potest poni in duobus lo 
+      <!--105.xml-->
+      <pb ed="#P" n="45-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>cis et vno loco tenuiter ali in alio abundantius et 
+      es<lb ed="#P" n="2" break="no"/>se maius sed sic non remansisset omnimoda idemtitas. 
+      </p>
+            <p xml:id="JM7jmZ-d23414-d1e1836">
+               <lb ed="#P" n="3"/>¶ Sed contra secundam propositionem arguitu 
+      <lb ed="#P" n="4"/>b que est pars a est bipedalis: ergo a continet 
+      par<lb ed="#P" n="5" break="no"/>tem bipedalem: ergo est saltem bipedalis vel bipe 
+      <lb ed="#P" n="6"/>dalis et vltra. Respondetur negando consequentia 
+      <lb ed="#P" n="7"/>licet hoc non presupposito aliquo miraculo semt 
+      <lb ed="#P" n="8"/>habet verum.
+    </p>
+            <p xml:id="JM7jmZ-d23414-d1e1852">
+      ¶ Octauo arguitur: capio vnum par 
+      <lb ed="#P" n="9"/>uulum ponatur in duobus locis vel sit piscis 
+      occi<lb ed="#P" n="10" break="no"/>datur in vno loco detur ei ad comedendum in alio 
+      <lb ed="#P" n="11"/>loco et illo comesto ponat deus adhuc illum pisc 
+      <lb ed="#P" n="12"/>in alio loco et occidatur et detur iterum paruulo ad 
+      <lb ed="#P" n="13"/>comedendum et nil aliud: tunc peto vel ille cresci 
+      <lb ed="#P" n="14"/>ad tantam magnitudinem sicut alter paruulus vel 
+      <lb ed="#P" n="15"/>piscis vel non. secundum est contra dicta tantum suf 
+      <lb ed="#P" n="16"/>ficit ei sicut alius cibus. Si dicatur quod sic. contra: ni 
+      <lb ed="#P" n="17"/>chil habebit de nouo quin habuit a pricipio. Et co 
+      <lb ed="#P" n="18"/>firmatur ponatur idem rome et parisii / vadat a pa 
+      <lb ed="#P" n="19"/>risio a romam et econuerso ille a roma a parisium 
+      <lb ed="#P" n="20"/>occurrat in medio ei in angusto itinere in alpibus vel 
+      <lb ed="#P" n="21"/>impediet se et manebit in duobus locis vel in vno 
+      <lb ed="#P" n="22"/>tantum. Respondetur admittendo dicitur quod ille 
+      <lb ed="#P" n="23"/>non erit maior entitatiue quam vnus paruulus sed 
+      re<lb ed="#P" n="24" break="no"/>putabitur ab hominibus maior. Sed contra quel 
+      <lb ed="#P" n="25"/>bet pars erit maior entitatiue quam ante erat: ergo 
+      to<lb ed="#P" n="26" break="no"/>tum. Respondeo negando consequentiam quamquam possum 
+      <lb ed="#P" n="27"/>impedire antecedens. Ad aliud dico quod manebit in duob 
+      <lb ed="#P" n="28"/>locis sicut ante. Contra: idem non resistit sibiipsi 
+      <lb ed="#P" n="29"/>Forte dicis quando pectus eius obuinabit sibi erit 
+      <lb ed="#P" n="30"/>status alioquin esset penetratio partium diuersarum 
+      <lb ed="#P" n="31"/>Sed contra ponatur quod corpus habeat dotem subtili 
+      <lb ed="#P" n="32"/>tatis. Respondeo quod si sortes sit in duobus locis tunt 
+      <lb ed="#P" n="33"/>vel pars anterior puta facies incipit penetrare 
+      do<lb ed="#P" n="34" break="no"/>sum et tunc videtur michi quando facies eius est in vno lo 
+      <lb ed="#P" n="35"/>co tantum et dorsum et relique partes / tunc non pe 
+      <lb ed="#P" n="36"/>test exire illum locum naturaliter et ponere se in duo 
+      <lb ed="#P" n="37"/>bus locis: sed si sortes facialiter veniat ad se 
+      facia<lb ed="#P" n="38" break="no"/>liter penetrabit se et non manebit in eodem loco sed 
+      <lb ed="#P" n="39"/>potest ponere se sicut ante in duobus locis et causa 
+      <lb ed="#P" n="40"/>est quando facies que erat in duobus locis incipit 
+      <lb ed="#P" n="41"/>habere vnum locum adhuc alie partes sunt in duo 
+      <lb ed="#P" n="42"/>bus locis et eodemmodo per totum tempus pene 
+      <lb ed="#P" n="43"/>trationis: si sortes ponatur in duobus locis non est 
+      <lb ed="#P" n="44"/>in potestate eius facere se esse in vno loco tantum: 
+      <lb ed="#P" n="45"/>nisi se perimat vel alius in altero locorum sed 
+      po<lb ed="#P" n="46" break="no"/>ne sortem diffinitiue in hac aula nunquid ipse circi 
+      <lb ed="#P" n="47"/>scriptiue existens extra aulam potest illam intrar 
+      <lb ed="#P" n="48"/>et tunc erit extensus et non extensus in eodem loco 
+      <lb ed="#P" n="49"/>Item incipiat esse circunscriptiue totaliter per 
+      ex<lb ed="#P" n="50" break="no"/>tensionem corporis sortis in ordine ad locum an tunt 
+      <lb ed="#P" n="51"/>erit precise in eodem loco. Respondetur potest sub 
+      <lb ed="#P" n="52"/>intrare extensiue: sed nego quod sit extensus localiter 
+      <lb ed="#P" n="53"/>et inextensus in eodem loco proprio si demonstres 
+      <lb ed="#P" n="54"/>locum inadequatum non inconuenit / demonstras 
+      <lb ed="#P" n="55"/>medietatem aule cum parte extrinseca in hoc loco 
+      <lb ed="#P" n="56"/>sortes est extensus et in parte illius loci est inexten 
+      <lb ed="#P" n="57"/>sus localiter: sed demonstrando locum in quo est dif 
+      <lb ed="#P" n="58"/>finitiue et extense simul nego hanc: non est extensus 
+      <lb ed="#P" n="59"/>in hoc loco vel sortes est non extensus in hoc loco 
+      <!--105.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="60"/>de predicato infinito. ad aliud desinit tunc esse in il 
+      <lb ed="#P" n="61"/>lo loco diffinitiue et erit talis modus extendendi quod 
+      <lb ed="#P" n="62"/>non exibit amplius in duo loca ex natura sua 
+      quem<lb ed="#P" n="63" break="no"/>admodum ego non possum me ponere in duobus 
+      <lb ed="#P" n="64"/>locis.
+    </p>
+            <p xml:id="JM7jmZ-d23414-d1e1980">
+      ¶ Nono arguitur ex illa conclusione 
+      sequi<lb ed="#P" n="65" break="no"/>tur quod ista conclusio est concedenda linea infinita ma 
+      <lb ed="#P" n="66"/>nens infinita secundum longitudinem est in parua 
+      <lb ed="#P" n="67"/>bursa mea hoc est inconueniens igitur: et probo quod 
+      <lb ed="#P" n="68"/>sequatur: capiat deus vnum corpus palmale secundum 
+      <lb ed="#P" n="69"/>latitudinem octo palmis secundum longitudinem 
+      diui<lb ed="#P" n="70" break="no"/>dat per partes proportionales ita quod prima pars 
+      pro<lb ed="#P" n="71" break="no"/>portionalis sit vt quattuor et ponatur secundum lati 
+      <lb ed="#P" n="72"/>tudinem et sic consequenter ibi erit linea infinita se 
+      <lb ed="#P" n="73"/>cundum longitudinem in alio loco ponatur in bur 
+      <lb ed="#P" n="74"/>sa mea tunc sequitur propositum. Et confirmatur 
+      <lb ed="#P" n="75"/>si idem homo ponatur super quanlibet pedalitatem 
+      <lb ed="#P" n="76"/>linee infinite longitudinis tunc linea infinita claudi 
+      <lb ed="#P" n="77"/>tur inter duo puncta quod probo: quia spacium pe 
+      <lb ed="#P" n="78"/>dale clauditur inter duo puncta inter duos 
+      homi<lb ed="#P" n="79" break="no"/>nes / tripedale quadrupedale: et sic sine statu igitur 
+      <lb ed="#P" n="80"/>Ad hoc respondetur si vna linea in vno loco sit 
+      in<lb ed="#P" n="81" break="no"/>finita in alio finita nunquam finita et infinita verificabum 
+      <lb ed="#P" n="82"/>tur de pronomine illam lineam demonstrante. Se 
+      <lb ed="#P" n="83"/>cunda propositio talis linea simpliciter est finita quia 
+      <lb ed="#P" n="84"/>est termino clausa in aliquo loco: ergo est termino 
+      <lb ed="#P" n="85"/>clausa. Tertia propositio licet sit extensa sine 
+      ter<lb ed="#P" n="86" break="no"/>mino in hoc loco non est extensa sine termino si ter 
+      <lb ed="#P" n="87"/>mino includeret negationem aliter esset dicendum 
+      <lb ed="#P" n="88"/>non luctemur multum in terminis. Quarta propo 
+      <lb ed="#P" n="89"/>sitio concedo tamen in hoc casu linea infinita in hoc 
+      <lb ed="#P" n="90"/>loco est in bursa mea secundum se et quodlibet sui: sed non 
+      <lb ed="#P" n="91"/>est in bursa mea infinita in hoc loco. Ad 
+      confirma<lb ed="#P" n="92" break="no"/>tionem respnsum est in materia de infinito.
+    </p>
+            <p xml:id="JM7jmZ-d23414-d1e2043">
+      ¶ Decimo 
+      <lb ed="#P" n="93"/>arguitur sequeretur quod altissimum possit ascendere con 
+      <lb ed="#P" n="94"/>sequens implicat quia si est altissimum non potest esse ali 
+      <lb ed="#P" n="95"/>tius et per consequens non potest ascendere: et probo 
+      <lb ed="#P" n="96"/>quod sequatur / ponatur athlas in connexo celi suprimi 
+      <lb ed="#P" n="97"/>cum hoc ponatur in pede montis athlantis vel tauri 
+      <lb ed="#P" n="98"/>et ascendat / tunc sic: athlas ascendit in hoc loco er 
+      <lb ed="#P" n="99"/>go ascendit et athlas est supremum igitur. Respon 
+      <lb ed="#P" n="100"/>detur per propositiones. Prima est: nullo praesupposito 
+      <lb ed="#P" n="101"/>miraculo in duobus locis altissimum in hac scala potest 
+      <lb ed="#P" n="102"/>ascendere scalam sicut optimum naturaliter potest esse 
+      <lb ed="#P" n="103"/>pessimum et econuerso: hoc potest probari expositorie 
+      <lb ed="#P" n="104"/>vel a resoluentibus a resolutam per ampliationem de 
+      <lb ed="#P" n="105"/>potest per illam modalem diuisam. Secunda 
+      pro<lb ed="#P" n="106" break="no"/>positio altissimum ascendere est possibile: patet in ca 
+      <lb ed="#P" n="107"/>su argumenti de athlante qui erat prope centrum 
+      <lb ed="#P" n="108"/>et semper magis recedit ab eodem: ergo ascendit: 
+      <lb ed="#P" n="109"/>nichil aliud requiritur ad ascensum. Si dicas tunc 
+      <lb ed="#P" n="110"/>planete vltra motum circungirationis habent ascen 
+      <lb ed="#P" n="111"/>sum in auge sui eccentrici et descensum in eius opi 
+      <lb ed="#P" n="112"/>posito et sic planete cum motu circulari ascendent 
+      <lb ed="#P" n="113"/>et descendent: transeat illud dicere oppositum est gra 
+      <lb ed="#P" n="114"/>tis stare in terminis.
+    </p>
+            <p xml:id="JM7jmZ-d23414-d1e2094">
+      ¶ Vndecimo arguitur: 
+      quem<lb ed="#P" n="115" break="no"/>admodum naturaliterloquentes dicunt non est po 
+      <lb ed="#P" n="116"/>nenda pluralitas sine necessitate vbi paucitas suffi 
+      <lb ed="#P" n="117"/>cit. hoc patet primo phisicorum et in de anima: ergo 
+      <lb ed="#P" n="118"/>cum deus ex vno pane potest saturare totum mun 
+      <!--106.xml-->
+      <pb ed="#P" n="46-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>dum et facere ex paucis illa superfluum est plura 
+      <lb ed="#P" n="2"/>habere et tantum tritici et vini et sic de aliis rebus 
+      <lb ed="#P" n="3"/>Si dicas est ad decorem vniuersi licet potest ista quidem 
+      <lb ed="#P" n="4"/>facere et saturare per pauciora: ergo philosophi qui 
+      <lb ed="#P" n="5"/>ponunt istas relationes intrinsecus aduenientes et 
+      <lb ed="#P" n="6"/>extrinsecus et totum distingui a partibus res 
+      suc<lb ed="#P" n="7" break="no"/>cessiuas a permanentibus secundas intentiones mo 
+      <lb ed="#P" n="8"/>re realium vniuersalia formalitates cum complexe 
+      si<lb ed="#P" n="9" break="no"/>gnificabilibus et adhuc fodiendo cisternas nouas 
+      <lb ed="#P" n="10"/>peregrinas melius loquuntur ad decorem vniuersi 
+      <lb ed="#P" n="11"/>multiplicando res. Respondetur negando 
+      conse<lb ed="#P" n="12" break="no"/>quentiam sicut beatus augustinus. vii. de ciuitate 
+      <lb ed="#P" n="13"/>xxx. sic res quas creauit administrat vt eas agere 
+      <lb ed="#P" n="14"/>proprios motus sinat / creauit frumentum primo et 
+      <lb ed="#P" n="15"/>mnia alia originaliter et dedit causis secundis virtutem 
+      <lb ed="#P" n="16"/>similia producere esto quod ipse se solo omnia illa 
+      po<lb ed="#P" n="17" break="no"/>test sicut dicit damascenus de fide orthodoxa cap. 
+      <lb ed="#P" n="18"/>vii. relinquens nobis exemplum vt nos inuicem 
+      iu<lb ed="#P" n="19" break="no"/>uemus / et ille cause secunde nobis omnia illa 
+      admini<lb ed="#P" n="20" break="no"/>strant sufficienter nisi propter nostra peccata inter 
+      <lb ed="#P" n="21"/>dum quia sunt instrumenta dei pluuia ventus / celum 
+      <lb ed="#P" n="22"/>mare et cetera que in eo sunt. Potuit quidem produ 
+      <lb ed="#P" n="23"/>tere omnia alia sicut in principio non obstante fecit 
+      <lb ed="#P" n="24"/>noc capere et ponere multa in archa. potest in 
+      qua<lb ed="#P" n="25" break="no"/>libet specie et angelorum et hominum creare infini 
+      <lb ed="#P" n="26"/>tam multitudinem et quodlibet suppositum perpe 
+      <lb ed="#P" n="27"/>tuare sed bonitati eius non placuit et hoc tibi 
+      suffi<lb ed="#P" n="28" break="no"/>ciat ipse est regula inobligabilis et non sicut regula 
+      <lb ed="#P" n="29"/>lesbia vetilis et negatur quod philosophi propterea 
+      de<lb ed="#P" n="30" break="no"/>bent multiplicare res sine necessitate.
+    </p>
+            <p xml:id="JM7jmZ-d23414-d1e2177">
+      ¶ 
+      Huodeci<lb ed="#P" n="31" break="no"/>mo arguitur: si idem potest poni in diuersis locis 
+      po<lb ed="#P" n="32" break="no"/>namus quod corpus christi fuisset tempore passionis 
+      <lb ed="#P" n="33"/>quo passum est hierosolimis in centum locis aliis 
+      <lb ed="#P" n="34"/>alexandrie rome et parisius et sic de aliis tunc hec 
+      <lb ed="#P" n="35"/>fuisset concedenda christus patitur in mille locis con 
+      <lb ed="#P" n="36"/>sequens est falsum / quia pono quod iudei solum 
+      crucifixis<lb ed="#P" n="37" break="no"/>sent hierosolimis / sed quod sequatur arguitur sic. chri 
+      <lb ed="#P" n="38"/>stus rome patitur / similiter christus alexandrie 
+      pa<lb ed="#P" n="39" break="no"/>titur et eodemmoo de aliis locis quod christus rome 
+      pa<lb ed="#P" n="40" break="no"/>tiatur probo. christus hierosolimis patitur christus 
+      hiero<lb ed="#P" n="41" break="no"/>solimis est christus rome: ergo etc. consequentia est 
+      <lb ed="#P" n="42"/>sillogismus singularisando medium / premisse sunt ve 
+      <lb ed="#P" n="43"/>vt patet: ergo et conclusio eodemmoo argumentabor 
+      <lb ed="#P" n="44"/>de quolibet alio loco. Et confirmatur. angelus non 
+      <lb ed="#P" n="45"/>potest esse in diuersis locis vt arguunt aduersarii: 
+      <lb ed="#P" n="46"/>ergo nec corpus. Respondetur. casus illius 
+      argu<lb ed="#P" n="47" break="no"/>menti eodemmoo currit contra aduersarios negantes 
+      <lb ed="#P" n="48"/>idem circunscriptiue esse in diuersis locis fatentur idem 
+      <lb ed="#P" n="49"/>esse circunscriptiue in celo et diffinitiue in 
+      euchari<lb ed="#P" n="50" break="no"/>stia tunc ponamus quod apostoli seruassent corpus chri 
+      <lb ed="#P" n="51"/>sti consecratum post cenam a christo vsque ad tempus 
+      <lb ed="#P" n="52"/>passionis et vna hostia fuisset rome alia alexandrie 
+      <lb ed="#P" n="53"/>illo casu hec propositiones sunt concedende 
+      chri<lb ed="#P" n="54" break="no"/>stus ratioe patitur hoc arguendo probatum est. Secun 
+      <lb ed="#P" n="55"/>da propositio christus in hoc loco patitur demonstran 
+      <lb ed="#P" n="56"/>do romam. quod patet hic christus hierosolimis patius 
+      <lb ed="#P" n="57"/>hic christus hierosolimis est christus in hoc loco de 
+      <lb ed="#P" n="58"/>monstrando romam: ergo christus in hoc loco 
+      pa<lb ed="#P" n="59" break="no"/>titur. Tertia propositio christus non patitur rome nec in 
+      <!--106.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="60"/>hoc / loco per suam contradictoriam denotatur non 
+      <lb ed="#P" n="61"/>modo quod christus existens in hoc loco patitur verum 
+      <lb ed="#P" n="62"/>etiam quod passio proueniat ab hoc loco vel in hoc loco 
+      <lb ed="#P" n="63"/>primo quod est falsum. Et ex hiis sequitur quarta 
+      <lb ed="#P" n="64"/>propositio quod corpus christi non fuisset passum in mil 
+      <lb ed="#P" n="65"/>le locis. Quinta propositio in quolibet istorum 
+      lo<lb ed="#P" n="66" break="no"/>corum corpus christi patitur demonstrando duode 
+      <lb ed="#P" n="67"/>cim loca sed non patitur in duobus locis. secunda 
+      <lb ed="#P" n="68"/>pars patet ex dictis et prior per ascensum in hoc 
+      lo<lb ed="#P" n="69" break="no"/>co christus patitur et in illo et sic de singulis istorum 
+      <lb ed="#P" n="70"/>et vna est ostensa vera / idem est iudicium de aliis: 
+      <lb ed="#P" n="71"/>ergo quelibet istarum singularium est vera. Vltima 
+      <lb ed="#P" n="72"/>propositio: in duodecim locis corpus christi patitur: 
+      <lb ed="#P" n="73"/>quod patet: hoc corpus christi patitur hoc corpus christi 
+      <lb ed="#P" n="74"/>est corpus christi in duodecim locis: ergo corpus christi in 
+      <lb ed="#P" n="75"/>duodecim locis patitur: imo si ponatur vbique hoc est con 
+      <lb ed="#P" n="76"/>cedenda vbique corpus christi patitur et non patitur 
+      <lb ed="#P" n="77"/>n duobus locis et plurima sunt loca.
+    </p>
+            <p xml:id="JM7jmZ-d23414-d1e2286">
+      ¶ Ad 
+      confir<lb ed="#P" n="78" break="no"/>mationem pono propositiones. Prima est / angelus 
+      <lb ed="#P" n="79"/>potest esse in locis discontinuis sicut continuis: hoc 
+      <lb ed="#P" n="80"/>patet dum modo aggregatum locorum discontinuorum 
+      <lb ed="#P" n="81"/>non excedit suum maximum locum. hec propositio 
+      <lb ed="#P" n="82"/>est contra obam in primo quotlibeto. probatur hec 
+      <lb ed="#P" n="83"/>propositio. nullus locus angelo repugnat non plus aer 
+      <lb ed="#P" n="84"/>quam aqua ferrum quam ignis quare ergo non potest esse in 
+      <lb ed="#P" n="85"/>pluribus locis discontinuis sicut continuis et istuc 
+      <lb ed="#P" n="86"/>ex sua natura. Secunda propositio angelus potest 
+      <lb ed="#P" n="87"/>esse in duobus locis imo infinitis equalibus suo ma 
+      <lb ed="#P" n="88"/>ximo loco possibili de potentia dicitur. patet. sicut de 
+      <lb ed="#P" n="89"/>corpore / interdum voco maximum locum angeli lo 
+      <lb ed="#P" n="90"/>cum naturaliter maximum. est color quod angelus 
+      po<lb ed="#P" n="91" break="no"/>test esse in duobus locis nec continuatis nec 
+      conti<lb ed="#P" n="92" break="no"/>guatis nec consequenter se habentibus sit a angelus 
+      <lb ed="#P" n="93"/>in vna leuca et inqualibet parte eius cum vna 
+      cer<lb ed="#P" n="94" break="no"/>ta latitudine et profunditate et sic illa leuca interca 
+      <lb ed="#P" n="95"/>pedo inter portam sancti iacobi et portam diui 
+      mar<lb ed="#P" n="96" break="no"/>tini vel ad molendinum venti quare a angelus non po 
+      <lb ed="#P" n="97"/>test se retrahere de medio manendo in extremis ita 
+      <lb ed="#P" n="98"/>quod erit vltra citra que pontes et non in ciuitate / sed huic 
+      <lb ed="#P" n="99"/>rationi respondetur in. ii. distin. ii. dicis si idem pum 
+      <lb ed="#P" n="100"/>ctum ponatur in extremis duarum linearum peralellarum 
+      <lb ed="#P" n="101"/>tunc concurrent contra euclidem in principio 
+      ele<lb ed="#P" n="102" break="no"/>mentorum consequentia est nulla intellexit euclides 
+      <lb ed="#P" n="103"/>quando punctum non est in variis sitibus.
+    </p>
+            <p xml:id="JM7jmZ-d23414-d1e2345">
+      ¶ 
+      Ter<lb ed="#P" n="104" break="no"/>tiodecimo arguitur. ex illa positione sequitur quod al 
+      <lb ed="#P" n="105"/>quis esset irregularis contra iuris 
+      determinatio<lb ed="#P" n="106" break="no"/>nem / consequens est inconueniens: igitur: et 
+      pa<lb ed="#P" n="107" break="no"/>tet consequentia. si quis sit dormiens parisius et ro 
+      <lb ed="#P" n="108"/>me vigilans et occidat hominem iam est 
+      irregula<lb ed="#P" n="109" break="no"/>ris: et patet de homicidio voluntario vel casuali in 
+      <lb ed="#P" n="110"/>clementinis. Si furiosus vel infans talis non est 
+      irre<lb ed="#P" n="111" break="no"/>gularis esto quod occidat. Et confirmatur quia dato illo 
+      <lb ed="#P" n="112"/>modo debes dubitare an christus est mortuus / consequens 
+      <lb ed="#P" n="113"/>est hereticum et contra simbolum apostolorum nicenum 
+      <lb ed="#P" n="114"/>et ahtanasi: et quod sequatur patet. dubium est nobis 
+      <lb ed="#P" n="115"/>an iudas vel aliquis apostolorum seruasset corpus christi 
+      <lb ed="#P" n="116"/>datum eis in cena vel consecrassent in triduo quando erant 
+      <lb ed="#P" n="117"/>dispersi quia erat eis preceptum Tuce. xxii. et mathei 
+      <lb ed="#P" n="118"/>xvl. hoc facere in eius commemorationem: ergo est 
+      <!--107.xml-->
+      <pb ed="#P" n="46-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>verisimile in memoriam dominice passionis quod con 
+      <lb ed="#P" n="2"/>secrarunt cum non audebant stare prope crucem christi 
+      <lb ed="#P" n="3"/>timore ad habendam eius penitentiam corporalem et sic 
+      <lb ed="#P" n="4"/>christus non fuisset mortuus quia non sequitur 
+      mor<lb ed="#P" n="5" break="no"/>tuus est hierosolimis: ergo est mortuus imo stat quod 
+      <lb ed="#P" n="6"/>est vnius in pixide vel in corpore petri. Ex illo iter 
+      <lb ed="#P" n="7"/>rum altera via patet assumptum. quia nescitur an cor 
+      <lb ed="#P" n="8"/>pus christi erat sub illis speciebus in parasceue imo 
+      <lb ed="#P" n="9"/>est verosimile: ergo si negamus hanc consequentiam 
+      <lb ed="#P" n="10"/>christus est mortuus hierosolimis ergo mortuus esta 
+      <lb ed="#P" n="11"/>debes dubitare an christus mortuus est vnde fias 
+      <lb ed="#P" n="12"/>argumentum sic. in forma christus erat christus in toto 
+      <lb ed="#P" n="13"/>parasceue ergo christus non mortuus est in parasce 
+      <lb ed="#P" n="14"/>ue antecedens est dubium ergo consequens non est 
+      <lb ed="#P" n="15"/>negandum. Ad tertiumdecimum argumentum an 
+      ho<lb ed="#P" n="16" break="no"/>mines reputant illum irregularem vel non / non est 
+      <lb ed="#P" n="17"/>magna vis sed casus illius decretalis non 
+      ponde<lb ed="#P" n="18" break="no"/>rat an idem sit in diuersis locis. Ad aliud de 
+      confir<lb ed="#P" n="19" break="no"/>matione tangit aliud magis ambiguum multifariam 
+      <lb ed="#P" n="20"/>respondeo. Tum primo / aliqua consequentia est bo 
+      <lb ed="#P" n="21"/>na et antecedens est michi dubium et consequens 
+      <lb ed="#P" n="22"/>negandum. probatur. altera istarum est bona. deus 
+      <lb ed="#P" n="23"/>potest facere infinitum actu ergo deus non est / de 
+      <lb ed="#P" n="24"/>non potest facere infinitum ergo deus non est ante 
+      <lb ed="#P" n="25"/>cedens vnius consequentie est impossibile postquam est 
+      <lb ed="#P" n="26"/>modalis diuisa de nullo extremo restricto / sed hoc 
+      <lb ed="#P" n="27"/>me latet que illarum est bona. Tum secundo nego 
+      <lb ed="#P" n="28"/>quod antecedens est michi dubium apostoli ceperunt 
+      <lb ed="#P" n="29"/>corpus domini in cena et ille species erant alterate 
+      an<lb ed="#P" n="30" break="no"/>te diem veneris hora sexta et sic corpus domini non 
+      <lb ed="#P" n="31"/>erat sub eis et sic antecedens non est michi dubium 
+      <lb ed="#P" n="32"/>cum de fide sit quod christus mortuus est in parasceue 
+      <lb ed="#P" n="33"/>nego quod illo tempore christus fuit christus in quocumque 
+      <lb ed="#P" n="34"/>loco et omne antecedens ad illud nego constat 
+      mi<lb ed="#P" n="35" break="no"/>chi per fidem quod christus non erat christus in triduo. 
+      <lb ed="#P" n="36"/>Tum tertio quando ita fuisset quod corpus domini fuisset 
+      <lb ed="#P" n="37"/>sub illis speciebus deus poterat fecisse quod vbicumque 
+      <lb ed="#P" n="38"/>fuisset mortuum. non tamen sequitur hec consequen 
+      <lb ed="#P" n="39"/>tia est bona christus moritur hierosolimis ergo 
+      chri<lb ed="#P" n="40" break="no"/>stus moritur esto quod consequens est verum. Tum 
+      <lb ed="#P" n="41"/>quarto quia christus passus est mortem hierosolimis su 
+      <lb ed="#P" n="42"/>ficit pro redemptione humani generis et tantum pec 
+      <lb ed="#P" n="43"/>cabant iudei eum occidentes hierosolimis sicut sim 
+      <lb ed="#P" n="44"/>pliciter quemadmodum homo occidens sortem in hoc 
+      <lb ed="#P" n="45"/>loco tantum peccat sicut platonem absolute 
+      occi<lb ed="#P" n="46" break="no"/>dens. Sed dico quod hec est absolute vera christus mor 
+      <lb ed="#P" n="47"/>tuus est argumentum non est maius contra me quam 
+      <lb ed="#P" n="48"/>contra vnum thomistam qui concedit et concedere 
+      <lb ed="#P" n="49"/>habet idem esse in vno loco diffinitiue et in alio 
+      di<lb ed="#P" n="50" break="no"/>scriptiue contra alexandrum et duns non erit quia 
+      com<lb ed="#P" n="51" break="no"/>cedunt hanc consequentiam sortes moritur in hoc 
+      <lb ed="#P" n="52"/>loco ergo moritur et vbicumque est moritur: ego con 
+      <lb ed="#P" n="53"/>cedo hanc sortes moriens in vno loco moritur vt no 
+      <lb ed="#P" n="54"/>maneant vortices dum anima desinit informare cor 
+      <lb ed="#P" n="55"/>pus in hoc loco et corpus manet in hoc loco aliquis 
+      <lb ed="#P" n="56"/>moritur sed conditionales et consequentias nego 
+      <lb ed="#P" n="57"/>alexander de hales habet etiam alium modum de 
+      <lb ed="#P" n="58"/>viuere et mori. questi. xliiii. membro. iii. ipse et 
+      do<lb ed="#P" n="59" break="no"/>ctor subtilis capiunt mori positiue ego priuatiue si¬ 
+      <!--107.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="60"/>cut proprie capi debet altissioderensis lexandrum precedens 
+      <lb ed="#P" n="61"/>questione antepenultima de eucharistia qui hunc 
+      <lb ed="#P" n="62"/>modum tenuit quem alexander et doctor subtilis 
+      se<lb ed="#P" n="63" break="no"/>quuti sunt dicit altissiodererensis. si christus moritur in cruce 
+      mori<lb ed="#P" n="64" break="no"/>tur vbicunque sit probat altissioderensis. si est mortuus in 
+      cru<lb ed="#P" n="65" break="no"/>ce est mortuus et si est mortuus nusquam habet vitam 
+      <lb ed="#P" n="66"/>prima consequentia est nulla. sed altisiodororensis in fine illius 
+      <lb ed="#P" n="67"/>questionis dicit probabile est si nusquam est primo nusquam 
+      <lb ed="#P" n="68"/>esset secundo: ergo volebat dicere. oppositum est 
+      pro<lb ed="#P" n="69" break="no"/>pabile apud me. corpus christi potest esse in hostia 
+      <lb ed="#P" n="70"/>dato quod nusquam sit circunscriptiue / sed petis si christus 
+      <lb ed="#P" n="71"/>fuisset in pixide et hierosolimis patiens quemadmo 
+      <lb ed="#P" n="72"/>dum erat lanceatus a milite de veritate illius vulnus 
+      <lb ed="#P" n="73"/>in latere christi est in hostia. Respondetur non est 
+      <lb ed="#P" n="74"/>omnino certum que res est vulnus vel foramen / vel 
+      vul<lb ed="#P" n="75" break="no"/>nus est homo vulneratus vel pars illa corporis cir 
+      <lb ed="#P" n="76"/>cunstans illam apturam non diuidendo partem secundum 
+      <lb ed="#P" n="77"/>magnam profunditatem vel est inclusum inter 
+      la<lb ed="#P" n="78" break="no"/>tera illius. si detur tertium sequitur si ibidem esset va 
+      <lb ed="#P" n="79"/>cuum ista esset neganda: vulnus est in latere sortis 
+      <lb ed="#P" n="80"/>imo oportet concedere istam copulatiuam sortes ha 
+      <lb ed="#P" n="81"/>buit vulnus et nunc non habet et tamen non est 
+      sa<lb ed="#P" n="82" break="no"/>nus vel integer. Propterea do secundum vulnus vel 
+      pla<lb ed="#P" n="83" break="no"/>ga est terminus connotatiuus supponens pro 
+      par<lb ed="#P" n="84" break="no"/>te alicuius corporis connotando quod latera illius 
+      par<lb ed="#P" n="85" break="no"/>tis distant contra suum naturalem situm boc 
+      addi<lb ed="#P" n="86" break="no"/>derim propter os quod non est vulnus et sic est 
+      in<lb ed="#P" n="87" break="no"/>ferius ad foramen hoc prenotato facile est 
+      respon<lb ed="#P" n="88" break="no"/>dere secundum dicta hoc vulnus corporis christi est in eu 
+      <lb ed="#P" n="89"/>charistia corpus christi in eucharistia est vulneratum 
+      <lb ed="#P" n="90"/>quia hoc corpus christi hierosolimis est vulneratum 
+      <lb ed="#P" n="91"/>et hoc corpus christi hierosolimis est hoc corpus chri 
+      <lb ed="#P" n="92"/>sti in eucharistia ergo sed hoc corpus non est vulne 
+      <lb ed="#P" n="93"/>ratum in eucharistia. Potest esse argumentum ad 
+      <lb ed="#P" n="94"/>probandum quod idem potest generare se contra bea 
+      <lb ed="#P" n="95"/>tum <ref xml:id="JM7jmZ-d23414-Rd1e2596">
+                  <name xml:id="JM7jmZ-d23414-Nd1e2598" ref="#Augustine">augustinum</name>. i de trinitate cap. i.</ref> si tota 
+      mate<lb ed="#P" n="96" break="no"/>ria ex qua generabatur caym poneretur in caym apta 
+      <lb ed="#P" n="97"/>generationi caym generasset se. Huic 
+      argumen<lb ed="#P" n="98" break="no"/>to aliqui respondent inscite vt quidem boquiquam quod 
+      re<lb ed="#P" n="99" break="no"/>latiua oppositio impedit ne pater sit filius in illo ca 
+      <lb ed="#P" n="100"/>su breuiter nego quod caym generat se generatio est pro 
+      <lb ed="#P" n="101"/>gressio de non esse ad esse modo caym prius fuit et sic 
+      <lb ed="#P" n="102"/>non generat se.
+    </p>
+            <p xml:id="JM7jmZ-d23414-d1e2618">
+      ¶ Vltimo arguitur ex toto isto pro¬ et 
+      <lb ed="#P" n="103"/>cessu sequitur quod alii negantes idem posse esse in duo  
+      <lb ed="#P" n="104"/>bus locis de potentia dei absoluta essent heretici con 
+      <lb ed="#P" n="105"/>sequens est inconueniens ergo et antecedens: decla 
+      <lb ed="#P" n="106"/>ratur consequentia bene sequitur corpus christi 
+      po<lb ed="#P" n="107" break="no"/>test esse in duobus locis diffinitiue et sacramentali 
+      <lb ed="#P" n="108"/>ter ergo in duobus locis circunscriptiue consequen 
+      <lb ed="#P" n="109"/>tia patet: omne apparens absonum ad consequens in 
+      <lb ed="#P" n="110"/>uoluitur in antecedente et denique aliud miraculum de 
+      <lb ed="#P" n="111"/>mori et viuere dannari intelligit non intelligit 
+      inclu<lb ed="#P" n="112" break="no"/>duntur in casu quo idem esiet in duobus locis 
+      sa<lb ed="#P" n="113" break="no"/>cramentaliter sicut deus potest facere de corpore 
+      <lb ed="#P" n="114"/>sortis viatorum: et vltra hec consequentia est bona et 
+      <lb ed="#P" n="115"/>antecedens est de fide ergo consequens non est tibi 
+      <lb ed="#P" n="116"/>dubium non intuli consequens esse de fide cum scitum 
+      <lb ed="#P" n="117"/>potest sequi de fide vel intellectum. Respondeo: 
+      di<lb ed="#P" n="118" break="no"/>co absit vocemus alios hereticos stat virum admit¬ 
+      <!--108.xml-->
+      <pb ed="#P" n="47-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>tere heresim et non esse hereticum quando non est per 
+      <lb ed="#P" n="2"/>tinacia rursus negabunt tibi esse heresim cum discur 
+      <lb ed="#P" n="3"/>sus non est euidens negabunt consequentiam acci 
+      <lb ed="#P" n="4"/>pito analogiam de hac consequentia deus potest fa 
+      <lb ed="#P" n="5"/>cere finitum magnitudine ergo potest facere infin 
+      <lb ed="#P" n="6"/>tum sed multo maior est apparentia in priore 
+      conse<lb ed="#P" n="7" break="no"/>quentia et discursus mea opinione colorem habens 
+      <lb ed="#P" n="8"/>solutionem radicalem relinquo aduersariis. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

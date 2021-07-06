@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 22</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 22</title>
+               <date when="2021-07-06">July 06, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-M4Saaa">Paris 1509</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-06" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="-r"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="JM7jmZ-d56019"><!-- l4d15q22 -->
+            <head xml:id="JM7jmZ-d56019-Hd1e108">Quaestio 22</head>
+            <head xml:id="JM7jmZ-d56019-Hd1e111" type="question-title">
+      An tenens columbaria
+      tenetur ad restitutionem
+      damni illati a columbis eius
+    </head>
+            <p xml:id="JM7jmZ-d56019-d1e114">
+               <lb ed="#P" n="6"/>¶ Distin. decime quinte quaestio vigesima secunda. 
+      <lb ed="#P" n="7"/> Igesimo secundo queritur an tenens colum 
+      <lb ed="#P" n="8"/>baria tenetur ad restitutionem danni illati a 
+      <lb ed="#P" n="9"/>Iacolumbis eius. Pro solutione respondetur 
+      <lb ed="#P" n="10"/>vel quis tenet columbarium in propriis agris sic scilicet quod 
+      <lb ed="#P" n="11"/>columbi non volant extra territorium proprium quandiu 
+      <lb ed="#P" n="12"/>sunt eius vel sortes et plato habent terras vicinas et 
+      <lb ed="#P" n="13"/>columbaria sic scilicet quod columbi vnius transiunt in agros 
+      <lb ed="#P" n="14"/>alterius et econuerso ita quod sit recompensatio danni 
+      <lb ed="#P" n="15"/>et lucri et de istis non querimus: sed loqui proponimus 
+      <lb ed="#P" n="16"/>de columbariis omnibus quorum columbi pascuntur 
+      <lb ed="#P" n="17"/>non nunquam in terra vicina partialiter interdum totaliter 
+      <lb ed="#P" n="18"/>et pono conclusiones quaestioni responsiuas.
+    </p>
+            <p xml:id="JM7jmZ-d56019-d1e145">
+      ¶ Non 
+      <lb ed="#P" n="19"/>sufficit ad excusandum tenentem columbarium dicere 
+      <lb ed="#P" n="20"/>quod tenet columbos pro patria vel pro venditione hoc 
+      <lb ed="#P" n="21"/>patet. idem potest dicere de bobus et ouibus et sic 
+      ha<lb ed="#P" n="22" break="no"/>bens plurimas oues in cocis valdis non teneretur ad 
+      <lb ed="#P" n="23"/>restitutionem danni illati ab ouibus quod non est dicendum 
+      </p>
+            <p xml:id="JM7jmZ-d56019-d1e158">
+               <lb ed="#P" n="24"/>¶ Secunda conclusio non sufficit dicere quod 
+      colum<lb ed="#P" n="25" break="no"/>bi tantum prosunt quantum nocent terram stercorizan 
+      <lb ed="#P" n="26"/>do et impinguando vel quod vescantur enizaniis et colligunt 
+      <lb ed="#P" n="27"/>nociuas herbas quas diligunt aliqua est terra 
+      vbe<lb ed="#P" n="28" break="no"/>re glebe et si plus impinguetur deteriorabitur cum ib 
+      <lb ed="#P" n="29"/>est defectus potest esse excessus: etiam non apparet 
+      <lb ed="#P" n="30"/>quod eorum impinguatio tantum prosit quantum noceat noci 
+      <lb ed="#P" n="31"/>ue herbe tolluntur per famulos ad hoc deputatos 
+      <lb ed="#P" n="32"/>bona grana reperiuntur in eorum gutteribus cum 
+      pau<lb ed="#P" n="33" break="no"/>cis malis sed non sunt facile dannandi passim tenen 
+      <lb ed="#P" n="34"/>tes columbaria.
+    </p>
+            <p xml:id="JM7jmZ-d56019-d1e185">
+      ¶ Propterea sit tertia conclusio 
+      tenen<lb ed="#P" n="35" break="no"/>tes columbaria excusantur per omnes istas causas 
+      <lb ed="#P" n="36"/>agminatim prouidetur prudenter paterie per animalis 
+      <lb ed="#P" n="37"/>quorum fera est natura vt carnes domesticorum anima 
+      <lb ed="#P" n="38"/>lium habeantur meliore foro per impiguationem terre 
+      <lb ed="#P" n="39"/>et consensum interpratatiuum qui tenet columbarium est 
+      <lb ed="#P" n="40"/>paratus sic alere columbos vicinorum et cum hoc vt 
+      <lb ed="#P" n="41"/>cini tacent: ergo consentire presumuntur et interdum 
+      <lb ed="#P" n="42"/>capiunt columbos vel interdum eis dantur non est 
+      si<lb ed="#P" n="43" break="no"/>mile omnino de eis sicut de ouibus et bobus quor 
+      <lb ed="#P" n="44"/>mansueta est natura columbi naturaliter sunt feri li 
+      <lb ed="#P" n="45"/>cet per accidens domesticantur nec refert de eorum 
+      <lb ed="#P" n="46"/>reditu vt dicitur. f. de acquere. do. et institu. de rerum 
+      <lb ed="#P" n="47"/>diui. sic faciunt apes et cerui. quo fit male agunt tenen 
+      <lb ed="#P" n="48"/>tes columbos nutritos in agris aliorum aliis 
+      con<lb ed="#P" n="49" break="no"/>querentibus: iam patet non consentiunt nec licet cul 
+      <lb ed="#P" n="50"/>libet hos columbos capere fere bestie que in nullius 
+      <lb ed="#P" n="51"/>potestate sunt occupanti conceduntur tunc sunt in 
+      <lb ed="#P" n="52"/>potestate alicuius quandiu animum reuertendi habent 
+      <lb ed="#P" n="53"/>naturalem libertatem acquirunt. dicit imperator cum 
+      <lb ed="#P" n="54"/>oculos tuos effugerint vel difficilis sit eorum 
+      prose<lb ed="#P" n="55" break="no"/>quutio quare male agit ponens in loco columbis 
+      de<lb ed="#P" n="56" break="no"/>putato pisa melle intincta vt capiant columbos alte 
+      <lb ed="#P" n="57"/>rius. secus est pro capiendis eis qui a nullo nec a 
+      <!--217.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="58"/>multitudine pascuntur.
+    </p>
+            <p xml:id="JM7jmZ-d56019-d1e244">
+      ¶ Hubitatur quae rest itutio de 
+      <lb ed="#P" n="59"/>bet esse de inuentis. Respondetur quando non sunt pro 
+      <lb ed="#P" n="60"/>derelictis (quod est rarissimum) illa tenens est fur. patet 
+      <lb ed="#P" n="61"/>tenet alienum clanculum inuito domino et licet principium 
+      <lb ed="#P" n="62"/>sit honestius quam principium furti: detentio est ita tur 
+      <lb ed="#P" n="63"/>pis sicut detentio furti quo fit illud quod est proiectum 
+      <lb ed="#P" n="64"/>extra nauim causa leuande eius non sit occupantis sed 
+      <lb ed="#P" n="65"/>remanet ipsius proiicientis vel ipsorum et istud etiam 
+      <lb ed="#P" n="66"/>patet c icr. ad legem rodi. de iac. l. qui leuande nauis 
+      di<lb ed="#P" n="67" break="no"/>xi vel ipsorum propter legem primam eiusdem rubrice 
+      <lb ed="#P" n="68"/>vbi dicitur lege rodia cauetur vt si leuande nauis 
+      gra<lb ed="#P" n="69" break="no"/>tia iactus mertium omnium factus est omni contributione 
+      <lb ed="#P" n="70"/>sartiatur quod pro omnibus datum est. istud etiam patet. istit. 
+      <lb ed="#P" n="71"/>de rerum diui. §. alia sine causa. Ex isto patet quod res 
+      <lb ed="#P" n="72"/>naufragorum sunt eis restituende tenetur ibi 
+      expissis<lb ed="#P" n="73" break="no"/>sime alienum cum humane debent eis succurrere 
+      <lb ed="#P" n="74"/>quia afflicto non est danda afflictio aliqui 
+      inhumanissi<lb ed="#P" n="75" break="no"/>me eorum res ante eorum ora rapiunt et rapta conser 
+      <lb ed="#P" n="76"/>uant nostri britanni multum hic aberrant in vtroque rei 
+      <lb ed="#P" n="77"/>gno non est lex quod nauis fracta in prope solum talis domini 
+      <lb ed="#P" n="78"/>efficiatur eius vel aliqua portio bonorum in illa naui 
+      <lb ed="#P" n="79"/>sed est error pestiferus et intelligo de fidelibus mer 
+      <lb ed="#P" n="80"/>catoribus si pirate fuerint teneantur bona et restituam 
+      <lb ed="#P" n="81"/>tur veris dominis si reperiantur alioquin oportet dare 
+      <lb ed="#P" n="82"/>pauperibus pro talibus. istud patet. ff. de inten. rui. 
+      <lb ed="#P" n="83"/>et nau. l. si quis. ex naufragio missilia habentur pro de 
+      <lb ed="#P" n="84"/>relicto fiunt occupantis. Institu. de re. diui. §. hoc am 
+      <lb ed="#P" n="85"/>plius quare non licet surripere a primo occupante. 
+      the<lb ed="#P" n="86" break="no"/>saurus repertus insolo proprio sacro vel religioso 
+      <lb ed="#P" n="87"/>fit occupantis in alieno non data ad hoc opera fit in 
+      <lb ed="#P" n="88"/>uenienti potius reperienti vna medietas altera domini 
+      <lb ed="#P" n="89"/>soli insula nata in mari sit primo occupanti in fluine 
+      <lb ed="#P" n="90"/>eorum qui habent praedia vicina pro modo 
+      latitudi<lb ed="#P" n="91" break="no"/>nis fundi si est in medio alioquin est illius cuius 
+      prae<lb ed="#P" n="92" break="no"/>dio est vicinior Insti. de re. diui. §. insula. et hoc 
+      re<lb ed="#P" n="93" break="no"/>ges hispaniarum de insulis in nostro euo in mari ath 
+      <lb ed="#P" n="94"/>lantico practicarunt multa alia tangi possunt quae 
+      tan<lb ed="#P" n="95" break="no"/>guntur. f. de acquirem. re. domi. Institut. de re. diui. 
+      <lb ed="#P" n="96"/>que missa facio. at petis si quis ceperit pecuniam mu 
+      <lb ed="#P" n="97"/>tuo nolens restituere quomodo peccat. Respondeo 
+      <lb ed="#P" n="98"/>licet cepit quo ad honestum principium ab initio tamen 
+      <lb ed="#P" n="99"/>peccat more raptoris in detinendo postquam alius 
+      in<lb ed="#P" n="100" break="no"/>stanter petit et iuste et non minus peccat in retinen 
+      <lb ed="#P" n="101"/>do quam raptor. et sicut raptor tenetur restituere alienum 
+      <lb ed="#P" n="102"/>raptum sic iste tenetur sub pena peccati restituere 
+      <lb ed="#P" n="103"/>mutuum cum petitur iuste hoc dixerim si peterit an 
+      <lb ed="#P" n="104"/>terminum conuentionis vel est pressus inopia quod restituere 
+      <lb ed="#P" n="105"/>nequit non peccat. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

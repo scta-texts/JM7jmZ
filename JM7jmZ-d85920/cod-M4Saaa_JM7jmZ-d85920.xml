@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 1</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 1</title>
+               <date when="2021-07-06">July 06, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-M4Saaa">Paris 1509</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-06" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="155-r"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="JM7jmZ-d85920"><!-- l4d30q1 -->
+            <head xml:id="JM7jmZ-d85920-Hd1e108">Quaestio 1</head>
+            <head xml:id="JM7jmZ-d85920-Hd1e111" type="question-title">
+      An error impediat matrimonium
+    </head>
+            <p xml:id="JM7jmZ-d85920-d1e114">
+               <lb ed="#P" n="66"/>¶ Distinctionis trigesime questio prima. 
+      <lb ed="#P" n="67"/>PRimo quero circa trigesimam 
+      distinctio<lb ed="#P" n="68" break="no"/>qua oinem aliqua que querit magister in littera 
+      <lb ed="#P" n="69"/>vel que ad illius elucidationem conducant.
+      <lb ed="#P" n="70"/>Quero an error impediat matrimonium
+    </p>
+            <p xml:id="JM7jmZ-d85920-d1e127">
+               <lb ed="#P" n="71"/>supponatur. error est assensus falsus sine formidine 
+      <lb ed="#P" n="72"/>vel dissensus veri non sit nobis cure impraesentarum siue et 
+      <lb ed="#P" n="73"/>ror dicatur falsus intrinsece vel obiectiue errare est 
+      <lb ed="#P" n="74"/>verum pro falso putare vel econuerso. xxii. q. ii. in 
+      qui<lb ed="#P" n="75" break="no"/>bus quadruplex est error vt dicit gratianus. xxix. q. i. 
+      <lb ed="#P" n="76"/>quod autem et magister in litera quidem est error persone vt 
+      <lb ed="#P" n="77"/>quando putatur virgilius est tamen plato nec hic 
+      <lb ed="#P" n="78"/>error circa nominationem contingit sed potius circa rem 
+      <lb ed="#P" n="79"/>sub tali nomine significatam. secundus est error conditio 
+      <lb ed="#P" n="80"/>nis vt quando aliquis putatur esse liber est tamen seruus 
+      er<lb ed="#P" n="81" break="no"/>ror qualitatis quando putatur pulcra / casta vel bo 
+      <lb ed="#P" n="82"/>na ipa tamen est feda impudica vel mala. Alius est error 
+      <lb ed="#P" n="83"/>fortune quando putatur diues est tamen pauper vel econuerso 
+      </p>
+            <p xml:id="JM7jmZ-d85920-d1e158">
+               <lb ed="#P" n="84"/>¶ Diis primissis pono duas conclusiones.
+    </p>
+            <p xml:id="JM7jmZ-d85920-d1e164">
+      ¶ Prior 
+      <lb ed="#P" n="85"/>error conditionis et persone impediunt matrimonium 
+      </p>
+            <p xml:id="JM7jmZ-d85920-d1e169">
+               <lb ed="#P" n="86"/>¶ Secunda conclusio alii duo errores non impediunt. 
+      <lb ed="#P" n="87"/>Prior conclusio probatur quicquid impedit causam 
+      <lb ed="#P" n="88"/>alicuius effectus illum effectum impedit et hoc quando 
+      <lb ed="#P" n="89"/>talis effectus non potest produci nisi ab illa causa: sed 
+      <lb ed="#P" n="90"/>sic est quod error impedit noticiam sine qua non habetur 
+      <lb ed="#P" n="91"/>consensus. v. de trinitate inuisa diligere possumus inco 
+      <lb ed="#P" n="92"/>gnita vero nequaquam. consensus est actus voluntatis qui 
+      <lb ed="#P" n="93"/>ab actu intellectus puta scientia producitur vel eam 
+      pre<lb ed="#P" n="94" break="no"/>supponit non capio scire posterioristice in nullum consen 
+      <lb ed="#P" n="95"/>timus vel amamus quem nullatenus cognoscimus dixi in 
+      <lb ed="#P" n="96"/>probatione quando ille effectus non potest produci nisi ab 
+      <lb ed="#P" n="97"/>illa causa qui impedit ignem a productione caloris non 
+      <lb ed="#P" n="98"/>impedit caloris productionem cum ille a radio solis in 
+      <lb ed="#P" n="99"/>speculo concauo vel alibi produci potest. dicis calor 
+      <lb ed="#P" n="100"/>producibilis ab vna istarum causarum non potest produci 
+      <lb ed="#P" n="101"/>ab alia non est alius in specie propterea hoc non impe 
+      <lb ed="#P" n="102"/>dit quia illud sufficeret de idemptitate specifica. 
+      pro<lb ed="#P" n="103" break="no"/>pterea dicitur qui errat non consentit. l. si per errorem 
+      <lb ed="#P" n="104"/>fif. de iurisdi. oui. num. idem patet cap. de iur. et facti 
+      <lb ed="#P" n="105"/>ignorantia. l. cum testamentum errantis voluntas 
+      nul<lb ed="#P" n="106" break="no"/>la sit. idem patet de seruitute qui credit aliquam liberam 
+      <lb ed="#P" n="107"/>et in eam consentit cum ipsa est ancilla proprie non 
+      consen<lb ed="#P" n="108" break="no"/>tit. et dato quod in hanc demonstrando ancillam consentiat 
+      <lb ed="#P" n="109"/>hoc non sufficit propter ecclesie illegittimationem et 
+      <lb ed="#P" n="110"/>errorem praeuium cum iugo intollerabili partus insequitur 
+      <lb ed="#P" n="111"/>ventrem oportebit habere sobolem seruituti misere sub 
+      <lb ed="#P" n="112"/>iectam nec ipsa potest reddere debitum ad nutum 
+      peten<lb ed="#P" n="113" break="no"/>tis rationabiliter et quod acquirit est domini: igitur: hoc 
+      <lb ed="#P" n="114"/>patet de coniugio seruorum. c. proposuit. Secunda 
+      <lb ed="#P" n="115"/>conclusio patet remanentibus essentialibus alicuius 
+      <lb ed="#P" n="116"/>contractus quantumcumque variantur accidentalia manet 
+      <!--325.xml-->
+      <pb ed="#P" n="155-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>contractus ille accidentia non variant essentiam rei: sed 
+      <lb ed="#P" n="2"/>presupponuntur mas et femina abiles per modum 
+      ma<lb ed="#P" n="3" break="no"/>terie consensus explicatus per verba obtinent 
+      simi<lb ed="#P" n="4" break="no"/>litudinem forme modo seclusa materia vel forma se 
+      <lb ed="#P" n="5"/>cluditur compositum integrum et eis positis omnibus aliis 
+      <lb ed="#P" n="6"/>seclusis ponitur compositum modo in duobus secundis 
+      <lb ed="#P" n="7"/>erroribus ponuntur mas et femina et consensus diuitio 
+      <lb ed="#P" n="8"/>et bonitas accidunt matrimonio quia si oportet habe 
+      <lb ed="#P" n="9"/>re illa numquam esset stabilimentum in matrimonio protinus 
+      <lb ed="#P" n="10"/>diceret maritus commotus arbitrabar hanc humilem qua 
+      <lb ed="#P" n="11"/>more leonino superba est nostrates deuerbio loque 
+      <lb ed="#P" n="12"/>tes puellis vtuntur sis humilis an matrimonium 
+      po<lb ed="#P" n="13" break="no"/>stea erige cornua quod crebro in praxim deducunt de di 
+      <lb ed="#P" n="14"/>uitiis minus esset stabilimenti si quis contrahit cum con 
+      <lb ed="#P" n="15"/>ditione expressa de diuitiis vel huiusmodi alias non inten 
+      <lb ed="#P" n="16"/>dens contrahere non contrahit nec est matrimonium 
+      <lb ed="#P" n="17"/>presumptum ab ecclesia sed si non consentiat mentaliter 
+      <lb ed="#P" n="18"/>si non sint diuitie et hoc non expresse ponat non est 
+      con<lb ed="#P" n="19" break="no"/>sensus matrimonialis presumitur tamen matrimonium ab 
+      <lb ed="#P" n="20"/>ecclessia et cogetur de nouo consentire illam 
+      capien<lb ed="#P" n="21" break="no"/>do subnectuntur aliqua dicta pro explicatione 
+      ma<lb ed="#P" n="22" break="no"/>terie: quorum aliqua sequuntur correlarie aliqua vix infe 
+      <lb ed="#P" n="23"/>runtur.
+    </p>
+            <p xml:id="JM7jmZ-d85920-d1e295">
+      ¶ Primum dictum contrahens cum muliere quo 
+      <lb ed="#P" n="24"/>est genita ex libero et ancilla vbi est consuetudo paterie 
+      <lb ed="#P" n="25"/>quod partus sequitur conditionem patris vere contrahit. patet 
+      <lb ed="#P" n="26"/>talis est libera et hoc etiam patet de coniug. seruo. c. li 
+      <lb ed="#P" n="27"/>cet. non capimus seruitutem sicut in gallia vel britannia 
+      <lb ed="#P" n="28"/>sed vocamus illum seruum qui a domino possidetur more 
+      <lb ed="#P" n="29"/>pecudis et quicquid lucratur domino attinet.
+    </p>
+            <p xml:id="JM7jmZ-d85920-d1e311">
+      ¶ Secundo 
+      <lb ed="#P" n="30"/>sequitur si sortes contrahit cum berta nesciens 
+      conditio<lb ed="#P" n="31" break="no"/>nem eius et ipa est ancilla non manet matrimonium si 
+      <lb ed="#P" n="32"/>recedat cum primum ei constiterit.
+    </p>
+            <p xml:id="JM7jmZ-d85920-d1e320">
+      ¶ Tertio sequitur si 
+      <lb ed="#P" n="33"/>sortes contrahit cum berta ancilla et dominus berte dederit 
+      <lb ed="#P" n="34"/>facultatem ancille non est necesse quod sortes eam capiat 
+      li<lb ed="#P" n="35" break="no"/>cet ante in eam consentiebat et ipsa nunc consentiat non 
+      <lb ed="#P" n="36"/>est consensus mutuus sufficiens sicut inter ammodo et tha 
+      <lb ed="#P" n="37"/>mar.
+    </p>
+            <p xml:id="JM7jmZ-d85920-d1e333">
+      ¶ Quarto sequitur quod si sortes credit contrahe 
+      <lb ed="#P" n="38"/>re cum ancilla et ipsa est libera manet matrimonium 
+      <lb ed="#P" n="39"/>patet. error conditionis melioris non impedit qui consen 
+      <lb ed="#P" n="40"/>tit cum berta que est ancilla consentit in eam cum 
+      liber<lb ed="#P" n="41" break="no"/>tate.
+    </p>
+            <p xml:id="JM7jmZ-d85920-d1e345">
+      ¶ Quinto sequitur seruitutis conditio non ille 
+      <lb ed="#P" n="42"/>gittimatur simpliciter hoc est si alter consentiat. patet 
+      <lb ed="#P" n="43"/>cum quis contrahit cum ancilla ignoranter vel ex igno 
+      <lb ed="#P" n="44"/>rantia postea tamen consentiens in eam dum hoc sciuerii 
+      <lb ed="#P" n="45"/>est vere maritus illius mulieris: et hoc si mulier tunc 
+      <lb ed="#P" n="46"/>consentiat. secus est si mulier tunc dissentiat.
+    </p>
+            <p xml:id="JM7jmZ-d85920-d1e358">
+      ¶ Sex 
+      <lb ed="#P" n="47"/>to sequitur cum ancilla quis scienter contrahit et non 
+      <lb ed="#P" n="48"/>manet matrimonium. patet. credat titius tibergam 
+      libe<lb ed="#P" n="49" break="no"/>ram que de facto est ancilla consentiat in eam tunc sic cum 
+      <lb ed="#P" n="50"/>hac tiberga titius scienter contrahit hec tiberga est 
+      <lb ed="#P" n="51"/>ancilla ergo cum ancilla scienter contrahit et tamen 
+      matri<lb ed="#P" n="52" break="no"/>monium non tenet: sed is non contrahit scienter cum 
+      an<lb ed="#P" n="53" break="no"/>cilla sicut in simili regem scio esse prope me et non scio 
+      <lb ed="#P" n="54"/>regem esse in hac pateria capio hic contrahere vt tantum 
+      <lb ed="#P" n="55"/>valet sicut nititur contrahere vt vides non luctemur 
+      <lb ed="#P" n="56"/>semper de vertute sermonis.
+    </p>
+            <p xml:id="JM7jmZ-d85920-d1e382">
+      ¶ Septimo patet quod si ancil 
+      <lb ed="#P" n="57"/>la et seruus contrahunt inuitis dominis non possunt impediri a 
+      <lb ed="#P" n="58"/>sacramentis ecclesie. hoc patet de coniuge seruo. c. 
+      pri<lb ed="#P" n="59" break="no"/>mo nec propterea separantur a seruicio domini. patet 
+      <!--325.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="60"/>in eodem cap. At ponis quod vxor petat debitum et dominus 
+      <lb ed="#P" n="61"/>seruitium simul cui obtemperandum est.
+    </p>
+            <p xml:id="JM7jmZ-d85920-d1e400">
+      ¶ Responde 
+      <lb ed="#P" n="62"/>tur oportet considerare qualitatem negotii ad quod 
+      <lb ed="#P" n="63"/>vocantur. Forte aliquis venit ad occidendum dominum 
+      <lb ed="#P" n="64"/>tunc deferenda est reddicio debiti sin autem reddendum 
+      <lb ed="#P" n="65"/>est. Si ponis dominum vendere seruum vel facere eum ire 
+      <lb ed="#P" n="66"/>orientem et alius dominus ancillam vendit in occidentem. dici 
+      <lb ed="#P" n="67"/>tur cogentur ad oppositum ne sit fraus matrimonio 
+      <lb ed="#P" n="68"/>vendendo vel aliter disponendo ad hoc est argumentum 
+      <lb ed="#P" n="69"/>iiii. d. cap. fraternitatem. interest rei publice ne quis 
+      <lb ed="#P" n="70"/>male sua re vtatur. institut. de hiis qui sui vel alie. iu 
+      <lb ed="#P" n="71"/>ris sunt.
+    </p>
+            <p xml:id="JM7jmZ-d85920-d1e424">
+      ¶ Contra illud argumentor: iacob non conser 
+      <lb ed="#P" n="72"/>sit in liam sed in rachelem et tamen erat matrimonium. patet 
+      <lb ed="#P" n="73"/>gen. xxix. Insuper aliquis benedicit illum quem non inten 
+      <lb ed="#P" n="74"/>dit benedicere. patet de isaac benedicente iacob. gen. xxvii. 
+      <lb ed="#P" n="75"/>Ad primum dicitur quod iacob in crastino consensit in lia et 
+      <lb ed="#P" n="76"/>sic erat matrimonium et si eam illa nocte cognouerit 
+      <lb ed="#P" n="77"/>erat ei ignorantia inuincibilis non insisto excusare 
+      la<lb ed="#P" n="78" break="no"/>bam et liam. Ad secundum dico quod iacob intendebat 
+      benedice<lb ed="#P" n="79" break="no"/>re isaac. patet. hunc intendebat benedicere demonstran 
+      <lb ed="#P" n="80"/>do illum qui erat coram illo hic est iacob: igitur. Insuper 
+      <lb ed="#P" n="81"/>spiritus sanctus benedicit principaliter. inuocate nomen 
+      <lb ed="#P" n="82"/>meum super filios israel et ego benedicam eos et per hoc 
+      <lb ed="#P" n="83"/>soluitur argumentum de baptismo qui credit baptisa 
+      <lb ed="#P" n="84"/>re sortem sed intendit hoc baptisare demonstrando pla 
+      <lb ed="#P" n="85"/>tonem. ve eum baptisat hoc ex opere operato prouenit. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 3</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 3</title>
+               <date when="2021-07-06">July 06, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-M4Saaa">Paris 1509</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-06" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="193-v"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="JM7jmZ-e07627"><!-- l4d43q3 -->
+            <head xml:id="JM7jmZ-e07627-Hd1e108">Quaestio 3</head>
+            <head xml:id="JM7jmZ-e07627-Hd1e111" type="question-title">
+      An resurrectio
+      mortuorum generalis
+      sit futura et de modo resurgendi
+    </head>
+            <p xml:id="JM7jmZ-e07627-d1e114">
+               <lb ed="#P" n="104"/>¶ Distinctionis quadragesime tertie questio tertia. 
+      <lb ed="#P" n="105"/>QVeritur tertio circa hanc distinctionem an 
+      <lb ed="#P" n="106"/>resurrectio mortuorum generalis sit 
+      futu<lb ed="#P" n="107" break="no"/>ra et de modo resurgendi.
+    </p>
+            <p xml:id="JM7jmZ-e07627-d1e125">
+      ¶ Pro 
+      solutio<lb ed="#P" n="108" break="no"/>ne questionis pono conclusiones.
+    </p>
+            <p xml:id="JM7jmZ-e07627-d1e130">
+      ¶ Prima est: 
+      <lb ed="#P" n="109"/>quemadmodum christus primitie dormientium re 
+      <lb ed="#P" n="110"/>surrexit: ita quilibet alius resurget: huius prime 
+      <!--402.xml-->
+      <pb ed="#P" n="194-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>conclusionis: prior pars patet prime ad corinthios 
+      <lb ed="#P" n="2"/>quinto: nunc autem resurrexit christus primitie dor 
+      <lb ed="#P" n="3"/>mientium: secunda pars patet per symbolum 
+      a<lb ed="#P" n="4" break="no"/>postolorum nicenum et athanasi et in capite alle 
+      <lb ed="#P" n="5"/>gato si autem resurrectio mortuorum non est neque 
+      <lb ed="#P" n="6"/>christus resurrexit probat consequentiam ex oppo 
+      <lb ed="#P" n="7"/>sito consequentis ad oppositum antecedentis si in 
+      <lb ed="#P" n="8"/>hac vita essemus tantum sperantes miserabiliores 
+      <lb ed="#P" n="9"/>essemus omnibus hominibus hec conclusio nulli fi 
+      <lb ed="#P" n="10"/>deli est anceps in lumine naturali ponebatur a mul 
+      <lb ed="#P" n="11"/>tis theobrottus de hac resurrectione non dubitauit 
+      <lb ed="#P" n="12"/>idem tenuerunt cleantes crisippus eeno 
+      empedo<lb ed="#P" n="13" break="no"/>cles et cato vt refert lactantius tertio institutionum 
+      <lb ed="#P" n="14"/>capite decimo octauo. Rursus addamus suasione 
+      <lb ed="#P" n="15"/>naturaliter loquendo non est malum assentire 
+      re<lb ed="#P" n="16" break="no"/>surrectionem mortuorum esse et si sic assentiatur § 
+      <lb ed="#P" n="17"/>pterea taliter assentiens non punietur siue fuerit re 
+      <lb ed="#P" n="18"/>surrectio siue non fuerit si non assentiatur vel 
+      con<lb ed="#P" n="19" break="no"/>trarie dissentiatur ad vnum extremum sequitur pu 
+      <lb ed="#P" n="20"/>nitio ergo prudens in lumine naturali assentit nolu 
+      <lb ed="#P" n="21"/>mus dicere intellectum propterea posse assentire 
+      a<lb ed="#P" n="22" break="no"/>licui complexo ineuidenti siue motiuo.
+    </p>
+            <p xml:id="JM7jmZ-e07627-d1e192">
+      ¶ 
+      Secun<lb ed="#P" n="23" break="no"/>da conclusio licet non quilibet homo in tota quanti 
+      <lb ed="#P" n="24"/>tate quam habebit resurget quilibet tamen in 
+      eta<lb ed="#P" n="25" break="no"/>te perfecta resurget. prior pars huius patet da 
+      opi<lb ed="#P" n="26" break="no"/>positum quilibet resurget in tota quantitate quam 
+      <lb ed="#P" n="27"/>posterius habebit sed magnus diu viuens habebis 
+      <lb ed="#P" n="28"/>multas partes resolutas et alias loco earum succe 
+      <lb ed="#P" n="29"/>dentes: ergo talis erit immense magnitudinis si re 
+      <lb ed="#P" n="30"/>surgat cum tota quantitate quam habebit. 
+      Secun<lb ed="#P" n="31" break="no"/>da pars patet per apostolum ad epheseos quarto 
+      <lb ed="#P" n="32"/>donec occurramus omnes in vnitatem fidei et agni 
+      <lb ed="#P" n="33"/>tionis filii dei in virum perfectum in mensuram eta 
+      <lb ed="#P" n="34"/>tis plenitudinis christi vt iam non simus paruuli flu 
+      <lb ed="#P" n="35"/>ctuantes glosa illud exponens dicit vnusquisque rei 
+      <lb ed="#P" n="36"/>surget in etate qua christus resurrexit tunc putatur 
+      <lb ed="#P" n="37"/>status hominis sicut dicit <ref xml:id="JM7jmZ-e07627-Rd1e226">
+                  <name xml:id="JM7jmZ-e07627-Nd1e228" ref="#Augustine">beatus augustinus</name> vices 
+      <lb ed="#P" n="38" break="no"/>mo secundo de ciuitate dei capitulo decimo sexte</ref> 
+               <lb ed="#P" n="39"/>et licet aliqui moriantur paruuli resurgent in illa eta 
+      <lb ed="#P" n="40"/>te hoc est in mensura respondente illi etati sine vi 
+      <lb ed="#P" n="41"/>tio nature boc additur propter nauos et orbatos 
+      <lb ed="#P" n="42"/>membris sicut adam erat creatus in etate adulta li 
+      <lb ed="#P" n="43"/>est in quantitate debita etati adulte non oportet om 
+      <lb ed="#P" n="44"/>nes resurgere in equali quantitate sed secundum bo 
+      <lb ed="#P" n="45"/>num statum sue complexionis et forte secundum co 
+      <lb ed="#P" n="46"/>lores et habitudines patriarum vt ethyopes nigri 
+      <lb ed="#P" n="47"/>multum distantes ab equatore vltra citraque albi 
+      li<lb ed="#P" n="48" break="no"/>cet sit plena armonia beatorum spirituum cum dec 
+      <lb ed="#P" n="49"/>non tamen oportet in figura vel colore sicut nec in 
+      <lb ed="#P" n="50"/>quantitate vel complexione.
+    </p>
+            <p xml:id="JM7jmZ-e07627-d1e261">
+      ¶ Tertia conclusior 
+      <lb ed="#P" n="51"/>licet mortui primo resurgent postea viui omnes ta 
+      <lb ed="#P" n="52"/>men in ictu oculi resurgent. prima pars patet prime 
+      <lb ed="#P" n="53"/>ad thessalonicenses quarto: mortui qui sunt in chri 
+      <lb ed="#P" n="54"/>sto resurgent primi: deinde nos qui viuimus qui re 
+      <lb ed="#P" n="55"/>linquimur simul rapiemur cum illis in nubibus ol 
+      <lb ed="#P" n="56"/>uiam christo in aera non est sermo de primitate 
+      di<lb ed="#P" n="57" break="no"/>gnitatis quoniam multi viuentes circa iudiciun 
+      <lb ed="#P" n="58"/>erint ita boni sicut multi qui ante dormierunt. Se 
+      <lb ed="#P" n="59"/>cunda pars patet ex eadem lictera viui celeriter mo 
+      <!--402.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="60"/>rientur et postea resuscitabuntur rationabile est quod 
+      <lb ed="#P" n="61"/>moriantur beata virgo mortua est. Item multi 
+      di<lb ed="#P" n="62" break="no"/>scedent cum peccatis venialibus que purgabuntu 
+      <lb ed="#P" n="63"/>per mortis tollerantiam vel per modicum tempus 
+      <lb ed="#P" n="64"/>imperceptibile post mortem: hoc ipsum tenent am 
+      <lb ed="#P" n="65"/>brosius et augustinus vt patet in glosa capite 
+      alli<lb ed="#P" n="66" break="no"/>gati. statutum est hominibus semel mori: ad hebre 
+      <lb ed="#P" n="67"/>os non. Tertia pars patet vbi supra. quo fit licet 
+      <lb ed="#P" n="68"/>quilibet viuus resurget in eodem instanti similiter 
+      <lb ed="#P" n="69"/>et quilibet mortuus non tamen omnes resurgent in 
+      <lb ed="#P" n="70"/>eodem instanti cum mortui prius resurgent. 
+      </p>
+            <p xml:id="JM7jmZ-e07627-d1e311">
+               <lb ed="#P" n="71"/>¶ Contra primam conclusionem arguitur: multi erant 
+      <lb ed="#P" n="72"/>resuscitati in veteri testamento: patet ab helia et he 
+      <lb ed="#P" n="73"/>lyseo: ergo christus non est primitie dormientium. Si 
+      di<lb ed="#P" n="74" break="no"/>cas in nouo testamento id intelligi. Contra lazarus 
+      <lb ed="#P" n="75"/>erat resuscitatus in nouo testamento ante 
+      resurre<lb ed="#P" n="76" break="no"/>ctionem iohan. xi. Forte dicis lazarus erat 
+      resusci<lb ed="#P" n="77" break="no"/>tatus ad vitam mortalem christus autem ad immortalita 
+      <lb ed="#P" n="78"/>tem de qua resurrectione aplus intellexit. Contra 
+      <lb ed="#P" n="79"/>dicitur math. xxvii. quod christo passo multa corpora san 
+      <lb ed="#P" n="80"/>ctorum resurrexerunt. Reondntur ad illud mathei. xxvii. 
+      <lb ed="#P" n="81"/>multa corpora post resuscitationem christi 
+      resurrexe<lb ed="#P" n="82" break="no"/>runt et exeuntia de monimentis venerunt in ciuita 
+      <lb ed="#P" n="83"/>tem sanctam.
+    </p>
+            <p xml:id="JM7jmZ-e07627-d1e342">
+      ¶ Contra secundam partem 
+      argumen<lb ed="#P" n="84" break="no"/>tor iob. xiiii. homo cum dormierit non resurget 
+      do<lb ed="#P" n="85" break="no"/>nec atteratur celum non euigilabit sed celum nunquam 
+      <lb ed="#P" n="86"/>atteretur. et ecclesiast. iii. vnus est interitus hominem et iu 
+      <lb ed="#P" n="87"/>mentorum: iumenta non resurgent: ergo neque homines. 
+      <lb ed="#P" n="88"/>beatus gregorius quarto dyalogorum capite quar 
+      <lb ed="#P" n="89"/>to dicit quod loquebantur loco concionatorum interdem 
+      <lb ed="#P" n="90"/>et potissimum salomon vice stultorum iob loquitur 
+      <lb ed="#P" n="91"/>de resurrectione naturali.
+    </p>
+            <p xml:id="JM7jmZ-e07627-d1e362">
+      ¶ Secundo argumentor 
+      <lb ed="#P" n="92"/>ad idem: hic binarius non resurget demonstrando 
+      <lb ed="#P" n="93"/>materiam et formam hominis impinguati imo per 
+      <lb ed="#P" n="94"/>secundam conclusionem: non quilibet in tota quan 
+      <lb ed="#P" n="95"/>titate quam habebit resurget: signetur vnum pede 
+      <lb ed="#P" n="96"/>le materie quod habeat nunc sortes quod non resurget ar 
+      <lb ed="#P" n="97"/>guitur sic: hic binarius non resurget demonstrando 
+      <lb ed="#P" n="98"/>materiam quam nunc sortes habet et animam eius 
+      <lb ed="#P" n="99"/>hic binarius est sortes ex questione precedenti: ergo  
+      <lb ed="#P" n="100"/>sortes non resurget. Insuper vel aliqua pars mate 
+      <lb ed="#P" n="101"/>rie resurget et non alia et assigna rationem illius. 
+      di<lb ed="#P" n="102" break="no"/>cis pars purior sicut humidum radicale cum humi 
+      <lb ed="#P" n="103"/>di cibalis parte et alia pars impurior non resurges 
+      <lb ed="#P" n="104"/>et si ita contingeret quod omnes partes essent eque pu 
+      <lb ed="#P" n="105"/>re quod non contingit illa portio quam deus capiet quae 
+      <lb ed="#P" n="106"/>sufficit quantitati humane resurget. Contra: ex isto 
+      <lb ed="#P" n="107"/>sequitur quod corpora brutorum piscium et 
+      cocodril<lb ed="#P" n="108" break="no"/>lorum resurgent quod non est dicendum: patet: stat 
+      <lb ed="#P" n="109"/>talia bruta comedisse homines in quorum naturam 
+      <lb ed="#P" n="110"/>purior pars conuertitur alimentum conuertitur in 
+      <lb ed="#P" n="111"/>naturam aliti primo de generatione et tunc sic: hoc 
+      <lb ed="#P" n="112"/>resurget demonstrando illas partes hoc est vel erit 
+      <lb ed="#P" n="113"/>corpus brutorum vel bruti: ergo corpus bruti resurget: vel 
+      <lb ed="#P" n="114"/>corpera brutorum resurgent et sic corpera cocodrillorum es 
+      <lb ed="#P" n="115"/>piscium resurgent. Ad primum potest ho concedere 
+      primis<lb ed="#P" n="116" break="no"/>sas illius sillogismi et conclusionem logice loquendo 
+      <lb ed="#P" n="117"/>scilicet quod iste homo non resurget et sortes non 
+      re<lb ed="#P" n="118" break="no"/>surget et cum boc stat quod sortes resurget nec iste 
+      <!--403.xml-->
+      <pb ed="#P" n="194-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>contradicunt cum sortes hec supposita equiuoce signi 
+      <lb ed="#P" n="2"/>ficat et sic per aduentum noue quantitatis et deperditionem 
+      <lb ed="#P" n="3"/>antique equocabitur sortes in significando cum hec vox 
+      <lb ed="#P" n="4"/>mediantibus diuersis conceptibus totalibus non sinoni 
+      <lb ed="#P" n="5"/>mis hanc rem velres sibi succedentes siegeit sed licet de 
+      <lb ed="#P" n="6"/>virtute sermonis logicalis ita videatur respondendum sati 
+      <lb ed="#P" n="7"/>us est coaptare logicam vsui loquendi et liberis 
+      ver<lb ed="#P" n="8" break="no"/>bis loquuntur philosophi nobis est datus certus limes 
+      loquen<lb ed="#P" n="9" break="no"/>di etiam philosophice loquendo oportet tueri partes heracli 
+      <lb ed="#P" n="10"/>ti et cratilli quod raro contingit eundem equum bis 
+      intra<lb ed="#P" n="11" break="no"/>re fluuium nego maiorem illius sillogismi puta hic beis 
+      <lb ed="#P" n="12"/>rius non resurget dico quod hec pars et illa demonstran 
+      <lb ed="#P" n="13"/>do materiam et formam erint aliquid resurgens in sensu 
+      <lb ed="#P" n="14"/>cathegorico ad veritatem illius sufficit quod aimma infor 
+      <lb ed="#P" n="15"/>mans hanc materiam vel partem eius vel aliquam eande 
+      <lb ed="#P" n="16"/>tertiomoo identitatis redeat informando nego hanc 
+      <lb ed="#P" n="17"/>consequentiam hec pars et illa pars resurgit: ergo hec pars 
+      <lb ed="#P" n="18"/>resurget et illa pars resurget capiendo antecedens in sensu ca 
+      <lb ed="#P" n="19"/>thegorico et consequens in sensu vpotetico: sicut non sequi 
+      <lb ed="#P" n="20"/>tur: hoc pars et illa pars est aliquid equale huic toti per hec et 
+      <lb ed="#P" n="21"/>illa demonstrando duas medietates: ergo pars hec et pars 
+      <lb ed="#P" n="22"/>illa est equalis huic toti in sensu ipotetico: vel si hec 
+      <lb ed="#P" n="23"/>pars et illa sunt sortes in sensu composito non autem 
+      diui<lb ed="#P" n="24" break="no"/>so. non sequitur ex hac solutione quod sortes et hec 
+      tuni<lb ed="#P" n="25" break="no"/>ca resurgent cum anima non habet similem habitudinem ad 
+      tu<lb ed="#P" n="26" break="no"/>nicam sicut ad materiam quam informat. ad secundum argu 
+      <lb ed="#P" n="27"/>mentum respensum est interarguendum vsque ad vltimam 
+      re<lb ed="#P" n="28" break="no"/>plicam quae intendit probare hanc conclusionem corpora 
+      <lb ed="#P" n="29"/>brutorum resurgent capiendo corpus de praedicamento 
+      quam<lb ed="#P" n="30" break="no"/>titatis: aliqui propter hoc argumentum formidabant ad 
+      <lb ed="#P" n="31"/>mittere quod alimentum conuertatur in substantiam aliti: alber 
+      <lb ed="#P" n="32"/>tus dicit in. xliiii. dist. isti falluntur per fallaciam figure 
+      di<lb ed="#P" n="33" break="no"/>ctionis consequentia est nulla et alb. et alii opinione nostra 
+      fal<lb ed="#P" n="34" break="no"/>luntur consequentia est euidens nec aliquo pacto 
+      <lb ed="#P" n="35"/>fallatia: patet intelligenti logicam et fallacias nec 
+      <lb ed="#P" n="36"/>nunc intendimus hoc logicam ignorantibus 
+      suade<lb ed="#P" n="37" break="no"/>re concedo istas conclusiones de virtute sermonis 
+      <lb ed="#P" n="38"/>corpora brutorum resurgent in extremo iudicio 
+      cor<lb ed="#P" n="39" break="no"/>pora piscium resurgent in iudicio corpus tantum 
+      v<lb ed="#P" n="40" break="no"/>let sicut materia et pars materie est materia sed iste 
+      <lb ed="#P" n="41"/>sunt negande: resurgent in iudicio corpora brutorum 
+      <lb ed="#P" n="42"/>resurgent in iudicio corpora piscium tempore 
+      re<lb ed="#P" n="43" break="no"/>surrectionis non erint corpora brutorum: corpora 
+      <lb ed="#P" n="44"/>brutorum resurgent corpora hominum: dicis pari 
+      <lb ed="#P" n="45"/>ratione debemus concedere corpus patris mei 
+      co<lb ed="#P" n="46" break="no"/>medi: corpus hominis comedam ista sunt absurda 
+      <lb ed="#P" n="47"/>et patet adiuncto vno vero de communi modo 
+      lo<lb ed="#P" n="48" break="no"/>quendi dicimus pisces comedi boues comedi quia 
+      <lb ed="#P" n="49"/>eorum materias comedi tempore comestionis non 
+      <lb ed="#P" n="50"/>erant pisces sed cadauera piscium vel pisces per si 
+      <lb ed="#P" n="51"/>nodochen solum materias piscium qui fuerunt co 
+      <lb ed="#P" n="52"/>medi et illa materia informabatur anima castoris 
+      <lb ed="#P" n="53"/>vel pollucis submersi in mari et istud melius coap 
+      <lb ed="#P" n="54"/>tatur illi difficultati de materia que informabitur 
+      <lb ed="#P" n="55"/>successiue duabus animis sicut contingit de aliqui 
+      <lb ed="#P" n="56"/>bus scitis vescentibus carnibus humanis vt antro 
+      <lb ed="#P" n="57"/>phagis vel in casu nostro. Respondetur: admitti 
+      <lb ed="#P" n="58"/>mus tales comedi pisces quia cadauera proxima 
+      <lb ed="#P" n="59"/>piscium comedimus non sic de carnibus humanis 
+      <!--403.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="60"/>licet materias hominum comederimus de difficui 
+      <lb ed="#P" n="61"/>tate in quo resurget illa materia que informatur va 
+      <lb ed="#P" n="62"/>riis animabus successiue quam mouet <ref xml:id="JM7jmZ-e07627-Rd1e567">beatus 
+      au<lb ed="#P" n="63" break="no"/>gustinus in. xxii. de ciuitate dei capitulo 
+      duodeci<lb ed="#P" n="64" break="no"/>mo</ref> prope finem inter cetera vocat illam 
+      difficili<lb ed="#P" n="65" break="no"/>mam dicit in primo resurget quia erat purior in illo 
+      <lb ed="#P" n="66"/>deus supplebit in reliquo potest etiam in vtroque rei 
+      <lb ed="#P" n="67"/>surgere si deo placuerit cum idem potest esse 
+      circum<lb ed="#P" n="68" break="no"/>scriptiue in duobus locis vel in vltimo et deus sup 
+      <lb ed="#P" n="69"/>plebit in primo. Sed contra istud argumentor: cor 
+      <lb ed="#P" n="70"/>pus habebit beatitudinem ei competentem in suis 
+      <lb ed="#P" n="71"/>dotibus et habens maiorem beatitudinem in anima 
+      <lb ed="#P" n="72"/>maiorem habebit in corpore stat quod secundo 
+      come<lb ed="#P" n="73" break="no"/>dens illam carnem sit primo sanctior si ponatur in 
+      <lb ed="#P" n="74"/>vtroque proportionabiliter beatificabitur 
+      beatitudi<lb ed="#P" n="75" break="no"/>ne corporali secundum animas tenendo alias duas 
+      <lb ed="#P" n="76"/>solutiones beatitudo corporis proprie non est beati 
+      <lb ed="#P" n="77"/>tudo: hermofrodite secuundum naturaliter 
+      loquen<lb ed="#P" n="78" break="no"/>tes plus participant de vno sexu licet discrimen non 
+      <lb ed="#P" n="79"/>bene damus et in illo redibunt si sint due anime in 
+      <lb ed="#P" n="80"/>monstro redibunt duo homines vbi est vna redibis 
+      <lb ed="#P" n="81"/>non monstrum potissimum in beatis.
+    </p>
+            <p xml:id="JM7jmZ-e07627-d1e612">
+      ¶ Contra 
+      <lb ed="#P" n="82"/>tertiam conclusionem argumentor: aliqui relinquen 
+      <lb ed="#P" n="83"/>tur viui in aduentu ad iudicium secundum illud sim 
+      <lb ed="#P" n="84"/>boli iudicare viuos et mortuos contra illam 
+      par<lb ed="#P" n="85" break="no"/>tem in qua dicitur: resurgent in ictu oculi: ergo in instanti et per 
+      <lb ed="#P" n="86"/>consequens erit vacuum naturaliter vel duo corpera de 
+      predi<lb ed="#P" n="87" break="no"/>camento substantia in eodem loco vtrunque est inconueniens 
+      <lb ed="#P" n="88"/>et reprobatum ab aristo. iiii. phisico. igitur. consequentia probal 
+      <lb ed="#P" n="89"/>acceptis pulueribus in sepulcro vel minorem locum oc 
+      <lb ed="#P" n="90"/>cupabunt cum informabuntur anima intellectiua et tunc vel 
+      <lb ed="#P" n="91"/>aer ingredietur in instanti et hoc non quia motus non potest 
+      <lb ed="#P" n="92"/>esse in istanti si successiue dabitur vacuum eodemmoo si cor 
+      <lb ed="#P" n="93"/>pora domint esse maiora illis pulueribus et alia corpera non 
+      <lb ed="#P" n="94"/>paesent in instanti recedere duo corpera erint in eodem 
+      lo<lb ed="#P" n="95" break="no"/>co proprio. Ad primum dicitur illi vocantur viui qui 
+      superfue<lb ed="#P" n="96" break="no"/>runt ane aduentum iudici: bea. hiero. ad marcellinam 
+      <lb ed="#P" n="97"/>tenet oppositum. Ad aliud dico quod in resurrectione ml 
+      <lb ed="#P" n="98"/>ta erint quando homo moritur anima desinit informare corpus et 
+      <lb ed="#P" n="99"/>partes materie informantur aliis formis variis erimus 
+      <lb ed="#P" n="100"/>esca vermibus serpentibus et ceteris id genus vne 
+      <lb ed="#P" n="101"/>icit ecclesia memento homo quod cinis es et in cinerem reuerte 
+      <lb ed="#P" n="102"/>ris: et in sancto victore in epitaphio petri conestoris 
+      <lb ed="#P" n="103"/>ber petrus eram quem petra tegit factus quam comestor nunc 
+      <lb ed="#P" n="104"/>comedor. Obone deus hic non est materia risus et su 
+      <lb ed="#P" n="105"/>perbie sed recolligenda est nostra vita cum frequenti 
+      <lb ed="#P" n="106"/>memoria mortis et plus tibi conducit quam scire explo 
+      <lb ed="#P" n="107"/>rare nodos latentes materie quam querimus de 
+      mu<lb ed="#P" n="108" break="no"/>tatione instantanea sed vnum facere aliud non omitte 
+      <lb ed="#P" n="109"/>re opere precium est ad fugiendum in nobis ocium 
+      communi<lb ed="#P" n="110" break="no"/>us: ergo accedendo partes istas recolligere oportebit 
+      <lb ed="#P" n="111"/>et hoc erit misterio angelorum secundum illud math. xxiii 
+      <lb ed="#P" n="112"/>mittet angelos suos cum tuba et voce magna et congrega 
+      <lb ed="#P" n="113"/>bunt electos eius a quattuor celi ventis istud ergo fiet temperanee 
+      <lb ed="#P" n="114"/>et si angeli nescirent semper ista corpeora inuenire sibi relicti 
+      <lb ed="#P" n="115"/>vt patet de corpore iohannis huset et aliis incineratis 
+      <lb ed="#P" n="116"/>et in aqua dispersis deo adiuuante colligunt illas partes 
+      <lb ed="#P" n="117"/>vbicunque fuerint: rursus collectis corporibus deus 
+      <lb ed="#P" n="118"/>facit dispositionem et illa actuat anima intellectiua cor¬ 
+      <!--404.xml-->
+      <pb ed="#P" n="195-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>rumpendo formas priores: nec est certandum an cor 
+      <lb ed="#P" n="2"/>sit principalior pars et ab eo incipiat vel capunt hic non 
+      <lb ed="#P" n="3"/>prtet dare prioritatem temporis: istud potest esse in instanti quod pri 
+      <lb ed="#P" n="4"/>mum instans informationis anime erit primum instans non 
+      <lb ed="#P" n="5"/>esse forme praecedentis et demus quod materia hominis erit 
+      <lb ed="#P" n="6"/>densior quam materia preiacens fuerit nego quod vacuum 
+      <lb ed="#P" n="7"/>propterea sit naturaliter aer subito insequitur minoratio 
+      <lb ed="#P" n="8"/>nem illorum corporum est mutatio et non motus natura sic 
+      <lb ed="#P" n="9"/>abhorret vacuum quod ipsum non permittit durare per toriporus 
+      <lb ed="#P" n="10"/>vel instans rebus stantibus vt nunc constat nec est 
+      <lb ed="#P" n="11"/>difficultas de mutatione subita cum res successiue 
+      di<lb ed="#P" n="12" break="no"/>minuuntur et de loco mutentur: non alias aqua ascendit 
+      <lb ed="#P" n="13"/>culmo nisi ad fugiendum vacuum te bibente et aerem 
+      <lb ed="#P" n="14"/>attrahente: propterea aqua non descendit per forami 
+      <lb ed="#P" n="15"/>na clipsedre in orto foramine superiore clauso sed bene 
+      <lb ed="#P" n="16"/>aperto vt aliud corpus ingredi possit non propterea quia 
+      <lb ed="#P" n="17"/>aer resistit aquene descendat per foramina quia remoto 
+      <lb ed="#P" n="18"/>pollice rimam suprimam claudente protinus descendit ac 
+      <lb ed="#P" n="19"/>et tamen est idem aer equaliter vt antea resistens fuit ipsa ac 
+      <lb ed="#P" n="20"/>suapte natura non inclinata ad descensum in illo casu 
+      <lb ed="#P" n="21"/>et si dolium quantuncumque magnum sic poneretur superius clau 
+      <lb ed="#P" n="22"/>sum alio extremo sublato nichil liquoris descendit 
+      <lb ed="#P" n="23"/>quod patet per foramina parua vel magna in clipsedra vel 
+      <lb ed="#P" n="24"/>n cauares totam basim clipsedre suprimo foramine obi 
+      <lb ed="#P" n="25"/>structo nisi aer inferius ingrediatur vel ad alias partes 
+      <lb ed="#P" n="26"/>si costam terebres vasis aqua per foramina basis exibit et 
+      <lb ed="#P" n="27"/>si vitrum repleris aquae orificio in aqua inferius extrahen 
+      <lb ed="#P" n="28"/>do subtiliter vitrum extrahendo quousque medietas vel vna 
+      <lb ed="#P" n="29"/>quinta pars vitri maneat in aqua vel vitrum non potes 
+      <lb ed="#P" n="30"/>extrahere vel aqua ascendit ad basim fiole nisi 
+      ali<lb ed="#P" n="31" break="no"/>quis aer ingrediatur inter digitos tuos et vitrum cum 
+      <lb ed="#P" n="32"/>hiis experimentis constet naturam summe vacuum abhor 
+      <lb ed="#P" n="33"/>rere palam est vacuum esse naturaliter est impossibile 
+      <lb ed="#P" n="34"/>non nego quin vacuum potest esse naturaliter et non 
+      repu<lb ed="#P" n="35" break="no"/>gnat aeri mutari subito quare non intrabit in instanti 
+      <lb ed="#P" n="36"/>nulla est resistentia intrinseca cum forma aeris ad hoc 
+      <lb ed="#P" n="37"/>inclinatur resistentia extrinseca non impedit nec valet 
+      <lb ed="#P" n="38"/>dicere est agens limitatum et finitum: ergo non potest agere 
+      <lb ed="#P" n="39"/>in instanti: patet secundum istos eosdem anima potest suos actus 
+      <lb ed="#P" n="40"/>producere in instanti. Sed contra dicis: ponamus 
+      <lb ed="#P" n="41"/>totam spheram aeris aque et terre corruptam tunc ignis 
+      <lb ed="#P" n="42"/>per me ibit subito ad euitandum vacuum et sic erit 
+      mira<lb ed="#P" n="43" break="no"/>bilis raritas. Respondeo hoc argumentum erit equalis potest 
+      <lb ed="#P" n="44"/>deris contra te si ponatur successiue moueri quaero vbi erit sta 
+      <lb ed="#P" n="45"/>tus successiue in raritate mouendo ad fugiendum va 
+      <lb ed="#P" n="46"/>cuum si nullus / habetur inconueniens quod contra nos 
+      in<lb ed="#P" n="47" break="no"/>fers si sit status per te in maxima raritate hoc nobis suf 
+      <lb ed="#P" n="48"/>ficiet.
+    </p>
+            <p xml:id="JM7jmZ-e07627-d1e806">
+      ¶ Sed de resuscitatione corporum dubitatur an re 
+      <lb ed="#P" n="49"/>surgent in eorum sepulchris et tunc cum in vno sepulchro 
+      <lb ed="#P" n="50"/>sunt multa corpera vt in arbee corpora pater iarcharum 
+      <lb ed="#P" n="51"/>multa corpora erunt in eodem loco proprio est stat va 
+      <lb ed="#P" n="52"/>rias partes in variis locis sepeliri est eque principa 
+      <lb ed="#P" n="53"/>les vt medietas capitis vel medietas cordis cum 
+      <lb ed="#P" n="54"/>equali portione corporis colligentur vbicunque fuerint 
+      <lb ed="#P" n="55"/>animatio erit vbi deo placebit et resurrectio forte 
+      ad<lb ed="#P" n="56" break="no"/>ducentur omnes partes ad vallem iosaphat in qua erit 
+      iu<lb ed="#P" n="57" break="no"/>dicium secundum iohelem in tertio capite suilibri quae 
+      di<lb ed="#P" n="58" break="no"/>es iudicii veniet sicut fur in media nocte in ordine 
+      <lb ed="#P" n="59"/>ad terram promissionis secundum illud prime ad thessa. v 
+      <!--404.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="60"/>vel in media nocte et est inopinate et hoc est 
+      rationa<lb ed="#P" n="61" break="no"/>pilius quod veniat ad iudicium in die sicut ascendit actuum 
+      <lb ed="#P" n="62"/>primo et christus surrexit in die omnes possunt stare in 
+      <lb ed="#P" n="63"/>valle vel prope vallem in aere. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

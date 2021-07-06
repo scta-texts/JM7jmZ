@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 2</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 2</title>
+               <date when="2021-07-06">July 06, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-M4Saaa">Paris 1509</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-06" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="207-r"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="JM7jmZ-e14881"><!-- l4d47q2 -->
+            <head xml:id="JM7jmZ-e14881-Hd1e108">Quaestio 2</head>
+            <head xml:id="JM7jmZ-e14881-Hd1e111" type="question-title">
+      An ignis conflagrationis erit
+      eiusdem cum igne
+      praesenti
+    </head>
+            <p xml:id="JM7jmZ-e14881-d1e114">
+      <!--428.xml-->
+               <pb ed="#P" n="207-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>¶ Distinctionis quadragesime septine questio secunda 
+      <lb ed="#P" n="2"/>SEcundo circa hanc distinctionem quadra 
+      <lb ed="#P" n="3"/>quogesimam septimam quero an ignis confla 
+      <lb ed="#P" n="4" break="no"/>grationis erit eiusdem cum igne presenti: 
+    </p>
+            <p xml:id="JM7jmZ-e14881-d1e132">
+               <lb ed="#P" n="5"/>sicut in questione precedenti quo ad suppositum et 
+      <lb ed="#P" n="6"/>quo ad quesitum conclusiue respondebitur.
+    </p>
+            <p xml:id="JM7jmZ-e14881-d1e139">
+      ¶ Pri 
+      <lb ed="#P" n="7" break="no"/>ma conclusio mundus purgabitur per ignem 
+      con<lb ed="#P" n="8" break="no"/>flagrationis.
+    </p>
+            <p xml:id="JM7jmZ-e14881-d1e147">
+      ¶ Secunda conclusio ille ignis erit 
+      <lb ed="#P" n="9"/>eiusdem speciei specialissime cum hoc igne quem ha 
+      <lb ed="#P" n="10"/>demus. Prior conclusio patet prime corinthiorum 
+      <lb ed="#P" n="11"/>septimo: preterit figura huius mundi vbi glosa pul 
+      <lb ed="#P" n="12"/>chritudo huius mundi mundanorum ignium 
+      con<lb ed="#P" n="13" break="no"/>flagratione peribit. idem vicesimo de ciuitate dei 
+      <lb ed="#P" n="14"/>tapitulo. xvi. et glosa super illud secunde petri ter 
+      <lb ed="#P" n="15"/>tio. eti secunde petri vltimo. elementa ignis 
+      ardo<lb ed="#P" n="16" break="no"/>re tabescent. et congruentia est ad hoc secundo phi 
+      <lb ed="#P" n="17"/>sicorum. nos sumus quodammodo finis omnium: 
+      <lb ed="#P" n="18"/>ergo homine innouato post generalem resurrectio 
+      <lb ed="#P" n="19"/>nem congruit mundum innouari et purgari quod ma 
+      <lb ed="#P" n="20"/>xime fit per ignem: apocalipsis vicesimo primo: vi 
+      <lb ed="#P" n="21"/>di celum nouum et terram nouam. videmus insuper 
+      <lb ed="#P" n="22"/>nunc post aliqua peccata locum ante 
+      consecratio<lb ed="#P" n="23" break="no"/>nem esse vetitum quousque purgetur: sic decens est 
+      <lb ed="#P" n="24"/>quod locus peccatorum purgetur. Secunda conclusio 
+      <lb ed="#P" n="25"/>probatur super illo verbo genesis primo: requieuit 
+      <lb ed="#P" n="26"/>deus die septimo ab omni opere quod patrarat: secum 
+      <lb ed="#P" n="27"/>dum multos sic exponitur: cessauit a creatione 
+      no<lb ed="#P" n="28" break="no"/>uarum specierum in rebus: dicis multa sunt indiu 
+      <lb ed="#P" n="29"/>dua in mundo quibus nulla fuerunt similia in 
+      spe<lb ed="#P" n="30" break="no"/>cie specialissima: patet tu potes habere vnam 
+      noti<lb ed="#P" n="31" break="no"/>ciam de sorte hac formica et hac arena copulatim 
+      <lb ed="#P" n="32"/>et forte nullum tale indiuiduum precessit. idem 
+      po<lb ed="#P" n="33" break="no"/>tes facere capiendo plura obiecta disiunctiue vel con 
+      <lb ed="#P" n="34"/>ditionaliter.
+    </p>
+            <p xml:id="JM7jmZ-e14881-d1e206">
+      ¶ Secundo arguitur ad idem: aqua 
+      <lb ed="#P" n="35"/>que purgauit mundum erat eiusdem speciei cum ve 
+      <lb ed="#P" n="36"/>ra aqua: ergo ignis cum igne. insuper gratis est 
+      mul<lb ed="#P" n="37" break="no"/>tiplicare ignem alterius speciei vel aliud calefacti 
+      <lb ed="#P" n="38"/>uum ab igne.
+    </p>
+            <p xml:id="JM7jmZ-e14881-d1e217">
+      ¶ Contra priorem conclusionem. 
+      <lb ed="#P" n="39"/>argumentor: vel ignis precedet iudicium vel erii 
+      <lb ed="#P" n="40"/>tempore iudicii vel sequetur iudicium non vlti 
+      <lb ed="#P" n="41"/>mum secundum illud psaltm. ignis autem ante eum 
+      <lb ed="#P" n="42"/>precedet et inflammabit in circuitu inimicos eius 
+      <lb ed="#P" n="43"/>non duo prima tunc comburet viuentes. 
+      Respon<lb ed="#P" n="44" break="no"/>detur quod precedet secundum illud allegatum et 
+      sta<lb ed="#P" n="45" break="no"/>bit tempore iudicii nec ledentur electi qui stabun 
+      <lb ed="#P" n="46"/>in parte aeris super ignem sicut dicit beatus augu 
+      <lb ed="#P" n="47"/>tinus secundo de ciuitate dei capitulo decimo 
+      oc<lb ed="#P" n="48" break="no"/>tauo. possumus inquit dicere electos futuros esse 
+      <lb ed="#P" n="49"/>in superioribus partibus quo ita non ascendet flam 
+      <lb ed="#P" n="50"/>ma illius incendii quemadmodum nec vnda 
+      dilu<lb ed="#P" n="51" break="no"/>ui et illud de eis intelligitur qui mortui sunt et 
+      ni<lb ed="#P" n="52" break="no"/>chil purgabile habent de viuentibus possunt mori 
+      <lb ed="#P" n="53"/>ab igne pro eorum pena purgatorii si debitores pe 
+      <lb ed="#P" n="54"/>ne sint et magis vel minus puniri secundum eorum 
+      <lb ed="#P" n="55"/>demerita quia ignis ille est instrumentum diuine iu 
+      <lb ed="#P" n="56"/>sticie si nichil purgandum habeant possunt 
+      homi<lb ed="#P" n="57" break="no"/>nes mori in illo igne sine dolore magno sicut deus 
+      <lb ed="#P" n="58"/>conseruare potest hominem in igne perpetuo abs¬ 
+      <!--428.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="59"/>que hoc quod ignis in eum agat videtur quod mali 
+      crucia<lb ed="#P" n="60" break="no"/>buntur in illo igne et tandem eos inuoluet in 
+      fau<lb ed="#P" n="61" break="no"/>ces inferni.
+    </p>
+            <p xml:id="JM7jmZ-e14881-d1e274">
+      ¶ Secundo arguitur: vel deus creat 
+      <lb ed="#P" n="62"/>nouum ignem et tunc necesse est alia corpora 
+      con<lb ed="#P" n="63" break="no"/>densari extra eorum naturalem ordinem vel plura 
+      <lb ed="#P" n="64"/>corpora esse in eodem loco quod natura abhorret si cor 
+      <lb ed="#P" n="65"/>rumpat partem aeris in ignem idem sequitur incon 
+      <lb ed="#P" n="66"/>ueniens cum ex vno pugillo aeris fiunt decen ignis. 
+      <lb ed="#P" n="67"/>Respondetur de condensatione et rarefactione ne 
+      <lb ed="#P" n="68"/>cesse est si aliquid condensetur aliquid rarefieri et 
+      <lb ed="#P" n="69"/>econuerso nunc naturaliter loquendo tamen deus 
+      <lb ed="#P" n="70"/>potest facere oppositum potest corrumpere magnam 
+      <lb ed="#P" n="71"/>partem aeris vel terre proportionabiliter ad 
+      ma<lb ed="#P" n="72" break="no"/>gnitudinem ignis creati. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

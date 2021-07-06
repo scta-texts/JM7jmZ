@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 1</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 1</title>
+               <date when="2021-07-06">July 06, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-M4Saaa">Paris 1509</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-06" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="207-v"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="JM7jmZ-e15438"><!-- l4d49q1 -->
+            <head xml:id="JM7jmZ-e15438-Hd1e108">Quaestio 1</head>
+            <head xml:id="JM7jmZ-e15438-Hd1e111" type="question-title">
+      De essentia beatitudinis:
+    </head>
+            <p xml:id="JM7jmZ-e15438-d1e114">
+               <lb ed="#P" n="114"/>¶ Distinctionis quadragesime none questio prima. 
+      <!--430.xml-->
+      <pb ed="#P" n="208-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>PRimo quero circa hanc distinctionem quadra 
+      <lb ed="#P" n="2"/> Io gesimam nonam de essentia beatitudis 
+      </p>
+            <p xml:id="JM7jmZ-e15438-d1e130">
+               <lb ed="#P" n="3"/>¶ Circa quaestionis expeditionem notabimus 
+      <lb ed="#P" n="4"/>aliquos dicentes beatitudinem solum consi 
+      <lb ed="#P" n="5"/>stere in actu intellectus. alios dicentes eam esse in 
+      <lb ed="#P" n="6"/>actu voluntatis. tertii vtrosque impugnant dicentes bea 
+      <lb ed="#P" n="7"/>titudinem pro multis solum debere accipi. Sed 
+      dici<lb ed="#P" n="8" break="no"/>mus beatitas biphariam accipitur. vno moo pro beati 
+      <lb ed="#P" n="9"/>tudine increata vel obiecto beatitudis. alio modo 
+      <lb ed="#P" n="10"/>pro beatitate formali. prior acceptio patet. <ref xml:id="JM7jmZ-e15438-Rd1e149">psal. iii.</ref> 
+               <lb ed="#P" n="11"/>
+               <quote xml:id="JM7jmZ-e15438-Qd1e154">Tu autem domine susceptor meus es gloria mea</quote> etc. modo 
+      glo<lb ed="#P" n="12" break="no"/>ria et beatitudo concidunt et primo confessionum 
+      <lb ed="#P" n="13"/>vsus pricipium inquietum est cor nostrum donec 
+      requie<lb ed="#P" n="14" break="no"/>scat in te. secunda acceptio patet quia aliqua est actus in 
+      <lb ed="#P" n="15"/>tellectus aliqua voluntatis tertia gaudium ex hiis se 
+      <lb ed="#P" n="16"/>quens. patet iohannis. xvii. hec est vita eterna vt 
+      co<lb ed="#P" n="17" break="no"/>gnoscant te et. i de ciuitate dei. c. pe. loquens de vnio 
+      <lb ed="#P" n="18"/>ne dicit augustinus. est summum premium quod consistat in 
+      <lb ed="#P" n="19"/>actu voluntatis. patet. i. de doctrina christiana. vne 
+      vl<lb ed="#P" n="20" break="no"/>tra medium dicit augustinus. hec est summa merces vt 
+      <lb ed="#P" n="21"/>ipso perfruamur. hoc patet per diffinitionem beati quam 
+      <lb ed="#P" n="22"/>ponit. xiii. de trinita. c. viii. beatus est qui viuit nec 
+      <lb ed="#P" n="23"/>vult nec male aliquid vult et cicero li. v. tus. hos existi 
+      <lb ed="#P" n="24"/>mo beatos qui sunt in bonis nullo adiuncto malo. de 
+      <lb ed="#P" n="25"/>gaudio patet. gaudium vestrum nemo tollit a vobis 
+      <lb ed="#P" n="26"/>ioh. xvi. Insuper dicamus terminus beatitas potest 
+      <lb ed="#P" n="27"/>biphariam accipi collectiue et diuisiue potest pro hiis 
+      <lb ed="#P" n="28"/>omnibus supponere vel eorum aliquibus sicut logica 
+      <lb ed="#P" n="29"/>capitur pro scientia vnius conclusionis logicalis 
+      ve<lb ed="#P" n="30" break="no"/>pro scientia multarum. quo fit indecorum est dicere in 
+      <lb ed="#P" n="31"/>talibus geminam esse positionem et alios impugnantes 
+      <lb ed="#P" n="32"/>non sese intelligunt. Istis primissis pro terminorum 
+      <lb ed="#P" n="33"/>significantiis pono conclusiones.
+    </p>
+            <p xml:id="JM7jmZ-e15438-d1e206">
+      ¶ Prima 
+      con<lb ed="#P" n="34" break="no"/>clusio aliqua beatitas est deus.
+    </p>
+            <p xml:id="JM7jmZ-e15438-d1e212">
+      ¶ Secunda conclusio 
+      <lb ed="#P" n="35"/>aliqua beatitudo est creatura. patet de actibus datis. 
+      </p>
+            <p xml:id="JM7jmZ-e15438-d1e217">
+               <lb ed="#P" n="36"/>¶ Contra priorem conclusionem argumentor ex ea se 
+      <lb ed="#P" n="37"/>quitur quod aliqua beatitudo est beata. consequens est 
+      <lb ed="#P" n="38"/>falsum implicat albediuem esse albam ergo beatitatem 
+      <lb ed="#P" n="39"/>esse beatam. consequentia est lucida de essentia 
+      diui<lb ed="#P" n="40" break="no"/>na.
+    </p>
+            <p xml:id="JM7jmZ-e15438-d1e230">
+      ¶ Contra secundam conclusionem argumentor me 
+      <lb ed="#P" n="41"/>lior est habitus quam actus beatitudo debet esse quid 
+      o<lb ed="#P" n="42" break="no"/>ptimum. i. ethicorum in hoc omnes conuenerunt licet eam in 
+      <lb ed="#P" n="43"/>variis rebus ponebant modo habitus est melior actu 
+      <lb ed="#P" n="44"/>lii. topichorum. bonum permanentius est melius modo 
+      <lb ed="#P" n="45"/>habitus est diuturnior actu ex praedicamentis. Ad 
+      pri<lb ed="#P" n="46" break="no"/>mum conceditur sequela et nego falsitatem consequentis 
+      <lb ed="#P" n="47"/>non est simile de albedine et albo cuius vnum est subie 
+      <lb ed="#P" n="48"/>ctum susceptiuum alterius interdum concretum et 
+      ab<lb ed="#P" n="49" break="no"/>stractum res differentes important non modo in 
+      nu<lb ed="#P" n="50" break="no"/>mero sed in specie. interdum eandem rem in recto 
+      po<lb ed="#P" n="51" break="no"/>nunt. Ad secundum nego assumptum non semper 
+      perma<lb ed="#P" n="52" break="no"/>nentiora prestant nisi cetera sint paria coruus / ceruus 
+      <lb ed="#P" n="53"/>et quercus longeua non prestant homini. insuper bea 
+      <lb ed="#P" n="54"/>titudo est perpetua iam visa essentia beatitatis reli 
+      <lb ed="#P" n="55"/>quum est ad secundum quesitum accedere. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 7</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 7</title>
+               <date when="2021-07-06">July 06, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-M4Saaa">Paris 1509</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-06" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="87-v"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="JM7jmZ-d48478"><!-- l4d15q7 -->
+            <head xml:id="JM7jmZ-d48478-Hd1e108">Quaestio 7</head>
+            <head xml:id="JM7jmZ-d48478-Hd1e111" type="question-title">
+      Utrum homo tenetur
+      restituere illa quae
+      acquisivit per praescriptionem
+      vel usucapionem
+    </head>
+            <p xml:id="JM7jmZ-d48478-d1e114">
+               <lb ed="#P" n="93"/>¶ Distinctionis decime quinte questio septima. 
+      <lb ed="#P" n="94"/>VTrum homo tenetur restituere illa que 
+      <lb ed="#P" n="95"/>Uacquisiuit per prescriptionem vel vsuca 
+      <lb ed="#P" n="96"/>pionem.
+    </p>
+            <p xml:id="JM7jmZ-d48478-d1e125">
+      ¶ Pro enucleatione questionis 
+      <lb ed="#P" n="97"/> Q aliquos terminos explicabimus postea 
+      <lb ed="#P" n="98"/>conclusiue respondebimus: termini detegendi sunt 
+      <lb ed="#P" n="99"/>prescriptio vsucapio: et licet interdum illi termini 
+      <lb ed="#P" n="100"/>confunduntur quod vnus sumatur pro reliquo proprie 
+      <lb ed="#P" n="101"/>discrimen habent vt prescriptio in immobilibus es 
+      <lb ed="#P" n="102"/>vsucapio in mobilibus sumatur: nec capitur 
+      mobi<lb ed="#P" n="103" break="no"/>le sicut in philosophia quia sic quelibet res est 
+      mo<lb ed="#P" n="104" break="no"/>bilis centrum terre et tota spera terre est de se 
+      mo<lb ed="#P" n="105" break="no"/>bilis. capimus immobile vulgariter pro agris / 
+      edifia<lb ed="#P" n="106" break="no"/>ciis et huiusmodi opposito modo mobile.
+    </p>
+            <p xml:id="JM7jmZ-d48478-d1e149">
+      ¶ 
+      Pre<lb ed="#P" n="107" break="no"/>scriptio sic communiter diffinitur: est quoddam ius 
+      <lb ed="#P" n="108"/>ex tempore et auctoritate legis vim capiens alicui dans 
+      <lb ed="#P" n="109"/>dominium propter dirimendas lites finaliter ordinatum 
+      <lb ed="#P" n="110"/>in re immobili. Eodem modo vsucapio diffinitur hoc 
+      <lb ed="#P" n="111"/>dempto quod ponitur mobile requituntur decem anni 
+      <lb ed="#P" n="112"/>ad prescribendum inter praesentes viginti inter absentes 
+      <lb ed="#P" n="113"/>duo anni absentie ideo putabuntur pro vno presen 
+      <lb ed="#P" n="114"/>tie. Istud patet institu. de vsucapio. et longi temporis 
+      <lb ed="#P" n="115"/>praescrip. § iure ciuili. et extra de praescriptionibus in va 
+      <lb ed="#P" n="116"/>riis capitibus diffuse. in. fc. et. C. tangitur. sufficit suc 
+      <lb ed="#P" n="117"/>fro 
+      <!--190.xml-->
+      <pb ed="#P" n="88-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>cincte procedere ad hoc quod prescriptio valeat aliqua 
+      <lb ed="#P" n="2"/>requiruntur iustus titulus vt communiter dicitur. hoc 
+      <lb ed="#P" n="3"/>est putatus titulus. si requiritur titulus inanis 
+      es<lb ed="#P" n="4" break="no"/>set prescriptio vel illa conditio intelligitur in rebus 
+      <lb ed="#P" n="5"/>iprescriptibilibus a tali vt de deci mis a laico. secunda 
+      <lb ed="#P" n="6"/>conditio requisita est bona fides quod durante tempore 
+      <lb ed="#P" n="7"/>prescriptionis credat rem esse suam possessor ma 
+      <lb ed="#P" n="8"/>le fidei nullo tempore praescribit per regulam iuris li. vi 
+      <lb ed="#P" n="9"/>et de prescriptio. cap. vigilanti. hoc est verum in prae 
+      <lb ed="#P" n="10"/>scriptione vbi requiritur actus positiuus. secus est vbi 
+      <lb ed="#P" n="11"/>nullum factum requiritur vt in prescriptione 
+      liberta<lb ed="#P" n="12" break="no"/>tis contra seruitutem rusticam licet sciam me debere 
+      ti<lb ed="#P" n="13" break="no"/>bi seruitutem eundi tamen possum prescribere libertatem 
+      <lb ed="#P" n="14"/>cui astipulatur. l. sequitur. §. si viam f. de vsu. Tertium 
+      <lb ed="#P" n="15"/>requisitum est quod proprio nomine possideat si alieno nomine 
+      <lb ed="#P" n="16"/>vt precario vel coloni fuerint non eis prescribitur 
+      <lb ed="#P" n="17"/>Quartum requisitum est quod res non sit vitiosa vt posset 
+      <lb ed="#P" n="18"/>prescribi quare res furtiua vel vi possessa non potest 
+      <lb ed="#P" n="19"/>pscribi non solum a fure et raptore quia est male fidei po 
+      <lb ed="#P" n="20"/>sessor: sed nec ab alio quousque vitium purgetur illud. pa 
+      <lb ed="#P" n="21"/>tet institu. de vsu. §. quod autem. contra ecclesiam romanam rei 
+      <lb ed="#P" n="22"/>quiruntur centum anni contra aliam quadraginta. Ex istis 
+      <lb ed="#P" n="23"/>sequuntur aliqua. Primum est fructus soli citius 
+      vsuca<lb ed="#P" n="24" break="no"/>piuntut quam terra prescribatur. Secundo sequitur habens 
+      <lb ed="#P" n="25"/>malam fidem ante finem temporis prescriptionis 
+      <lb ed="#P" n="26"/>in foro anime tenetur restituere: licet non potest pro 
+      <lb ed="#P" n="27"/>bari quod mala fide possiderit in foro ciuili. 
+      </p>
+            <p xml:id="JM7jmZ-d48478-d1e241">
+               <lb ed="#P" n="28"/>¶ Istis notatis pono duas conclusiones. Prima 
+      <lb ed="#P" n="29"/>prescribens aut vsucapiens acquirit verum dominium rei 
+      <lb ed="#P" n="30"/>prescripte. patet distinctio dominiorum hoc modo vel isto 
+      <lb ed="#P" n="31"/>est de iure humano. viii. distin. quo iure: sed sic est quod 
+      <lb ed="#P" n="32"/>per ius pontificium et cesareum per prescriptionem tran 
+      <lb ed="#P" n="33"/>fertur dominium rerum: igitur. Item si non esset 
+      transla<lb ed="#P" n="34" break="no"/>tio dominiorum per prescriptionem vel vsucapionem hoc 
+      <lb ed="#P" n="35"/>ideo esset quia homo non est priuandus dominio suo sine 
+      <lb ed="#P" n="36"/>eius consensu / sed hoc non obstat: igitur: probatio mi 
+      <lb ed="#P" n="37"/>noris hereticus iuridice declaratus talis. similiter 
+      com<lb ed="#P" n="38" break="no"/>mittens crimen lese maiestatis in regem amittit dominium 
+      <lb ed="#P" n="39"/>rerum suarum ipso nolente hoc ipisum contingit in bello et 
+      <lb ed="#P" n="40"/>in represaliis propter culpam bomo priuatur bonis 
+      <lb ed="#P" n="41"/>suis modo ille contra quem prescribitur vel 
+      vsuca<lb ed="#P" n="42" break="no"/>pitur est negligens in conseruanda re sua. Item nisi 
+      <lb ed="#P" n="43"/>esset prescriptio sequerentur inconuenientia in politia. 
+      <lb ed="#P" n="44"/>cilicet quod terre manerent inculte et sic esset maior caristia 
+      <lb ed="#P" n="45"/>et essent lites sine termino si homo tenens pacifice ali 
+      <lb ed="#P" n="46"/>quas terras reclamante nemine per quantunmcumque magna 
+      <lb ed="#P" n="47"/>tempora non maneret dominus sed alteri liceret ei 
+      moue<lb ed="#P" n="48" break="no"/>re litem de dominio per perditionem vel surreptionem literarum 
+      <lb ed="#P" n="49"/>et probationes in oppositum esset confusum chaor 
+      <lb ed="#P" n="50"/>Rursus est consensus virtualis particularis domini cum 
+      <lb ed="#P" n="51"/>subditi consentiunt in principem et quod condat eis leges ra 
+      <lb ed="#P" n="52"/>tionabiles: ergo in omnem legem rationabilem principis 
+      <lb ed="#P" n="53"/>consentit populus si audiret hanc vniuersalem quicumque 
+      <lb ed="#P" n="54"/>diceret statim assentio isti omnis lex rationabilis sta 
+      <lb ed="#P" n="55"/>tuta a principe est seruanda si non assentiat illi: sed 
+      <lb ed="#P" n="56"/>ponitur esse imprudens sufficit ergo quod consentiat vel 
+      <lb ed="#P" n="57"/>consentire debet amplius aliquis punitur sine 
+      cul<lb ed="#P" n="58" break="no"/>pa propria in bonis fortune. patet de herede commit 
+      <lb ed="#P" n="59"/>tentis crimen lese maiestati. Secunda conclusio acqui 
+      <!--190.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="60"/>rens dominium per prescriptionem vel vsucapionem sana 
+      <lb ed="#P" n="61"/>conscientia tenet acquisitum: nec tenetur restituere. 
+      pa<lb ed="#P" n="62" break="no"/>tet. nullus habens verum dominium in aliqua re tenetur 
+      il<lb ed="#P" n="63" break="no"/>lud restituere: praescribens et vsucapiens est huiusmoni 
+      <lb ed="#P" n="64"/>igitur. si dicas maiorem pati instantiam in vsurario qui 
+      <lb ed="#P" n="65"/>secundum aliquos acquirit dominium lucri vltra sortem addatur 
+      <lb ed="#P" n="66"/>iuste modo vsurarius non acquirit iuste dominium illius 
+      <lb ed="#P" n="67"/>lucri. sed dicis adhuc probatio non currit. patet per 
+      <lb ed="#P" n="68"/>mutuatarium qui licet non tenetur restituere mutuum 
+      <lb ed="#P" n="69"/>cum ex meo sit tuum tenetur restituere equiualens. 
+      pro<lb ed="#P" n="70" break="no"/>batur aliter conclusio iure acquiritur dominium rei 
+      prescri<lb ed="#P" n="71" break="no"/>pte et vsucapte si iure iuste et bene. xiiii. q. iiii. quid 
+      <lb ed="#P" n="72"/>dicam. hoc patet. f. de victionibus. et. C. de quadri. pre 
+      <lb ed="#P" n="73"/>scrip. bene a zenone et per totum. Ex istis 
+      conclusioni<lb ed="#P" n="74" break="no"/>bus sequitur quod si antiquus dominus peteret terram de 
+      <lb ed="#P" n="75"/>qua agitur per horam ante finem temporis requisiti ad prae 
+      <lb ed="#P" n="76"/>scribendum vel vsucapiendum homo tenetur 
+      resti<lb ed="#P" n="77" break="no"/>tuere: sed si illa hora finita primo venerit non tenetur. 
+      <lb ed="#P" n="78"/>secundo sequitur quod in instanti terminante tempus prae 
+      <lb ed="#P" n="79"/>scriptionis verum est dicere sortes nunc primo est 
+      <lb ed="#P" n="80"/>dominus huius rei et plato desinit esse dominus eiusdem pla 
+      <lb ed="#P" n="81"/>tone dormiente vigilantibus et non dormientibus 
+      <lb ed="#P" n="82"/>iura subueniunt si quis fuerit captus ab hostibus vel 
+      <lb ed="#P" n="83"/>in remotis partibus detentus iura illi subueniunt 
+      <lb ed="#P" n="84"/>potest boc explicare legislatori et ei subuenietur. 
+      <lb ed="#P" n="85"/>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

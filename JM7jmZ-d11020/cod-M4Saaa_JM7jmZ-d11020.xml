@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 1</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 1</title>
+               <date when="2021-07-06">July 06, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-M4Saaa">Paris 1509</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-06" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="20-r"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="JM7jmZ-d11020"><!-- l1d4q1 -->
+            <head xml:id="JM7jmZ-d11020-Hd1e108">Quaestio 1</head>
+            <head xml:id="JM7jmZ-d11020-Hd1e111" type="question-title">
+      An virtutes infunduntur in
+      baptismo
+    </head>
+            <p xml:id="JM7jmZ-d11020-d1e114">
+               <lb ed="#P" n="21"/>¶ Distinctionis quarte questio prima. 
+      <lb ed="#P" n="22"/>CIrca quartam distinctionem queritur an 
+      <lb ed="#P" n="23"/>Ivirtutes infunduntur in baptismo.
+    </p>
+            <p xml:id="JM7jmZ-d11020-d1e123">
+      Circa prae 
+      <lb ed="#P" n="24"/>positam questionem varie doctores inter 
+      <lb ed="#P" n="25"/>se opinantur. Sed pro solutione pono conclusiones 
+      </p>
+            <p xml:id="JM7jmZ-d11020-d1e130">
+               <lb ed="#P" n="26"/>¶ Prima est / licet naturaliter nullus potest 
+      pro<lb ed="#P" n="27" break="no"/>bare in nobis esse aliquas virtutes infusas 
+      debe<lb ed="#P" n="28" break="no"/>mus tamen firmiter aliquas credere nobis 
+      infun<lb ed="#P" n="29" break="no"/>di. Hec questio quo ad priorem partem probatur 
+      <lb ed="#P" n="30"/>quia nec per experientiam. quia non experimur in no 
+      <lb ed="#P" n="31"/>bis habitus quoscumque / nec per rationem quia hoc ma 
+      <lb ed="#P" n="32"/>xime esset a posteriori per actus. sed hoc non possu 
+      <lb ed="#P" n="33"/>mus probare si vnus paruulus baptisatus cui fides 
+      <lb ed="#P" n="34"/>infunditur nutriatur inter infideles nunquam audiens 
+      <lb ed="#P" n="35"/>loqui de hac / deus est trinus et vnus nunquam credet 
+      <lb ed="#P" n="36"/>illi. Secunda pars probatur quia auctoritates sanctorum 
+      <lb ed="#P" n="37"/>hoc vincunt ad hebre. xi. sine fide impossibile est place 
+      <lb ed="#P" n="38"/>re deo et paruuli non habent fidem acquisitam: erge 
+      <lb ed="#P" n="39"/>oportet quod illa auctoritas intelligatur de fide in fusa. Cha 
+      <lb ed="#P" n="40"/>ritas ponitur qualitas a deo infusa communiter 
+      con<lb ed="#P" n="41" break="no"/>tra magistrum. xvii. d. pri. et sic de istis duabus / illud est 
+      <lb ed="#P" n="42"/>patet ex. de baptismo et eius effec. maiores. in 
+      cle<lb ed="#P" n="43" break="no"/>mentinis de sum. trinitate et fide catholica fidei ca 
+      <lb ed="#P" n="44"/>tholice. §. verum. verum inquit romanus pontifex quia 
+      <lb ed="#P" n="45"/>quantum ad effectum baptismi in paruulis reperiuntur 
+      do<lb ed="#P" n="46" break="no"/>ctores theologi opiniones contrarias habuisse 
+      quibus<lb ed="#P" n="47" break="no"/>dam ex ipsis dicentibus paruulis quidem remitti. etc. et 
+      <lb ed="#P" n="48"/>paulopost sequitur nos autem attendentes generalem 
+      <lb ed="#P" n="49"/>efficatiam mortis christi quae per baptismata applicatur 
+      <lb ed="#P" n="50"/>pariter omnibus baptisatis opinionem secundam que 
+      di<lb ed="#P" n="51" break="no"/>cit tam adultis quam paruulis conferri in baptis. infor 
+      <lb ed="#P" n="52"/>mantem gratiam et virtutes tanquam probabiliorem de dicti 
+      <lb ed="#P" n="53"/>sanctorum doctorum modernorum theologie magis 
+      <lb ed="#P" n="54"/>consonam et concordem sacro approbante concilio 
+      du<lb ed="#P" n="55" break="no"/>ximus eligendam: et illud de tribus virtutibus thed 
+      <lb ed="#P" n="56"/>logicis communiter tenetur. coartamur dicere quod chari 
+      <lb ed="#P" n="57"/>tas infunditur quia secundum legem dei ordinatam non 
+      <lb ed="#P" n="58"/>datur aliquis qui non sit filius regni aut carceris quos 
+      <lb ed="#P" n="59"/>gstra diuidit. xv. de tri. c. xix. idem videtur de aliis duabus 
+      <!--054.xml-->
+      <cb ed="#P" n="b"/>
+            </p>
+            <p xml:id="JM7jmZ-d11020-d1e212">
+               <lb ed="#P" n="60"/>¶ Secunda conclusio quo ad virtutes morales 
+      pro<lb ed="#P" n="61" break="no"/>babilius est opposito alias virtutes puta 
+      temperan<lb ed="#P" n="62" break="no"/>tiam / iusticiam / et fortitudinem et breuiter de aliis 
+      <lb ed="#P" n="63"/>nobis ad bene viuendum adminiculis infundi. 
+      pro<lb ed="#P" n="64" break="no"/>batur per illud moysi deutero. xxxii. dei perfecta 
+      <lb ed="#P" n="65"/>sunt opera. sed hec probatio efficaciter non conclu 
+      <lb ed="#P" n="66"/>dit quia illa capta ad propositum probabis quod quicquid 
+      <lb ed="#P" n="67"/>est vtile ad beatitudinem consequendam nobis 
+      infum<lb ed="#P" n="68" break="no"/>ditur. quod non est verum nisi in principio quia dat no 
+      <lb ed="#P" n="69"/>bis potentiam ad omnia nobis necessaria 
+      consequen<lb ed="#P" n="70" break="no"/>da. probatur aliter hec conclusio. Romanus 
+      pon<lb ed="#P" n="71" break="no"/>tifex vocat illam opinionem probabiliorem esto quod non 
+      <lb ed="#P" n="72"/>precipiat illam opinionem insequi. ergo si non sit 
+      sor<lb ed="#P" n="73" break="no"/>tis ratio ad oppositum debemus illud imitari. consequent 
+      <lb ed="#P" n="74"/>est plana et loquitur indistincte de vutibus theologicis 
+      <lb ed="#P" n="75"/>et cardinalibus: erg concedens de aliquibus non debes illud ne 
+      <lb ed="#P" n="76"/>gare de aliis. Confirmo illud. viso quod omne argumen 
+      <lb ed="#P" n="77"/>tum contra hanc conclusionem est equaliter contra 
+      <lb ed="#P" n="78"/>primam et equaliter soluendum satius est hanc 
+      te<lb ed="#P" n="79" break="no"/>nere. Insuper sicut diffinitio maximi poentificis vbi 
+      <lb ed="#P" n="80"/>non constat de opposito est inconcusse tenenda sen 
+      <lb ed="#P" n="81"/>tentia quam probabiliorem existimat debet censeri 
+      <lb ed="#P" n="82"/>probabilior cum quo tamen stat licet cuipiam tali de 
+      <lb ed="#P" n="83"/>terminationi contrarie. multe tamen auctoritates oppon 
+      <lb ed="#P" n="84"/>insinuantes de adultis intelligende sunt et de virtu 
+      <lb ed="#P" n="85"/>tibus acquisitis vt est glo. roma. v. super illo verbo 
+      <lb ed="#P" n="86"/>proiusto quis moritur. dicit glo. est bonus qui non est 
+      <lb ed="#P" n="87"/>iustus sed qui natus est in simplicitate innocentie. Et 
+      <lb ed="#P" n="88"/>iaco. ii. fides sine operibus mortua est. et. ii. ethi. vtus 
+      <lb ed="#P" n="89"/>est quae habentem perficit et eius opus bonum reddit. et sic 
+      <lb ed="#P" n="90"/>de multis aliis auctorita. quae intelliguntur de virtutibus 
+      <lb ed="#P" n="91"/>acquisitis et in adultis. Si dicas hec virtutes sunt 
+      <lb ed="#P" n="92"/>inanes pro toto tempore infantie: ergo non sunt ponende. similiter 
+      <lb ed="#P" n="93"/>catulus ante nonu diem nec est cecus nec videns cum 
+      <lb ed="#P" n="94"/>coristus non est determinatum a natura tunc videndi: 
+      <lb ed="#P" n="95"/>ergo cum in illo ctormpte paruuli non possunt exire in actus 
+      <lb ed="#P" n="96"/>non reputabuntur iusti et temporati nec iniusti vel intem 
+      <lb ed="#P" n="97"/>perati. primum non mouet. virtutes manent in patria 
+      <lb ed="#P" n="98"/>ad decorem etiam iste virtutes prosunt accedente ratio 
+      <lb ed="#P" n="99"/>ne. Ad aliud dicitur non est simile in spunalibus et 
+      corpo<lb ed="#P" n="100" break="no"/>ralibus. visio prouenit ex dispositione organi. dicem 
+      <lb ed="#P" n="101"/>te aristie in de anima. si senex haberet oculum vt iuue 
+      <lb ed="#P" n="102"/>nis videret vt iuuenis. secundum multos organum est subintum 
+      <lb ed="#P" n="103"/>visionis. sola anima est subiectum virtutum que est 
+      <lb ed="#P" n="104"/>ita perfecte se habens in paruo sicut in adulto. sed  
+      <lb ed="#P" n="105"/>illud non satiffacit omnino est qualitas positiua in 
+      <lb ed="#P" n="106"/>paruulo. in cane non est aliqua cecitatem denominans 
+      <lb ed="#P" n="107"/>fides interdum capitur pro actu: quid est fides nisi 
+      <lb ed="#P" n="108"/>credere quod non vides / et alique alie auctoritates 
+      <lb ed="#P" n="109"/>beati augustini de baptismo paruulorum ad hoc so 
+      <lb ed="#P" n="110"/>nant.
+    </p>
+            <p xml:id="JM7jmZ-d11020-d1e325">
+      ¶ Contra primam conclusionem arguitur eot 
+      <lb ed="#P" n="111"/>sic. superuacaneum est dicere quod deus creet fidem o 
+      <lb ed="#P" n="112"/>infusam. probatur. quia nichil agit ad actum 
+      cre<lb ed="#P" n="113" break="no"/>dendi. pone duos quorum vnus est baptisatus et 
+      <lb ed="#P" n="114"/>alter non / baptisatus non magis credit quam alter et 
+      <lb ed="#P" n="115"/>si sic ad quid deseruit illa fides infusa 
+      Responde<lb ed="#P" n="116" break="no"/>tur per propositiones.
+    </p>
+            <p xml:id="JM7jmZ-d11020-d1e341">
+      ¶ Prima est / bene potest defendi 
+      <lb ed="#P" n="117"/>quod nullus est habitus in aimma vel corpore / lege diuina 
+      <lb ed="#P" n="118"/>seclusa. probatur hec conclusio. Tum primo: mul¬ 
+      <!--055.xml-->
+      <pb ed="#P" n="20-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>ti opinantur quod habitus et actus sunt eiusdem 
+      spe<lb ed="#P" n="2" break="no"/>ciei specialissime et concordat Albertus magnus in 
+      <lb ed="#P" n="3"/>predicamento qualitatis habitus et dispositio 
+      in<lb ed="#P" n="4" break="no"/>quit diferunt per magis et minus. Item 
+      probabi<lb ed="#P" n="5" break="no"/>le est quod motus localis est mobile scilicet substantia 
+      <lb ed="#P" n="6"/>tunc secundum hoc cursus est homo currens: ergo 
+      <lb ed="#P" n="7"/>ex multis actibus currendi non generatur habitus 
+      <lb ed="#P" n="8"/>sicut philosophi loquuntur sed est substantia currens 
+      <lb ed="#P" n="9"/>alioquin non essent eiusdem speciei actus cum hab 
+      <lb ed="#P" n="10"/>tu cuius oppositum supposuimus. Tum secundo 
+      <lb ed="#P" n="11"/>habitus in anima est eque presens sicut actus. ergo 
+      <lb ed="#P" n="12"/>possumus intueri habitum sicut et actum. illa cose 
+      <lb ed="#P" n="13"/>quentia est bona tenendo quod sunt eiusdem species 
+      <lb ed="#P" n="14"/>Si dicas distiguuntur specie sed habitus non est 
+      pro<lb ed="#P" n="15" break="no"/>sens in ratione obiecti esto quod localiter quemadmo 
+      <lb ed="#P" n="16"/>dum intueor colorem inherentem materie et non 
+      <lb ed="#P" n="17"/>materiam et tamen materia est eque presens 
+      loca<lb ed="#P" n="18" break="no"/>liter. apparenter instas sed non est idem. sunt 
+      mul<lb ed="#P" n="19" break="no"/>ta argumenta ad probandum materiam nos non posse in 
+      <lb ed="#P" n="20"/>tueri magni ponderis: hic autem non. Tum tertio 
+      <lb ed="#P" n="21"/>si vis probare quod est habitus in aliquo hoc maxime 
+      <lb ed="#P" n="22"/>est quia quis est magis procliuus ad exeundum in act 
+      <lb ed="#P" n="23"/>postactus quam heri et nudiustertius / sed hoc non sufficit 
+      <lb ed="#P" n="24"/>igitur probatio minoris. actus currendi vel 
+      seden<lb ed="#P" n="25" break="no"/>di non producit habitum currendi vel sedendi cum 
+      <lb ed="#P" n="26"/>cursus et sessio sint substantie currentes et 
+      seden<lb ed="#P" n="27" break="no"/>tes secundum nominales. dicetur tibi si aiax olei 
+      <lb ed="#P" n="28"/>frequenter currat / aptior est ad currendum quam ante 
+      <lb ed="#P" n="29"/>erat / non quia manet habitus inclinans actiue in 
+      <lb ed="#P" n="30"/>similes actus / sed quia taliter se habuit. quemadmo 
+      <lb ed="#P" n="31"/>dum sortes est currens et ante non currebat et nulla 
+      <lb ed="#P" n="32"/>res producitur de nouo sed membra sortis aliter se 
+      <lb ed="#P" n="33"/>habent quam antea eodemmodo de parmenide 
+      assue<lb ed="#P" n="34" break="no"/>to studere qui voluptuose bibliotecam non egreditur 
+      <lb ed="#P" n="35"/>et tamen non est opus superaddere habitum. volo 
+      <lb ed="#P" n="36"/>dicere si duo habeant decem actus circa eandem con 
+      <lb ed="#P" n="37"/>clusionem sortes et plato et deus impediuisset om 
+      <lb ed="#P" n="38"/>nem habitum in sorte ne aliquis generetur / et 
+      ge<lb ed="#P" n="39" break="no"/>neretur aliquis sicut tu imaginaris in platone: isti 
+      am<lb ed="#P" n="40" break="no"/>bo equalitur assentient conclusioni proposite / et sic 
+      su<lb ed="#P" n="41" break="no"/>peruacaneum est ponere habitum cum omnia sine habi 
+      <lb ed="#P" n="42"/>tu saluantur. tu es inficias eos eque assentire. hoc 
+      <lb ed="#P" n="43"/>non me fugit sed demonstra michi eos dispares assem 
+      <lb ed="#P" n="44"/>sus habituros. Item quemcunque actum potentia pro 
+      <lb ed="#P" n="45"/>ducit cum habitu potest defendi quod potest similem 
+      <lb ed="#P" n="46"/>producere sinc habitu. patet de primo actu qui 
+      po<lb ed="#P" n="47" break="no"/>test esse multum intensus. hiis non obstantibus quia 
+      <lb ed="#P" n="48"/>sancti videntur ponere habitus infusos eos 
+      firmi<lb ed="#P" n="49" break="no"/>ter pono et probabilius est mere naturaliter loque 
+      <lb ed="#P" n="50"/>do quod sunt habitus acquisiti sed propositionem quam 
+      <lb ed="#P" n="51"/>dixi reputo non penitus improbabilem seclusa 
+      fi<lb ed="#P" n="52" break="no"/>de quamquam doctrine. ii. ethico. aduersa videatur. 
+      </p>
+            <p xml:id="JM7jmZ-d11020-d1e467">
+               <lb ed="#P" n="53"/>¶ Secunda propositio / concesso quod sunt habitus 
+      in<lb ed="#P" n="54" break="no"/>fusi dubium est saltem non est lucidum an aliquam 
+      acti<lb ed="#P" n="55" break="no"/>uitatem habent hoc patet de paruulis ante assum 
+      <lb ed="#P" n="56"/>ptis.
+    </p>
+            <p xml:id="JM7jmZ-d11020-d1e478">
+      ¶ Tertia propositio / isti habitus infusi et 
+      ac<lb ed="#P" n="57" break="no"/>quisiti specie differunt. probatur / habitus 
+      acquisi<lb ed="#P" n="58" break="no"/>ti cum potentia sufficiunt producere actum 
+      credem<lb ed="#P" n="59" break="no"/>di circa vnum articulum / habitus infusi cum poten¬ 
+      <!--055.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="60"/>tia non sufficiunt producere actum: ergo isti 
+      habi<lb ed="#P" n="61" break="no"/>tus specie distinguntur. licet bonitas huius 
+      conse<lb ed="#P" n="62" break="no"/>quentie sit suspecta bene intellecta est apparens. 
+      <lb ed="#P" n="63"/>antecedens patet: esto quod adultus infidelis nunquam au 
+      <lb ed="#P" n="64"/>diens loqui de fide nostra baptisatus non 
+      assenti<lb ed="#P" n="65" break="no"/>re potest plus huic / deus est trinus et vnus quam non 
+      <lb ed="#P" n="66"/>baptisatus. Insuper si quis male habituatus acce 
+      <lb ed="#P" n="67"/>dat ad baptismum talis compiet se postea 
+      inclina<lb ed="#P" n="68" break="no"/>tum sicut ante vt dicemus infra / virtutes secundum ha 
+      <lb ed="#P" n="69"/>bitum infunduntur. sed inter habitus acquisitos tan 
+      <lb ed="#P" n="70"/>ta est repugnantia sicut inter actus et cum habitus 
+      <lb ed="#P" n="71"/>infusus stat naturaliter cum vitio opposito virtuti 
+      <lb ed="#P" n="72"/>acquirende oportet quod virtus infusa et acquisita non 
+      <lb ed="#P" n="73"/>sint eiusdem speciei. Si dicas odium sortis et 
+      dile<lb ed="#P" n="74" break="no"/>ctio platonis simul stant et non dilectio sortis et odi 
+      <lb ed="#P" n="75"/>um sortis et tamen dilectio sortis et platonis 
+      dile<lb ed="#P" n="76" break="no"/>ctio sunt eiusdem speciei fateor. probatio non 
+      va<lb ed="#P" n="77" break="no"/>cat meandris.
+    </p>
+            <p xml:id="JM7jmZ-d11020-d1e530">
+      ¶ Quarta propositio dubium est sed 
+      <lb ed="#P" n="78"/>est apparens quod habitus infusi sunt perfectiores ad 
+      <lb ed="#P" n="79"/>quisitis circa idem. quod sit dubium patet. habitus ac 
+      <lb ed="#P" n="80"/>quisiti cum nuda potentia sufficiunt producere actus 
+      <lb ed="#P" n="81"/>habitus infusi cum nuda potentia vt patet ex 
+      prae<lb ed="#P" n="82" break="no"/>missis non possunt. sed agere est conditio arguens 
+      <lb ed="#P" n="83"/>perfectionem vbi effectus a creatura potest produ 
+      <lb ed="#P" n="84"/>ci. hoc addiderim propter angelum non potentem 
+      <lb ed="#P" n="85"/>producere angelum. Secunda pars patet / isti habitus 
+      <lb ed="#P" n="86"/>specie distinguntur ex tertia ergo non sunt eque 
+      per<lb ed="#P" n="87" break="no"/>fecti. consequentia illa est plana et argutum est quod ha 
+      <lb ed="#P" n="88"/>bitus creati a deo sunt imperfectiores. In 
+      opposi<lb ed="#P" n="89" break="no"/>tum arguitur: isti habitus infusi non possunt produ 
+      <lb ed="#P" n="90"/>ci a creatura sed a solo deo ergo sunt perfectiores 
+      <lb ed="#P" n="91"/>ista consequentia tenet: quia habitus ille est perfectior 
+      <lb ed="#P" n="92"/>ad quem creatura ex suis naturalibus non potest con 
+      <lb ed="#P" n="93"/>currere quam habitus ad quem potest peruenire. quide 
+      <lb ed="#P" n="94"/>doctor dicit hoc argumentum est ponderandum 
+      com<lb ed="#P" n="95" break="no"/>cedit conclusionem argumenti et ex consequenti quod 
+      <lb ed="#P" n="96"/>est perfectior scientia vel intellectu vel sapientia qua 
+      <lb ed="#P" n="97"/>a creatuaa produci possunt. Sed hec ratio non 
+      vi<lb ed="#P" n="98" break="no"/>detur michi tanti ponderis. creatura potest produ 
+      <lb ed="#P" n="99"/>cere effectum perfectiorem quam hic effectus 
+      produ<lb ed="#P" n="100" break="no"/>ctus a deo. Forma ignis potest producere formam 
+      <lb ed="#P" n="101"/>ignis et solus deus materiam ignis / et tamen per 
+      <lb ed="#P" n="102"/>suum modum arguendi concluderetur quod materia essem 
+      <lb ed="#P" n="103"/>perfectior forma quod est falsum. Item beatitudo est 
+      <lb ed="#P" n="104"/>berfectior gratra. ad primam concurrit anima partialiter 
+      <lb ed="#P" n="105"/>actiue non ad secundam / bona est apparentia postquam fi 
+      <lb ed="#P" n="106"/>des insusa circa vnum articulum cum fide acquisita 
+      <lb ed="#P" n="107"/>sufficit producere actum et vtraque est ineuidens quod 
+      <lb ed="#P" n="108"/>illa que creatur a deo est perfectior sed ex illo non 
+      <lb ed="#P" n="109"/>sequitur quod est perfectior scientia vel beatitudine. 
+      </p>
+            <p xml:id="JM7jmZ-d11020-d1e603">
+               <lb ed="#P" n="110"/>¶ Quinta propositio fides infusa superueniente ad 
+      <lb ed="#P" n="111"/>quisita fide actiue concurrit ad actum fidei. probatur 
+      <lb ed="#P" n="112"/>apparentia est vt patet ex precedenti quod fides 
+      infu<lb ed="#P" n="113" break="no"/>sa sit perfectior acquisita / ergo non neganda est cau 
+      <lb ed="#P" n="114"/>salitas ab ea magis quam ab acquisita. imo esto quod esset 
+      <lb ed="#P" n="115"/>imperfectior sed hoc non est sussiciens causa cum anima nisi 
+      po<lb ed="#P" n="116" break="no"/>natur fides acquisita ita quod ille due cause cum anima 
+      <lb ed="#P" n="117"/>fufficiunt. acquisita sine infusa sufficienter inclinat 
+      <lb ed="#P" n="118"/>in actum: sed non econuerso / et hoc nobis expe¬ 
+      <!--056.xml-->
+      <pb ed="#P" n="21-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>rientia et ratione partim constat et sic habens fidem 
+      <lb ed="#P" n="2"/>infusam et acquisitam intentiorem actum credendi 
+      pro<lb ed="#P" n="3" break="no"/>ducit quam si haberet habitum acquisitum tantum. nec illa via 
+      <lb ed="#P" n="4"/>naturaliter habitum infusum in nobis probare 
+      po<lb ed="#P" n="5" break="no"/>test cum nesciatur a quibus fontibus scateat intentio 
+      <lb ed="#P" n="6"/>actus.
+    </p>
+            <p xml:id="JM7jmZ-d11020-d1e645">
+      ¶ Ex istis patet quod virtures cardinales infu 
+      <lb ed="#P" n="7"/>se non sunt eiusdem speciei cum acquisitis possumus 
+      <lb ed="#P" n="8"/>probare probabiliter habitus aquisitos per actus sri 
+      <lb ed="#P" n="9"/>temperantisam nescimus plus probare in baptismo 
+      <lb ed="#P" n="10"/>inquantum huiusmoni quam in non baptisato igitur. nec illud con 
+      <lb ed="#P" n="11"/>cludit quod non debemus ponere virtutes cardinales 
+      <lb ed="#P" n="12"/>alterius speciei in paruulis quia eodem modo 
+      argu<lb ed="#P" n="13" break="no"/>menta vnicunt de fide spe et charitate.
+    </p>
+            <p xml:id="JM7jmZ-d11020-d1e663">
+      ¶ Contra 
+      di<lb ed="#P" n="14" break="no"/>cis / deus infundit iusticiam / vel omnem iusticiam vel 
+      <lb ed="#P" n="15"/>aliquam et aliquam non / secund non est dicendum 
+      <lb ed="#P" n="16"/>nec primum sunt infiniti habitus specie distincti ip 
+      <lb ed="#P" n="17"/>sius iusticie dabiles / et sic de temperentia Ergo  
+      <lb ed="#P" n="18"/>si deus sufficienter infundit istos habitus infinitos 
+      <lb ed="#P" n="19"/>infundit / dicatur infundit vnum habitum qui 
+      in<lb ed="#P" n="20" break="no"/>clinat in omnes actus iusticie / sicut fides infusa 
+      im<lb ed="#P" n="21" break="no"/>clinat in omne illud quod de necessitate credendum 
+      <lb ed="#P" n="22"/>est et charitas infusa ad omnem actum meritorium 
+      <lb ed="#P" n="23"/>vt patet in. xvii. distinctione primi dictum est. 
+      </p>
+            <p xml:id="JM7jmZ-d11020-d1e687">
+               <lb ed="#P" n="24"/>¶ Secundo arguitur contra dicta / si esset aliquis 
+      <lb ed="#P" n="25"/>habitus creatus a deo ille ita naturaliter inclinaret 
+      <lb ed="#P" n="26"/>ad actum sicut habitus acquisitus. fortitudo 
+      infu<lb ed="#P" n="27" break="no"/>sa inclinat ita naturaliter ad actus fortitudinis sicut 
+      <lb ed="#P" n="28"/>habitus fortitudinis ex actibus genitus.
+    </p>
+            <p xml:id="JM7jmZ-d11020-d1e700">
+      ¶ 
+      Respom<lb ed="#P" n="29" break="no"/>detur concedendo dummodo habitus fortitudinis 
+      <lb ed="#P" n="30"/>infusus a deo esset eiusdem speciei specialissime cum 
+      <lb ed="#P" n="31"/>habitu acquisito producet suum actum cum ita par 
+      <lb ed="#P" n="32"/>uo motiuo sicut acquisitus sed habitus infusus quando 
+      <lb ed="#P" n="33"/>producit semper naturaliter producit sicut 
+      acqui<lb ed="#P" n="34" break="no"/>situs.
+    </p>
+            <p xml:id="JM7jmZ-d11020-d1e716">
+      ¶ Sed contra illud arguitur. dabilis est vna 
+      <lb ed="#P" n="35"/>pars fidei habitus acquisiti ita remissa sicut fides in 
+      <lb ed="#P" n="36"/>fusa et illa agit: ergo fides infusa cum est perfectio 
+      <lb ed="#P" n="37"/>cum sola potentia. Respondetur est color in argu 
+      <lb ed="#P" n="38"/>mento: sed consequentia nichil valet patet ex dictis: 
+      ex<lb ed="#P" n="39" break="no"/>perientia rerum magistra docet oppositum 
+      requi<lb ed="#P" n="40" break="no"/>rit secum fidem acquisitam vel motiuum extrinse 
+      <lb ed="#P" n="41"/>cum. Ex illo sequitur quod si esset vnus habitus fidei 
+      <lb ed="#P" n="42"/>infusus infinitus / actum fidei cum sola potentia quo 
+      <lb ed="#P" n="43"/>ducere non potest quia dato opposito deuenire 
+      opor<lb ed="#P" n="44" break="no"/>tet ad habitum finitum fidei infusum qui potest 
+      pro<lb ed="#P" n="45" break="no"/>ducere cum sola potentia actum quod est contra 
+      di<lb ed="#P" n="46" break="no"/>cta. et est simile sol partialiter potest producere 
+      asi<lb ed="#P" n="47" break="no"/>num puta cum asino secundo phisicorum / et forte asinus 
+      <lb ed="#P" n="48"/>sine sole / sed nunc tamen imaginemur si sol in infi 
+      <lb ed="#P" n="49"/>nitum crescat asinum sine asino producere nequit. 
+      <lb ed="#P" n="50"/>vnde boc interest inter habitum infusum et 
+      acqui<lb ed="#P" n="51" break="no"/>situm. acquisitus habitus et potentia possunt 
+      pro<lb ed="#P" n="52" break="no"/>ducere actus credendi sine alio adiumento extrin 
+      <lb ed="#P" n="53"/>seco. Infusus et potentia sine motiuo extrinseco non 
+      <lb ed="#P" n="54"/>valent quamquam in posterioribus dicere visus sim 
+      habi<lb ed="#P" n="55" break="no"/>tum scientificum et potentiam non posse 
+      produce<lb ed="#P" n="56" break="no"/>re scientiam actum sed potius fidem propter 
+      ra<lb ed="#P" n="57" break="no"/>tionculas quas ibi adduxi. Sed contra hoc feci ra 
+      <lb ed="#P" n="58"/>tionem cui satisfactum iri non existimo. sed alibi 
+      pa<lb ed="#P" n="59" break="no"/>tebit locupletius quid dicere velim. sufficit habens 
+      <!--056.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="60"/>fidem infusam et motiuum citius credit quam eam non 
+      <lb ed="#P" n="61"/>habens. et fortitudine infusa redimitus citius 
+      for<lb ed="#P" n="62" break="no"/>tius aget quam illa vacans et cum fortitudo est volun 
+      <lb ed="#P" n="63"/>tatis ornamentum que est libera cum potentia 
+      susf<lb ed="#P" n="64" break="no"/>ficit primum actum fortitudinis erigere vt 
+      appa<lb ed="#P" n="65" break="no"/>ret. hec de fide in vmbra dicta sunt secundum exigen 
+      <lb ed="#P" n="66"/>tiam buius materie. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

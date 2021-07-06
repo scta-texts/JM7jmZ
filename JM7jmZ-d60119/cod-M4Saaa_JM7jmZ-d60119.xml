@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 33</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 33</title>
+               <date when="2021-07-06">July 06, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-M4Saaa">Paris 1509</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-06" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="108-v"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="JM7jmZ-d60119"><!-- l4d15q33 -->
+            <head xml:id="JM7jmZ-d60119-Hd1e108">Quaestio 33</head>
+            <head xml:id="JM7jmZ-d60119-Hd1e111" type="question-title">
+      De latitudine iusti pretii
+      in emptione et venditione:
+      quomodo cognoscitur tale medium
+    </head>
+            <p xml:id="JM7jmZ-d60119-d1e114">
+               <lb ed="#P" n="95"/>¶ Distin. decime quinte quaestio trigesima tertia. 
+      <lb ed="#P" n="96"/>Ed quia in questione precedenti loquuti 
+      su<lb ed="#P" n="97" break="no"/> mus de latitudine iusti precii in emptione 
+      <lb ed="#P" n="98"/> et venditione. difficultas est quomodo illa ni 
+      <lb ed="#P" n="99"/>latitudo est metienda Erit questio trigesima tertia 
+      <lb ed="#P" n="100"/>huius decime quinte distinctionis quomodo cognoscitur 
+      <lb ed="#P" n="101"/>tale medium.
+    </p>
+            <p xml:id="JM7jmZ-d60119-d1e132">
+      Respondetur alique res venales habent 
+      <lb ed="#P" n="102"/>precium determinatum per leges municipales vtputa 
+      <lb ed="#P" n="103"/>quod pinta ceruisie vendatur duobus denariis et sic de 
+      <lb ed="#P" n="104"/>libra panis in talibus facile est cognoscere iustum 
+      prae<lb ed="#P" n="105" break="no"/>cium legumlatores habent oculum ad vtilitatem 
+      publi<lb ed="#P" n="106" break="no"/>cam et ad lucrum temporale huius venditoris in aliqui 
+      <lb ed="#P" n="107"/>bus precium est incertius vt in venditione panni 
+      pro<lb ed="#P" n="108" break="no"/>pter magnam varietatem in panno et in aliquibus 
+      <lb ed="#P" n="109"/>mercantiis raris de remotis partibus adductis in ta 
+      <lb ed="#P" n="110"/>libus non habendus est oculus ad bonitatem 
+      entita<lb ed="#P" n="111" break="no"/>tiuam quia tunc cattus prestaret toti tritico cicilie 
+      <lb ed="#P" n="112"/>vel toti turi sabei cum viuens prestat non viuenti nec 
+      <lb ed="#P" n="113"/>oportet respicere solum ad lucrum quod consequitur 
+      <lb ed="#P" n="114"/>emens quia sic potio euacuatia valeret centum mil 
+      <lb ed="#P" n="115"/>le libras cum liberet patientem. sed ponam aliquas 
+      <lb ed="#P" n="116"/>conclusiones.
+    </p>
+            <p xml:id="JM7jmZ-d60119-d1e167">
+      ¶ Prima est: prodest per leges muni¬ 
+      <!--232.xml-->
+      <pb ed="#P" n="109-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>cipales imponere precium in pane / ceruisia / et 
+      cete<lb ed="#P" n="2" break="no"/>ris rebus comestibilibus et potabilibus non nimis 
+      <lb ed="#P" n="3"/>altum et transgressores puniendo quando 
+      transcen<lb ed="#P" n="4" break="no"/>dunt precium in vendendo vel quando non iudica 
+      <lb ed="#P" n="5"/>tur sufficiens a iuratis examinatoribus. hec 
+      conclu<lb ed="#P" n="6" break="no"/>sio patet: legislatorum interest imponere certiores 
+      <lb ed="#P" n="7"/>leges vbi pullulat maior error: sed sic est in rebus 
+      <lb ed="#P" n="8"/>potabilibus et comestibilibus / vestis sufficit pro an 
+      <lb ed="#P" n="9"/>no vel duobus communi plebi / quolibet die comedi 
+      <lb ed="#P" n="10"/>tur interdum bis vel ter / et sensualitas ad boc tendit 
+      <lb ed="#P" n="11"/>effrenis si non cohibeatur ratione cum maior est in 
+      <lb ed="#P" n="12"/>clinatio circa cibum et potum ad emendum 
+      quali<lb ed="#P" n="13" break="no"/>tercunque vendatur quam circa aliam mercaturam par 
+      <lb ed="#P" n="14"/>est imponere leges certiores non est idem de cerui 
+      <lb ed="#P" n="15"/>sia et vino propter varietatem vini in bonitate non 
+      po<lb ed="#P" n="16" break="no"/>test imponi vna lex vniuersalis sed quilibet 
+      relin<lb ed="#P" n="17" break="no"/>quitur arbiter sui in ceruisia modicum est discrimen 
+      <lb ed="#P" n="18"/>in vigore ex equali grano equales capiendo 
+      men<lb ed="#P" n="19" break="no"/>suras potus dixi in vigore interdum propter aquan 
+      <lb ed="#P" n="20"/>assumptam ceruisia coloratur nunc ad rubedinem 
+      <lb ed="#P" n="21"/>vt in sancto andrea / in variis locis anglie nunc ad 
+      <lb ed="#P" n="22"/>alium colorem ita quod aliqua loca principatum 
+      ha<lb ed="#P" n="23" break="no"/>bent in talibus / vt ceruisia hadingtone peblus 
+      canta<lb ed="#P" n="24" break="no"/>brigie vt contingit de purpura tincta apud sanctum 
+      <lb ed="#P" n="25"/>marcellum in suburbio Parisiensi / siue ab vstrino 
+      <lb ed="#P" n="26"/>igne vel grano proueniat non refert: modicum est 
+      <lb ed="#P" n="27"/>discrimen in vigore. precium moderatum dicebam 
+      <lb ed="#P" n="28"/>statuendo vt lagena (eorum more loquendo) venum 
+      <lb ed="#P" n="29"/>detur octo denariis vel similiter tunc minus ordeo 
+      <lb ed="#P" n="30"/>consumitur vbi potus est fortis plus de grano con 
+      <lb ed="#P" n="31"/>sumitur et sic opus est maiore ordeo et ad 
+      magnitu<lb ed="#P" n="32" break="no"/>dinem ordei diminuitur triticum et sic annona cari 
+      <lb ed="#P" n="33"/>or non est modus horum granorum sicut in 
+      lombar<lb ed="#P" n="34" break="no"/>dia vbi vites et fructus in sculcis non impediunt triti 
+      <lb ed="#P" n="35"/>cum nec phas esset vlli licere sinere aliquem 
+      ven<lb ed="#P" n="36" break="no"/>dere pintam tribus denariis vbi communiter 
+      ven<lb ed="#P" n="37" break="no"/>ditur duobus quia sic omnes propter 
+      intemperan<lb ed="#P" n="38" break="no"/>tiam ad quam homines sunt propensi ad cariorem 
+      <lb ed="#P" n="39"/>potum ibunt et potissimum mechanici et pecuniam 
+      <lb ed="#P" n="40"/>consumentes et non domi laborantes 
+      patrefamili<lb ed="#P" n="41" break="no"/>as in taberna famuli minus laborant vno 
+      incon<lb ed="#P" n="42" break="no"/>uenienti dato in patrefamilias multa sequuntur in 
+      <lb ed="#P" n="43"/>vxore liberis et familia et istud debet seruari 
+      potissi<lb ed="#P" n="44" break="no"/>mum apud septentrionales qui meridionalibus sunt 
+      <lb ed="#P" n="45"/>propensiores cum robustiores sint a frigore 
+      circum<lb ed="#P" n="46" break="no"/>stante et sic per antiparistasim eorum calor vnitur. 
+      <lb ed="#P" n="47"/>flon valet dicere diuites possunt habere potum 
+      ca<lb ed="#P" n="48" break="no"/>riorem quam pauperes et nobiles quam ignobiles cum non 
+      <lb ed="#P" n="49"/>est eis eadem latitudo sobrietatis hiis et illis in quam 
+      <lb ed="#P" n="50"/>titate vel qualitate: ergo pro hiis debet esse potus 
+      me<lb ed="#P" n="51" break="no"/>lior quia illo dato vt supra ostensum est omns ad 
+      il<lb ed="#P" n="52" break="no"/>lum currerent si esset venalis habeant diuites pro 
+      <lb ed="#P" n="53"/>se potum non venalem non a domo cauponis sed  
+      <lb ed="#P" n="54"/>domi ne esset fraus in lege municipali.
+    </p>
+            <p xml:id="JM7jmZ-d60119-d1e294">
+      ¶ 
+      Secum<lb ed="#P" n="55" break="no"/>da conclusio in aliis rebus communibus venalibus 
+      <lb ed="#P" n="56"/>in quibus non est precium certum difformiter bonum 
+      <lb ed="#P" n="57"/>est tenere precium commune fori in talibus. patet 
+      <lb ed="#P" n="58"/>alia certitudo haberi non potest communitas non 
+      <lb ed="#P" n="59"/>facile aberrat sortes videt quomodo triticum sui 
+      <!--232.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="60"/>pagi venditur tale birretum vel liber tanti sortes po 
+      <lb ed="#P" n="61"/>test vendere sic de terris secundum consuetudinem. 
+      <lb ed="#P" n="62"/>patrie in tali loco plus valent duo iugera in hers in 
+      <lb ed="#P" n="63"/>dominio de gobra quam duo iugera in lammurmora non 
+      <lb ed="#P" n="64"/>video quod sortes potest vendere secundum damnum 
+      <lb ed="#P" n="65"/>quod passus est sine sua culpa quia tunc post naufragi 
+      <lb ed="#P" n="66"/>um licebit ei vendere vnum birretum commune centum 
+      <lb ed="#P" n="67"/>ducatis vel mille: et si dicas vt aliqui volunt potest 
+      <lb ed="#P" n="68"/>tantum capere sicut habuisset a rectore rei publice 
+      <lb ed="#P" n="69"/>pro laboribus et sua familia nutrienda cum est 
+      vti<lb ed="#P" n="70" break="no"/>lis reipublice vtile est mercari vt supra diximus in 
+      <lb ed="#P" n="71"/>brima questione huius materie et passum est 
+      naufra<lb ed="#P" n="72" break="no"/>gium sine sua culpa vel captus est ab hostibus. 
+      <lb ed="#P" n="73"/>Respondetur negando assumptum quia illo dato 
+      <lb ed="#P" n="74"/>licebit ei vendere vnum pilleum / vel horas nostre 
+      <lb ed="#P" n="75"/>domine mille ducatis quod non videtur 
+      admitten<lb ed="#P" n="76" break="no"/>dum non valet dicere potest augere precium in tota 
+      <lb ed="#P" n="77"/>multitudine ad suum interesse sed non in hoc vno 
+      <lb ed="#P" n="78"/>stat quod nichil venale relinquatur nisi pilleus vel 
+      ho<lb ed="#P" n="79" break="no"/>re nostre domine: nec valet currere in secunda 
+      na<lb ed="#P" n="80" break="no"/>uigatione faciet recompensam stat eum secundo 
+      ca<lb ed="#P" n="81" break="no"/>pi ab hostibus vel nichil habere ad mercandum 
+      de<lb ed="#P" n="82" break="no"/>bet vendere secundum precium currens sue patrie 
+      <lb ed="#P" n="83"/>discat cautius mercari in posterum: et licet sciat 
+      na<lb ed="#P" n="84" break="no"/>ues superuenientes inter duos dies et precium 
+      di<lb ed="#P" n="85" break="no"/>minuetur non tenetur illud aliis significare nec 
+      de<lb ed="#P" n="86" break="no"/>scendere de precio capere potest forum repertum 
+      <lb ed="#P" n="87"/>secundum quod multitudo offert: et potissimum in 
+      <lb ed="#P" n="88"/>rebus consumptibilibus vsu in cibo et potu 
+      suffi<lb ed="#P" n="89" break="no"/>cit capere mediocre lucrum cum homines ad illa 
+      <lb ed="#P" n="90"/>emenda vrgentur. At dicis quid est de primo 
+      vem<lb ed="#P" n="91" break="no"/>dente in foro vt in die sabbati hadigtone sortes 
+      pri<lb ed="#P" n="92" break="no"/>mus venit ad forum quomodo se habebit: si 
+      dica<lb ed="#P" n="93" break="no"/>tur ad forum precedens Contra stat quod erat magna 
+      <lb ed="#P" n="94"/>caristia in foro precedenti vel nunc est nouum granum 
+      <lb ed="#P" n="95"/>Respondeo loquutus sum de hiis que 
+      communi<lb ed="#P" n="96" break="no"/>ter eueniunt nec quemlibet angulum venari in hac 
+      <lb ed="#P" n="97"/>parte proponimus vel possumus sed ipse sortes 
+      a<lb ed="#P" n="98" break="no"/>gricola consideret raritatem grani vel fertilitatem 
+      <lb ed="#P" n="99"/>et habeat respectum ad annos preteritos in tali 
+      tem<lb ed="#P" n="100" break="no"/>pore / in tali fertilitate mercator afferens primum 
+      <lb ed="#P" n="101"/>triticum ad patriam sciens de nauibus venturis 
+      ca<lb ed="#P" n="102" break="no"/>piat moderatum lucrum nichil dicens de futuris si 
+      <lb ed="#P" n="103"/>voluerit peccant naues si inter se conueniant ad 
+      vem<lb ed="#P" n="104" break="no"/>dendum vel vnus nomine omnium vt sit caristia in 
+      <lb ed="#P" n="105"/>patria: imo si sic princeps potest statuere eis iustum 
+      <lb ed="#P" n="106"/>precium in quo habebunt rationabile lucrum et no 
+      <lb ed="#P" n="107"/>licebit eis illud precium transgredi.
+    </p>
+            <p xml:id="JM7jmZ-d60119-d1e416">
+      ¶ Tertia 
+      <lb ed="#P" n="108"/>conclusio mercator transeundo de patria in patriam et 
+      <lb ed="#P" n="109"/>emendo merces potest capere lucrum moderatum o 
+      <lb ed="#P" n="110"/>pro se et familia nutrienda et pro aliquibus diuitiis 
+      <lb ed="#P" n="111"/>congregandis pro liberis et hoc potissimum vbi non 
+      <lb ed="#P" n="112"/>patitur iacturam. Patet preter rationem esset 
+      di<lb ed="#P" n="113" break="no"/>cere quod vinum debet vendi ita bono foro londoniis 
+      <lb ed="#P" n="114"/>sicut rupelle / vel salmones depe sicut aberdonie vel 
+      <lb ed="#P" n="115"/>banne. si mercator staret domi in aliquo artificio 
+      pro<lb ed="#P" n="116" break="no"/>uideret sibi et sue familie congregando bona pro 
+      li<lb ed="#P" n="117" break="no"/>beris et cum ponat mercator se in periculis maris 
+      <lb ed="#P" n="118"/>Iuxta illud ecclesiast. xliii. Qui nauigat mare enu¬ 
+      <!--233.xml-->
+      <pb ed="#P" n="109-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>merat pericula eius et audientes mirabimur 
+      qua<lb ed="#P" n="2" break="no"/>re non poterit tantum capere et maius quam artifex po 
+      <lb ed="#P" n="3"/>test lucrari ratione laboris et periculi cum est nisi 
+      <lb ed="#P" n="4"/>vnus digitus inter eum et mortem: et sicut si 
+      om<lb ed="#P" n="5" break="no"/>nes calcei vel opes sortis essent ab eo ablate sine suf 
+      <lb ed="#P" n="6"/>culpa non licet sorti in immensum transcendere 
+      proe<lb ed="#P" n="7" break="no"/>cium commune: ita in proposito pro naufragio si ex 
+      <lb ed="#P" n="8"/>sua culpa bona amiserit constat quod non debet auge 
+      <lb ed="#P" n="9"/>re prectum sed fateor vbi homo est notabiliter dam 
+      <lb ed="#P" n="10"/>nificans sine culpa potest aliquem oculum habere 
+      <lb ed="#P" n="11"/>ad damnum et magis ponderando damnum quan 
+      <lb ed="#P" n="12"/>do merces sunt insolite.
+    </p>
+            <p xml:id="JM7jmZ-d60119-d1e475">
+      ¶ Quarta conclusio in 
+      <lb ed="#P" n="13"/>vendendo non debet esse deceptio in quantitate vo 
+      <lb ed="#P" n="14"/>dendo paruam vlnam pro magna vt dando vlnam 
+      <lb ed="#P" n="15"/>britannicam pro vlna gallica vel pintam gallicam 
+      <lb ed="#P" n="16"/>pro pinta britannica nec metiendo pannum per oram 
+      <lb ed="#P" n="17"/>vbi est modus metiri per medium dorsum cum per 
+      <lb ed="#P" n="18"/>extrema sit panui elongatio in qualitate vendendo 
+      <lb ed="#P" n="19"/>vinum aqua dilutum pro puro vino in substantia ven 
+      <lb ed="#P" n="20"/>dendo auricalcum pro auro vel laminas 
+      tenuissi<lb ed="#P" n="21" break="no"/>mas deauratas a lapide philosophico pro puro au 
+      <lb ed="#P" n="22"/>ro in istis tribus predicamentis hic peccatur. 
+      </p>
+            <p xml:id="JM7jmZ-d60119-d1e499">
+               <lb ed="#P" n="23"/>¶ Contra quartam conclusionem vnico 
+      argumen<lb ed="#P" n="24" break="no"/> to obiiciam primarii collegiorum vendunt vinum 
+      <lb ed="#P" n="25"/>aqua dilutum pro puro vino. secundum illud 
+      bap<lb ed="#P" n="26" break="no"/>tiste. Falsa que cum veris iungens cum doride hac 
+      <lb ed="#P" n="27"/>chum et non est dicendum quod peccent cum viri timo 
+      <lb ed="#P" n="28"/>rati id faciunt. forte dicis sciunt vinum purum 
+      no<lb ed="#P" n="29" break="no"/>cere studio iuuenum et eis conducit habere vinum 
+      <lb ed="#P" n="30"/>ymphatum non modica aqua: quia tale vinum ma 
+      <lb ed="#P" n="31"/>gis penetrat et per consequens citius inebriat vel 
+      <lb ed="#P" n="32"/>crebrum perturbat: ergo oportet satis aque 
+      impo<lb ed="#P" n="33" break="no"/>nere vt calor vini compescatur pro petulantia 
+      iu<lb ed="#P" n="34" break="no"/>uenum. Contra sequitur quod caupo propter similem 
+      <lb ed="#P" n="35"/>rationem deberet aquam in vinum ponere. Item 
+      <lb ed="#P" n="36"/>communiter dant vinum album quod est 
+      penetrabi<lb ed="#P" n="37" break="no"/>le dicis quia illud plus aque suffert antequam 
+      altere<lb ed="#P" n="38" break="no"/>tur quam rubeum vel sub rubeum. ex hoc colligo non ha 
+      <lb ed="#P" n="39"/>betur oculus ad aliud nisi parum vini dare. Si 
+      di<lb ed="#P" n="40" break="no"/>cas non esse simile de cauponibus cum bibentium 
+      <lb ed="#P" n="41"/>in taberna non habent curam. Contra regentes vtum: 
+      <lb ed="#P" n="42"/>tur discretione et magistri soluentes pro portione 
+      <lb ed="#P" n="43"/>non valet currere ad multitudinem ministrorum vn 
+      <lb ed="#P" n="44"/>ianitorum / dispensatorum / seruitorum aule / et simi 
+      <lb ed="#P" n="45"/>lium: vel ad non soluentes cum materia represaliarum 
+      <lb ed="#P" n="46"/>hic locum non habet quare punis vnum pro alio. 
+      <lb ed="#P" n="47"/>Respondetur transeat quod primarii non peccant dam 
+      <lb ed="#P" n="48"/>tes vinum aqua lymphatum iuuenibus 
+      dummo<lb ed="#P" n="49" break="no"/>do non sit corruptum vel nimis immoderata aqua 
+      impo<lb ed="#P" n="50" break="no"/>sita pro regentibus et aliis vendunt portionem do 
+      <lb ed="#P" n="51"/>mus secundum quod consueuerunt dare aliis nec es 
+      <lb ed="#P" n="52"/>obligatio dare pintam vini in die vel copinam in 
+      <lb ed="#P" n="53"/>prandio: sed vinum secundum consuetudinem 
+      do<lb ed="#P" n="54" break="no"/>mus de magistris regentibus et etatem habentibus 
+      <lb ed="#P" n="55"/>si non fuerint contenti prouideant eis alibi sed cum 
+      <lb ed="#P" n="56"/>est dignus mercennarius cibo suo non excuso prin 
+      <lb ed="#P" n="57"/>cipales qui sic vinum aquatissimum dant 
+      discre<lb ed="#P" n="58" break="no"/>tis viris. propterea coguntur habere vinum ab 
+      vr<lb ed="#P" n="59" break="no"/>be in estate magis peccat in abiectis carnibus et ouis 
+      <!--233.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="60"/>et piscibus non valet dicere praecipiunt procuratoribus bene pul 
+      <lb ed="#P" n="61"/>dere vnum dicunt aliud cogitant est omittunt frequenter 
+      co<lb ed="#P" n="62" break="no"/>gnoscere quid est in re prodesset vt opinor quod totiens casum 
+      <lb ed="#P" n="63"/>eorum circa portiones considerarent quotiens pueros mittunt 
+      <lb ed="#P" n="64"/>ad confessiones annue.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 1</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 1</title>
+               <date when="2021-07-06">July 06, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-M4Saaa">Paris 1509</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-06" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="49-r"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="JM7jmZ-d27255"><!-- l1d11q1 -->
+            <head xml:id="JM7jmZ-d27255-Hd1e108">Quaestio 1</head>
+            <head xml:id="JM7jmZ-d27255-Hd1e111" type="question-title">
+      An panis transubstantietur
+      in corpus dominicum?
+    </head>
+            <p xml:id="JM7jmZ-d27255-d1e114">
+               <lb ed="#P" n="80"/>¶ Distinctionis vndecime questio prima. 
+      </p>
+            <p xml:id="JM7jmZ-d27255-d1e119">
+               <lb ed="#P" n="81"/>¶ QVeritur circa hanc distinctionem 
+      vndeci<lb ed="#P" n="82" break="no"/>mam an panis transsubstantiatur in corpus 
+      <lb ed="#P" n="83"/>A dominicum. Circa hanc questionem declarabitur 
+      <lb ed="#P" n="84"/>vnus terminus et ponentur conclusiones quae 
+      impugna<lb ed="#P" n="85" break="no"/>buntur. Terminus est transsubstantiatio. ii. de celo lo 
+      <lb ed="#P" n="86"/>quendum est vt plures / theologi vtuntur solum illo 
+      <lb ed="#P" n="87"/>termino circa sacramentum eucharistie quo circa non 
+      <lb ed="#P" n="88"/>oportet exacte querere diffinitionem conuertibilem 
+      <lb ed="#P" n="89"/>cum diffinito mediante quacunque copula sed 
+      diffi<lb ed="#P" n="90" break="no"/>nitur vt diffinitio competat transsubstantiationi qua 
+      <lb ed="#P" n="91"/>vtimur et sic Transsubstantiatio est substantia desi 
+      <lb ed="#P" n="92"/>nens totaliter esse loco cuius alia substantia imme 
+      <lb ed="#P" n="93"/>diate succedit. Substantia ponitur loco generis 
+      li<lb ed="#P" n="94" break="no"/>cet non sit verum genus eius postquam est terminus ab 
+      <lb ed="#P" n="95"/>solutus et transsubstantiatio connotatiuus sed pla 
+      <lb ed="#P" n="96"/>cuit amplius ponere quam mutatio vel motus quia quis 
+      <lb ed="#P" n="97"/>piam dubitaret que res est transsubstantiatio non est 
+      <lb ed="#P" n="98"/>transmutatio ad locum si corpus nullibi esset in 
+      re<lb ed="#P" n="99" break="no"/>rum natura inciperet in prolatione istorum verborum 
+      <lb ed="#P" n="100"/>esse sub istis speciebus nec est nunc motus localis 
+      <lb ed="#P" n="101"/>quando incipit sub sacramento quo fit in 
+      transsub<lb ed="#P" n="102" break="no"/>stantiatione non est necesse aliquid incipere de 
+      nouo<lb ed="#P" n="103" break="no"/>nec panis trassubstantiatur in deitatem cum illa est vbi 
+      <lb ed="#P" n="104"/>que et non fit ob desitionem alterius substantie nisi 
+      di<lb ed="#P" n="105" break="no"/>cas fufficit incipere esse sub speciali modo. vlterius 
+      <lb ed="#P" n="106"/>patet panis transsubstantiatur in sanguinem sed non 
+      <lb ed="#P" n="107"/>primo similiter vinum in corpus concomitanter: 
+      <lb ed="#P" n="108"/>nec oportet materiam panis in materiam corporis 
+      <lb ed="#P" n="109"/>christi et formam in formam transsubstantiari sed 
+      <lb ed="#P" n="110"/>totus panis in totum christi corpus transsubstantia 
+      <lb ed="#P" n="111"/>tur / totaliter capitur vt sit aduerbium de totus 
+      sin<lb ed="#P" n="112" break="no"/>cathegoreumatice hoc est secundum quanlibet par 
+      <lb ed="#P" n="113"/>tem eius si habeat partes / loco capitur pro loco ve 
+      <lb ed="#P" n="114"/>ro vel imaginario quia si vna substantia desinat to 
+      <lb ed="#P" n="115"/>taliter esse parisius et alia incipiat esse rome non 
+      <lb ed="#P" n="116"/>est transsubstantiatio: et dicitur immediate quia fi 
+      <lb ed="#P" n="117"/>mediat tempus magnum non est transsubstantiatio 
+      <!--113.xml-->
+      <pb ed="#P" n="49-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>et hoc satis sonat vis vocabuli. 
+      transsubstantia<lb ed="#P" n="2" break="no"/>tio quasi vna substantia in aliam transiens sed ad  
+      <lb ed="#P" n="3"/>quem sensum transit ex dicendis infra patebit: ita 
+      <lb ed="#P" n="4"/>quod in effectu est dicere. Transsubstantiatio pro 
+      sub<lb ed="#P" n="5" break="no"/>stantia supponit connotando illa quaue ponuntur 
+      imdif<lb ed="#P" n="6" break="no"/>finitione eius puta quod desinat esse et loco eius alia sud 
+      <lb ed="#P" n="7"/>cedat. Terminus immediatus in transsubstantiatione 
+      <lb ed="#P" n="8"/>panis est corpus pro altera parte compositi / in tridud 
+      <lb ed="#P" n="9"/>anima non fuisset vi illius consecrationis hoc est cor 
+      <lb ed="#P" n="10"/>pus meum si petrus tunc consecrasset / concomitanter 
+      <lb ed="#P" n="11"/>nunc est anima sanguis diuinitas et alia que a 
+      cor<lb ed="#P" n="12" break="no"/>pore non separantur. in consecratione vini / sanguis est 
+      <lb ed="#P" n="13"/>terminus immediatus et alia concomitanter 
+      conse<lb ed="#P" n="14" break="no"/>quuntur. Ex hac diffinitione infero correlaria. primum 
+      <lb ed="#P" n="15"/>est: quelibet substantia creata in quanlibet substantiam 
+      <lb ed="#P" n="16"/>creatam non communicantem secum in parte transsubstan 
+      <lb ed="#P" n="17"/>tiari potest. hoc patet ad hoc nil aliud requiritur ni 
+      <lb ed="#P" n="18"/>si quod prior substantia desinat et alia succedat vice ei 
+      <lb ed="#P" n="19"/>et ita potest esse in omnibus / restringebatur dictum nisi 
+      <lb ed="#P" n="20"/>secum communicet in parte: forma substantialis non potest 
+      <lb ed="#P" n="21"/>transsubstantiari in totum compositum: quod patet: quia alias 
+      <lb ed="#P" n="22"/>forma desinente esse totum compositum esse esset possi 
+      <lb ed="#P" n="23"/>bile quod est falsum. Secundum correlarium: deus non po 
+      <lb ed="#P" n="24"/>test t ranssubstantiari: patet quia non potest 
+      desine<lb ed="#P" n="25" break="no"/>re esse igitur. Tertium correlarium si albedine 
+      desi<lb ed="#P" n="26" break="no"/>nente esse sequeretur loco eius nigredo non est 
+      trans<lb ed="#P" n="27" break="no"/>substantiatio patet: hic non mutatur substantia in sub 
+      <lb ed="#P" n="28"/>stantiam sed potius esset transaccidentatio etiam si 
+      ac<lb ed="#P" n="29" break="no"/>cidens in substantiam mutetur. vel econuerso transsul 
+      <lb ed="#P" n="30"/>stantiatio deficiente comnotatione termini positiui de 
+      <lb ed="#P" n="31"/>ficit eius suppositio. Quartum correlarium quando aer 
+      <lb ed="#P" n="32"/>mutatur in aquam non est transsubstantiatio patet: quia 
+      <lb ed="#P" n="33"/>non desinit aer secundum se et quodlibet sui materia ea 
+      <lb ed="#P" n="34"/>dem numero manet sub forma aque interdum substan 
+      <lb ed="#P" n="35"/>tia in substantiam mutatur accidens in accidens 
+      mu<lb ed="#P" n="36" break="no"/>tari potest et substantia in accidens et econuerso ista mu 
+      <lb ed="#P" n="37"/>tatio sub nulla specie motus tacta a philosophis in 
+      <lb ed="#P" n="38"/>cluditur nec est generatio: quia licet in ea sit mutatio 
+      <lb ed="#P" n="39"/>huius totius in hoc totum hoc est cathegoreumati 
+      <lb ed="#P" n="40"/>ce totius quia forma generatur totum compositum 
+      gen<lb ed="#P" n="41" break="no"/>ratur vt patet per eius diffinitionem non est corruptio 
+      <lb ed="#P" n="42"/>cum in vtroque termino conuertibilium manet eadem 
+      <lb ed="#P" n="43"/>materia et ita currendo per alias species motus. 
+      </p>
+            <p xml:id="JM7jmZ-d27255-d1e301">
+               <lb ed="#P" n="44"/>¶ Istis notatis pono tres conclusiones. Prima est 
+      <lb ed="#P" n="45"/>possibile est substantiam transmutari in substantiam 
+      </p>
+            <p xml:id="JM7jmZ-d27255-d1e309">
+               <lb ed="#P" n="46"/>¶ Secunda conclusio panis per nullam potentiam 
+      <lb ed="#P" n="47"/>potest esse corpus christi.
+    </p>
+            <p xml:id="JM7jmZ-d27255-d1e316">
+      ¶ Tertia conclusio 
+      pa<lb ed="#P" n="48" break="no"/>nis transsubstantiatur in benedictum corpus 
+      chri<lb ed="#P" n="49" break="no"/>sti. Prima conclusio probatur: deus potest destrue 
+      <lb ed="#P" n="50"/>re substantiam secundum se et quodlibet sui et aliam 
+      <lb ed="#P" n="51"/>producere loco illius igitur. Secunda conclusio 
+      pro<lb ed="#P" n="52" break="no"/>batur: panis et corpus christi specie distinguntur: ergo 
+      <lb ed="#P" n="53"/>panis non potest esse corpus christi. tenet consequentia: quia 
+      <lb ed="#P" n="54"/>res de specie essentiali in essentialem mutari non po 
+      <lb ed="#P" n="55"/>test. Preterea da oppositu mpanis potest esse corpus 
+      <lb ed="#P" n="56"/>christi illa est modalis diuisa possibilis per te tunc est 
+      <lb ed="#P" n="57"/>necessariam postquam nullum extremum eius restringi 
+      <lb ed="#P" n="58"/>Idem esset michi quando esset contingens: ergo sua 
+      <lb ed="#P" n="59"/>de inesse est possibilis puta hec / panis est corpus chri 
+      <!--113.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="60"/>sti et sic oportet quod idem numero sit panis et corpus 
+      <lb ed="#P" n="61"/>christi. Fortassis dicis illa non est sua de ineem sed ista 
+      <lb ed="#P" n="62"/>hoc est corpus christi hoc in primis non valet 
+      post<lb ed="#P" n="63" break="no"/>quam subiectum est terminus absolutus qui 
+      frequen<lb ed="#P" n="64" break="no"/>ter debet stare in propria forma ponendo illam de 
+      <lb ed="#P" n="65"/>inesse saltem in proposito: patet intelligenti: hoc non 
+      <lb ed="#P" n="66"/>contingit in proposito. secundo non euitat 
+      argu<lb ed="#P" n="67" break="no"/>mentum. Quero quid demonstras quando dicis hoc 
+      <lb ed="#P" n="68"/>est corpus christi / vel illud erat panis et sic habetur quod 
+      <lb ed="#P" n="69"/>panis est homo. si demonstres corpus christi quod num 
+      <lb ed="#P" n="70"/>quam erat panis notum est intelligenti quod non das suam 
+      <lb ed="#P" n="71"/>de inesse. Tertia conclusio non potest probari nisi 
+      <lb ed="#P" n="72"/>aucotoritate sanctorum: et hoc patet extra de summa 
+      <lb ed="#P" n="73"/>ttinitate et fide catholica. firmiter. et extra de 
+      cele<lb ed="#P" n="74" break="no"/>bratione missarum. cum marthe. Dicis hec est 
+      fal<lb ed="#P" n="75" break="no"/>sa panis est materia eucharistie: eucharistia non est 
+      <lb ed="#P" n="76"/>quousque corpus christi contineatur sub illis speciebus 
+      <lb ed="#P" n="77"/>et tunc non est panis. eodemmodo de inesse ostendit 
+      <lb ed="#P" n="78"/>hanc de futuro falsam panis erit materia 
+      euchari<lb ed="#P" n="79" break="no"/>stie. sed ad bunc sensum admittatur panis est mate 
+      <lb ed="#P" n="80"/>ria eucharistie / panis presupponitur ad hoc quod fiat hoc 
+      <lb ed="#P" n="81"/>modo eucharistia. preter rationem est modus duram 
+      <lb ed="#P" n="82"/>di quod panis materia mutatur in corpus christi sicut ali 
+      <lb ed="#P" n="83"/>mentum in alito virtute diuina: iam corpus christi im 
+      <lb ed="#P" n="84"/>moderatum corpus haberet quod est absurdum ni 
+      <lb ed="#P" n="85"/>chil conuertitur in corpus gloriosum: et licet christus 
+      <lb ed="#P" n="86"/>realiter comedit post resurrectionem illud resolue 
+      <lb ed="#P" n="87"/>batur in aliam materiam: nutritio non est de ratione 
+      <lb ed="#P" n="88"/>comestionis sed in os intrare et descendere in 
+      sto<lb ed="#P" n="89" break="no"/>macho licet statim eiiciatur per vomitum vel 
+      se<lb ed="#P" n="90" break="no"/>cessus et quia angeli non habent ventres non come 
+      <lb ed="#P" n="91"/>dunt: male coaptat dicta damasceni libro quarto ca 
+      <lb ed="#P" n="92"/>pite. xiiii. licet male quotet vel dicit quomodo 
+      natu<lb ed="#P" n="93" break="no"/>raliter per comestionem panis / et vinum et aqua per 
+      <lb ed="#P" n="94"/>potum et corpus et sanguinem bibent i et credentis 
+      <lb ed="#P" n="95"/>transmutatur. ex verbis illis vult solum quod ibi est trans 
+      <lb ed="#P" n="96"/>mutatio vini et panis in corpus et sanguinem pater 
+      <lb ed="#P" n="97"/>intelligenti damasce. deficit in alio quod non 
+      mute<lb ed="#P" n="98" break="no"/>tur corpus per alimentum conuersum in alitum con 
+      <lb ed="#P" n="99"/>stat quod non manet primo identitatis et per consequens 
+      <lb ed="#P" n="100"/>non conuertetur in corpus gloriosum vbi dicit mo 
+      <lb ed="#P" n="101"/>dum communem non intelligibilem oppositum est ve 
+      <lb ed="#P" n="102"/>rum et suus modus multas absurditates inuoluit 
+      <lb ed="#P" n="103"/>et explodendus est: sicut deus facit suum corpus es 
+      <lb ed="#P" n="104"/>se sub speciebus panis et vini prolatis terminis es 
+      <lb ed="#P" n="105"/>non pertranseundo per medium sic potest facere quod 
+      <lb ed="#P" n="106"/>cibus assumptus in stomachoiu palestina sit statim 
+      <lb ed="#P" n="107"/>post boc in taprobana.
+    </p>
+            <p xml:id="JM7jmZ-d27255-d1e453">
+      ¶ Et quia prima conclusio 
+      <lb ed="#P" n="108"/>est perspicua Contra secundam arguo: ipsa est con 
+      <lb ed="#P" n="109"/>tra beatum ambrosium in libro de sacramentis qui 
+      <lb ed="#P" n="110"/>multis argumentis astruere nititur quod hec est 
+      possi<lb ed="#P" n="111" break="no"/>bilis panis est corpus christi: probat quod ex virga 
+      <lb ed="#P" n="112"/>moysi factus est coluber que specie essentiali 
+      diffe<lb ed="#P" n="113" break="no"/>runt. Coufirmo illud: vxor loth vt dicitur in genesi 
+      <lb ed="#P" n="114"/>vicesimo nono capitulo: conuersa est in effigiem sa 
+      <lb ed="#P" n="115"/>lis. et rex assiriorum nabuchodonosor in bouem. 
+      <lb ed="#P" n="116"/>danielis quarto. Preterea corpus christi potest 
+      <lb ed="#P" n="117"/>accipere panem in vnionem vpostaticam sicut 
+      de<lb ed="#P" n="118" break="no"/>us vniuit naturam bumanam: et tunc illa erit ve¬ 
+      <!--114.xml-->
+      <pb ed="#P" n="50-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>ra aliquis panis est corpus christi. Respondetu 
+      <lb ed="#P" n="2"/>supponamus cum aristotele modum illorum phil 
+      <lb ed="#P" n="3"/>sophorum falsum / tenentium materiam esse totam sul 
+      <lb ed="#P" n="4"/>stantiam rei licet naturaliter difficile esset illum in 
+      <lb ed="#P" n="5"/>probare concederet istas asinus potest esse bos ignis 
+      <lb ed="#P" n="6"/>potest esse aqua accidentia alia requiruntur ad ess 
+      <lb ed="#P" n="7"/>asini quam bouis hanc negaret asinus est bos nec est suf 
+      <lb ed="#P" n="8"/>de inesse sed hec hoc est bos demonstrando 
+      boue<lb ed="#P" n="9" break="no"/>qui ante realiter erat asinus mediate vel immedia 
+      <lb ed="#P" n="10"/>te bos asinus et termini quos absolutos vocamus 
+      <lb ed="#P" n="11"/>reputaret connotatiuos. Iste modus est hereticus 
+      <lb ed="#P" n="12"/>de homine vt fide constat et preter rationem in aliis 
+      <lb ed="#P" n="13"/>propterea quo ad hoc supponamus modum aristo 
+      <lb ed="#P" n="14"/>telis. dico quod beatus ambrosius vult ostendere quo 
+      <lb ed="#P" n="15"/>nam pacto virtute diuina vna substantia potest in aliam 
+      <lb ed="#P" n="16"/>mutari non sicut album potest esse nigrum quia 
+      ea<lb ed="#P" n="17" break="no"/>dem res numero que est alba est vel potest esse 
+      ni<lb ed="#P" n="18" break="no"/>gra. secus est de serpente et virga et pro modo 
+      lo<lb ed="#P" n="19" break="no"/>quendi idem est apud aristotelem in metheoris. et in 
+      <lb ed="#P" n="20"/>de generatione concedit vnam substantiam in aliam 
+      <lb ed="#P" n="21"/>corrumpi et generari / aer in aquam conuertitur non 
+      <lb ed="#P" n="22"/>quod eadem res que est aer possit esse aqua sed quod aqua 
+      <lb ed="#P" n="23"/>aeri succedit / sic corpus christi substantie panis succe 
+      <lb ed="#P" n="24"/>dit: sed discrimen est de aere et aqua et in proposi 
+      <lb ed="#P" n="25"/>to quia in primis manet materia communis hic autem 
+      <lb ed="#P" n="26"/>non sed desinit esse secundum se et quodlibet sui prae 
+      <lb ed="#P" n="27"/>nis / sic de virga moysi eadem materia numero que 
+      <lb ed="#P" n="28"/>informabatur forma virge informatur forma 
+      ser<lb ed="#P" n="29" break="no"/>pentis et econuerso et hoc miraculose magi phara 
+      <lb ed="#P" n="30"/>onis virtute demonica illud apparenter vel vere fe 
+      <lb ed="#P" n="31"/>cerunt sed non est argumento cure quid interest in 
+      <lb ed="#P" n="32"/>ter vera miracula moysi in exodo et miracula 
+      ma<lb ed="#P" n="33" break="no"/>gorum. sufficit quod non aliter fit virga serpens nec econ 
+      <lb ed="#P" n="34"/>uerso plusquam aer fit aqua / et sic aqua conuertitur in 
+      <lb ed="#P" n="35"/>vinum in chana galilee: fortasse mansit materia que 
+      <lb ed="#P" n="36"/>erat aque / informata forma vini. et pariforma nega 
+      <lb ed="#P" n="37"/>tur quod nabuchodonosor erat bos vel vxor loth 
+      effi<lb ed="#P" n="38" break="no"/>gies salis in sensu quem pretendit argumentum nec 
+      <lb ed="#P" n="39"/>est litteralis: sed quia mortua est quia retro aspexit 
+      <lb ed="#P" n="40"/>ad sodomiam et conuersa est in statuam salis id est 
+      <lb ed="#P" n="41"/>ymago sapientie. et illud quadrat verbis christi. luce 
+      <lb ed="#P" n="42"/>xvii. Memores estote vxoris loth et astipulatur se 
+      <lb ed="#P" n="43"/>dulius. Toth sodome fugiente chaos dum respicit 
+      <lb ed="#P" n="44"/>vxor In statuam mutatata salis stupefacta reman 
+      <lb ed="#P" n="45"/>sit Ad penam conuersa suam quod nemo retrorsum: 
+      <lb ed="#P" n="46"/>Noxia contempti vitans discrimina mundi Aspiciens 
+      <lb ed="#P" n="47"/>saluandus erit nec debet arator dignum opus exer 
+      <lb ed="#P" n="48"/>cens vultum in sua terga referre. 
+      Nabuchodono<lb ed="#P" n="49" break="no"/>sor conuersus est in bouem id est in bouinam 
+      men<lb ed="#P" n="50" break="no"/>tem. xxiii. questione quarta. nabuchodonosor. deus 
+      <lb ed="#P" n="51"/>propter superbiam eius ita eum priuauit ratione. si 
+      <lb ed="#P" n="52"/>mile scribit beatus augustinus ad bonifacium: et re 
+      <lb ed="#P" n="53"/>citatur. xvii. questio. quarta. miror. Exillo patet om 
+      <lb ed="#P" n="54"/>nes tales esse impossibiles: panis erit corpus 
+      chri<lb ed="#P" n="55" break="no"/>sti: panis potest esse corpus christi: et quelibet talis 
+      <lb ed="#P" n="56"/>in recto panis incipit esse corpus christi: sed tales sunt 
+      <lb ed="#P" n="57"/>concedende panis mutatur in corpus christi vbi pre 
+      <lb ed="#P" n="58"/>dicatum est hoc totum mutatum in corpus christi 
+      pa<lb ed="#P" n="59" break="no"/>nis transsubstantiatur in corpus christi. Sed aduen 
+      <!--114.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="60"/>te quod hec est multiplex ex pane fit corpus christi vel 
+      <lb ed="#P" n="61"/>ex dicit circunstantiam cause materialis 
+      quemad<lb ed="#P" n="62" break="no"/>modum dicimus: ex ferro fit cultellus et sic est 
+      fal<lb ed="#P" n="63" break="no"/>sa. vel dicit circunstantiam termini a quo et sic est ve 
+      <lb ed="#P" n="64"/>ra quia pane desinente esse incipit hic esse corpus chri 
+      <lb ed="#P" n="65"/>sti. Ad secundum vbi arguis corpus potest 
+      accipe<lb ed="#P" n="66" break="no"/>re vpostatice panem tunc illa esset concedenda. 
+      Re<lb ed="#P" n="67" break="no"/>spondetur dupliciter primo quod illa tunc 
+      concedere<lb ed="#P" n="68" break="no"/>tur quemadmodum si deus vniret vpostatice asinum 
+      <lb ed="#P" n="69"/>iam concederetur hec: homo est asinus sic captis ter 
+      <lb ed="#P" n="70"/>minis. Secundo dico quod si deus dimitteret humani 
+      <lb ed="#P" n="71"/>tatem sicut potest de potentia eius absoluta et 
+      assu<lb ed="#P" n="72" break="no"/>meret vnum panem tunc concedendum foret 
+      pa<lb ed="#P" n="73" break="no"/>nis realiter est corpus christi puta assumptum a 
+      chri<lb ed="#P" n="74" break="no"/>sto et christus panis per communicationem 
+      ideoma<lb ed="#P" n="75" break="no"/>tum: sed non est sic in proposito. sed adhuc instas ve 
+      <lb ed="#P" n="76"/>niale specie differt a mortali et tamen veniale potest 
+      <lb ed="#P" n="77"/>esse mortale igitur. Rursus capio materiam et for 
+      <lb ed="#P" n="78"/>mam platonis nunc mortui et demonstro cum illis 
+      <lb ed="#P" n="79"/>sortem sic arguendo: hec specie differunt cum 
+      nul<lb ed="#P" n="80" break="no"/>la specie specialissima contineantur / et tamen olim 
+      <lb ed="#P" n="81"/>erunt eiusdem speciei in resurrectione: ergo non in 
+      <lb ed="#P" n="82"/>conuenit aliqua transire de specie essentiali in 
+      spe<lb ed="#P" n="83" break="no"/>ciem. Ad primum dicitur capto veniali essentiali 
+      <lb ed="#P" n="84"/>specie differente a mortali in illud transire non 
+      va<lb ed="#P" n="85" break="no"/>let / aliquod veniale est eiusdem speciei entitatiue cum 
+      <lb ed="#P" n="86"/>mortali licet non eiusdem speciei specialissime in ge 
+      <lb ed="#P" n="87"/>nere malicie et de illo non inconuenit. Ad secundum 
+      <lb ed="#P" n="88"/>potest quispiam dicere quod ille partes signate sunt 
+      e<lb ed="#P" n="89" break="no"/>iusdem speciei specialissime cum sorte licet non con 
+      <lb ed="#P" n="90"/>tineantur sub homine nec asino: nec sufficit 
+      apti<lb ed="#P" n="91" break="no"/>tudo / et sic duo homines et duo asini conueniunt spe 
+      <lb ed="#P" n="92"/>cie ponendo hominem et asinum ex vna parte 
+      con<lb ed="#P" n="93" break="no"/>tra hominem et asinum ex altera: et tamen sub nul 
+      <lb ed="#P" n="94"/>la speciespecialissima continentur. Potes dicere 
+      <lb ed="#P" n="95"/>rationabiliter etiam cum non actu contineantur sub 
+      <lb ed="#P" n="96"/>aliqua specie specialissima non sunt eiusdem 
+      spe<lb ed="#P" n="97" break="no"/>ciei nec inconuenit talia pluraliter labi de specie in 
+      <lb ed="#P" n="98"/>speciem hoc est proprie significari perterminos ab 
+      <lb ed="#P" n="99"/>solutos quibus antea non significabantur hoc est ve 
+      <lb ed="#P" n="100"/>rificantur quia de sermone esset ambages sufficit quod 
+      <lb ed="#P" n="101"/>si aliquid sit eiusdem speciei specialissime cum alio 
+      <lb ed="#P" n="102"/>ipsomanente non labitur in aliam speciem et pro 
+      ca<lb ed="#P" n="103" break="no"/>su principali quod vna res non sit alia.
+    </p>
+            <p xml:id="JM7jmZ-d27255-d1e713">
+      ¶ Contra 
+      ter<lb ed="#P" n="104" break="no"/>tiam conclusionem arguitur probando quod panis non 
+      <lb ed="#P" n="105"/>transsubstantiatur in corpus christi si hoc esset 
+      ve<lb ed="#P" n="106" break="no"/>rum sequeretur quod panis annichillaretur: consequens 
+      <lb ed="#P" n="107"/>est contra communem modum loquendi ergo et 
+      an<lb ed="#P" n="108" break="no"/>tecedens: et quod sequatur patet: nichil eius manet. 
+      <lb ed="#P" n="109"/>Preterea facilius est saluare omnia ponendo quod ibidem 
+      <lb ed="#P" n="110"/>manet panis quia sic accidentia non erunt extra subiectum 
+      <lb ed="#P" n="111"/>melius est dicere quod corpus christi penetratie est cum subam 
+      <lb ed="#P" n="112"/>panis duo corpera sunt in eodem loco. Respondetur an panis 
+      <lb ed="#P" n="113"/>annichilletur vel non difficultas est in terminis 
+      ni<lb ed="#P" n="114" break="no"/>chil eius manet sed hoc secundum communem 
+      mo<lb ed="#P" n="115" break="no"/>dum loquendi non sufficit sed cum hoc oportet quod 
+      <lb ed="#P" n="116"/>nichil illi sic destructo succedat et sic nego quod panis 
+      <lb ed="#P" n="117"/>annichilletur bene tamen desinit esse secundum se et 
+      <lb ed="#P" n="118"/>quodlibet eius sed transsubstantiatur. quo fit si pa 
+      <!--115.xml-->
+      <pb ed="#P" n="50-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>nis desinat esse localiter et nichil succedit est 
+      anni<lb ed="#P" n="2" break="no"/>chillatio non tamen si aliquid succedit. Secundo 
+      <lb ed="#P" n="3"/>patet productio materie est creatio et non omnis eius 
+      <lb ed="#P" n="4"/>destructio est annichillatio. Tertio sequitur form 
+      <lb ed="#P" n="5"/>substantialis in corrupto non annichillatur / 
+      termi<lb ed="#P" n="6" break="no"/>nus annichillatio illud connotat vel importat si cu 
+      <lb ed="#P" n="7"/>piam placeat dicere sufficit ad annichillationem quod 
+      <lb ed="#P" n="8"/>totaliter desinat esse siue aliud sequatur vel ne cum 
+      <lb ed="#P" n="9"/>illo non est contendendum contentiosa verba 
+      secun<lb ed="#P" n="10" break="no"/>dum apostolum (et potissimum ad nomen) ad nichi 
+      <lb ed="#P" n="11"/>valent.
+    </p>
+            <p xml:id="JM7jmZ-d27255-d1e778">
+      ¶ Secundo arguitur probando quod panis e 
+      <lb ed="#P" n="12"/>corpus christi sunt simul in prolatione 
+      verborum<lb ed="#P" n="13" break="no"/>hoc est corpus meum: ista verba successiue proferum 
+      <lb ed="#P" n="14"/>tur: ergo in primo instanti non esse verborum 
+      inci<lb ed="#P" n="15" break="no"/>pit sub illis speciebus esse corpus christi et in eodem in 
+      <lb ed="#P" n="16"/>stanti est panis: vel dabis tempus medium in quo nec 
+      <lb ed="#P" n="17"/>erit ibidem panis nec corpus christi: secundum non 
+      <lb ed="#P" n="18"/>est dicendum ergo primum: et quod sequatur probo: 
+      <lb ed="#P" n="19"/>panis desinit esse instantanee: ergo per vltimum 
+      in<lb ed="#P" n="20" break="no"/>stans eius esse. Respondetur illud quod instantanes 
+      <lb ed="#P" n="21"/>corrumpitur potest per vltimum instans esse corri 
+      <lb ed="#P" n="22"/>pi / deus potest facere quod vnus angelus duret prec 
+      <lb ed="#P" n="23"/>se per instans: et tunc primum instans esse est vltimum 
+      <lb ed="#P" n="24"/>instans esse et instantanee corrumpitur. idem 
+      pa<lb ed="#P" n="25" break="no"/>tet ponendo instantia impartibilia in tempore: inter 
+      <lb ed="#P" n="26"/>dum oppositum contingit et frequenter illud quod 
+      <lb ed="#P" n="27"/>instantanee corrumpitur quando corrumpitur 
+      cor<lb ed="#P" n="28" break="no"/>ruptum est: et potissimum quando sequitur naturam 
+      <lb ed="#P" n="29"/>rei successiue vt in proposito primum instans non es 
+      <lb ed="#P" n="30"/>vborum consecrationis est primum istans non esse panis et primum 
+      <lb ed="#P" n="31"/>instans non esse panis primum instans esse corpris christi suf 
+      <lb ed="#P" n="32"/>istis speciebus saltem inter instantia. hoc patet in ge 
+      <lb ed="#P" n="33"/>neratione et corruptione: instans transmutationis 
+      <lb ed="#P" n="34"/>debet attribui posteriori passioni. viii. phisico. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

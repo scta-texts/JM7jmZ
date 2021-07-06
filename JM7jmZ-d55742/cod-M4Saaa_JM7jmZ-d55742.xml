@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 21</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 21</title>
+               <date when="2021-07-06">July 06, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-M4Saaa">Paris 1509</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-06" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="101-r"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="JM7jmZ-d55742"><!-- l4d15q21 -->
+            <head xml:id="JM7jmZ-d55742-Hd1e108">Quaestio 21</head>
+            <head xml:id="JM7jmZ-d55742-Hd1e111" type="question-title">
+      An iuste pro furto infligatur
+      mors
+    </head>
+            <p xml:id="JM7jmZ-d55742-d1e114">
+               <lb ed="#P" n="6"/>¶ Distin. decime quinte quaestio vigesima prima. 
+      <lb ed="#P" n="7"/>Igesimo primo circa distinctionem hanc 
+      <lb ed="#P" n="8"/>decimam quintam Queritur an iuste pro 
+      fur<lb ed="#P" n="9" break="no"/> Vto infligatur mors. Respondetur est 
+      ser<lb ed="#P" n="10" break="no"/>o mo de simplici furto in lege moysaica in 
+      <lb ed="#P" n="11"/>infiigebatur mors pro furto quando constat quod non venit 
+      <lb ed="#P" n="12"/>ad occidendum. patet. exodi. ii. vbi ponitur pena 
+      fu<lb ed="#P" n="13" break="no"/>rum nec per ius cesareum prohibetur ne occidantur 
+      <lb ed="#P" n="14"/>vel demenbrentur. patet. C de ser. fu. autem. constat quod 
+      <lb ed="#P" n="15"/>canones non infligunt mortem ex hiis colligitur vna 
+      <lb ed="#P" n="16"/>conclusio negatiua nec per legem moysaicam nec cesa 
+      <lb ed="#P" n="17"/>ream nec ecclesiasticam nec precipit euangelium pro sim 
+      <lb ed="#P" n="18"/>plici furto infligatur mors nec est de lege nature fur 
+      <lb ed="#P" n="19"/>est puniendus bene est de legenature sed quod puniatur hoc 
+      <lb ed="#P" n="20"/>modo puta vltimo supplicio est vnum purum positiuum 
+      <lb ed="#P" n="21"/>Secunda conclusio iuste pro furto simplici vbi presum 
+      <lb ed="#P" n="22"/>tur fur incorrigibilis infligitur mors. probatur si non 
+      <lb ed="#P" n="23"/>liceret hoc maxine esset quia illud non precipit lex 
+      scri<lb ed="#P" n="24" break="no"/>pta imo potius vetat: sed hoc non obstat cum consue 
+      <lb ed="#P" n="25"/>tudo vbi est stabilita legem positiuam humanam tollit es 
+      <lb ed="#P" n="26"/>oppositum ponit: sed sic est de furto simplici 
+      consue<lb ed="#P" n="27" break="no"/>tudo obtinuit quod tales occidantur. patet in multis 
+      <lb ed="#P" n="28"/>partibus. et istud est rationabile cum oportet tollere 
+      <lb ed="#P" n="29"/>de medio incorrigibiles perturbatores rei publice 
+      <lb ed="#P" n="30"/>et impedientes pacificam vnionem adinuicem sicut est 
+      <lb ed="#P" n="31"/>de furibus aliena auferentibus pro quibus lictes et iuf 
+      <lb ed="#P" n="32"/>gia oriuntur non semper maiora peccata grauius punii 
+      <lb ed="#P" n="33"/>tur ab homine superbus pro superbia nec inuidus 
+      <lb ed="#P" n="34"/>pro inuidia occiduntur quia hoc non perturbat pacifi 
+      <lb ed="#P" n="35"/>cam vitam ciuilem. secus est de furto quod est multo mi 
+      <lb ed="#P" n="36"/>nus peccatum a genere et secundum quod res subiacet maiori per 
+      <lb ed="#P" n="37"/>culo ad furandum tanto pena augetur. propterea 
+      exo<lb ed="#P" n="38" break="no"/>di. xxii. pro ouibus erat restituere quadruplum et non 
+      <lb ed="#P" n="39"/>pro aliis rebus domi quia oues maiori discrimini expo 
+      <lb ed="#P" n="40"/>nebantur et cum boues non ita gregatim viuunt sicut 
+      <lb ed="#P" n="41"/>oues maiori dispendio subiiciebantur quare quinque bo 
+      <lb ed="#P" n="42"/>ues erant reddendi pro vno boue et nullum scelus apd 
+      <lb ed="#P" n="43"/>schitas crudelius hoc peccato punitur et ratio 
+      suffra<lb ed="#P" n="44" break="no"/>gatur cum in curribus viuant et domorum sint expertes 
+      <lb ed="#P" n="45"/>et istud patet. xxix. particula probleumatum vbi queris 
+      <lb ed="#P" n="46"/>philosophus quam ob causam qui ex balneis furatus 
+      <lb ed="#P" n="47"/>est aut ex palestra aut ex foro autm ex aliquo eiusmoni 
+      <lb ed="#P" n="48"/>loco morte mulctatur qui autem ex domo priuata fur 
+      <lb ed="#P" n="49"/>ti precium duplum exoluit inter multas causas dat illa 
+      <lb ed="#P" n="50"/>primam quam dedimus et est potissima an quia in domib 
+      <lb ed="#P" n="51"/>rem custodire melius possumus nam et paries firmus 
+      <lb ed="#P" n="52"/>et clauis est et familiaribus res domestice cure omnibus 
+      <lb ed="#P" n="53"/>sint vt tuto seruentur. at in balneis ceteris que 
+      publi<lb ed="#P" n="54" break="no"/>cis locis facilis cuique facinoris perpetratio est nil enim 
+      <lb ed="#P" n="55"/>ad custodiam satis qui sua posuerit habet praeter ocu 
+      <lb ed="#P" n="56"/>los et que sequuntur. dixi quando presumitur 
+      incorrigi<lb ed="#P" n="57" break="no"/>bilis vt post binam vel trinam correctionem non desi¬ 
+      <!--216.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="58"/>stit primo est leui pena mulctandus vt virga in 
+      confu<lb ed="#P" n="59" break="no"/>sionem. secundo solent abscidere aurem quod si adhuc non 
+      <lb ed="#P" n="60"/>desistat presumitur incorrigibilis in arbitrio iudicis 
+      <lb ed="#P" n="61"/>erit aliam auriculam adhuc extrahere ex quo patet 
+      <lb ed="#P" n="62"/>contra iusticiam faciunt qui hominem occidunt pro primo 
+      <lb ed="#P" n="63"/>furto: et interdum modico et forte erat etiam in magna 
+      <lb ed="#P" n="64"/>necessitate in hoc non potest esse consuetudo sed cor 
+      <lb ed="#P" n="65"/>ruptela certa debet esse probatio in occidendo viro 
+      <lb ed="#P" n="66"/>et certum debet esse quod id non faciat pro magna neces 
+      <lb ed="#P" n="67"/>sitate vt quando capit aliquod commestibile tempore 
+      <lb ed="#P" n="68"/>famis et non habet vnde alatur etiam pro re 
+      modi<lb ed="#P" n="69" break="no"/>ca (secundum iudicium prudentium quantitas rei 
+      iudi<lb ed="#P" n="70" break="no"/>canda est) non debet occidi.
+    </p>
+            <p xml:id="JM7jmZ-d55742-d1e262">
+      ¶ Hubitatur an fur vel 
+      <lb ed="#P" n="71"/>raptor grauius peccat similiter auferendo. 
+      Responde<lb ed="#P" n="72" break="no"/>tur raptor communiter expresse contra voluntatem domin 
+      <lb ed="#P" n="73"/>in presentia boni ablati habet nolle in re furtiua non 
+      <lb ed="#P" n="74"/>habet nolle sed non velle habet anquam ei consteterit 
+      <lb ed="#P" n="75"/>Secunda causa principalior est maior perturbatio rei 
+      <lb ed="#P" n="76"/>publice et maior temeritas non modo subtrahunt 
+      <lb ed="#P" n="77"/>res sed violentia et ignominia fit persone quod fur magtis 
+      <lb ed="#P" n="78"/>verecundetur quam raptor non arguit maius peccatum 
+      in<lb ed="#P" n="79" break="no"/>terdum de minori peccato plus verecundamur cum 
+      <lb ed="#P" n="80"/>apud homines turpius reputatur. patet de furto et in 
+      <lb ed="#P" n="81"/>iuria apud aristotelem in fine. xxix. particule probleuma 
+      <lb ed="#P" n="82"/>tum: etiam in furto simplici nichil animositatis 
+      vi<lb ed="#P" n="83" break="no"/>detur inesse. secus est in rapina. prior comparatur vulpe 
+      <lb ed="#P" n="84"/>cule secundus leoni. fur reputatur infamis et dedecus est 
+      <lb ed="#P" n="85"/>non modo progeniei sed patrie dicit commentator 
+      <lb ed="#P" n="86"/>aristotelis in loco allegato fur non modo inhonestat 
+      <lb ed="#P" n="87"/>vrbem sed patriam et infert statim vno in furto 
+      com<lb ed="#P" n="88" break="no"/>perto concluditur bohemus vel anglus est sed forte 
+      <lb ed="#P" n="89"/>male sillogisauit commentator ingallia dum picardis 
+      <lb ed="#P" n="90"/>normanis britonibus et ceteris attribuunt 
+      appro<lb ed="#P" n="91" break="no"/>priata britones fures appellant et angeli apud 
+      mul<lb ed="#P" n="92" break="no"/>tos loquentes britanni vocantur ex hac parte maris 
+      <lb ed="#P" n="93"/>nomen antiquum adhuc manet licet tamen male in re sit 
+      <lb ed="#P" n="94"/>appellatio. propterea forte appropriatum paruorum 
+      bri<lb ed="#P" n="95" break="no"/>tonum anglis adiecit corruptela in aliquibus locis re 
+      <lb ed="#P" n="96"/>gnat quod hoc turpe vicium non putatur probrosum. 
+      <lb ed="#P" n="97"/>patet in limitibus scotie et anglie circa arintagium 
+      <lb ed="#P" n="98"/>echsdail et partes illas non erubescunt nomine 
+      glorio<lb ed="#P" n="99" break="no"/>so a vicinis vocantur boni equites et actiui qui fur 
+      <lb ed="#P" n="100"/>ca digni sunt: esto quod specimen honestatis induunt fu 
+      <lb ed="#P" n="101"/>rando vt scoti ab angelis et econuerso tamen scoti plus 
+      <lb ed="#P" n="102"/>a scotis et angeli ab angelis subtrahunt quam a seinuicem 
+      <lb ed="#P" n="103"/>Insuper tempore pacis est furtum scotis capere ab 
+      <lb ed="#P" n="104"/>angelis et econuerso et potissimum hiis a quibus nichul 
+      <lb ed="#P" n="105"/>est subtractum. Insuper isti sunt perturbatores pa 
+      <lb ed="#P" n="106"/>cis inter res publicas. primo per furta. secundo per ra 
+      <lb ed="#P" n="107"/>pinas. tertio per homicidia quare ad vtrunque regem 
+      <lb ed="#P" n="108"/>partinet tales castigare sub pena peccati vt 
+      innocen<lb ed="#P" n="109" break="no"/>tes viuant in pacereges sunt propter regna et non 
+      <lb ed="#P" n="110"/>econuerso. at dicis pena furti secundum leges est maior quam 
+      <lb ed="#P" n="111"/>pena rapine. patet. instit. de vi. bono. rapto. §. 
+      qua<lb ed="#P" n="112" break="no"/>druplum. pena furti manifesti est quadrupla non ma 
+      <lb ed="#P" n="113"/>nifesti dupli. institu. de obliga. que ex delect. nascum. 
+      <lb ed="#P" n="114"/>dicitur consequentia est nulla vt superius meminimus etiam 
+      as<lb ed="#P" n="115" break="no"/>sumptum est falsum pena rapine semper est tripla 
+      <lb ed="#P" n="116"/>furti communioris dupla rarioris quadrupla: ergo tota pe¬ 
+      <!--217.xml-->
+      <pb ed="#P" n="101-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>na rapine cathegoreumatice exuperat penam furt 
+      <lb ed="#P" n="2"/>istud triplum vel quadruplum non est reddendum de ne 
+      <lb ed="#P" n="3"/>cessitate salutis: sed solum post condemnationem iud 
+      <lb ed="#P" n="4"/>cis sufficeret restituere ablatum ante condemnationem cum 
+      <lb ed="#P" n="5"/>tota iactura quam interim carens re sua passus est. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

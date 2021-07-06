@@ -1,0 +1,673 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 1</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 1</title>
+               <date when="2021-07-06">July 06, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-M4Saaa">Paris 1509</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-06" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="17-v"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="JM7jmZ-d9778z"><!-- l1d3q1 -->
+            <head xml:id="JM7jmZ-d9778z-Hd1e108">Quaestio 1</head>
+            <head xml:id="JM7jmZ-d9778z-Hd1e111" type="question-title">
+      An institutio baptismi
+      evacuet circumcisionem
+    </head>
+            <p xml:id="JM7jmZ-d9778z-d1e114">
+               <lb ed="#P" n="98"/>¶ Distinctionis tertie questio vnica. 
+      <lb ed="#P" n="99"/>Vero circa tertiam distinctionem an 
+      insti<lb ed="#P" n="100" break="no"/>ctutio baptismi euacuet circuncisionem / hec 
+      <lb ed="#P" n="101"/>ususio questio vnum supponit et aliud querit / supe 
+      <lb ed="#P" n="102"/>ponit enim baptismum esse institutum et 
+      circunci<lb ed="#P" n="103" break="no"/>sionem esse exhaustam praecepta moralia vt sunt 
+      prae<lb ed="#P" n="104" break="no"/>cepta decalogi in omni lege manent / et ratio: quia 
+      <lb ed="#P" n="105"/>fundantur in equitate rationis naturalis licet esset 
+      <lb ed="#P" n="106"/>aliquid cerimoniale in obseruatione sabbati quo ad 
+      <lb ed="#P" n="107"/>diem quod est variatum. iudicialia vero fuerunt ad de 
+      <lb ed="#P" n="108" break="no"/>cidendas causas et lites inter homines et quia non 
+      <lb ed="#P" n="109"/>omnibus eadem expediunt nec eadem eisdem omni 
+      tem<lb ed="#P" n="110" break="no"/>pore / iudicialia mutata sunt saltem robur non 
+      ha<lb ed="#P" n="111" break="no"/>bent inquantum huiusmodi cerimonialia que 
+      signifi<lb ed="#P" n="112" break="no"/>abant aliqua futura mutata sunt. congruentie sunt 
+      <lb ed="#P" n="113"/>cessationis legalium erant obscura quantum ad sermo 
+      <lb ed="#P" n="114"/>nem quia representabant futura hebre. x. vmbram ha 
+      <lb ed="#P" n="115"/>bens lex futurorum bonorum. velata facie loquebatur moy 
+      <lb ed="#P" n="116"/>ses ad populum / imperfectam gratiam conferebant re 
+      <lb ed="#P" n="117"/>spectu eorum que sunt in lege gre hebre. vii. nichil ad 
+      <lb ed="#P" n="118"/>perfectum adducit lex fuerunt ad obseruantiam one¬ 
+      <!--050.xml-->
+      <pb ed="#P" n="18-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>rosa actuum. xv. dicit petrus quid temptatis 
+      impo<lb ed="#P" n="2" break="no"/>nere iugum super ceruicem discipulorum quod nec 
+      <lb ed="#P" n="3"/>nos nec patres nostri portare potuimus. tempus 
+      gra<lb ed="#P" n="4" break="no"/>tie hiis contrariatur. est tempus veritatis clare 
+      exhi<lb ed="#P" n="5" break="no"/>bite iohannis primo. veritas per iesum christum facta est 
+      <lb ed="#P" n="6"/>secundum illud sedulii libro. v. iam reseranda docens quia lex 
+      <lb ed="#P" n="7"/>velamine moysi tecta diu christo nobis veniente 
+      pa<lb ed="#P" n="8" break="no"/>tescit. est tempus plenitudinis contra imperfectam 
+      <lb ed="#P" n="9"/>efficatiam galath. iiii. vbi venit plenitudo temporis 
+      <lb ed="#P" n="10"/>contra onerosam obseruantiam legis mosaice est 
+      <lb ed="#P" n="11"/>tempus mansuetudinis Mathei. xi. Onus meum 
+      <lb ed="#P" n="12"/>leue et iugum meum suaue. et sedulius libro primo. mira 
+      <lb ed="#P" n="13"/>bilium diuinorum cuius onus leue est cuius iura ferre 
+      <lb ed="#P" n="14"/>suaue est translato sacerdotio necesse est vt legis trans 
+      <lb ed="#P" n="15"/>latio fiat / sed in aduentu christi translatum est 
+      sacerdo<lb ed="#P" n="16" break="no"/>tium veteris legis quod fuit secundum ordinationem aaron 
+      <lb ed="#P" n="17"/>in sacerdotium christi quod est secundum ordinem melchisedech: 
+      <lb ed="#P" n="18"/>ergo in aduentu christi facta est translatio legis sed  
+      <lb ed="#P" n="19"/>lex potissime consistit in sacramentis: igitur. dixi su 
+      <lb ed="#P" n="20"/>perius inquantum huiusmodi. carnes porcine erant 
+      ve<lb ed="#P" n="21" break="no"/>tite in lege moisaica et adhuc douglasses eas 
+      hor<lb ed="#P" n="22" break="no"/>rentes comedere abstinent sine peccato. Et ad istud 
+      <lb ed="#P" n="23"/>est congruentia in passione christi terre motus 
+      fa<lb ed="#P" n="24" break="no"/>ctus est per vniuersam terram sol passus est 
+      eclip<lb ed="#P" n="25" break="no"/>sim. monimenta apperta sunt velum templi scissum quod 
+      <lb ed="#P" n="26"/>cooperiebat sanctam sanctorum et sic omnia secreta latentia 
+      <lb ed="#P" n="27"/>fuerunt reserata ad denotandum quod templum illud ma 
+      <lb ed="#P" n="28"/>teriale non erat amplius necessarium sed omnia in 
+      <lb ed="#P" n="29"/>christo erant completa. christus mansit pro aliqua parte 
+      pa<lb ed="#P" n="30" break="no"/>schatis in sepulchro et per totum diem sabbati et 
+      <lb ed="#P" n="31"/>sigillabant iudei monimentum in sabbato. christus 
+      resura<lb ed="#P" n="32" break="no"/>rexit in dominica: ergo pascha et sabbatum manserunt 
+      <lb ed="#P" n="33"/>in sepulchro et sic de aliis legalibus. baptismum esse 
+      <lb ed="#P" n="34"/>institutum ex auctoritatibus certum est sed de 
+      pre<lb ed="#P" n="35" break="no"/>cisa institutione dubium est et proillo ponuntur pro 
+      <lb ed="#P" n="36"/>positiones.
+    </p>
+            <p xml:id="JM7jmZ-d9778z-d1e247">
+      ¶ Prima est. non instituebatur quando 
+      <lb ed="#P" n="37"/>iohannes baptista baptisabat. probatur. iohannes 
+      <lb ed="#P" n="38"/>in nomine venturi baptisabat vt communiter dicitur 
+      <lb ed="#P" n="39"/>que non est forma baptismi secundum alios nullam 
+      for<lb ed="#P" n="40" break="no"/>mam seruabat.
+    </p>
+            <p xml:id="JM7jmZ-d9778z-d1e258">
+      ¶ Secunda propositio. baptismus non 
+      insti<lb ed="#P" n="41" break="no"/>tuebatur per illud iohannis. iii. quando nicodemus 
+      <lb ed="#P" n="42"/>de nocte venit ad christum. probatur: quia non videtur quod 
+      <lb ed="#P" n="43"/>tam necessarium sacramentum imponeretur in 
+      secre<lb ed="#P" n="44" break="no"/>to respectu etiam persone que non debuit esse preco 
+      <lb ed="#P" n="45"/>illius.
+    </p>
+            <p xml:id="JM7jmZ-d9778z-d1e272">
+      ¶ Tertia propositio. institutio non 
+      differe<lb ed="#P" n="46" break="no"/>patur vsque ad resurrectionem. mathei vltimo. 
+      Eun<lb ed="#P" n="47" break="no"/>tes baptisate eos. etc. nam discipuli christi ante 
+      passio<lb ed="#P" n="48" break="no"/>nem baptisabant. io. iii. ergo verosimile est tunc bap 
+      <lb ed="#P" n="49"/>ismum fuisse institutum et quod veram formam 
+      serua<lb ed="#P" n="50" break="no"/>bant.
+    </p>
+            <p xml:id="JM7jmZ-d9778z-d1e285">
+      ¶ Quarta est. non tamen debemus esse 
+      ma<lb ed="#P" n="51" break="no"/>gis dubii de baptismi institutione esto quod non legatur 
+      <lb ed="#P" n="52"/>punctualiter vbi instituebatur quam si sciremus deter 
+      <lb ed="#P" n="53"/>minate locum vbi erat primeua institutio quemad 
+      <lb ed="#P" n="54"/>modum scimus quod anima christi descendit ad inferos 
+      <lb ed="#P" n="55"/>licet dubitemus an per lineam rectam vel arcualem 
+      <lb ed="#P" n="56"/>in instanti vel tempore.
+    </p>
+            <p xml:id="JM7jmZ-d9778z-d1e301">
+      ¶ Forte dicis actuum 
+      pri<lb ed="#P" n="57" break="no"/>mo dicit beatus lucas quia iohannes quidem 
+      baptisa<lb ed="#P" n="58" break="no"/>uit aqua vos autem baptii abimini spiritus sancto non 
+      <lb ed="#P" n="59"/>post multos hos dies et illud erat post christi resur 
+      <!--050.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="60"/>rectionem: ergo apostoli adhuc non erant baptisati 
+      <lb ed="#P" n="61"/>et per consequens non est verisimile quod baptismus 
+      <lb ed="#P" n="62"/>institutus erat ante passionem.
+    </p>
+            <p xml:id="JM7jmZ-d9778z-d1e321">
+      ¶ Respondet 
+      ma<lb ed="#P" n="63" break="no"/>gister petrus comestor et doctores quod illud 
+      intelli<lb ed="#P" n="64" break="no"/>gitur de generibus linguarum et non de baptismo 
+      <lb ed="#P" n="65"/>ianua sacramentorum. accedebat ad babtisma 
+      fla<lb ed="#P" n="66" break="no"/>minis.
+    </p>
+            <p xml:id="JM7jmZ-d9778z-d1e332">
+      ¶ Isto supposito circa titulum questionis 
+      <lb ed="#P" n="67"/>due sunt opiniones extreme / vna est ipsius beati hie  
+      <lb ed="#P" n="68"/>ronimi tenentis quod legalia cessarunt in morte christi 
+      <lb ed="#P" n="69"/>et dicit quod sic exposuerunt illud capitulum ad gala 
+      <lb ed="#P" n="70"/>thas. ii. origenes et iohannes episcopus 
+      constantino<lb ed="#P" n="71" break="no"/>politanus in secunda parte epistolarum ab epistola cen 
+      <lb ed="#P" n="72"/>tesima vsque ad centesimam. xiiii. inclusiue est 
+      altera<lb ed="#P" n="73" break="no"/>catio inter eum et beatum augustinum ita quod beatus  
+      <lb ed="#P" n="74"/>hieronimus vult dicere nec petrus peccauit nec pau 
+      <lb ed="#P" n="75"/>lus sed vterque eorum vsos est quadam pia simulatione ad 
+      <lb ed="#P" n="76"/>lucrifaciendos iudeos quorum petrus erat apostolus 
+      <lb ed="#P" n="77"/>et gentiles quorum paulus doctor erat et licet beatus  
+      <lb ed="#P" n="78"/>hieronimus in eo loco dicat se magis sententias 
+      greco<lb ed="#P" n="79" break="no"/>rum quam suam texere non obstante relicta auctoritate 
+      <lb ed="#P" n="80"/>virorum illustrium in medium prodit contra beatum 
+      <lb ed="#P" n="81"/>aug. volens illud seruare / hugo tantum / alexander et do 
+      <lb ed="#P" n="82"/>ctores passim in hoc beatum hieronimum reliquunt. altis 
+      <lb ed="#P" n="83"/>tamen in. iii. in materia de scandalo et in principio. iiii. 
+      <lb ed="#P" n="84"/>vtramquem positionem tueri satagit pondus positionis 
+      <lb ed="#P" n="85"/>hieronimi in hoc stare videtur quod legalia erant 
+      mor<lb ed="#P" n="86" break="no"/>tua post passionem et morifera apostoli tamen pia 
+      si<lb ed="#P" n="87" break="no"/>mulatione vsi sunt eis illo tempore / patet de petro 
+      <lb ed="#P" n="88"/>ad galathas. ii. et de paulo qui circuncidit 
+      thimo<lb ed="#P" n="89" break="no"/>theum et in seipsum seruauit votum nazareorum actuum 
+      <lb ed="#P" n="90"/>xxi. et exponit illud ad galathas. ii. sic petrus non 
+      <lb ed="#P" n="91"/>recte ambulabat ad veritatem euangeli et non vsque 
+      <lb ed="#P" n="92"/>quaque recte sicut petitio pauli qua petit stimulum 
+      <lb ed="#P" n="93"/>et se moueri stulta fuit et non vsquequaque discreta pe 
+      <lb ed="#P" n="94"/>trus seruando legalia non considerauit omnes 
+      cir<lb ed="#P" n="95" break="no"/>cunstantias quas erat vtile considerare poterat enim 
+      <lb ed="#P" n="96"/>considerare de facili quod vtile erat dicere gentilibus 
+      <lb ed="#P" n="97"/>quod ipse obseruabat legalia spem in eis non ponens 
+      <lb ed="#P" n="98"/>cum hoc non fecit non vsquamquaque recte ambulabat 
+      <lb ed="#P" n="99"/>ad veritatem euangelii non tamen peccauit quia non 
+      <lb ed="#P" n="100"/>tenebatur hoc dicere sed bonum et vtile fuisset si 
+      <lb ed="#P" n="101"/>ipse hoc dixisset. reprehensibilis erat et dignus 
+      re<lb ed="#P" n="102" break="no"/>prehendi quia non adhibuit tantam diligentiam quam 
+      <lb ed="#P" n="103"/>tam paulus voluit adhiberi: vult dicere: petrus erat 
+      <lb ed="#P" n="104"/>reprehendendus non quia omisit aliquid dicere vel face 
+      <lb ed="#P" n="105"/>re ad quod tenebatur sed quia omisit dicere aliquid 
+      <lb ed="#P" n="106"/>quod multum expediebat. potes dare analogiam 
+      <lb ed="#P" n="107"/>in actibus humanis aliis. dicit altissioderensis. cum aug. dixit pe 
+      <lb ed="#P" n="108"/>trum pecasse vna ratione hieronimus hoc negat alia 
+      <lb ed="#P" n="109"/>ratione sic non est inter eos contrarietas non 
+      insci<lb ed="#P" n="110" break="no"/>te elaborabat tueri partes hieronianas tamen 
+      me<lb ed="#P" n="111" break="no"/>lius seruat beatus augustinus formam lictere ad 
+      ga<lb ed="#P" n="112" break="no"/>latas. ii. propterea rationabilius dicit illud in quo dubitat de 
+      <lb ed="#P" n="113"/>contrarietate inter sanctos doctores non debet 
+      mo<lb ed="#P" n="114" break="no"/>uere. cathece aug. vult dicere petrum deliquisse in 
+      <lb ed="#P" n="115"/>illo facto quod alter negat. contradictoria non 
+      pos<lb ed="#P" n="116" break="no"/>sunt verificari per varias causas plusquam per easdem 
+      <lb ed="#P" n="117"/>et sic in hoc dissute dicit altisiodorensis nisi detur ei commen 
+      <lb ed="#P" n="118"/>tum amicabile et perigrinum et concedo quod contradi¬ 
+      <!--051.xml-->
+      <pb ed="#P" n="18-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>cunt et quod beatus aug. in hoc rationabilius loquit 
+      <lb ed="#P" n="2"/>quam beatus hieronimus et petrus erat 
+      reprehensibi<lb ed="#P" n="3" break="no"/>lis et reprehensus est iuste et non procaciter sicut 
+      he<lb ed="#P" n="4" break="no"/>reticus porphirius delitur existimauit quo fit in 
+      ma<lb ed="#P" n="5" break="no"/>teria fidei et sacris moribus inferior potest superio 
+      <lb ed="#P" n="6"/>rem castigare publice in peccato publico glosa marg 
+      <lb ed="#P" n="7"/>nalis ad galathas. v. dicit hieronimus dicit est noxium 
+      <lb ed="#P" n="8"/>seruare legalia post passionem siue ponatur spes in 
+      <lb ed="#P" n="9"/>eis siue non sed solum dispensatorie propterea 
+      fal<lb ed="#P" n="10" break="no"/>luntur aliqui doctores volentes facere eum in illa 
+      <lb ed="#P" n="11"/>parte conuenire cum augustino.
+    </p>
+            <p xml:id="JM7jmZ-d9778z-d1e478">
+      ¶ Alius est modus 
+      <lb ed="#P" n="12"/>dicendi ipsius beati augustini qui illam epistolam 
+      <lb ed="#P" n="13"/>hieronimi ad galathas secundo examinat. capit illud 
+      <lb ed="#P" n="14"/>dictum pauli ad galatas. ii. cum venisset dicit pau 
+      <lb ed="#P" n="15"/>lus cephas anthiochiam in faciem ei restiti quia 
+      re<lb ed="#P" n="16" break="no"/>prehensibilis erat et subiungit causam vide in textum 
+      <lb ed="#P" n="17"/>magister petrus comestor dicit cap. lxxxii. in 
+      acti<lb ed="#P" n="18" break="no"/>bus apostolorum petrus veniens a hierosolimis 
+      vo<lb ed="#P" n="19" break="no"/>lens adire romam iuit per anthiochiam vt confir 
+      <lb ed="#P" n="20"/>maret subditos suos in fide qui prius comedens cum 
+      <lb ed="#P" n="21"/>gentibus videns aliquos iudeos missos a iacobo 
+      <lb ed="#P" n="22"/>hierosolimorum eprieo subtraxerat se a gentibus dixit 
+      <lb ed="#P" n="23"/>ei paulus / si tu iudeus gentiliter et non iudaice 
+      vi<lb ed="#P" n="24" break="no"/>uis quomodo gentes cogis iudaisare / ex isto texti 
+      <lb ed="#P" n="25"/>format beatus augustinus virtualiter argumentu 
+      <lb ed="#P" n="26"/>epile pauli recepte sunt ab ecclesia et ipse dicit quod pe 
+      <lb ed="#P" n="27"/>tro restitit quia reprehensibilis erat: ergo ita est de fa 
+      <lb ed="#P" n="28"/>cto quod petrus peccauit. multo minus est dicere petrum 
+      <lb ed="#P" n="29"/>reprehensibilem quam admittere quodcumque mendacium 
+      <lb ed="#P" n="30"/>sacris historiis. sed tunc remanet quaestio an petrus pec 
+      <lb ed="#P" n="31"/>cauerit eo quod obseruauit legalia et hoc non quia paul 
+      <lb ed="#P" n="32"/>circuncidit diu postea timotheum patet actuum. xvi. et 
+      <lb ed="#P" n="33"/>actuum. xxi. ascendit hierusalem et ibi de consilio ia 
+      <lb ed="#P" n="34"/>cobi et aliorum fratrum ascendit secundum legem tem 
+      <lb ed="#P" n="35"/>plum et obtulit pro se sacrificium sed si in illo 
+      pec<lb ed="#P" n="36" break="no"/>casset petrus / apostolus non fecisset simile postea cum 
+      <lb ed="#P" n="37"/>turpe est doctori cum culpa redarguit ipsum. 
+      Vn<lb ed="#P" n="38" break="no"/>de hic est aduertendum quod quattuor erant consilia 
+      <lb ed="#P" n="39"/>apostolorum. primum de electione mathie loco 
+      iu<lb ed="#P" n="40" break="no"/>de actuum primo. secundum consilium de electione. vii 
+      <lb ed="#P" n="41"/>diaconorum actuum sexto. tertium an legalia essent 
+      seruan<lb ed="#P" n="42" break="no"/>da. petrus dixit quod non apostolorum primas sed iacobus 
+      <lb ed="#P" n="43"/>alphei episcopus hierosolomitanus pro tulit 
+      senten<lb ed="#P" n="44" break="no"/>tiam diffinitiuam nomine vniuersalis ecclesie vt alio 
+      <lb ed="#P" n="45"/>volunt. quod gentiles non debebant seruare legalia 
+      ac<lb ed="#P" n="46" break="no"/>tuum. xv. sed solum abstinere a fornicatione et 
+      suf<lb ed="#P" n="47" break="no"/>focato sanguine et ab vdolatria duo de necessitate 
+      <lb ed="#P" n="48"/>aliud de bene esse et ad socialiter conuiuendum cum 
+      <lb ed="#P" n="49"/>iudeis qui talem cibum abhorrebant. Quartum con 
+      <lb ed="#P" n="50"/>silium actuum. xxi. an iudei in casu necessitatis et pro 
+      <lb ed="#P" n="51"/>pter scandalum poterant seruare legalia et dictum 
+      <lb ed="#P" n="52"/>est quod sic. hiis suppositis dicitur quod sicut argumentum 
+      <lb ed="#P" n="53"/>bene arguit petrus in illo non peccauit sed in hoc quia 
+      <lb ed="#P" n="54"/>nimis sollicite seruauit legalia vel quia venit ad 
+      ec<lb ed="#P" n="55" break="no"/>clesiam gentium et non vsus est eorum ritu come 
+      <lb ed="#P" n="56"/>dendi contra doctrinam beati ambrosii ad august 
+      <lb ed="#P" n="57"/>num Cum fueris rome romano viuito more Cu 
+      <lb ed="#P" n="58"/>fueris alibi viuito sicut ibi / et quia seruauit sic 
+      le<lb ed="#P" n="59" break="no"/>galia et abstinuit a comestione ciborum prohibito 
+      <!--051.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="60"/>rum in lege scandalisabat gentes ita quod barnabas 
+      <lb ed="#P" n="61"/>vt dicit apostolus ducebatur illa simulatione sicut 
+      <lb ed="#P" n="62"/>bonus prelatus petrus qui debebat comedere cum 
+      <lb ed="#P" n="63"/>gentibus more gentilium cum iudeis iudaico 
+      mo<lb ed="#P" n="64" break="no"/>re et constanter stare cum gentibus 
+      superuenienti<lb ed="#P" n="65" break="no"/>bus nunciis missis a iacobo / et melius est dicere quod 
+      <lb ed="#P" n="66"/>petrus peccauit venialiter esto quod intendebat 
+      lucri<lb ed="#P" n="67" break="no"/>facere iudeos non est credendum beatum petrum 
+      <lb ed="#P" n="68"/>post diem illum sollempnem penthecostes peccasse 
+      <lb ed="#P" n="69"/>mortaliter.
+    </p>
+            <p xml:id="JM7jmZ-d9778z-d1e612">
+      ¶ Et pro toto illo notandum est secundum 
+      <lb ed="#P" n="70"/>beatum augustinum sicut in illis epistolis 
+      allega<lb ed="#P" n="71" break="no"/>tis superius liquet quod baptismus in aliquo 
+      tempo<lb ed="#P" n="72" break="no"/>re erat sub consilio scilicet a primeua institutione eius 
+      <lb ed="#P" n="73"/>quousque prouulgabatur sub precepto postea erat 
+      <lb ed="#P" n="74"/>sub precepto. Circuncisio quattuor tempora 
+      ha<lb ed="#P" n="75" break="no"/>bebat secundum aliquos / primo erat sub precepto vsque ad  
+      <lb ed="#P" n="76"/>institutionem baptismi de consilio. baptismus quo 
+      <lb ed="#P" n="77"/>ad consilium euacuauit statim circuncisionem quo 
+      <lb ed="#P" n="78"/>ad preceptum / secundo circuncisio erat sub consi 
+      <lb ed="#P" n="79"/>lio et tempus illud incepit ab institutione baptismi 
+      <lb ed="#P" n="80"/>et durauit quousque baptismus erat publicatus sub 
+      <lb ed="#P" n="81"/>brecepto. isto secundo tempore iudeus obligabatur suum 
+      <lb ed="#P" n="82"/>paruulum circuncidere vel baptisare sed ad 
+      neu<lb ed="#P" n="83" break="no"/>trum obligabatur quemadmodum obligor dare sorti 
+      <lb ed="#P" n="84"/>vel platoni in extrema necessitate et neutri obligor. 
+      <lb ed="#P" n="85"/>in primo tempore circuncisio fuit necessaria / in 
+      se<lb ed="#P" n="86" break="no"/>cundo vtilis non necessaria / postea sicut dicit augu 
+      <lb ed="#P" n="87"/>stinus ab illa publicatione euangelii de precepto 
+      <lb ed="#P" n="88"/>baptismi circuncisio nec erat necessaria nec vtilis 
+      <lb ed="#P" n="89"/>sed licita iudeo ex vtroque parente vel ex altero. in 
+      <lb ed="#P" n="90"/>signum cuius paulus circuncidit thimotheum 
+      ac<lb ed="#P" n="91" break="no"/>tuum. xvi. cuius pater erat gentilis et mater iudea 
+      <lb ed="#P" n="92"/>et non titum qui erat ex vtroque parente gentili / sed 
+      <lb ed="#P" n="93"/>post primam publicationem euangelii circuncisio 
+      <lb ed="#P" n="94"/>fuit mortifera gentili et ratio est quia sinagoga debuit 
+      <lb ed="#P" n="95"/>cum honore sepeliri in signum quod bona. erat suo 
+      tem<lb ed="#P" n="96" break="no"/>pore. secus est de idolatria gentilium et quamdiu 
+      du<lb ed="#P" n="97" break="no"/>rauit istud tempus quo circuncisio erar licita / vel 
+      <lb ed="#P" n="98"/>brimo expirauit non habetur ex litteris et ratio est 
+      <lb ed="#P" n="99"/>quia actus apostolorum qui sunt finis historie noui te 
+      <lb ed="#P" n="100"/>stamenti non perueniunt vltra trigesimum annum 
+      <lb ed="#P" n="101"/>a passione christi hoc est ad vltimum annum 
+      nero<lb ed="#P" n="102" break="no"/>nis vt glosa ordinaria in margine dicit actuum. xv 
+      <lb ed="#P" n="103"/>bede sed successiue opinandum est quod expirauit et 
+      <lb ed="#P" n="104"/>post euersionem hierusalem quod quando iudei erant 
+      <lb ed="#P" n="105"/>dispersi in gentilibus legalia ibant in nichilum nunc 
+      <lb ed="#P" n="106"/>tamen sumus certi ipsa esse mortifera patet de 
+      baptis<lb ed="#P" n="107" break="no"/>mo et eius effectu maiores / allegat illud verbum 
+      <lb ed="#P" n="108"/>apostoli ad galathas. v. si circuncidamini christus 
+      <lb ed="#P" n="109"/>nichil vobis prodest et diu ante illud capitulum 
+      ma<lb ed="#P" n="110" break="no"/>iores. sed apostolus loquebatur contra eos qui pe 
+      <lb ed="#P" n="111"/>tabant nullum posse saluari nisi seruando legalia 
+      <lb ed="#P" n="112"/>vt glosa interlinearis exponit. In diebus beati hic 
+      <lb ed="#P" n="113"/>ronimi erat heresis cherinthi et hebionis vt 
+      hiero<lb ed="#P" n="114" break="no"/>nimus dicit contra augustinum et hoc concederet 
+      <lb ed="#P" n="115"/>peatus augustinus.
+    </p>
+            <p xml:id="JM7jmZ-d9778z-d1e714">
+      ¶ Alius est modus 
+      commu<lb ed="#P" n="116" break="no"/>nior multum etiam rationabilis qui videtur esse 
+      <lb ed="#P" n="117"/>beati augustini et hugonis quod circuncisio solum 
+      an<lb ed="#P" n="118" break="no"/>te passionem christi erat necessaria. Baptismus in¬ 
+      <!--052.xml-->
+      <pb ed="#P" n="19-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>stituebatur vt homines assuescerent ad baptismum ante 
+      <lb ed="#P" n="2"/>passionem qui suficienter abstulit culpam originalem 
+      <lb ed="#P" n="3"/>non obstante tenebatur circuncidere suum paruulum 
+      <lb ed="#P" n="4"/>virtute precepti sicut sanctificatus in vtero vel mai 
+      <lb ed="#P" n="5"/>tirisatus in lege gratre mundatus ab originali tenetur 
+      <lb ed="#P" n="6"/>ad baptisma si veniat in lucem. et hanc consequentiam negant 
+      <lb ed="#P" n="7"/>baptismus erat de consilio ante passionem: ergo tunc 
+      <lb ed="#P" n="8"/>circuncisio non erat de precepto. quando christus in cruce 
+      di<lb ed="#P" n="9" break="no"/>xit consummatum est. mathei. xxvii. factum erat de 
+      le<lb ed="#P" n="10" break="no"/>galibus quo ad preceptum sicut beatus aug. 
+      expo<lb ed="#P" n="11" break="no"/>nit. et glosa interli. Iohan. iii. super illo verbo. Et 
+      <lb ed="#P" n="12"/>veniebant et baptisabantur. post passionem christi circum 
+      <lb ed="#P" n="13"/>cisio erat mortua pro aliquo tempore / non tamen 
+      <lb ed="#P" n="14"/>mortifera. hoc est licite poterat seruari pro aliquo 
+      <lb ed="#P" n="15"/>tempore / sed non auferebat peccatum originale virtute qui 
+      <lb ed="#P" n="16"/>peris operati sed sicut fides parentum ante legemn suffi 
+      <lb ed="#P" n="17"/>ciebat secundum aliquos sine exteriori signo vel cum 
+      <lb ed="#P" n="18"/>exteriori signo secundum alios. et exterius signum istius 
+      <lb ed="#P" n="19"/>protestationis fidei fuit circuncisio. statim post par 
+      <lb ed="#P" n="20"/>sionem christi circuncisio amisit vim obligationis / sed  
+      <lb ed="#P" n="21"/>baptismus non obligabat quousque erat 
+      prouulga<lb ed="#P" n="22" break="no"/>tus. facilius est destruere quam construere prouulgat 
+      <lb ed="#P" n="23"/>formaliter vel virtualiter. secundum addo propter eos 
+      <lb ed="#P" n="24"/>qui nolebant acquiescere plantatoribus ecclesie / sed 
+      <lb ed="#P" n="25"/>eos reiecerunt sicut tempore apulorum vel postea. 
+      <lb ed="#P" n="26"/>Iudeus credens se teneri ad circuncisionem pos 
+      <lb ed="#P" n="27"/>passionem cui non erat prouulgatus aliquo modo baptis 
+      <lb ed="#P" n="28"/>mus non peccauit sic existimans nec conformiter 
+      <lb ed="#P" n="29"/>agens stante tali iudicio ad hoc tenebatur quia con 
+      <lb ed="#P" n="30"/>scientia erronea non periculosa pro illo tempore. crebro 
+      <lb ed="#P" n="31"/>homo non peccat conformando se conscientie 
+      erro<lb ed="#P" n="32" break="no"/>nee. non valet dictum altissioderensis in principio sui quarti 
+      <lb ed="#P" n="33"/>quod iudeus peccabat quia non adhibuit debitam 
+      di<lb ed="#P" n="34" break="no"/>ligentiam non notans debite aduentum christi pos 
+      <lb ed="#P" n="35"/>passionem. ante prouulgationem non tenebatur quili 
+      <lb ed="#P" n="36"/>bet iudeus remotus scire cessationem legalium. di 
+      <lb ed="#P" n="37"/>ctum danielis ab eo allegatum non est ad 
+      proposi<lb ed="#P" n="38" break="no"/>tum sed ad istud quod iudeis constare debebat aduen 
+      <lb ed="#P" n="39"/>tus messie et quod iam venit per ebdomadas danielis 
+      <lb ed="#P" n="40"/>et prophetas.
+    </p>
+            <p xml:id="JM7jmZ-d9778z-d1e816">
+      ¶ Forte dicis baptismus erat de 
+      prae<lb ed="#P" n="41" break="no"/>cepto ante passionem per illud ioh. iii. nisi quis 
+      re<lb ed="#P" n="42" break="no"/>natus fuerit. non obligat vsque post passionem et erat 
+      <lb ed="#P" n="43"/>pertranscassio in modo loquendi. Dicis tunc circunci 
+      <lb ed="#P" n="44"/>sio aperuit ianuam siue baptismus. Dico quod non pro 
+      <lb ed="#P" n="45"/>tempore quo erat de precepto. dico secundo post 
+      pas<lb ed="#P" n="46" break="no"/>sionem non erat virtute operis opearati. Dico tertio no 
+      <lb ed="#P" n="47"/>quilibet discedens baptisatus statim euolauit ad su 
+      <lb ed="#P" n="48"/>peros. patet de baptisato ante passionem: sed talis man 
+      <lb ed="#P" n="49"/>sit cum circuncisis ante legem. si petas vbi erant ci 
+      <lb ed="#P" n="50"/>cuncisi: dico inter passionem et ascensionem christi 
+      <lb ed="#P" n="51"/>erant cum adam abraham et patriarchis et bono la 
+      <lb ed="#P" n="52"/>trone / de quibus vide in. xxii. d. tertii. ane passionem 
+      ba<lb ed="#P" n="53" break="no"/>ptisati et circuncisi ibant ad limbum paterum / sed vocatur libus 
+      <lb ed="#P" n="54"/>paterum et non puerorum a digniore et a maiore multitud 
+      <lb ed="#P" n="55"/>ne. plures adulti discesserunt et cum gratia 
+      perso<lb ed="#P" n="56" break="no"/>nali quam paruuli. etiam omnes qui precesserunt nos 
+      <lb ed="#P" n="57"/>ad longos annos dicebantur patres id est maiores 
+      <lb ed="#P" n="58"/>nostri.
+    </p>
+            <p xml:id="JM7jmZ-d9778z-d1e858">
+      ¶ Forte dicis tunc circuncisio pro 
+      ali<lb ed="#P" n="59" break="no"/>quo tempore tantum gratie dedit virtute operis ope 
+      <!--052.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="60"/>rati sicut baptismus cum in vtroque erit passio 
+      chri<lb ed="#P" n="61" break="no"/>ti exhibita pro aliquo tempore ante passionem. 
+      </p>
+            <p xml:id="JM7jmZ-d9778z-d1e871">
+               <lb ed="#P" n="62"/>¶ Respondetur: licet baptismus virtute 
+      passio<lb ed="#P" n="63" break="no"/>nis christi exhibite det maiorem gratiam quam circun 
+      <lb ed="#P" n="64"/>cisio dedit ante incarnationem que vigorem habuit 
+      <lb ed="#P" n="65"/>a passione christi preuisa non constat an idem 
+      fue<lb ed="#P" n="66" break="no"/>rit. cum passio christi fuit applicata rationabile 
+      vi<lb ed="#P" n="67" break="no"/>detur quod semper baptismus maiorem gratiam 
+      de<lb ed="#P" n="68" break="no"/>dit: quia sacramentum legis gratie licet aliquando 
+      <lb ed="#P" n="69"/>erat sub consilio: sed forte passione exhibita per actum 
+      <lb ed="#P" n="70"/>interiorem pro illo tempore circuncisio maiorem 
+      <lb ed="#P" n="71"/>gratiam contulit quam ante.
+    </p>
+            <p xml:id="JM7jmZ-d9778z-d1e895">
+      ¶ Sed contra predicta 
+      <lb ed="#P" n="72"/>arguitur: circuncisio per dicta durauit quo ad 
+      pu<lb ed="#P" n="73" break="no"/>olicationem euangelii et baptismi / sed multa sunt 
+      <lb ed="#P" n="74"/>loca ad que non peruenit publicatio baptismi 
+      ad<lb ed="#P" n="75" break="no"/>huc / patet de insulis repertis nunc anno domini mil. v. c. 
+      <lb ed="#P" n="76"/>a regibus hispaniarum / scilicet moabar et 
+      mada<lb ed="#P" n="77" break="no"/>gastar in mari indico vltra tropicum capricorni. 
+      <lb ed="#P" n="78"/>Idem patet in aliquibus insulis in mari 
+      athlenti<lb ed="#P" n="79" break="no"/>co et ethiopico ab eisdem repertis vbi incole de 
+      nul<lb ed="#P" n="80" break="no"/>la lege vnquam audierunt sed insequuntur rationem 
+      na<lb ed="#P" n="81" break="no"/>turalem / clarum est quod existentes prope hierosolimam 
+      <lb ed="#P" n="82"/>brius obligabantur ad suscipiendam fidem quam 
+      exi<lb ed="#P" n="83" break="no"/>stentes in dan et in bersabea / et causa est: quia prius 
+      <lb ed="#P" n="84"/>eis reuelabatur. ergo si ad imaginationem mundus 
+      <lb ed="#P" n="85"/>tantum in ambitu occupasset quod homines non pote 
+      <lb ed="#P" n="86"/>rant a hierusalem ad extremitates ire in mil. v. c. 
+      an<lb ed="#P" n="87" break="no"/>nis / existentes in extremis non fuissent obligati an 
+      <lb ed="#P" n="88"/>tequam ad eos venit verbum christi: sed nunc est eadem 
+      <lb ed="#P" n="89"/>causa postquam verbum christi ad eos non peruenit. 
+      </p>
+            <p xml:id="JM7jmZ-d9778z-d1e938">
+               <lb ed="#P" n="90"/>¶ Respondeo: sum anxius prima fronte quam 
+      par<lb ed="#P" n="91" break="no"/>tem eligere debeo me fluctuante incidit in manus 
+      <lb ed="#P" n="92"/>nunc libellus baptiste mantuani in quo eodem 
+      mor<lb ed="#P" n="93" break="no"/>bo mecum laborat ratus sum medelam vtrique 
+      no<lb ed="#P" n="94" break="no"/>strum propiciam inuenire sed actum nichil 
+      reppe<lb ed="#P" n="95" break="no"/>ri / putat eos post mortem aliquod felicitatis genus 
+      <lb ed="#P" n="96"/>habituros / et loca aliqua dei dono sortituros vbi 
+      <lb ed="#P" n="97"/>melius vel minus male sint habituri quam hii qui 
+      sor<lb ed="#P" n="98" break="no"/>dide et flagitiose vixerunt nichil est illud dicere 
+      mi<lb ed="#P" n="99" break="no"/>nus punientur quam sordide viuentes constat illud apd 
+      <lb ed="#P" n="100"/>ethnicos et maronem suum sexto eneidos. Forta si 
+      <lb ed="#P" n="101"/>sis aliquis reputabit propositiones non absonas pri 
+      <lb ed="#P" n="102"/>mo obtuitu apparentes quas tanem nec assero nec 
+      <lb ed="#P" n="103"/>probabiliter tenere volo maxime cum pietas fidei 
+      <lb ed="#P" n="104"/>earum oppositis faueat vt igitur propositionum sequentium 
+      <lb ed="#P" n="105"/>contrarium (fidei conformius) appareat 
+      propositio<lb ed="#P" n="106" break="no"/>nes apponam. opposita enum iuxta se posita magi 
+      <lb ed="#P" n="107"/>elucescunt: primi elemcho. vltimo. Sit igitur prima propo. 
+      <lb ed="#P" n="108"/>apparens est quod sunt aliqui homines in insulis ad quos 
+      <lb ed="#P" n="109"/>verbum christi non peruenit. probatur propositio 
+      <lb ed="#P" n="110"/>de insulis de nouo inuentis: nec aliquid obstat nisi 
+      <lb ed="#P" n="111"/>illud dictum psalmiste psalmo decimo octauo. In 
+      <lb ed="#P" n="112"/>omnem terram exiuit sonus eorum. Sed ad illud 
+      <lb ed="#P" n="113"/>statim respondebitur / hic nichil apparet esse dicen 
+      <lb ed="#P" n="114"/>dum nisi quod verbum christi ad eos peruenerat et po 
+      <lb ed="#P" n="115"/>stea eorum incuria verbum christi extinctum est. 
+      <lb ed="#P" n="116"/>Sed contra: quia tunc apparet quod esset aliqua heresis 
+      <lb ed="#P" n="117"/>vt machometi vel gentilium. si dicas eodemmoo debent 
+      <lb ed="#P" n="118"/>ese sacramenta legis nature hoc non est ita clarum. plerique 
+      <!--053.xml-->
+      <pb ed="#P" n="19-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>negant tempore legis nature fuisse sacramenta et 
+      <lb ed="#P" n="2"/>illud esset argumentum pro eis. item successu 
+      ma<lb ed="#P" n="3" break="no"/>gni temporis sacramenta legis nature sunt 
+      extin<lb ed="#P" n="4" break="no"/>cta. secus esset de sacramentis noue legis que nec 
+      <lb ed="#P" n="5"/>ita diu durarunt.
+    </p>
+            <p xml:id="JM7jmZ-d9778z-d1e1021">
+      ¶ Secunda propositio est. non est ino 
+      <lb ed="#P" n="6"/>pinabile quod ipsi vel eorum antecessores habuerunt sa 
+      <lb ed="#P" n="7"/>cramenta legis nature nec hec priori aduersatur cum 
+      <lb ed="#P" n="8"/>in ea ponitur opinabile et in alia apparens. vtrumque 
+      <lb ed="#P" n="9"/>opinabilium est apparens. probatur: quia ante 
+      di<lb ed="#P" n="10" break="no"/>ctum est quod deus non reliquit genus humanum aliquo tempore 
+      <lb ed="#P" n="11"/>sine remedio contra originale. et sacramenta legis na 
+      <lb ed="#P" n="12"/>ture manserunt apud alios a pouolo israelitico: ergo quando ho 
+      <lb ed="#P" n="13"/>mines erant pauci in mundo habuerunt illa sacramenta 
+      <lb ed="#P" n="14"/>et seniores verisimile est annunciauerunt iunioribus 
+      </p>
+            <p xml:id="JM7jmZ-d9778z-d1e1043">
+               <lb ed="#P" n="15"/>¶ Tertia propositio. si sint aliqui tales in insulis 
+      <lb ed="#P" n="16"/>puta iudei in aliquibus insulis et gentiles in aliis ad 
+      <lb ed="#P" n="17"/>quos fama baptismi non peruenit tales vt apparet 
+      <lb ed="#P" n="18"/>circuncidentes adhuc sunt saluati si sint iudei et eo 
+      <lb ed="#P" n="19"/>demmodo gentiles seruantes sacramenta legis 
+      na<lb ed="#P" n="20" break="no"/>ture. probatio. circuncisio interdum erat eis 
+      neces<lb ed="#P" n="21" break="no"/>saria et non constat eis quod est reuocata ergo. Et si 
+      di<lb ed="#P" n="22" break="no"/>cas paruulus iudei circuncisus rome discedens 
+      dam<lb ed="#P" n="23" break="no"/>natur: ergo paruulus iudei in insulis / quia ex 
+      ratio<lb ed="#P" n="24" break="no"/>ne paruulorum idem est nec peruenit ad eos. 
+      Dici<lb ed="#P" n="25" break="no"/>tur quod consequentia nulla est. si dicas est error cherinthi et he 
+      <lb ed="#P" n="26"/>beonis dicentium legalia currere cum euangelio hoc 
+      <lb ed="#P" n="27"/>non concludit nisi post sufficientem prouulgationem 
+      <lb ed="#P" n="28"/>in eodem loco. hierosolimis iam erat lex primo suf 
+      <lb ed="#P" n="29"/>sicienter prouulgata et tamen legalia non erant ad 
+      <lb ed="#P" n="30"/>huc mortifera in locis se; aratis.
+    </p>
+            <p xml:id="JM7jmZ-d9778z-d1e1080">
+      ¶ Quarta propo 
+      <lb ed="#P" n="31"/>sitio. omnes paruuli in insulis nullum sacramentum 
+      <lb ed="#P" n="32"/>habentes contra originale / dannantur. patet: ita est 
+      <lb ed="#P" n="33"/>de nostris ergo a fortiori de eorum paruulis. 
+      </p>
+            <p xml:id="JM7jmZ-d9778z-d1e1089">
+               <lb ed="#P" n="34"/>¶ Quinta propositio / si sint aliqui adulti ad quos 
+      <lb ed="#P" n="35"/>fama euangelii non peruenit nec habent aliquod sa 
+      <lb ed="#P" n="36"/>cramentum contra originale si faciant quod in eis 
+      <lb ed="#P" n="37"/>est deus eos illuminabit et baptisabit eos 
+      baptis<lb ed="#P" n="38" break="no"/>mo flaminis et idem est iudicium de istis sicut de 
+      <lb ed="#P" n="39"/>philosophis atheniensibus quorum aliqui bene 
+      vi<lb ed="#P" n="40" break="no"/>xerunt secundum quod ratio eis suggerebat et hii 
+      saluaban<lb ed="#P" n="41" break="no"/>tur. Et si dicas marci vltimo. qui vero non credi 
+      <lb ed="#P" n="42"/>derit condeiabitur. illi non habent fidem infusam 
+      <lb ed="#P" n="43"/>ergo dannantur. eodemmodo videtur inconueniens 
+      <lb ed="#P" n="44"/>dicere legalia adhuc currere. Ad primum facile est 
+      <lb ed="#P" n="45"/>respondere deus talibus senibus fidem infundit dum 
+      <lb ed="#P" n="46"/>modo faciunt quod in eis est et in paruulis eorum 
+      <lb ed="#P" n="47"/>infunditur fides per applicationem sacramentorum 
+      <lb ed="#P" n="48"/>Ad aliud dicerent quod hoc est inconueniens dicere quod 
+      <lb ed="#P" n="49"/>legalia currant in loco in quo fides est prouulgata vtam 
+      <lb ed="#P" n="50"/>dictum est.
+    </p>
+            <p xml:id="JM7jmZ-d9778z-d1e1128">
+      ¶ Contra primam propositionem arguitur per 
+      il<lb ed="#P" n="51" break="no"/>illud apostoli ad roma. x. allegantis illud. In omnem 
+      <lb ed="#P" n="52"/>terram exiuit sonus eorum.
+    </p>
+            <p xml:id="JM7jmZ-d9778z-d1e1136">
+      ¶ Ad hoc respondetur quod ibi 
+      <lb ed="#P" n="53"/>terram distribuitur pro generibus singulorum et non 
+      <lb ed="#P" n="54"/>pro singulis generum esto quod terra non sit genus vniversle 
+      <lb ed="#P" n="55"/>quidditatiue et essentialiter ad inferiora sufficit quod 
+      <lb ed="#P" n="56"/>snt totum in modo ad eius partes: quia sic doctores capiunt. 
+      <lb ed="#P" n="57"/>sic magister petrus comestor in hystoria scolastica 
+      <lb ed="#P" n="58"/>dicit. multe similes auctoritates sic saluantur. vt esa ve 
+      <lb ed="#P" n="59"/>primoca. ad eum conuertentur omnes gentes.
+    </p>
+            <p xml:id="JM7jmZ-d9778z-d1e1154">
+      ¶ Secundo potest 
+      <!--053.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="60"/>dici quod intelligitur auctoritas de totali terra habitabi 
+      <lb ed="#P" n="61"/>li non loquendo de insulis et forte pauci tunc erant in 
+      <lb ed="#P" n="62"/>insulis. cum hoc dicto satis concordat de lira 
+      psal<lb ed="#P" n="63" break="no"/>mo. xviii. et ad romanos decimo: Iherusalem est 
+      <lb ed="#P" n="64"/>in medio climatum quia est in quarto climate. et viuem 
+      <lb ed="#P" n="65"/>te petro sanctus sauinianus condidit ecclesiam in ho 
+      <lb ed="#P" n="66"/>nore sancti petri senonis quae est in vltimo climate et 
+      <lb ed="#P" n="67"/>mathei. xxiiii. dicit quod quattuor condidit basilicas 
+      <lb ed="#P" n="68"/>vnam in honore beate virginis. secundam in honore bea 
+      <lb ed="#P" n="69"/>ti stephani. terciam iohis baptiste. quartam sancti pe 
+      <lb ed="#P" n="70"/>ri viui ecclesia quae nunc est sancti benedicti parisius in 
+      <lb ed="#P" n="71"/>vniuersitate fundabatur in honore sancte trinitatis an 
+      <lb ed="#P" n="72"/>no. xli. post passionem vt in eius fronte in petra notatum 
+      <lb ed="#P" n="73"/>manet. tertio potest dici quod propositio assumpta est vera 
+      <lb ed="#P" n="74"/>vniuersalitate theologica. hoc est habet multas singula 
+      <lb ed="#P" n="75"/>res veras et paucas falsas quae est propositio in parte 
+      <lb ed="#P" n="76"/>vera et in parte falsa secundum aristotelem primo priorum 
+      <lb ed="#P" n="77"/>multo plures singulares habens veras quam falsas ad  
+      <lb ed="#P" n="78"/>dere oportet. et hoc sufficit ad veritatem vniuersa 
+      <lb ed="#P" n="79"/>lis loquendo in consueto modo loquendi. de 
+      conse<lb ed="#P" n="80" break="no"/>d. ii. reuera vbi dicitur quod omnes illi qui manducauerunt 
+      <lb ed="#P" n="81"/>manna in deserto mortui sunt et tamen iosue et caleph non 
+      <lb ed="#P" n="82"/>mortui sunt. d. lxxviii. ieiunium quarti.
+    </p>
+            <p xml:id="JM7jmZ-d9778z-d1e1211">
+      ¶ Quarto 
+      di<lb ed="#P" n="83" break="no"/>citur cum glosa ordinaria que melius exponit quod prae 
+      <lb ed="#P" n="84"/>teritum ponitur pro futuro quia non est impletum illud 
+      <lb ed="#P" n="85"/>verbum apostoli tunc per quanlibet partem terre / et illud 
+      <lb ed="#P" n="86"/>patet: quia psal. dixit hanc auctoritatem diu ante apostolum et 
+      <lb ed="#P" n="87"/>exponitur de apostolis: ergo intellexit psalmista pro tempore 
+      <lb ed="#P" n="88"/>uturo: sed quia prophete viderunt futurum sicut presens 
+      <lb ed="#P" n="89"/>vsi sunt preterito: et hoc satis sonat cum illo beati luce 
+      <lb ed="#P" n="90"/>actunm. i. Et eritis michi testes in hierlistum et in omni 
+      <lb ed="#P" n="91"/>iudea et samaria et vsque ad vltimum terre per vos et 
+      <lb ed="#P" n="92"/>successores vestros. quia beatus augusti. dicit 
+      quos<lb ed="#P" n="93" break="no"/>dam barbaros ad eos in affrica deuenisse quae nullam 
+      <lb ed="#P" n="94"/>legem audiuerunt non nego quin est maior 
+      apparen<lb ed="#P" n="95" break="no"/>tia in oppon et pietas fidei fauere videtur: descendo 
+      <lb ed="#P" n="96"/>in oppositum quod ab oli susceperut fidem que ex 
+      cul<lb ed="#P" n="97" break="no"/>pa parentum extincta est et illud apparet viso quod apo 
+      <lb ed="#P" n="98"/>stolus paulus tantam plagam terre pragrauit et multi 
+      <lb ed="#P" n="99"/>erant apostoli et discipuli et alios docuerunt. beatus 
+      <lb ed="#P" n="100"/>thomas parthos / persas / hircanos / bragmanos / et 
+      <lb ed="#P" n="101"/>ethiopes visitauit. beatus andreas sithiam et achaiam. 
+      <lb ed="#P" n="102"/>et ita alii varias plagas terre perlustrarunt si 
+      pre<lb ed="#P" n="103" break="no"/>decessores insularum restiterunt legi dei de baptismo 
+      <lb ed="#P" n="104"/>nimirum quod eorum paruuli discedentes in originali dam 
+      <lb ed="#P" n="105"/>nantur sicut causa peccati originalis in paruulis fuit 
+      <lb ed="#P" n="106"/>per alium ita remedium est per alium: si quis christianus 
+      <lb ed="#P" n="107"/>noluerit baptisare suum paruulum manebit pecca 
+      <lb ed="#P" n="108"/>ti originalis reus si adulti bene viuant et faciant quod 
+      <lb ed="#P" n="109"/>in eis est: deus eos illuminat in necessariis ad 
+      salu<lb ed="#P" n="110" break="no"/>tem / beatus matheus indiam visitauit et vt apparet 
+      <lb ed="#P" n="111"/>verbum christi in taprobana callicutia et in insulis 
+      in<lb ed="#P" n="112" break="no"/>ter tropicum capricorni et circulum antarticum de 
+      <lb ed="#P" n="113"/>uenit. de aurea chrisoneso et aliis continentibus terre 
+      <lb ed="#P" n="114"/>habitabilis non cadit dubietas.
+    </p>
+            <p xml:id="JM7jmZ-d9778z-d1e1283">
+      ¶ Secundo argui 
+      <lb ed="#P" n="115"/>tur mathei quino. Non veni soluere legem sed eam 
+      <lb ed="#P" n="116"/>adimplere. et geneseos. xvii. Circuncisio data est 
+      <lb ed="#P" n="117"/>abrahe in fedus sempiternum.
+    </p>
+            <p xml:id="JM7jmZ-d9778z-d1e1292">
+      ¶ Respondetur quod 
+      mora<lb ed="#P" n="118" break="no"/>lia legis mosaice non soluuntur sed manent. iudicialia 
+      <!--054.xml-->
+      <pb ed="#P" n="20-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>et cenrimonialia mutata sunt in melius et sic dicun 
+      <lb ed="#P" n="2"/>manere in equiualenti vel magis valenti. votum 
+      <lb ed="#P" n="3"/>emittens peregrinationis si commutat in votum 
+      <lb ed="#P" n="4"/>religionis non dicitur fractor voti quia in melius 
+      <lb ed="#P" n="5"/>mutat. sic vouens dare vni eccle duos denarios dans 
+      <lb ed="#P" n="6"/>scutum non seruat votum in forma sufficit in 
+      va<lb ed="#P" n="7" break="no"/>lore. glosa interlinearis exponit in fedus eternum 
+      <lb ed="#P" n="8"/>quod ducit ad vitam eternam etiam promittebatur 
+      <lb ed="#P" n="9"/>abrahe et semini eius terra chananaam in federe 
+      <lb ed="#P" n="10"/>sempiterno / patet eodem capite geneseos et tamen 
+      <lb ed="#P" n="11"/>nunc non habent. si ad litteram respiciant iudei non 
+      <lb ed="#P" n="12"/>sufficit dicere hismaelite nunc partes istas possident 
+      <lb ed="#P" n="13"/>cum in isaac promittebatur semen et hereditas. 
+      <lb ed="#P" n="14"/>Eodemmodo circuncisio datur in fedus 
+      sempiter<lb ed="#P" n="15" break="no"/>num in meliori quia maiorem gratram confert baptis 
+      <lb ed="#P" n="16"/>mus quam circuncisio et peccatum originale aufert sicut 
+      <lb ed="#P" n="17"/>circuncisio / vnde quia populus israeliticus erat 
+      pro<lb ed="#P" n="18" break="no"/>cliuus ad idolatriam et dure ceruicis placuit deo pro 
+      <lb ed="#P" n="19"/>illo tempore eis imponere multa que postea in 
+      le<lb ed="#P" n="20" break="no"/>ge gratie in filii incarnatione variare intendebat. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

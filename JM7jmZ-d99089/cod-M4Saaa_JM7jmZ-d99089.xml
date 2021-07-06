@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 5</title>
+            <author ref="#JohnMair">John Mair</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 5</title>
+               <date when="2021-07-06">July 06, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-M4Saaa">Paris 1509</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-06" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="178-v"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="JM7jmZ-d99089"><!-- l4d38q5 -->
+            <head xml:id="JM7jmZ-d99089-Hd1e108">Quaestio 5</head>
+            <head xml:id="JM7jmZ-d99089-Hd1e111" type="question-title">
+      An Carthusiensis
+      in extrema necessitate
+      potest vesci
+      carnibus
+    </head>
+            <p xml:id="JM7jmZ-d99089-d1e114">
+               <lb ed="#P" n="61"/>¶ Distinctionis trigesime octaue quaestio quinta. 
+      <lb ed="#P" n="62"/>Uinto specialiter quero an carthusiensis 
+      <lb ed="#P" n="63"/>in extrema necessitate potest vesci carnibus.
+    </p>
+            <p xml:id="JM7jmZ-d99089-d1e123">
+               <lb ed="#P" n="64"/>Pro huius questionis elucidatione pono 
+      <lb ed="#P" n="65"/>conclusionem.
+    </p>
+            <p xml:id="JM7jmZ-d99089-d1e130">
+      ¶ Dabilis est casus in quo 
+      carthu<lb ed="#P" n="66" break="no"/>siensis non vescens carnibus male ageret. probatur 
+      <lb ed="#P" n="67"/>conclusio. posito quod carthusiensis potest succurrere 
+      <lb ed="#P" n="68"/>sue vite per esum carnium et non aliter. patet. quilibebet tene 
+      <lb ed="#P" n="69"/>tur non esse homicida sui talis qui nollet comedere 
+      <lb ed="#P" n="70"/>in illo casu sui esset homicida. Si dicas non occide 
+      <lb ed="#P" n="71"/>ret se sed sua regula esset causa sue mortis. Contra 
+      <lb ed="#P" n="72"/>regula non plus obligat quam lex nature et diuina de ser 
+      <lb ed="#P" n="73"/>uanda vita si teneor eggredi claustrum vbi pater esset 
+      <lb ed="#P" n="74"/>in domo dormiens quae nunc incineratur et succurrere 
+      <lb ed="#P" n="75"/>illi domui vbi abbas preciperet oppositum vel vbi 
+      <lb ed="#P" n="76"/>vouerem non eggredi bibliotecam isto die et in medio 
+      <lb ed="#P" n="77"/>die biblioteca est incensa nemo diceret me 
+      trangres<lb ed="#P" n="78" break="no"/>sorem voti eggrediendo imo me tondelem homicidam 
+      <lb ed="#P" n="79"/>proclamarent si in domo morarer quo ad flammis cor 
+      <lb ed="#P" n="80"/>rumpar ergo si essem in casu vbi non possum viueri 
+      <lb ed="#P" n="81"/>nisi per esum carnium possum et debeo vesci carnibus 
+      <lb ed="#P" n="82"/>si ponas vitella ouorum sufficere vt ornoldus de 
+      no<lb ed="#P" n="83" break="no"/>ua villa ratus est hoc rationem non eluit. tum primo po 
+      <lb ed="#P" n="84"/>namus medicos dicere licet fallantur non interest 
+      <lb ed="#P" n="85"/>huic non potest adhiberi remedium aliud nisi per esum 
+      <lb ed="#P" n="86"/>carnium. Tum secundo ponamus vitella ouorum esse ma 
+      <lb ed="#P" n="87"/>gno nocumento morbo quem hic patitur sunt calida et 
+      <lb ed="#P" n="88"/>hic febre calida et acuta est correptus modo contraria 
+      <lb ed="#P" n="89"/>ontrariis curantur insuper pone quod oua abhorreat. Tumter 
+      <lb ed="#P" n="90"/>tio ponatur casus talis quod nichil aliud haberet qui aptum 
+      <lb ed="#P" n="91"/>comestioni. est in nemore vel in obsesso castro tunc co 
+      <lb ed="#P" n="92"/>medere potest ne fame pereat praeceptum legis 
+      natu<lb ed="#P" n="93" break="no"/>re et diuinum est seruare vitam modo rationabili quod 
+      fa<lb ed="#P" n="94" break="no"/>cit nullum scandalisat nec aliquis ab eo scandalisatur 
+      </p>
+            <p xml:id="JM7jmZ-d99089-d1e196">
+               <lb ed="#P" n="95"/>¶ Contra conclusionem argumentor talis contraue 
+      <lb ed="#P" n="96"/>nit suo voto ergo male agit: consequentia est plana 
+      <lb ed="#P" n="97"/>et antecedens patet quia continetur in sua regula. forte 
+      <lb ed="#P" n="98"/>dicis non formalius vouetur non comestio carnium in 
+      <lb ed="#P" n="99"/>carthusia quam in regula beati benedicti vel in aliis re 
+      <lb ed="#P" n="100"/>ligionibus non vescentibus carnes. Rursus macha 
+      <lb ed="#P" n="101"/>bei. ii. machabeorum. vii. laudantur qui nolebant 
+      co<lb ed="#P" n="102" break="no"/>medere carnes suillas et hoc erat in extrema 
+      necessi<lb ed="#P" n="103" break="no"/>tate ergo idem erit de carthusiensi quod in secreto non de 
+      <lb ed="#P" n="104"/>beret comedere carnes. Ad primum nego antecedens 
+      <lb ed="#P" n="105"/>in omni voto alique conditiones gantonales et necessarie 
+      <lb ed="#P" n="106"/>includuntur. fi. de solutio. cum quis. et de iure iurando 
+      <lb ed="#P" n="107"/>quemadmodum etiam qui mutat promissum votum vel 
+      iu<lb ed="#P" n="108" break="no"/>ramentum in melius non est violator voti sicut grego 
+      <lb ed="#P" n="109"/>rius tertius scripsit regi francorum. patet de iure prouenit et sum 
+      <lb ed="#P" n="110"/>matim pro rationabili quacumque causa s lfic. qui satisda 
+      <lb ed="#P" n="111"/>cognu. i. vltima causa rationabilis est hic extrema 
+      <lb ed="#P" n="112"/>necessitas nec oportet vouentem illam explicare quia 
+      <lb ed="#P" n="113"/>recta ratio sufficienter illam concludit et caderet in 
+      <lb ed="#P" n="114"/>luem regule sciret quilibet doctus illam conditionem 
+      <lb ed="#P" n="115"/>exceptam et fabricaret de non extrema necessitate ex 
+      <lb ed="#P" n="116"/>tremam licet veritas de se sit bona multis nocet ali¬ 
+      <!--372.xml-->
+      <pb ed="#P" n="179-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>quas veritates cognoscere quando eis male abutuntur 
+      <lb ed="#P" n="2"/>nec votum. propterea est conditionale esto quod per con 
+      <lb ed="#P" n="3"/>ditionem exponatur in argumento accipiebatur non ca 
+      <lb ed="#P" n="4"/>dit illorum votum super non esum carnium. dico tibi idem 
+      <lb ed="#P" n="5"/>est vouere hanc regulam et vouere vnam copulatiuam 
+      <lb ed="#P" n="6"/>ex omnibus membris regule voueo non comedam carnes 
+      <lb ed="#P" n="7"/>voueo a voueo b sed obligatio est ad intentionem legis 
+      <lb ed="#P" n="8"/>latoris et equitatem. si dicas ergo aliquis contraue 
+      <lb ed="#P" n="9"/>nit suo voto et non peccat. patet de constitutionibus quae 
+      <lb ed="#P" n="10"/>solum obligant ad penam et hoc concedo. si dicas ad  
+      <lb ed="#P" n="11"/>falsitatem copulatiue affirmatiue sufficit falsitas vnius 
+      <lb ed="#P" n="12"/>partis principalis ergo ad fractionem totius voti suffi 
+      <lb ed="#P" n="13"/>cit fractio vnius partis conceditur vt superius patuit 
+      <lb ed="#P" n="14"/>non ita stricte prohibetur esus carnium in regula 
+      bea<lb ed="#P" n="15" break="no"/>ti benedicti vt patet per capunt famosum cum ad 
+      mona<lb ed="#P" n="16" break="no"/>terium. et per regulam beati benedicti non putet carthu 
+      <lb ed="#P" n="17"/>siensis se non peccare si conedat carnes extra necessita 
+      <lb ed="#P" n="18"/>tem vel rationabilem causam imo peccat non opus 
+      <lb ed="#P" n="19"/>est insistere super hoc. De machabeis dicitur quod 
+      an<lb ed="#P" n="20" break="no"/>tiochus illud coegit in detestationem legis diuine quam 
+      <lb ed="#P" n="21"/>machabri et bona mater heroice seruarunt in 
+      perpe<lb ed="#P" n="22" break="no"/>tem memoriam posteris etiam non comedere carnes 
+      <lb ed="#P" n="23"/>suillinas tunc erat de iure diuino. secus est de voto 
+      <lb ed="#P" n="24"/>quod partim ex actu spontaneo nostro dependet propterea 
+      <lb ed="#P" n="25"/>numquam simpliciter incipit esse de iure diuino strictius 
+      <lb ed="#P" n="26"/>est seruandum ius diuinum quam humanum.
+    </p>
+            <p xml:id="JM7jmZ-d99089-d1e309">
+      ¶ Secundo 
+      <lb ed="#P" n="27"/>argumentor sequeretur quod si aliquis esset in extrema 
+      <lb ed="#P" n="28"/>necessitate qui ad partem solus comederet carnes non 
+      <lb ed="#P" n="29"/>teneretur se confiteri de illo: consequens est falsum quidam 
+      car<lb ed="#P" n="30" break="no"/>thusiensis semimortuus defectu potus descendit de 
+      <lb ed="#P" n="31"/>equo et cum gladiolo traxit sanguinem de tibia quem 
+      <lb ed="#P" n="32"/>hausit ad refocillandos spius post penitudine ductus 
+      <lb ed="#P" n="33"/>hoc crimen publice confessus est. concedo quod talis non 
+      <lb ed="#P" n="34"/>tenetur se confiteri de illo quando constat ei quod aliter 
+      eua<lb ed="#P" n="35" break="no"/>dere non potest deberet tenere secretum et non dicere 
+      <lb ed="#P" n="36"/>aliis si dubitet an erat in tali necessitate vel habeat 
+      <lb ed="#P" n="37"/>conscientiam erroneam confiteatur se.
+    </p>
+            <p xml:id="JM7jmZ-d99089-d1e335">
+      ¶ Tertio 
+      argu<lb ed="#P" n="38" break="no"/>mentor licet carthusiensi in extrema necessitate vesci 
+      <lb ed="#P" n="39"/>carnibus ad succurrendum sue vite ergo licet ei mulio 
+      <lb ed="#P" n="40"/>rem cognoscere in casu quo docti dicerent eum mortem 
+      <lb ed="#P" n="41"/>ppetere nisi mulierem cognoscat per doctos medicos 
+      <lb ed="#P" n="42"/>intelligo prudentes quod casus est contingibilis. patet 
+      ex<lb ed="#P" n="43" break="no"/>aristotele in probleumatibus. Forte dicis est contra 
+      <lb ed="#P" n="44"/>ius diuinum cognoscere non suam. contra in extrema ne 
+      <lb ed="#P" n="45"/>cessitate a panis est meus ad succurrendum vite: ergo  
+      <lb ed="#P" n="46"/>o mulier soluta vel ligata incipit in illo casu esse mea 
+      <lb ed="#P" n="47"/>nec amplius vocabitur fornicatio sicut auferens 
+      ex<lb ed="#P" n="48" break="no"/>tra necessitatem facit furtum tantumdem tempore 
+      necessita<lb ed="#P" n="49" break="no"/>te aufferens non committit furtum sic erit in proposito. 
+      <lb ed="#P" n="50"/>Ad tertium nego consequentiam non est simile cibus est ne 
+      <lb ed="#P" n="51"/>cessarius ad succurrendum indiuiduo gsntonatio vel cognosco 
+      <lb ed="#P" n="52"/>re mulierem non est nec intelligo illud esse vite necessa 
+      <lb ed="#P" n="53"/>rium quicumque humor fuerit potest extrahi vel purgari et 
+      <lb ed="#P" n="54"/>sic non admitto casum sed illo admisso nec de vno potest 
+      <lb ed="#P" n="55"/>constare sicut de alio. vnum est contra ius diuinum non 
+      <lb ed="#P" n="56"/>aliud cognoscere non meam nullatenus hec potest esse 
+      <lb ed="#P" n="57"/>mea nisi per matrimonium si ipa sit mulier soluta et ego 
+      <lb ed="#P" n="58"/>solutus possum eam ducere ad succurrendum mee vite 
+      <lb ed="#P" n="59"/>si finaliter dicas te non capere nec satisfactum iri qua¬ 
+      <!--372.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="60"/>re panis in extrema necessitate incipit esse tuus qui 
+      <lb ed="#P" n="61"/>ante erat alienus et hec mulier etiam aliena ante quare 
+      <lb ed="#P" n="62"/>non incipit esse tua iam responsum est vtcumque et amplius 
+      <lb ed="#P" n="63"/>superadditur sic pateres nostri annunciauerunt nobis et fer 
+      <lb ed="#P" n="64"/>me nobis insitum a natura videmus viros erubesce 
+      <lb ed="#P" n="65"/>re de copula carnali si reperiantur non de comestione 
+      <lb ed="#P" n="66"/>etiam in publico huic aristoteles in probleumatibus 
+      <lb ed="#P" n="67"/>pat causam quare de vno verecundamur et non alio 
+      <lb ed="#P" n="68"/>quia cibus est necessarius et non de se fedus de diogene 
+      <lb ed="#P" n="69"/>tinife vel errore nicholutarum loqui non oportet cum 
+      <lb ed="#P" n="70"/>bestiales erant.
+    </p>
+            <p xml:id="JM7jmZ-d99089-d1e413">
+      ¶ Quarto argumentor saltem ex isto 
+      <lb ed="#P" n="71"/>apparet quod praesbiter potest mulierem ducere in vxorem 
+      solu<lb ed="#P" n="72" break="no"/>tam etiam sine dispensatione ad succurrendum sue vite 
+      <lb ed="#P" n="73"/>huic argumento est responsum etiam est persona 
+      inhabi<lb ed="#P" n="74" break="no"/>lis. dicis prohibitio ecclesie non subtrahit ius diuinum 
+      <lb ed="#P" n="75"/>de fuanda vita solutionem habes non admisi casum et 
+      <lb ed="#P" n="76"/>in hoc steti sed egre casum admittendo alie vite 
+      <lb ed="#P" n="77"/>tanguntur. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>
