@@ -61,7 +61,7 @@
           <lb ed="#P" n="93"/>¶ Distinctionis quadragesime none questio quinta. 
           <lb ed="#P" n="94"/>Odo quinto restat querere an beatitudo 
           <lb ed="#P" n="95"/>sit perpetua. Respondetur affirmatiue
-          <quote source="http://scta.info/resource/ps83_5@1-12"><lb ed="#P" n="96"/>Abeati qui habitant in domo tua domine in se
+          <quote xml:id="JM7jmZ-e16847-Qd1e115" source="http://scta.info/resource/ps83_5@1-12"><lb ed="#P" n="96"/>Abeati qui habitant in domo tua domine in se
           <lb ed="#P" n="97"/>cula seculorum laudabunt te.</quote> psal. lxxxiii. 
           <lb ed="#P" n="98"/>et misericordias domini ineternum cantabo. psal. lxxxviii 
           <lb ed="#P" n="99"/>hoc patet. mathei. xxv. per locum a contrario sensu de 
@@ -190,7 +190,7 @@
           <lb ed="#P" n="91"/>temerarie concedunt animam christi in primo instanti 
           nul<lb ed="#P" n="92" break="no"/>lam beatitudinem habuisse sed successiue fuisse 
           aug<lb ed="#P" n="93" break="no"/>mentatam esse in celo est esse beatum in proposito sicut
-          <lb ed="#P" n="94"/><quote source="http://scta.info/resource/lc23_43@8-12">hodie mecum eris in paradiso.</quote> luce. xxiii. etiam anima 
+          <lb ed="#P" n="94"/><quote xml:id="JM7jmZ-e16847-Qd1e391" source="http://scta.info/resource/lc23_43@8-12">hodie mecum eris in paradiso.</quote> luce. xxiii. etiam anima 
           si<lb ed="#P" n="95" break="no"/>bi relicta potest instantanee esse in celo realiter et 
           mu<lb ed="#P" n="96" break="no"/>tari subito ex sua natura absque hoc quod iuuetur ab 
           ange<lb ed="#P" n="97" break="no"/>lo dixi de premio essentiali animae de primio accidentali 
@@ -270,10 +270,10 @@
           <lb ed="#P" n="47"/>nor quam ad reliquum. nec consequens est quod tot noticias 
           actua<lb ed="#P" n="48" break="no"/>les habeat sicut anima christi quia hoc non decet quilibet beatus 
           <lb ed="#P" n="49"/>est summe contentus de noticia et gloria quam habet et est 
-          suffi<lb ed="#P" n="50" break="no"/>ciens sacietas propterea de quolibet beato dicitur <quote source="http://scta.info/resource/ps16_15@8-12">satiabor
-          <lb ed="#P" n="51"/>cum apparuerit gloria tua</quote> sciens illud roma. viii. <quote source="http://scta.info/resource/rom8_18@1-16">estind
+          suffi<lb ed="#P" n="50" break="no"/>ciens sacietas propterea de quolibet beato dicitur <quote xml:id="JM7jmZ-e16847-Qd1e564" source="http://scta.info/resource/ps16_15@8-12">satiabor
+          <lb ed="#P" n="51"/>cum apparuerit gloria tua</quote> sciens illud roma. viii. <quote xml:id="JM7jmZ-e16847-Qd1e569" source="http://scta.info/resource/rom8_18@1-16">estind
           <lb ed="#P" n="52"/>eim quod non sunt condigne passiones huius temporis ad futuram
-          <lb ed="#P" n="53"/>gloriam quae reuelabitur in nobis.</quote> i. cori. ii. <quote source="http://scta.info/resource/Icor2_9@5-23">quod oculus non
+          <lb ed="#P" n="53"/>gloriam quae reuelabitur in nobis.</quote> i. cori. ii. <quote xml:id="JM7jmZ-e16847-Qd1e576" source="http://scta.info/resource/Icor2_9@5-23">quod oculus non
           vi<lb ed="#P" n="54" break="no"/>dit nec auris audiuit nec in cor hominis ascendit quae
           praepa<lb ed="#P" n="55" break="no"/>rauit deus hiis qui diligunt illum</quote> ibi spius angelici 
           inces<lb ed="#P" n="56" break="no"/>santer dei laudes depromunt dicentes osanna filio dei 

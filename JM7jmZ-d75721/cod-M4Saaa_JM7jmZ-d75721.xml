@@ -453,12 +453,12 @@
           lon<lb ed="#P" n="115" break="no"/>gis exercitationibus adepti sunt de sorte hoc est pro 
           <lb ed="#P" n="116"/>me ceperunt duos maxime probos iudicio eorum 
           <lb ed="#P" n="117"/>quod patet. dicebat beatus petrus actuum. i.
-          <quote source="http://scta.info/resource/act1_21@1-20">opor<lb ed="#P" n="118" break="no"/>tet ergo ex hiis viris qui nobiscum sunt congregati in
+          <quote xml:id="JM7jmZ-d75721-Qd1e921" source="http://scta.info/resource/act1_21@1-20">opor<lb ed="#P" n="118" break="no"/>tet ergo ex hiis viris qui nobiscum sunt congregati in
           <!--291.xml-->
           <pb ed="#P" n="138-v"/>
           <cb ed="#P" n="a"/>
           <lb ed="#P" n="1"/>omni tempore quo intrauit et exiuit inter nos dominus
-          <lb ed="#P" n="2"/>noster iesus christus</quote> <quote source="http://scta.info/resource/act1_22@1-12">incipiens a baptismate
+          <lb ed="#P" n="2"/>noster iesus christus</quote> <quote xml:id="JM7jmZ-d75721-Qd1e937" source="http://scta.info/resource/act1_22@1-12">incipiens a baptismate
           iohan<lb ed="#P" n="3" break="no"/>nis vsque in diem qua assumptus est a nobis</quote> et hoc 
           con<lb ed="#P" n="4" break="no"/>uincitur cum ioseph bersabas cognitus iustus non est 
           <lb ed="#P" n="5"/>electus sed mathias indicium est quod ceperunt duos opt 
