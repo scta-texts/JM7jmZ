@@ -135,9 +135,9 @@
           igi<lb ed="#P" n="59" break="no"/>tur. minor patet. illud patet. Sechiel. xviii. hoc patet 
           <!--218.xml-->
           <cb ed="#P" n="b"/>
-          <lb ed="#P" n="60"/>Psalmo. xiiii. domiene quis habitabit in tabernaculo 
-          <lb ed="#P" n="61"/>tuo. et sequitur qui pecuniam suam non dedit ad vsu 
-          <lb ed="#P" n="62"/>ram. forte dicis prohibitio veteris testamenti non 
+          <lb ed="#P" n="60"/>Psalmo. xiiii. <quote source="http://scta.info/resource/ps14_1@3-8">domiene quis habitabit in tabernaculo
+          <lb ed="#P" n="61"/>tuo.</quote> et sequitur <quote source="http://scta.info/resource/ps14_5@1-7">qui pecuniam suam non dedit ad vsu
+          <lb ed="#P" n="62"/>ram.</quote> forte dicis prohibitio veteris testamenti non 
           <lb ed="#P" n="63"/>conuincit nunc esse peccatum. probo quod sic vel est 
           mo<lb ed="#P" n="64" break="no"/>rale iudiciale vel cerimoniale non duo secunda: quia tunc 
           <lb ed="#P" n="65"/>male ecclesia caperet probationem extra de vsuris quia 
@@ -366,8 +366,8 @@
           <lb ed="#P" n="27"/>scienti et volenti non fit iniuria. v. ethi. ergo in illo casu 
           <lb ed="#P" n="28"/>licet saltem non erit contra legem nature in illa vpothesi: 
           <lb ed="#P" n="29"/>esto quod communiter fiat in parniciem rei publice. Confirmatu 
-          <lb ed="#P" n="30"/>deutero. xxiii. non fenerabis fratri tuo ad vsuram 
-          pe<lb ed="#P" n="31" break="no"/>cuniam nec fruges nec quanlibet aliam rem sed alieno: g li 
+          <lb ed="#P" n="30"/>deutero. xxiii. <quote source="http://scta.info/resource/deut23_19@1-13">non fenerabis fratri tuo ad vsuram
+          pe<lb ed="#P" n="31" break="no"/>cuniam nec fruges nec quanlibet aliam rem</quote> sed alieno: g li 
           <lb ed="#P" n="32"/>capee ad vsuram vel licuit et per consequens non est contra ius 
           na<lb ed="#P" n="33" break="no"/>ture. Ad primum dico stat vtrumque habere lucrum in archa 
           <lb ed="#P" n="34"/>et mutuatorem et mutuatarium sed mutuans male capt 
@@ -460,8 +460,8 @@
           <!--221.xml-->
           <pb ed="#P" n="103-v"/>
           <cb ed="#P" n="a"/>
-          <lb ed="#P" n="1"/>dicit super illo verbo: fenerabis gentibus multis et 
-          <lb ed="#P" n="2"/>ipse a nullo accipies mutuum. Tertio argumento 
+          <lb ed="#P" n="1"/>dicit super illo verbo: <quote source="http://scta.info/resource/deut15_6@1-9">fenerabis gentibus multis et
+          <lb ed="#P" n="2"/>ipse a nullo accipies mutuum</quote>. Tertio argumento 
           <lb ed="#P" n="3"/>regens dat scolastico pecuniam mutuo vt visitet eius 
           <lb ed="#P" n="4"/>lectionem et hoc facit sine peccato vt apparet et tamen 
           <lb ed="#P" n="5"/>capit lucrum vltra sortem. patet mutuat decem 

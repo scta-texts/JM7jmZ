@@ -1,0 +1,3564 @@
+{
+  "JM7jmZ-d1e3xx": {
+    "JM7jmZ-d1e3xx-d1e149": [
+      {
+        "candidate_id": "iob1_14",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "genuine quote with attribution 'illud primo' (Job ch.1)"
+      }
+    ],
+    "JM7jmZ-d1e3xx-d1e335": [
+      {
+        "candidate_id": "prov9_1",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "genuine quote with attribution 'Prouerbiorum'"
+      }
+    ],
+    "JM7jmZ-d1e3xx-d1e370": [
+      {
+        "candidate_id": "Itim3_7",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "false positive; paragraph discusses pagan learning, no 1 Tim 3:7 quotation"
+      },
+      {
+        "candidate_id": "deut21_11",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "already encoded by linter as part of multi-verse deut21_11-13 quote"
+      },
+      {
+        "candidate_id": "deut21_12",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "genuine quote spanning deut21_11-13 with attribution 'deutero. xxi.'"
+      },
+      {
+        "candidate_id": "deut21_13",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "genuine quote spanning deut21_11-13 with attribution 'deutero. xxi.'"
+      }
+    ],
+    "JM7jmZ-d1e3xx-d1e612": [
+      {
+        "candidate_id": "sir6_35",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "encoded @1-11; attribution 'ecclesiast. vi.'"
+      }
+    ],
+    "JM7jmZ-d1e3xx-d1e731": [
+      {
+        "candidate_id": "iob29_16",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "attribution 'iob. xxix.'; encoded @5-9"
+      }
+    ],
+    "JM7jmZ-d1e3xx-d1e838": [
+      {
+        "candidate_id": "deut12_11",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "false positive — paragraph quotes deut17:8-10 (already encoded); deut12 not present"
+      },
+      {
+        "candidate_id": "deut12_21",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "false positive — paragraph quotes deut17:8-10 (already encoded); deut12 not present"
+      },
+      {
+        "candidate_id": "deut12_26",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "false positive — paragraph quotes deut17:8-10 (already encoded); deut12 not present"
+      },
+      {
+        "candidate_id": "deut14_24",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "false positive — paragraph quotes deut17:8-10 (already encoded); deut14 not present"
+      },
+      {
+        "candidate_id": "deut17_9",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "false positive — deut17_8-10 already encoded as multi-verse; deut17_9 is the middle verse not separately quoted"
+      },
+      {
+        "candidate_id": "deut17_8",
+        "intersectionCount": 23,
+        "status": "encoded",
+        "note": "explicit citation 'deutero. xvii.'; quote spans deut17:8-10; encoded with multi-verse source"
+      },
+      {
+        "candidate_id": "deut12_18",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "false positive \u2014 paragraph quotes deut17:8-10 (already encoded); deut16/deut12 not present"
+      },
+      {
+        "candidate_id": "deut12_5",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "false positive \u2014 paragraph quotes deut17:8-10 (already encoded); deut16/deut12 not present"
+      },
+      {
+        "candidate_id": "deut16_11",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "false positive \u2014 paragraph quotes deut17:8-10 (already encoded); deut16/deut12 not present"
+      },
+      {
+        "candidate_id": "deut16_2",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "false positive \u2014 paragraph quotes deut17:8-10 (already encoded); deut16/deut12 not present"
+      },
+      {
+        "candidate_id": "deut16_6",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "false positive \u2014 paragraph quotes deut17:8-10 (already encoded); deut16/deut12 not present"
+      },
+      {
+        "candidate_id": "deut16_7",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "false positive \u2014 paragraph quotes deut17:8-10 (already encoded); deut16/deut12 not present"
+      },
+      {
+        "candidate_id": "deut14_25",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "false positive \u2014 shares phrase 'locum quem elegerit dominus deus tuus' but passage quotes deut17, not deut14"
+      },
+      {
+        "candidate_id": "deut17_10",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "already encoded as part of multi-verse deut17_8-10 quote with explicit attribution 'deutero. xvii.'"
+      }
+    ],
+    "JM7jmZ-d1e3xx-d1e883": [
+      {
+        "candidate_id": "qoh7_1",
+        "intersectionCount": 16,
+        "status": "encoded",
+        "note": "explicit citation 'ecclesia. vii.'; partial quote @1-19"
+      }
+    ],
+    "JM7jmZ-d1e3xx-d1e1045": [
+      {
+        "candidate_id": "IItim3_14",
+        "intersectionCount": 12,
+        "status": "encoded",
+        "note": "explicit citation 'secunde ad thimoth. tertio'; encoded IItim3_14@1-15"
+      },
+      {
+        "candidate_id": "IItim3_16",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "'et sequitur. Omnis scriptura diuinitus inspirata...' — continuing the 2Tim3 citation; encoded @1-16"
+      },
+      {
+        "candidate_id": "sir24_29",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "genuine quote with attribution 'ecclesia. xxiiii.'"
+      },
+      {
+        "candidate_id": "IItim3_15",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "attribution secunde ad thimoth. tertio; full verse"
+      }
+    ],
+    "JM7jmZ-d1e3xx-d1e1468": [
+      {
+        "candidate_id": "IItim2_20",
+        "intersectionCount": 18,
+        "status": "encoded",
+        "note": "explicit citation 'secunde ad thimotheum'; full verse quoted"
+      },
+      {
+        "candidate_id": "ps128_1",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "ps128_2 encodes the full quote; ps128_1 in SCTA contains only title/rubric"
+      },
+      {
+        "candidate_id": "ps128_2",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "attribution 'secundum illud psalmi' (with marginal 'psal. xii.'); encoded @1-10"
+      },
+      {
+        "candidate_id": "ps70_17",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "false positive; ps70_17 text not present in this paragraph"
+      },
+      {
+        "candidate_id": "ps105_41",
+        "intersectionCount": 9,
+        "status": "encoded",
+        "note": "psal. c. v. \u2014 explicit attribution"
+      }
+    ]
+  },
+  "JM7jmZ-d4890x": {
+    "JM7jmZ-d4890x-d1e1152": [
+      {
+        "candidate_id": "Ireg17_18",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "encoded @11-22; attribution 'iii. regum. xvii.'"
+      },
+      {
+        "candidate_id": "gen19_19",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "encoded @19-30; attribution 'gen. xix.'"
+      }
+    ]
+  },
+  "JM7jmZ-d6064m": {
+    "JM7jmZ-d6064m-d1e305": [
+      {
+        "candidate_id": "mic5_3",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "paragraph discusses three periods of history, no Micah quotation"
+      }
+    ],
+    "JM7jmZ-d6064m-d1e512": [
+      {
+        "candidate_id": "rom2_14",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "attribution 'apostolus loquitur ad romanos secundo'; paraphrase encoded without @range"
+      },
+      {
+        "candidate_id": "ps4_7",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "attributed \"psalmista psalmo. iiii.\"; encoded @1-8"
+      }
+    ],
+    "JM7jmZ-d6064m-d1e685": [
+      {
+        "candidate_id": "io20_30",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "attribution 'iohannis vltimo'; paraphrase encoded without @range"
+      }
+    ]
+  },
+  "JM7jmZ-d6973b": {
+    "JM7jmZ-d6973b-d1e175": [
+      {
+        "candidate_id": "ex12_48",
+        "intersectionCount": 10,
+        "status": "encoded",
+        "note": "explicit citation 'exodi. xii.'; encoded ex12_48@1-26"
+      },
+      {
+        "candidate_id": "rom2_14",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "paraphrase/abbreviation without @range"
+      },
+      {
+        "candidate_id": "gen17_14",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "gene. xvii. \u2014 explicit attribution"
+      },
+      {
+        "candidate_id": "ps147_9",
+        "intersectionCount": 8,
+        "status": "encoded",
+        "note": "psal. cxlvii. \u2014 explicit attribution; multi-verse ps147_8@1-10 + ps147_9@1-11"
+      }
+    ],
+    "JM7jmZ-d6973b-d1e430": [
+      {
+        "candidate_id": "sir10_2",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "encoded @1-7; attribution 'ecclesia decimo'"
+      }
+    ]
+  },
+  "JM7jmZ-d739c3": {
+    "JM7jmZ-d739c3-d1e677": [
+      {
+        "candidate_id": "mt28_19",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "attribution mathei vltimo; Euntes baptisate eos in nomine patris et filii et spiritus sancti"
+      }
+    ],
+    "JM7jmZ-d739c3-d1e1386": [
+      {
+        "candidate_id": "mt28_19",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "encoded @8-15; attribution 'Mathei vltimo'"
+      }
+    ],
+    "JM7jmZ-d739c3-d1e1556": [
+      {
+        "candidate_id": "mc16_16",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "attributed to auctoritatem christi; clear mc16_16 quote"
+      }
+    ],
+    "JM7jmZ-d739c3-d1e2466": [
+      {
+        "candidate_id": "io3_5",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "cited as doctrinal basis for baptism requirement, encoded @7-20"
+      }
+    ]
+  },
+  "JM7jmZ-d9778z": {
+    "JM7jmZ-d9778z-d1e114": [
+      {
+        "candidate_id": "act15_10",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "explicit attribution actuum xv dicit petrus"
+      },
+      {
+        "candidate_id": "io1_17",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "genuine quote with attribution 'iohannis primo'"
+      }
+    ],
+    "JM7jmZ-d9778z-d1e301": [
+      {
+        "candidate_id": "act1_5",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "genuine quote with attribution 'actuum primo'"
+      }
+    ],
+    "JM7jmZ-d9778z-d1e478": [
+      {
+        "candidate_id": "gal2_11",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "attributed 'ad galatas. ii.', encoded @1-12"
+      },
+      {
+        "candidate_id": "gal2_14",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "encoded @25-28; attribution 'ad galatas. ii.'"
+      }
+    ],
+    "JM7jmZ-d9778z-d1e938": [
+      {
+        "candidate_id": "ps18_5",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "genuine quote with attribution 'psalmiste psalmo decimo octauo'"
+      }
+    ],
+    "JM7jmZ-d9778z-d1e1128": [
+      {
+        "candidate_id": "ps18_5",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "genuine quote cited via 'ad roma. x. allegantis illud' (Romans 10 quoting Psalm 18)"
+      }
+    ],
+    "JM7jmZ-d9778z-d1e1211": [
+      {
+        "candidate_id": "act1_8",
+        "intersectionCount": 8,
+        "status": "encoded",
+        "note": "actunm. i. \u2014 explicit attribution"
+      }
+    ]
+  },
+  "JM7jmZ-d11020": {
+    "JM7jmZ-d11020-d1e212": [
+      {
+        "candidate_id": "iac2_26",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "attribution 'iaco. ii.'; encoded @10-14"
+      }
+    ]
+  },
+  "JM7jmZ-d11707": {
+    "JM7jmZ-d11707-d1e916": [
+      {
+        "candidate_id": "act15_26",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "false positive; paragraph discusses iterability of baptism, no quotation of Acts 15:26"
+      },
+      {
+        "candidate_id": "rom11_29",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "'sine paenitentia dona et vocatio Dei' attributed to Ambrose on Romans, not cited as scripture"
+      },
+      {
+        "candidate_id": "IIth3_6",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "false positive \u2014 all share \"in nomine Domini nostri Iesu Christi\"; phrase not explicitly quoted"
+      },
+      {
+        "candidate_id": "Icor5_4",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "false positive \u2014 all share \"in nomine Domini nostri Iesu Christi\"; phrase not explicitly quoted"
+      },
+      {
+        "candidate_id": "Icor6_11",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "false positive \u2014 all share \"in nomine Domini nostri Iesu Christi\"; phrase not explicitly quoted"
+      },
+      {
+        "candidate_id": "eph5_20",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "false positive \u2014 all share \"in nomine Domini nostri Iesu Christi\"; phrase not explicitly quoted"
+      }
+    ],
+    "JM7jmZ-d11707-d1e1469": [
+      {
+        "candidate_id": "io3_5",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "genuine quote with attribution 'Iohannis. iii.'"
+      }
+    ]
+  },
+  "JM7jmZ-d13160": {
+    "JM7jmZ-d13160-d1e130": [
+      {
+        "candidate_id": "lc23_43",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "attribution 'luce penultimo'; encoded @8-12"
+      },
+      {
+        "candidate_id": "eph4_5",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "attributed \"apostoli ad ephe. iiii.\"; encoded @1-6"
+      }
+    ],
+    "JM7jmZ-d13160-d1e310": [
+      {
+        "candidate_id": "mt20_14",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "attributed \"mathei. xx.\"; encoded @1-6"
+      },
+      {
+        "candidate_id": "mt9_1",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "already encoded as part of mt9_1-2 multi-verse quote"
+      },
+      {
+        "candidate_id": "ier15_1",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "attribution hiere. xv.; si steterunt moyses et samuel coram me @6-19"
+      },
+      {
+        "candidate_id": "mt9_2",
+        "intersectionCount": 9,
+        "status": "encoded",
+        "note": "mathei. ix. \u2014 explicit attribution; multi-verse with mt9_1@1-10"
+      }
+    ],
+    "JM7jmZ-d13160-d1e986": [
+      {
+        "candidate_id": "mt3_14",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "attribution 'mathei tertio'; encoded @6-15"
+      }
+    ]
+  },
+  "JM7jmZ-d14481": {
+    "JM7jmZ-d14481-d1e368": [
+      {
+        "candidate_id": "lev22_3",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "encoded without range (loose paraphrase); attribution 'leuitici'"
+      }
+    ]
+  },
+  "JM7jmZ-d15233": {
+    "JM7jmZ-d15233-d1e114": [
+      {
+        "candidate_id": "ap13_16",
+        "intersectionCount": 8,
+        "status": "encoded",
+        "note": "xiii. capltum pocaltilisperensis (=Apoc 13) \u2014 explicit attribution"
+      }
+    ],
+    "JM7jmZ-d15233-d1e764": [
+      {
+        "candidate_id": "mt28_19",
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "baptism discussion without direct mt28_19 quotation"
+      }
+    ]
+  },
+  "JM7jmZ-d16118": {
+    "JM7jmZ-d16118-d1e205": [
+      {
+        "candidate_id": "act8_37",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "genuine quote with attribution 'actuum. viii.'"
+      }
+    ]
+  },
+  "JM7jmZ-d16429": {
+    "JM7jmZ-d16429-d1e125": [
+      {
+        "candidate_id": "mt25_4",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "genuine quote with attribution 'iuxta parabolam math. xxv.'"
+      },
+      {
+        "candidate_id": "mt28_19",
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "trinitarian formula in confirmation context, not direct citation of mt28_19"
+      }
+    ],
+    "JM7jmZ-d16429-d1e525": [
+      {
+        "candidate_id": "act8_14",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "attribution actuum. viii., dicente beato luca; full verse"
+      }
+    ]
+  },
+  "JM7jmZ-d17512": {
+    "JM7jmZ-d17512-d1e111": [
+      {
+        "candidate_id": "Iio5_7",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "attribution 'prime iohannis quinto'; Comma Johanneum encoded without @range as text extends beyond standard SCTA resource"
+      },
+      {
+        "candidate_id": "mt12_40",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "MS cites 'mathei duodecimo' but only references the Jonah story, no direct quotation of Mt 12:40"
+      }
+    ]
+  },
+  "JM7jmZ-d17655": {
+    "JM7jmZ-d17655-d1e125": [
+      {
+        "candidate_id": "Icor11_26",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "explicit citation 'apostolus. i. ad corinthios. xi.'; encoded @1-10"
+      },
+      {
+        "candidate_id": "Ipetr1_3",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "false positive; paragraph discusses consecration theology, no attribution to 1 Peter"
+      },
+      {
+        "candidate_id": "eph1_3",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "false positive; paragraph discusses consecration theology, no attribution to Ephesians"
+      },
+      {
+        "candidate_id": "lc23_43",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "false positive; paragraph discusses consecration theology, no attribution to Luke 23"
+      },
+      {
+        "candidate_id": "mt26_28",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "false positive; paragraph discusses consecration theology, no direct quotation of Mt 26:28"
+      },
+      {
+        "candidate_id": "Icor11_24",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "\"hoc facite in meam commemorationem\" appears but attributed to math. xxvi. not 1 Cor 11"
+      },
+      {
+        "candidate_id": "mc14_24",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "Mass formula appears but not attributed to Mark; false positive"
+      },
+      {
+        "candidate_id": "mt6_12",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "\"dimitte nobis debita nostra\" used as example without attribution"
+      },
+      {
+        "candidate_id": "Icor11_25",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "MS attributes the passage to 'luce. xxii.' not to 1 Cor; Icor11:26 is cited separately"
+      },
+      {
+        "candidate_id": "lc22_20",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "continuing quote after lc22_19; similiter et calicem postquam cenauit dicens"
+      },
+      {
+        "candidate_id": "lc22_19",
+        "intersectionCount": 9,
+        "status": "encoded",
+        "note": "luce. xxii. \u2014 explicit attribution; no range as commentary interpolated mid-quote"
+      }
+    ],
+    "JM7jmZ-d17655-d1e692": [
+      {
+        "candidate_id": "mc14_22",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "false positive; paragraph debates consecration formula, no direct quotation of Mark 14:22"
+      },
+      {
+        "candidate_id": "mt16_18",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "false positive; paragraph debates consecration formula, no attribution to Matthew 16:18"
+      },
+      {
+        "candidate_id": "lc22_17",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "lc22_17 text referenced recitatively in discussion of consecration formula, no direct attribution as quotation"
+      },
+      {
+        "candidate_id": "lc22_19",
+        "intersectionCount": 8,
+        "status": "not_found",
+        "note": "lc22_19 referenced via gloss citation, not directly quoted in this paragraph"
+      }
+    ],
+    "JM7jmZ-d17655-d1e1022": [
+      {
+        "candidate_id": "gen1_1",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "used as example proposition to illustrate logical point, not quoted as a biblical text"
+      }
+    ]
+  },
+  "JM7jmZ-d19119": {
+    "JM7jmZ-d19119-d1e179": [
+      {
+        "candidate_id": "Icor11_29",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "already encoded as part of multi-verse Icor11_28+29 in d1e179"
+      },
+      {
+        "candidate_id": "Icor11_28",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "attribution prime corinth. xi.; multi-verse Icor11_28-29"
+      }
+    ],
+    "JM7jmZ-d19119-d1e667": [
+      {
+        "candidate_id": "Icor11_29",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "already encoded as part of multi-verse Icor11_28+29 quote"
+      },
+      {
+        "candidate_id": "Icor11_28",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "encoded as multi-verse Icor11_28+29 @1-15+1-14; attribution 'i. corinth. xi.'"
+      },
+      {
+        "candidate_id": "Icor4_4",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "encoded @1-11; attribution 'apostoli'"
+      }
+    ],
+    "JM7jmZ-d19119-d1e1022": [
+      {
+        "candidate_id": "Icor11_34",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "attribution in context of 1 Cor 11 discussion; encoded @1-5"
+      }
+    ],
+    "JM7jmZ-d19119-d1e1506": [
+      {
+        "candidate_id": "mt8_8",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "attribution math. viii.; domine non sum dignus vt intres sub tectum meum @5-13"
+      }
+    ]
+  },
+  "JM7jmZ-d21255": {
+    "JM7jmZ-d21255-d1e346": [
+      {
+        "candidate_id": "mt26_21",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "encoded @9-13"
+      }
+    ],
+    "JM7jmZ-d21255-d1e557": [
+      {
+        "candidate_id": "ps118_109",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "phrase 'anima mea in manibus meis' used as idiom, not attributed as scripture quotation"
+      }
+    ]
+  },
+  "JM7jmZ-d21911": {
+    "JM7jmZ-d21911-d1e114": [
+      {
+        "candidate_id": "Icor10_16",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "attributed \"prime corinth. x.\"; partial quote (second half of verse); encoded @11-18"
+      },
+      {
+        "candidate_id": "lc22_19",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "MS cites 'math. xxvi.' for 'hoc est corpus meum'; quote attributed to Matthew, not Luke"
+      }
+    ],
+    "JM7jmZ-d21911-d1e1449": [
+      {
+        "candidate_id": "ez19_7",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "abstract scholastic paragraph; no Ezekiel quotation"
+      },
+      {
+        "candidate_id": "Icor10_26",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "phrase used as gloss on poem without explicit attribution"
+      },
+      {
+        "candidate_id": "ps23_1",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "phrase used as gloss on poem without explicit attribution"
+      }
+    ]
+  },
+  "JM7jmZ-d23414": {
+    "JM7jmZ-d23414-d1e114": [
+      {
+        "candidate_id": "IIchr6_14",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "philosophical paragraph about body ubiquity; no direct scriptural quotation found"
+      },
+      {
+        "candidate_id": "dan6_28",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "philosophical paragraph about body ubiquity; no direct scriptural quotation found"
+      },
+      {
+        "candidate_id": "ioel2_30",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "philosophical paragraph about body ubiquity; no direct scriptural quotation found"
+      },
+      {
+        "candidate_id": "mt28_18",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "philosophical paragraph about body ubiquity; no direct scriptural quotation found"
+      },
+      {
+        "candidate_id": "mt6_10",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "philosophical paragraph about body ubiquity; no direct scriptural quotation found"
+      }
+    ]
+  },
+  "JM7jmZ-d30279": {
+    "JM7jmZ-d30279-d1e1844": [
+      {
+        "candidate_id": "Icor11_21",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "paragraph discusses worms in consecrated host; no Icor11:21 quote present"
+      }
+    ]
+  },
+  "JM7jmZ-d32374": {
+    "JM7jmZ-d32374-d1e215": [
+      {
+        "candidate_id": "ier33_25",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "paragraph about mass celebrations; no Jeremiah quotation"
+      }
+    ],
+    "JM7jmZ-d32374-d1e325": [
+      {
+        "candidate_id": "ps22_5",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "encoded @1-9"
+      }
+    ]
+  },
+  "JM7jmZ-d34187": {
+    "JM7jmZ-d34187-d1e252": [
+      {
+        "candidate_id": "mt18_1",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "paragraph cites mt26/ex12 about unleavened bread; mt18_1 not found"
+      },
+      {
+        "candidate_id": "ex12_15",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "attributed \"exodi duodecimo.\"; partial quote; encoded @5-13"
+      },
+      {
+        "candidate_id": "mt26_17",
+        "intersectionCount": 9,
+        "status": "encoded",
+        "note": "mathei. xxvi. \u2014 explicit attribution"
+      }
+    ],
+    "JM7jmZ-d34187-d1e335": [
+      {
+        "candidate_id": "io13_1",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "MS attributes to \"iohannis. xii\" (scribal error, actually John 13:1); encoded @1-11"
+      }
+    ],
+    "JM7jmZ-d34187-d1e355": [
+      {
+        "candidate_id": "lc22_7",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "attribution luce. xxii.; Venit autem dies azimorum"
+      }
+    ],
+    "JM7jmZ-d34187-d1e479": [
+      {
+        "candidate_id": "mc14_2",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "parallel passage to mt26_5; MS cites Matthew, not Mark"
+      },
+      {
+        "candidate_id": "mt26_5",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "genuine quote with explicit attribution 'matthei. xxvi.'"
+      }
+    ],
+    "JM7jmZ-d34187-d1e498": [
+      {
+        "candidate_id": "lc23_56",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "MS paraphrases lc23:55-56 but no direct close quotation"
+      }
+    ],
+    "JM7jmZ-d34187-d1e592": [
+      {
+        "candidate_id": "mc15_40",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "paragraph is about lunar phases and eclipse; mc15_40 not cited"
+      },
+      {
+        "candidate_id": "mt27_56",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "false positive \u2014 paragraph mentions darkness (mt27:45), not the women of mt27:56"
+      },
+      {
+        "candidate_id": "mc16_1",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "author cites as objection; full verse"
+      }
+    ],
+    "JM7jmZ-d34187-d1e960": [
+      {
+        "candidate_id": "io6_54",
+        "intersectionCount": 11,
+        "status": "encoded",
+        "note": "explicit citation 'iohan. vi.'; encoded io6_54@5-22"
+      },
+      {
+        "candidate_id": "io12_24",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "paragraph cites io6_51 and other John 6 verses; io12_24 not found"
+      },
+      {
+        "candidate_id": "act2_46",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "genuine quote with explicit attribution 'actuum secundo'"
+      },
+      {
+        "candidate_id": "io6_52",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "genuine quote with explicit attribution 'ioham. vi.'"
+      }
+    ]
+  },
+  "JM7jmZ-d35246": {
+    "JM7jmZ-d35246-d1e121": [
+      {
+        "candidate_id": "io8_12",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "encoded @12-22"
+      }
+    ]
+  },
+  "JM7jmZ-d35653": {
+    "JM7jmZ-d35653-d1e643": [
+      {
+        "candidate_id": "lc7_47",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "no lc7_47 quotation; paragraph cites lc13_3, mc1_15, act3_19"
+      },
+      {
+        "candidate_id": "IImac9_13",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "attributed \"ii. machabeorum. ix.\"; MS paraphrase (minam vs misericordiam); encoded without @range"
+      },
+      {
+        "candidate_id": "ps13_3",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "phrase \"contritio et infelicitas in viis eorum\" encoded as rom3_16 (which quotes ps13_3)"
+      },
+      {
+        "candidate_id": "rom3_16",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "implicit attribution \"de talibus dicitur\"; encoded @1-6"
+      }
+    ],
+    "JM7jmZ-d35653-d1e804": [
+      {
+        "candidate_id": "ez18_30",
+        "intersectionCount": 11,
+        "status": "encoded",
+        "note": "explicit citation 'ezechielis. xviii.'; encoded ez18_30@12-26"
+      },
+      {
+        "candidate_id": "ez33_15",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "paragraph cites Ezechiel 18 (ez18_28/30/31), not ez33"
+      },
+      {
+        "candidate_id": "ez18_28",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "attribution ezechielis. xviii.; considerans et aduertens se @1-17"
+      },
+      {
+        "candidate_id": "ez18_31",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "attribution ezechielis. xviii.; paulo post sequitur... proiicite a vobis"
+      }
+    ],
+    "JM7jmZ-d35653-d1e886": [
+      {
+        "candidate_id": "ps144_9",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "abstract theological argument, no psalm quotation"
+      }
+    ]
+  },
+  "JM7jmZ-d36951": {
+    "JM7jmZ-d36951-d1e125": [
+      {
+        "candidate_id": "mt28_19",
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "trinitarian formula in absolution rite, not direct citation of mt28_19"
+      }
+    ],
+    "JM7jmZ-d36951-d1e734": [
+      {
+        "candidate_id": "mt10_38",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "no mt10_38 quote found; paragraph on contrition"
+      },
+      {
+        "candidate_id": "mt10_37",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "attributed \"dicit christus\"; encoded @1-12"
+      }
+    ],
+    "JM7jmZ-d36951-d1e953": [
+      {
+        "candidate_id": "mc14_34",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "parallel passage to mt26_38; MS cites Matthew, not Mark"
+      },
+      {
+        "candidate_id": "mt26_38",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "genuine quote with explicit attribution 'mathei vicesimo sexto'"
+      }
+    ],
+    "JM7jmZ-d36951-d1e1105": [
+      {
+        "candidate_id": "ier9_1",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "attributed \"hiere. ix.\"; encoded @1-10"
+      }
+    ],
+    "JM7jmZ-d36951-d1e1214": [
+      {
+        "candidate_id": "ps18_14",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "abstract philosophical paragraph, no psalm quotation"
+      }
+    ],
+    "JM7jmZ-d36951-d1e1900": [
+      {
+        "candidate_id": "Ichr29_14",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "attributed \"i. peralipomenon. xxix.\"; encoded @13-23"
+      }
+    ]
+  },
+  "JM7jmZ-d38907": {
+    "JM7jmZ-d38907-d1e114": [
+      {
+        "candidate_id": "Icor13_1",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "attributed \"prime corinthiorum. xiii.\"; MS has \"etc.\" truncation; encoded @1-6"
+      },
+      {
+        "candidate_id": "mt6_2",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "attributed \"Math. v.\" (scribal error for Mt 6); phrase \"amen dico vobis receperunt mercedem suam\"; encoded @22-27"
+      },
+      {
+        "candidate_id": "mt6_5",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "same closing phrase as mt6_2; encoded as mt6_2 since indistinguishable"
+      },
+      {
+        "candidate_id": "ps118_14",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "attributed \"psalmi\"; MS adds \"de bonis\" before the verse; encoded @1-6"
+      },
+      {
+        "candidate_id": "Ireg21_29",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "attributed 'tertii regum. xxi.', encoded @1-6"
+      }
+    ]
+  },
+  "JM7jmZ-d39835": {
+    "JM7jmZ-d39835-d1e346": [
+      {
+        "candidate_id": "mt7_2",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "encoded @8-14"
+      },
+      {
+        "candidate_id": "mc4_24",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "MS attributes 'in qua mensura mensi fueritis remetietur' to 'matthei vii.' (mt7_2); mc4_24 is parallel not cited"
+      }
+    ]
+  },
+  "JM7jmZ-d40521": {
+    "JM7jmZ-d40521-d1e907": [
+      {
+        "candidate_id": "Ipetr2_13",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "attributed 'prime petri secundo', encoded @1-11"
+      },
+      {
+        "candidate_id": "lc10_16",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "cited as basis for obeying superiors = obeying Christ, encoded @1-5"
+      }
+    ],
+    "JM7jmZ-d40521-d1e2217": [
+      {
+        "candidate_id": "Itim4_8",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "genuine quote with explicit attribution 'primo ad timotheum. iiii.'"
+      }
+    ],
+    "JM7jmZ-d40521-d1e2764": [
+      {
+        "candidate_id": "ioel2_13",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "encoded @2-8; MS cites 'iohelis iii' (different chapter number)"
+      },
+      {
+        "candidate_id": "lc6_35",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "no direct lc6_35 quotation found in paragraph"
+      }
+    ]
+  },
+  "JM7jmZ-d45401": {
+    "JM7jmZ-d45401-d1e333": [
+      {
+        "candidate_id": "Iio3_17",
+        "intersectionCount": 9,
+        "status": "encoded",
+        "note": "prime Iobnis. iii. \u2014 explicit attribution"
+      }
+    ],
+    "JM7jmZ-d45401-d1e375": [
+      {
+        "candidate_id": "mc10_21",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "encoded @10-19"
+      },
+      {
+        "candidate_id": "mt18_14",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "false positive \u2014 mt18_14 not explicitly quoted in this paragraph"
+      },
+      {
+        "candidate_id": "mt6_1",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "false positive \u2014 \"patrem vestrum qui in celis est\" phrase appears but from mt5:16, not mt6:1"
+      },
+      {
+        "candidate_id": "mt19_21",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "attributed 'mathei. xix.', encoded @4-14"
+      },
+      {
+        "candidate_id": "mt5_16",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "encoded @1-19; attribution implied (luceant bona opera)"
+      }
+    ],
+    "JM7jmZ-d45401-d1e574": [
+      {
+        "candidate_id": "mt10_42",
+        "intersectionCount": 11,
+        "status": "encoded",
+        "note": "explicit citation 'Mathei. x.'; partial quote @2-22"
+      },
+      {
+        "candidate_id": "deut15_4",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "encoded @1-9"
+      },
+      {
+        "candidate_id": "is58_7",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "MS cites 'Esaie. lv.' (Is 55) not Is 58; false positive"
+      },
+      {
+        "candidate_id": "lc3_11",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "MS has 'luce. xi. date elemosinam' = lc11_41, not lc3_11"
+      },
+      {
+        "candidate_id": "sir7_39",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "no direct quotation found matching sir7_39"
+      },
+      {
+        "candidate_id": "act6_2",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "attributed \"actuum. vi.\"; encoded @7-16"
+      },
+      {
+        "candidate_id": "gen3_19",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "attributed \"genesis. iii.\"; encoded @1-6"
+      },
+      {
+        "candidate_id": "ps36_25",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "attributed \"dicit psalmista\"; encoded @6-14"
+      },
+      {
+        "candidate_id": "mc9_40",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "MS cites mt10_42 (already encoded) with 'Mathei. x.'; mc9_40 is parallel passage not cited"
+      }
+    ],
+    "JM7jmZ-d45401-d1e1105": [
+      {
+        "candidate_id": "Iio2_16",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "encoded @2-11"
+      }
+    ],
+    "JM7jmZ-d45401-d1e1678": [
+      {
+        "candidate_id": "Iio3_17",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "attributed \"iohan. tertio\" (= 1 John 3); encoded @1-22"
+      }
+    ]
+  },
+  "JM7jmZ-d47466": {
+    "JM7jmZ-d47466-d1e398": [
+      {
+        "candidate_id": "act4_32",
+        "intersectionCount": 8,
+        "status": "encoded",
+        "note": "actuum quarto \u2014 explicit attribution"
+      }
+    ]
+  },
+  "JM7jmZ-d49319": {
+    "JM7jmZ-d49319-d1e125": [
+      {
+        "candidate_id": "ps150_5",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "already encoded by linter @1-5"
+      },
+      {
+        "candidate_id": "ps150_4",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "attribution psalmo. cl.; laudate eum in timpano et choro"
+      }
+    ]
+  },
+  "JM7jmZ-d49623": {
+    "JM7jmZ-d49623-d1e125": [
+      {
+        "candidate_id": "lc6_42",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "encoded @22-27"
+      },
+      {
+        "candidate_id": "mt7_5",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "parallel to lc6_42 which was encoded"
+      },
+      {
+        "candidate_id": "sir41_15",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "attribution Ecclesia. xli.; full verse"
+      }
+    ]
+  },
+  "JM7jmZ-d50542": {
+    "JM7jmZ-d50542-d1e134": [
+      {
+        "candidate_id": "Ichr28_3",
+        "intersectionCount": 10,
+        "status": "encoded",
+        "note": "primi paralip. xxviii. \u2014 explicit attribution"
+      },
+      {
+        "candidate_id": "gen9_5",
+        "intersectionCount": 10,
+        "status": "encoded",
+        "note": "generen. ix. \u2014 explicit attribution"
+      },
+      {
+        "candidate_id": "gen4_11",
+        "intersectionCount": 11,
+        "status": "encoded",
+        "note": "citation 'ge. iiii'; encoded gen4_11@1-18"
+      },
+      {
+        "candidate_id": "mt18_10",
+        "intersectionCount": 12,
+        "status": "encoded",
+        "note": "explicit citation 'math. xviii.'; encoded mt18_10@1-24"
+      },
+      {
+        "candidate_id": "gen4_10",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "encoded @6-14"
+      },
+      {
+        "candidate_id": "gen9_6",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "attributed \"gene. ix.\"; encoded @1-7"
+      },
+      {
+        "candidate_id": "mt12_50",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "false positive \u2014 paragraph about homicide; mt12_50 text not present"
+      },
+      {
+        "candidate_id": "mt7_21",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "false positive \u2014 paragraph about homicide; mt7_21 text not present"
+      },
+      {
+        "candidate_id": "gen4_12",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "attribution ge. iiii; cum operatus fueris eam non dabit tibi fructus suos @1-15"
+      }
+    ],
+    "JM7jmZ-d50542-d1e548": [
+      {
+        "candidate_id": "act7_25",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "encoded @1-12; attribution implicit (beatus stephanus dicit)"
+      },
+      {
+        "candidate_id": "num25_13",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "attribution nume. xxv.; partial paraphrase, encoded close quote quia zelatus est... @11-21"
+      }
+    ]
+  },
+  "JM7jmZ-d51186": {
+    "JM7jmZ-d51186-d1e940": [
+      {
+        "candidate_id": "lc3_14",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "attribution luce. iii.; neminem concutiatis neque calumniam faciatis et contenti estote stipendiis vestris"
+      }
+    ],
+    "JM7jmZ-d51186-d1e1127": [
+      {
+        "candidate_id": "io18_36",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "encoded @3-8"
+      },
+      {
+        "candidate_id": "mt5_39",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "encoded @9-20"
+      }
+    ],
+    "JM7jmZ-d51186-d1e1154": [
+      {
+        "candidate_id": "io18_23",
+        "intersectionCount": 11,
+        "status": "encoded",
+        "note": "explicit citation 'iohannis. xviii.'; partial quote @4-17"
+      },
+      {
+        "candidate_id": "act23_3",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "attribution actuum. xxiii.; percutiet te deus paries de albate @6-23"
+      }
+    ]
+  },
+  "JM7jmZ-d52869": {
+    "JM7jmZ-d52869-d1e123": [
+      {
+        "candidate_id": "Isam17_45",
+        "intersectionCount": 12,
+        "status": "encoded",
+        "note": "attribution 'ex serie litere regnorum'; encoded Isam17_45@6-24"
+      }
+    ]
+  },
+  "JM7jmZ-d56262": {
+    "JM7jmZ-d56262-d1e132": [
+      {
+        "candidate_id": "ps14_1",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "encoded @3-8; ps14_5 was already encoded by linter"
+      },
+      {
+        "candidate_id": "ps14_5",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "attributed \"Psalmo. xiiii.\"; \"et sequitur\" precedes the verse 5 quote; encoded @1-7"
+      }
+    ],
+    "JM7jmZ-d56262-d1e751": [
+      {
+        "candidate_id": "deut28_12",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "MS cites deut15_6 (already encoded) with 'Heuteronomii. xv.'; deut28_12 shares similar wording but is not cited"
+      },
+      {
+        "candidate_id": "deut15_6",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "attribution Heuteronomii. xv. (gloss); fenerabis gentibus multis @1-9"
+      },
+      {
+        "candidate_id": "deut23_19",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "attribution deutero. xxiii.; non fenerabis fratri tuo ad vsuram"
+      }
+    ]
+  },
+  "JM7jmZ-d58191": {
+    "JM7jmZ-d58191-d1e114": [
+      {
+        "candidate_id": "IIreg4_3",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "attribution quarti reg. quarto; pete mutuo ab omnibus vicinis tuis vasa vacua non pauca"
+      }
+    ]
+  },
+  "JM7jmZ-d59332": {
+    "JM7jmZ-d59332-d1e186": [
+      {
+        "candidate_id": "io12_35",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "encoded @21-27"
+      },
+      {
+        "candidate_id": "sir26_28",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "attribution Ecclesi. xxvii. (MS says ch. 27 but SCTA ID is sir26_28); due species difficiles"
+      }
+    ]
+  },
+  "JM7jmZ-d62596": {
+    "JM7jmZ-d62596-d1e134": [
+      {
+        "candidate_id": "is43_26",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "attributed \"Esaie xliii.\"; encoded @8-13"
+      },
+      {
+        "candidate_id": "io20_30",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "attributed 'Ioannis vltimo', encoded @1-18"
+      }
+    ],
+    "JM7jmZ-d62596-d1e372": [
+      {
+        "candidate_id": "ap22_11",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "attributed \"Apocalipsis vltimo.\"; encoded @6-11"
+      }
+    ],
+    "JM7jmZ-d62596-d1e984": [
+      {
+        "candidate_id": "Imac4_24",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "false positive \u2014 'quoniam in seculum misericordia eius' is common refrain, no Maccabees citation"
+      },
+      {
+        "candidate_id": "ps37_9",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "encoded @3-8; ps37_8 was already encoded by linter"
+      },
+      {
+        "candidate_id": "is38_15",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "attributed 'cum Esaya', encoded @10-17"
+      },
+      {
+        "candidate_id": "lc15_18",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "attributed 'cum filio prodigo', encoded @10-16"
+      },
+      {
+        "candidate_id": "lc15_21",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "MS quotes lc15_18 only ('pater peccaui in celum et coram te'); lc15_21 repetition does not appear"
+      },
+      {
+        "candidate_id": "ps37_8",
+        "intersectionCount": 8,
+        "status": "encoded",
+        "note": "clamet cum psalmista \u2014 contextual attribution; ps37_8"
+      }
+    ]
+  },
+  "JM7jmZ-d64245": {
+    "JM7jmZ-d64245-d1e127": [
+      {
+        "candidate_id": "lev10_9",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "encoded @1-6 (paraphrase)"
+      },
+      {
+        "candidate_id": "est1_8",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "attributed 'hester primo', encoded @1-7"
+      }
+    ],
+    "JM7jmZ-d64245-d1e566": [
+      {
+        "candidate_id": "lc12_47",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "encoded @5-19"
+      }
+    ],
+    "JM7jmZ-d64245-d1e1513": [
+      {
+        "candidate_id": "dan10_3",
+        "intersectionCount": 10,
+        "status": "encoded",
+        "note": "explicit citation 'danielis. decimo.'; encoded dan10_3@1-13"
+      },
+      {
+        "candidate_id": "dan10_2",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "encoded as multi-verse dan10_2@1-9 + dan10_3@1-13; dan10_3 was already encoded by linter, expanded to include dan10_2"
+      }
+    ]
+  },
+  "JM7jmZ-d65887": {
+    "JM7jmZ-d65887-d1e217": [
+      {
+        "candidate_id": "IItim2_17",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "false positive \u2014 MS cites Hymenaeus and Alexander (Itim1_20), not Hymenaeus and Philetus (IItim2_17)"
+      },
+      {
+        "candidate_id": "Icor16_22",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "encoded @1-5"
+      },
+      {
+        "candidate_id": "Itim1_20",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "encoded @1-9"
+      },
+      {
+        "candidate_id": "mt18_15",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "encoded as multi-source mt18_15@3-7 + mt18_17@11-19 (compressed paraphrase)"
+      }
+    ],
+    "JM7jmZ-d65887-d1e411": [
+      {
+        "candidate_id": "iud1_9",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "encoded @19-21"
+      }
+    ],
+    "JM7jmZ-d65887-d1e992": [
+      {
+        "candidate_id": "mt18_17",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "encoded @11-19"
+      },
+      {
+        "candidate_id": "Icor10_27",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "attributed 'corinthiorum decimo', encoded @1-15"
+      }
+    ]
+  },
+  "JM7jmZ-d67840": {
+    "JM7jmZ-d67840-d1e125": [
+      {
+        "candidate_id": "ez33_8",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "false positive \u2014 MS cites Ezechiel 3, not 33; similar content"
+      },
+      {
+        "candidate_id": "ez3_18",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "encoded @28-34"
+      },
+      {
+        "candidate_id": "ez3_20",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "false positive \u2014 MS cites Ezechiel 3 for ez3_18 passage only"
+      },
+      {
+        "candidate_id": "iob2_13",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "encoded @7-11; names of friends from 2:11, 'septem diebus' from 2:13"
+      },
+      {
+        "candidate_id": "mt18_15",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "encoded @3-7 partial quote"
+      },
+      {
+        "candidate_id": "prov24_15",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "encoded @4-12"
+      },
+      {
+        "candidate_id": "Itim5_1",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "attributed 'prime ad thimotheum quinto', encoded @1-7"
+      }
+    ],
+    "JM7jmZ-d67840-d1e359": [
+      {
+        "candidate_id": "Icor9_27",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "attributed \"prime corinthiorum non.\"; encoded @2-16"
+      },
+      {
+        "candidate_id": "sir41_15",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "encoded @1-15; attribution 'Ecclesiast. quadragesimo primo'"
+      },
+      {
+        "candidate_id": "ps49_16",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "attribution Psalmo quadragesimo nono; peccatori dixit deus @1-16"
+      }
+    ]
+  },
+  "JM7jmZ-d68296": {
+    "JM7jmZ-d68296-d1e259": [
+      {
+        "candidate_id": "mt16_19",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "encoded @2-6; first mt16_19 ref is 'et reliqua' abbreviation only"
+      }
+    ]
+  },
+  "JM7jmZ-d68814": {
+    "JM7jmZ-d68814-d1e141": [
+      {
+        "candidate_id": "mt16_19",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "encoded @2-6"
+      }
+    ],
+    "JM7jmZ-d68814-d1e207": [
+      {
+        "candidate_id": "ps129_7",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "cited by Clement VI in cap. Unigenitus; encoded @2-9"
+      },
+      {
+        "candidate_id": "Icor4_1",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "attribution prime corinthiorum. iiii.; sic nos existimet homo @1-11"
+      }
+    ],
+    "JM7jmZ-d68814-d1e829": [
+      {
+        "candidate_id": "ps37_2",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "same verse as ps6_2 (identical text); MS attributes to 'psalmo primo' = ps6; encoded as ps6_2"
+      },
+      {
+        "candidate_id": "ps6_2",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "attributed 'psalmo primo' (first penitential psalm), encoded @1-13 with interlinear gloss within quote"
+      }
+    ]
+  },
+  "JM7jmZ-d70208": {
+    "JM7jmZ-d70208-d1e114": [
+      {
+        "candidate_id": "lc6_31",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "MS cites mathei septimo for omnia quecunque vultis; lc6_31 is parallel but not cited"
+      },
+      {
+        "candidate_id": "mt7_12",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "attributed 'matthei septimo', encoded @1-18"
+      }
+    ],
+    "JM7jmZ-d70208-d1e175": [
+      {
+        "candidate_id": "prov11_13",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "explicit attribution prouerbiorum vndecimo"
+      }
+    ]
+  },
+  "JM7jmZ-d71125": {
+    "JM7jmZ-d71125-d1e147": [
+      {
+        "candidate_id": "ez18_22",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "encoded @1-8; attribution 'Ezechielis decimo octauo'"
+      }
+    ],
+    "JM7jmZ-d71125-d1e224": [
+      {
+        "candidate_id": "ez33_12",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "MS says 'trigesimo primo' but content matches ez33_12; @20-32"
+      }
+    ]
+  },
+  "JM7jmZ-d72139": {
+    "JM7jmZ-d72139-d1e173": [
+      {
+        "candidate_id": "iac5_15",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "encoded as part of multi-verse iac5_14 + iac5_15@1-16 encoding"
+      },
+      {
+        "candidate_id": "iac5_14",
+        "intersectionCount": 9,
+        "status": "encoded",
+        "note": "iacobi. v. \u2014 explicit attribution; multi-verse with iac5_15@1-16"
+      }
+    ]
+  },
+  "JM7jmZ-d72322": {
+    "JM7jmZ-d72322-d1e386": [
+      {
+        "candidate_id": "Itim2_12",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "attribution i. ad thimoteum. ii; docere autem mulieri @1-9"
+      }
+    ]
+  },
+  "JM7jmZ-d72869": {
+    "JM7jmZ-d72869-d1e177": [
+      {
+        "candidate_id": "sap3_1",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "no explicit attribution but recognizable quote; no @range"
+      },
+      {
+        "candidate_id": "sir10_2",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "attributed 'Ecclesiastici. x.' (post-quote), encoded @1-7"
+      }
+    ],
+    "JM7jmZ-d72869-d1e2074": [
+      {
+        "candidate_id": "ps83_11",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "no explicit attribution; clear ps83_11 quote without @range"
+      },
+      {
+        "candidate_id": "ier1_6",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "attributed \"hierem. primo.\"; MS has \"haha / ha\" for Vulgate \"a a a\"; encoded @9-14"
+      },
+      {
+        "candidate_id": "Itim3_1",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "attributed 'prime ad thymotheum tertio', encoded @3-9"
+      }
+    ],
+    "JM7jmZ-d72869-d1e2519": [
+      {
+        "candidate_id": "lc8_21",
+        "intersectionCount": 10,
+        "status": "encoded",
+        "note": "contextual attribution ('respondit saluatori'); partial quote @6-18"
+      },
+      {
+        "candidate_id": "mt20_23",
+        "intersectionCount": 10,
+        "status": "encoded",
+        "note": "explicit citation 'mathei. xx.'; partial quote @7-25"
+      },
+      {
+        "candidate_id": "ex18_21",
+        "intersectionCount": 16,
+        "status": "encoded",
+        "note": "explicit citation 'exodi. xviii.'; encoded ex18_21@1-29"
+      },
+      {
+        "candidate_id": "deut1_15",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "ex18_21 is the cited source; deut1_15 parallel not separately cited"
+      },
+      {
+        "candidate_id": "ex18_22",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "ex18_21 already encoded; ex18_22 (follow-up verse) not quoted"
+      },
+      {
+        "candidate_id": "gal1_15",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "explicit attribution ad galathas i"
+      },
+      {
+        "candidate_id": "mc3_33",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "lc8_21 already encoded; mc3_33 is parallel but not the cited version"
+      },
+      {
+        "candidate_id": "mc3_34",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "lc8_21 already encoded; mc3_34 is parallel but not the cited version"
+      },
+      {
+        "candidate_id": "mt12_49",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "lc8_21 already encoded; mt12_49 is parallel but not the cited version"
+      },
+      {
+        "candidate_id": "lc11_27",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "implicit attribution (narrative context); encoded @15-23"
+      },
+      {
+        "candidate_id": "Itim5_8",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "cited as common principle on domestic care, encoded @4-16"
+      },
+      {
+        "candidate_id": "ex18_25",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "MS quotes ex18_21 (Jethro's advice with 'Prouide autem de omni plebe'), not ex18_25 (Moses implementing)"
+      },
+      {
+        "candidate_id": "lc11_28",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "introduced by 'quinimo', encoded @5-11"
+      },
+      {
+        "candidate_id": "act7_3",
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "MS quotes gen12_1 text (already encoded); act7_3 is not independently cited"
+      },
+      {
+        "candidate_id": "ps29_10",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "encoded @1-9; no explicit attribution, used as rhetorical quote"
+      },
+      {
+        "candidate_id": "ps44_11",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "already encoded as part of multi-verse gen12_1+ps44_11 quote"
+      },
+      {
+        "candidate_id": "mc10_40",
+        "intersectionCount": 6,
+        "status": "not_found",
+        "note": "MS attributes to mathei. xx. \u2014 already encoded as mt20_23"
+      },
+      {
+        "candidate_id": "gen12_1",
+        "intersectionCount": 9,
+        "status": "encoded",
+        "note": "no explicit attribution but clear textual match; combined with ps44_11@10-16"
+      }
+    ]
+  },
+  "JM7jmZ-d75721": {
+    "JM7jmZ-d75721-d1e881": [
+      {
+        "candidate_id": "act1_22",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "encoded @1-12; continuation after act1_21 which was already encoded"
+      },
+      {
+        "candidate_id": "act1_21",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "petrus actuum. i. \u2014 explicit attribution"
+      }
+    ]
+  },
+  "JM7jmZ-d76840": {
+    "JM7jmZ-d76840-d1e151": [
+      {
+        "candidate_id": "Icor9_7",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "attribution prime chorinthiorum non (=Icor9); quis pascit gregem @14-22"
+      }
+    ],
+    "JM7jmZ-d76840-d1e508": [
+      {
+        "candidate_id": "Isam5_7",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "paragraph about papal authority with Mt27:25; no 1Sam5:7 content found"
+      },
+      {
+        "candidate_id": "mt27_25",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "encoded @6-13; attribution 'mathei vicesimo septimo'"
+      }
+    ],
+    "JM7jmZ-d76840-d1e885": [
+      {
+        "candidate_id": "IIcor10_8",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "phrase \"in edificationem et non in destructionem\" appears but attributed to \"prime corith. iiii\" (conflation error)"
+      },
+      {
+        "candidate_id": "IIcor13_10",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "phrase \"in edificationem et non in destructionem\" appears but attributed to \"prime corith. iiii\" (conflation error)"
+      },
+      {
+        "candidate_id": "Icor4_1",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "attributed \"prime corith. iiii\"; encoded @1-11"
+      }
+    ],
+    "JM7jmZ-d76840-d1e1179": [
+      {
+        "candidate_id": "mt16_19",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "explicit attribution mathei decimo sexto"
+      }
+    ],
+    "JM7jmZ-d76840-d1e1358": [
+      {
+        "candidate_id": "io18_14",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "MS attributes to \"mathei vicesimo sexto\" (scribal error); quote is genuinely from John 18:14; encoded @9-14"
+      },
+      {
+        "candidate_id": "ps118_85",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "phrase used without explicit attribution"
+      }
+    ],
+    "JM7jmZ-d76840-d1e1563": [
+      {
+        "candidate_id": "qoh10_17",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "explicit attribution ecclesi xvi (Ecclesiastes/Qoh 10:17)"
+      },
+      {
+        "candidate_id": "lc19_12",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "attributed \"luce. xix.\"; encoded @3-12"
+      },
+      {
+        "candidate_id": "io8_39",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "attributed 'iohan viii.', encoded @12-18"
+      },
+      {
+        "candidate_id": "act17_4",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "attribution actuum. xvii.; full verse @1-22"
+      }
+    ]
+  },
+  "JM7jmZ-d78609": {
+    "JM7jmZ-d78609-d1e123": [
+      {
+        "candidate_id": "ez19_7",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "false positive \u2014 shares \"et plenitudo eius\" with ps23_1 candidate"
+      },
+      {
+        "candidate_id": "lev27_28",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "text is attributed to Boniface (xii. q. ii. c. nulli), not directly to Leviticus"
+      },
+      {
+        "candidate_id": "mic1_2",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "false positive \u2014 shares \"et plenitudo eius\" with ps23_1 candidate"
+      },
+      {
+        "candidate_id": "IIcor10_8",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "phrase \"in edificationem et non in destructionem\" appears without attribution"
+      },
+      {
+        "candidate_id": "IIcor13_10",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "phrase \"in edificationem et non in destructionem\" appears without attribution"
+      },
+      {
+        "candidate_id": "Icor10_26",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "parallel to ps23_1; phrase used without explicit attribution"
+      },
+      {
+        "candidate_id": "lam1_1",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "attributed \"secundum illud trenorum. i.\"; encoded @2-13"
+      },
+      {
+        "candidate_id": "ps23_1",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "phrase \"domini est terra et plenitudo eius\" used without explicit attribution in counter-argument"
+      },
+      {
+        "candidate_id": "lev25_23",
+        "intersectionCount": 9,
+        "status": "encoded",
+        "note": "leuitici. xxv. \u2014 explicit attribution"
+      }
+    ]
+  },
+  "JM7jmZ-d79178": {
+    "JM7jmZ-d79178-d1e621": [
+      {
+        "candidate_id": "hebr10_31",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "no explicit book attribution but clear quote; horrendum esse incidere in manus dei viuentis"
+      }
+    ],
+    "JM7jmZ-d79178-d1e1000": [
+      {
+        "candidate_id": "ps80_3",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "explicit attribution psalmo octuagesimo"
+      }
+    ]
+  },
+  "JM7jmZ-d80376": {
+    "JM7jmZ-d80376-d1e125": [
+      {
+        "candidate_id": "act8_20",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "attributed to Peter speaking to Simon Magus; encoded @1-12; MS has \"tua pecunia\" (inverted word order vs Vulgate)"
+      }
+    ],
+    "JM7jmZ-d80376-d1e490": [
+      {
+        "candidate_id": "io10_1",
+        "intersectionCount": 13,
+        "status": "encoded",
+        "note": "explicit citation 'iohannis decimo'; partial quote @5-20"
+      },
+      {
+        "candidate_id": "ps25_10",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "encoded @1-10; attribution 'psalmo vigesimo quinto'"
+      }
+    ],
+    "JM7jmZ-d80376-d1e663": [
+      {
+        "candidate_id": "Icor9_7",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "encoded @14-22; attribution 'prime ad corinthios nono'"
+      }
+    ],
+    "JM7jmZ-d80376-d1e1126": [
+      {
+        "candidate_id": "gen25_23",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "cited \"gefiesis vicesimo quinto\"; paraphrase skipping middle clause; encoded @4-23"
+      }
+    ],
+    "JM7jmZ-d80376-d1e1262": [
+      {
+        "candidate_id": "gal1_10",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "attributed \"et apostolus\"; MS omits \"adhuc\" vs Vulgate; encoded @11-18"
+      }
+    ],
+    "JM7jmZ-d80376-d1e1427": [
+      {
+        "candidate_id": "Isam9_8",
+        "intersectionCount": 15,
+        "status": "encoded",
+        "note": "explicit citation 'primi regum nono'; encoded Isam9_8@7-24"
+      },
+      {
+        "candidate_id": "Ireg13_33",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "already encoded from previous session"
+      },
+      {
+        "candidate_id": "Ireg13_34",
+        "intersectionCount": 8,
+        "status": "encoded",
+        "note": "iii. regum xiii. \u2014 explicit attribution; multi-verse Ireg13_33@21-29 + Ireg13_34@1-15"
+      }
+    ]
+  },
+  "JM7jmZ-d82489": {
+    "JM7jmZ-d82489-d1e376": [
+      {
+        "candidate_id": "Icor7_38",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "attributed \"apulus ad corinth. vii.\" around \"circa finem capituli\""
+      },
+      {
+        "candidate_id": "Icor7_28",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "attribution ad corinth. vii.; Si autem acceperis vxorem @1-12"
+      }
+    ]
+  },
+  "JM7jmZ-d85251": {
+    "JM7jmZ-d85251-d1e196": [
+      {
+        "candidate_id": "ps89_9",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "already encoded by auto-detection; explicit attribution psal lxxxix"
+      },
+      {
+        "candidate_id": "ps89_10",
+        "intersectionCount": 9,
+        "status": "encoded",
+        "note": "psal. lxxxix. \u2014 explicit attribution; multi-verse with ps89_9@11-15"
+      }
+    ]
+  },
+  "JM7jmZ-d86272": {
+    "JM7jmZ-d86272-d1e865": [
+      {
+        "candidate_id": "iudic11_37",
+        "intersectionCount": 11,
+        "status": "encoded",
+        "note": "explicit citation 'iudicum vndecimo'; partial quote @10-23"
+      },
+      {
+        "candidate_id": "Icor7_34",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "Icor7_32-33 already encoded; Icor7_34 not quoted in paragraph"
+      },
+      {
+        "candidate_id": "deut7_14",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "explicit attribution deuteronomii septimo"
+      },
+      {
+        "candidate_id": "Icor7_33",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "primi corynthiorum septimo \u2014 explicit attribution; multi-verse Icor7_32@7-18 + Icor7_33@1-13"
+      }
+    ],
+    "JM7jmZ-d86272-d1e1072": [
+      {
+        "candidate_id": "ap14_4",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "attributed 'in apocalypsi', encoded @1-11"
+      }
+    ]
+  },
+  "JM7jmZ-d88143": {
+    "JM7jmZ-d88143-d1e123": [
+      {
+        "candidate_id": "lc1_34",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "attributed 'luce primo', encoded @6-12"
+      }
+    ],
+    "JM7jmZ-d88143-d1e419": [
+      {
+        "candidate_id": "gen1_1",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "attributed 'moysi dicenti', encoded @1-7"
+      },
+      {
+        "candidate_id": "mc12_36",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "same 'Sede a dextris meis' encoded as ps109_1 (OT source); not a separate MC quotation"
+      },
+      {
+        "candidate_id": "mt22_44",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "same 'Sede a dextris meis' encoded as ps109_1 (OT source); not a separate MT quotation"
+      },
+      {
+        "candidate_id": "ps109_1",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "cited as example of 'donec' usage in OT, encoded @7-13"
+      },
+      {
+        "candidate_id": "mt1_25",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "encoded @2-9; attribution 'mathei primo'"
+      },
+      {
+        "candidate_id": "mt1_18",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "encoded as part of multi-verse mt1_18@6-22 + mt1_19 encoding"
+      },
+      {
+        "candidate_id": "mt1_19",
+        "intersectionCount": 8,
+        "status": "encoded",
+        "note": "math. primo \u2014 explicit attribution; multi-verse mt1_18@6-22 + mt1_19@1-15"
+      }
+    ]
+  },
+  "JM7jmZ-d88844": {
+    "JM7jmZ-d88844-d1e268": [
+      {
+        "candidate_id": "Icor7_4",
+        "intersectionCount": 12,
+        "status": "encoded",
+        "note": "attribution 'apostolus dicit'; encoded Icor7_4@1-19"
+      }
+    ]
+  },
+  "JM7jmZ-d89160": {
+    "JM7jmZ-d89160-d1e125": [
+      {
+        "candidate_id": "Icor7_5",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "genuine quote with attribution 'i. corinth. vii.'"
+      },
+      {
+        "candidate_id": "lev18_19",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "attributed 'leuitici. xviii.', encoded @1-11"
+      }
+    ]
+  },
+  "JM7jmZ-d89638": {
+    "JM7jmZ-d89638-d1e125": [
+      {
+        "candidate_id": "mt19_5",
+        "intersectionCount": 11,
+        "status": "encoded",
+        "note": "attributed as 'sciptura' via Innocent III; partial quote @5-19"
+      },
+      {
+        "candidate_id": "mc10_8",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "mc10_8 text already encoded as part of mt19_5 quote; parallel verse"
+      },
+      {
+        "candidate_id": "gen4_19",
+        "intersectionCount": 8,
+        "status": "encoded",
+        "note": "gen. iiii. \u2014 explicit attribution"
+      },
+      {
+        "candidate_id": "eph5_31",
+        "intersectionCount": 9,
+        "status": "not_found",
+        "note": "passage already encoded as mt19_5 \u2014 same quote exists in Gen 2:24, Mt 19:5, Eph 5:31"
+      },
+      {
+        "candidate_id": "gen2_24",
+        "intersectionCount": 9,
+        "status": "not_found",
+        "note": "passage already encoded as mt19_5 \u2014 same quote exists in Gen 2:24, Mt 19:5, Eph 5:31"
+      }
+    ],
+    "JM7jmZ-d89638-d1e348": [
+      {
+        "candidate_id": "gen16_2",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "encoded @5-20; attribution 'gen. xvi.'"
+      }
+    ],
+    "JM7jmZ-d89638-d1e508": [
+      {
+        "candidate_id": "mc10_11",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "MS cites mathei xix for divorce prohibition; Mark not mentioned"
+      }
+    ]
+  },
+  "JM7jmZ-d90071": {
+    "JM7jmZ-d90071-d1e132": [
+      {
+        "candidate_id": "mt19_8",
+        "intersectionCount": 12,
+        "status": "encoded",
+        "note": "explicit citation 'math. xix.'; partial quote @3-19"
+      }
+    ]
+  },
+  "JM7jmZ-d90466": {
+    "JM7jmZ-d90466-d1e123": [
+      {
+        "candidate_id": "mt19_9",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "encoded @5-15; attribution 'math. xix.'"
+      }
+    ],
+    "JM7jmZ-d90466-d1e322": [
+      {
+        "candidate_id": "mc10_12",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "attributed 'marci. x.', encoded @2-10"
+      },
+      {
+        "candidate_id": "mc10_11",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "marci. x. \u2014 explicit attribution"
+      },
+      {
+        "candidate_id": "mt19_9",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "mathei. xix. \u2014 explicit attribution"
+      }
+    ]
+  },
+  "JM7jmZ-d91269": {
+    "JM7jmZ-d91269-d1e640": [
+      {
+        "candidate_id": "ps64_2",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "explicit attribution et lxiiii (ps64)"
+      },
+      {
+        "candidate_id": "deut23_23",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "follows deut23_21 quote, attributed 'postea sequitur', encoded @1-9 (MS omits 'autem')"
+      },
+      {
+        "candidate_id": "ps21_26",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "attributed 'praeo vicesimo primo', encoded @8-14"
+      },
+      {
+        "candidate_id": "ps60_9",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "attributed 'psal. lxiusi', encoded @10-16"
+      },
+      {
+        "candidate_id": "deut23_21",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "attribution deuteronomii vicesimo tertio; Cum votum feceris @1-15"
+      }
+    ],
+    "JM7jmZ-d91269-d1e697": [
+      {
+        "candidate_id": "Isam23_12",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "encoded @3-15; attribution 'primi regum. xxiii.'"
+      }
+    ]
+  },
+  "JM7jmZ-d93069": {
+    "JM7jmZ-d93069-d1e114": [
+      {
+        "candidate_id": "Iio2_16",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "explicit attribution iohannis ii"
+      }
+    ],
+    "JM7jmZ-d93069-d1e448": [
+      {
+        "candidate_id": "ps1_1",
+        "intersectionCount": 11,
+        "status": "encoded",
+        "note": "no explicit attribution; text clearly quotes ps1:1; continuation is adapted paraphrase of ps1:2; encoded @1-20"
+      },
+      {
+        "candidate_id": "rom7_23",
+        "intersectionCount": 14,
+        "status": "encoded",
+        "note": "apostolo...non erubescit dicere \u2014 clear attribution; partial quote @1-17"
+      },
+      {
+        "candidate_id": "ps1_2",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "text paraphrases ps1_2 replacing Domini with regule; deliberate adaptation, not quotation"
+      }
+    ],
+    "JM7jmZ-d93069-d1e864": [
+      {
+        "candidate_id": "ps132_1",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "ecce quam bonum et quam iocumd with etc.; no explicit attribution but clear scriptural quote"
+      }
+    ],
+    "JM7jmZ-d93069-d1e1263": [
+      {
+        "candidate_id": "mt19_6",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "explicit attribution mathei decimo nono"
+      }
+    ],
+    "JM7jmZ-d93069-d1e1674": [
+      {
+        "candidate_id": "ier13_23",
+        "intersectionCount": 10,
+        "status": "encoded",
+        "note": "explicit citation 'hieremie decimo tertio'; encoded ier13_23@1-15"
+      },
+      {
+        "candidate_id": "IIsam22_26",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "parallel to ps17_26 but only psalm attribution given"
+      },
+      {
+        "candidate_id": "ps17_26",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "explicit attribution psalmo decimo septimo"
+      }
+    ],
+    "JM7jmZ-d93069-d1e2642": [
+      {
+        "candidate_id": "lc12_9",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "MS cites mathei x for negaverit me coram hominibus, not Luke"
+      },
+      {
+        "candidate_id": "mt10_38",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "MS quotes mt10_37 (qui amat patrem) and mt10_33; mt10_38 only implied by etc."
+      },
+      {
+        "candidate_id": "mt10_37",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "genuine quote with attribution 'mathei. x.'"
+      },
+      {
+        "candidate_id": "mt10_33",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "attributed 'math. x. premittitur', encoded @1-17"
+      }
+    ]
+  },
+  "JM7jmZ-d95812": {
+    "JM7jmZ-d95812-d1e491": [
+      {
+        "candidate_id": "lev19_2",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "genuine quote with attribution 'lcuitici. xi.' (scribal ch. error; text matches lev19_2)"
+      }
+    ],
+    "JM7jmZ-d95812-d1e944": [
+      {
+        "candidate_id": "io20_30",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "attributed 'iohannis vltimo', abbreviated paraphrase, encoded @1-18"
+      }
+    ]
+  },
+  "JM7jmZ-d97083": {
+    "JM7jmZ-d97083-d1e245": [
+      {
+        "candidate_id": "ps117_18",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "explicit attribution psalmo decimo septimo"
+      },
+      {
+        "candidate_id": "ps15_4",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "explicit attribution psalmo decimo quinto"
+      },
+      {
+        "candidate_id": "ps21_27",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "explicit attribution psal xxi"
+      },
+      {
+        "candidate_id": "ps90_7",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "dicente psalmista with psalm content; no explicit ps90 citation but vague reference"
+      },
+      {
+        "candidate_id": "mt19_21",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "paragraph discusses poverty; mt19_21 not quoted here (it was encoded in d45401)"
+      },
+      {
+        "candidate_id": "ps9_19",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "genuine quote with attribution 'psal. ix.'; starts with phrase from earlier in psalm"
+      },
+      {
+        "candidate_id": "lc18_25",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "MS attributes camel/needle saying to 'math. xix.' (mt19_24), not lc18_25"
+      },
+      {
+        "candidate_id": "mc10_24",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "attributed 'et adhuc eis exposuit', encoded @13-22"
+      },
+      {
+        "candidate_id": "prov30_8",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "attributed 'prouerb. iii.' (misref, actually prov30), two quote elements: @9-14 and @15-19 in multi-verse"
+      },
+      {
+        "candidate_id": "prov30_9",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "continuation of prov30_8 quote, multi-verse prov30_8@15-19 + prov30_9@1-15"
+      },
+      {
+        "candidate_id": "lc18_24",
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "false positive \u2014 'quam difficile qui pecunias habent' attributed to 'mar. x.' = mc10_23, not lc18_24"
+      },
+      {
+        "candidate_id": "mc10_25",
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "false positive \u2014 MS quotes camel passage from 'math. xix' (mt19_24 encoded) and 'quam difficile' from 'mar. x.' (mc10_23 encoded); mc10_25 is not directly quoted"
+      },
+      {
+        "candidate_id": "mc10_23",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "attribution mar. x.; quam difficile qui pecunias habent @7-15"
+      },
+      {
+        "candidate_id": "mt19_24",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "attribution math. xix.; facilius est camelum per foramen acus @5-17"
+      },
+      {
+        "candidate_id": "qoh7_3",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "ecclesia. vii. \u2014 explicit attribution"
+      }
+    ],
+    "JM7jmZ-d97083-d1e586": [
+      {
+        "candidate_id": "act3_25",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "paragraph on obedience; no act3_25 content found"
+      }
+    ],
+    "JM7jmZ-d97083-d1e1253": [
+      {
+        "candidate_id": "io18_23",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "encoded @4-17; attributed to 'mathei. xxvi.' but content matches io18_23"
+      }
+    ]
+  },
+  "JM7jmZ-d99415": {
+    "JM7jmZ-d99415-d1e189": [
+      {
+        "candidate_id": "mt5_29",
+        "intersectionCount": 11,
+        "status": "encoded",
+        "note": "explicit citation 'mathei. v.'; full verse @1-28"
+      },
+      {
+        "candidate_id": "mt18_6",
+        "intersectionCount": 12,
+        "status": "encoded",
+        "note": "explicit citation 'mathei. xviii.'; full verse @1-25"
+      },
+      {
+        "candidate_id": "mt5_30",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "MS quotes mt5_29 (oculus dexter) with 'mathei. v.'; mt5_30 is the right hand verse"
+      }
+    ]
+  },
+  "JM7jmZ-e00050": {
+    "JM7jmZ-e00050-d1e130": [
+      {
+        "candidate_id": "Icor7_12",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "genuine quote with attribution 'i. corinthiorum. vii.'"
+      }
+    ],
+    "JM7jmZ-e00050-d1e284": [
+      {
+        "candidate_id": "deut7_3",
+        "intersectionCount": 10,
+        "status": "encoded",
+        "note": "explicit citation 'deuteronomii. vii.'; encoded deut7_3@1-17"
+      },
+      {
+        "candidate_id": "ex23_32",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "MS cites Deut 7:2-3 about not intermarrying; Ex 23:32 is parallel passage about covenants but not explicitly quoted"
+      },
+      {
+        "candidate_id": "deut7_2",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "encoded @12-19; attribution 'deuteronomii. vii.'; precedes already-encoded deut7_3 and deut7_4"
+      },
+      {
+        "candidate_id": "deut7_4",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "attribution deuteronomii. vii.; seducet filium tuum @1-13"
+      }
+    ]
+  },
+  "JM7jmZ-e00788": {
+    "JM7jmZ-e00788-d1e846": [
+      {
+        "candidate_id": "deut25_5",
+        "intersectionCount": 24,
+        "status": "encoded",
+        "note": "explicit citation 'deuteronomii vicesimo quinto'; full verse quoted"
+      },
+      {
+        "candidate_id": "mc6_18",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "encoded @1-11; attribution implicit (John said to Herod)"
+      }
+    ]
+  },
+  "JM7jmZ-e01767": {
+    "JM7jmZ-e01767-d1e365": [
+      {
+        "candidate_id": "prov6_29",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "paragraph discusses lust but no direct prov6_29 quote found"
+      },
+      {
+        "candidate_id": "prov6_27",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "genuine multi-verse quote spanning prov6_27-28 with attribution 'prouerbiorum. vi.'"
+      },
+      {
+        "candidate_id": "prov6_28",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "genuine multi-verse quote spanning prov6_27-28 with attribution 'prouerbiorum. vi.'"
+      },
+      {
+        "candidate_id": "ez16_49",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "ezechielis. xvi. \u2014 explicit attribution"
+      }
+    ]
+  },
+  "JM7jmZ-e02530": {
+    "JM7jmZ-e02530-d1e123": [
+      {
+        "candidate_id": "Icor7_2",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "explicit attribution i corinth vii"
+      },
+      {
+        "candidate_id": "deut23_17",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "explicit attribution deuteronomii xxiii"
+      },
+      {
+        "candidate_id": "io20_30",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "attributed 'iohannis vltimo', abbreviated paraphrase, encoded @1-18"
+      }
+    ]
+  },
+  "JM7jmZ-e03855": {
+    "JM7jmZ-e03855-d1e186": [
+      {
+        "candidate_id": "IIsam12_10",
+        "intersectionCount": 12,
+        "status": "encoded",
+        "note": "explicit citation 'secundi regum duodecimo'; partial quote @4-19"
+      }
+    ]
+  },
+  "JM7jmZ-e04873": {
+    "JM7jmZ-e04873-d1e368": [
+      {
+        "candidate_id": "lev20_11",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "paragraph quotes lev20_13 and lev20_15-16; lev20_11 (noverca) only mentioned with lev18 attribution"
+      },
+      {
+        "candidate_id": "lev20_12",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "paragraph quotes lev20_13 and lev20_15-16; lev20_12 (nuru) not quoted"
+      },
+      {
+        "candidate_id": "lev20_13",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "attribution leuitici. xx.; Qui dormierit cum masculo @1-17"
+      },
+      {
+        "candidate_id": "lev20_15",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "encoded as part of multi-verse lev20_15@1-11 + lev20_16 encoding"
+      },
+      {
+        "candidate_id": "lev20_16",
+        "intersectionCount": 8,
+        "status": "encoded",
+        "note": "leuitici. xx. \u2014 explicit attribution; multi-verse lev20_15@1-11 + lev20_16@1-14"
+      }
+    ]
+  },
+  "JM7jmZ-e06086": {
+    "JM7jmZ-e06086-d1e259": [
+      {
+        "candidate_id": "ps11_8",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "explicit attribution psalmista psamo xi; MS omits custodies"
+      }
+    ]
+  },
+  "JM7jmZ-e07627": {
+    "JM7jmZ-e07627-d1e130": [
+      {
+        "candidate_id": "Icor15_13",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "si autem resurrectio mortuorum non est @1-9"
+      }
+    ],
+    "JM7jmZ-e07627-d1e192": [
+      {
+        "candidate_id": "eph4_13",
+        "intersectionCount": 12,
+        "status": "encoded",
+        "note": "explicit citation 'ad epheseos quarto'; full verse @1-18"
+      },
+      {
+        "candidate_id": "eph4_14",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "eph4_13 already encoded; eph4_14 'vt iam non simus paruuli fluctuantes' appears outside quote element but is part of same cited passage \u2014 not separately attributed"
+      }
+    ],
+    "JM7jmZ-e07627-d1e261": [
+      {
+        "candidate_id": "hebr9_27",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "explicit attribution ad hebreos nono"
+      },
+      {
+        "candidate_id": "Ith4_17",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "encoded as multi-verse Ith4_16@18-24 Ith4_17@1-12; attribution 'prime ad thessalonicenses quarto'"
+      }
+    ],
+    "JM7jmZ-e07627-d1e342": [
+      {
+        "candidate_id": "iob14_12",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "genuine quote with attribution 'iob. xiiii.'"
+      }
+    ],
+    "JM7jmZ-e07627-d1e612": [
+      {
+        "candidate_id": "mt24_31",
+        "intersectionCount": 11,
+        "status": "encoded",
+        "note": "citation 'math. xxiii' (= mt24:31); partial quote @1-16"
+      }
+    ]
+  },
+  "JM7jmZ-e08366": {
+    "JM7jmZ-e08366-d1e175": [
+      {
+        "candidate_id": "mt10_30",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "explicit attribution mathei decimo; MS adds sicut folia not in Vulgate"
+      },
+      {
+        "candidate_id": "lc21_18",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "genuine quote with attribution 'luce vicesimo primo'"
+      }
+    ],
+    "JM7jmZ-e08366-d1e208": [
+      {
+        "candidate_id": "io20_25",
+        "intersectionCount": 11,
+        "status": "encoded",
+        "note": "explicit citation 'ioh. xx.'; Thomas speech @12-34"
+      }
+    ]
+  },
+  "JM7jmZ-e08634": {
+    "JM7jmZ-e08634-d1e127": [
+      {
+        "candidate_id": "ion2_4",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "explicit attribution ione secundo"
+      }
+    ],
+    "JM7jmZ-e08634-d1e182": [
+      {
+        "candidate_id": "mt22_14",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "already encoded by auto-detection"
+      },
+      {
+        "candidate_id": "ps48_15",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "genuine quote with attribution 'psaltmm. quadragesimo octauo'"
+      },
+      {
+        "candidate_id": "mt7_13",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "MS cites Augustine de Trinitate bk 11 and 20 which themselves cite Matthew; not a direct MS quotation of mt7_13"
+      },
+      {
+        "candidate_id": "ps82_14",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "encoded @1-6; attribution 'psalm. ixxxii.'"
+      }
+    ]
+  },
+  "JM7jmZ-e10041": {
+    "JM7jmZ-e10041-d1e114": [
+      {
+        "candidate_id": "ps73_23",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "explicit attribution psalmo Ixxiii; MS reverses word order ascendit/superbia"
+      },
+      {
+        "candidate_id": "sap5_23",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "cited under sapientie v.; follows sap5_22 quote, encoded with full verse range"
+      },
+      {
+        "candidate_id": "ap9_6",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "genuine quote with attribution 'apocalipsis. ix.'"
+      },
+      {
+        "candidate_id": "sap5_22",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "genuine quote with attribution 'sapi. v.'"
+      },
+      {
+        "candidate_id": "ps10_7",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "attributed 'psalmo. x.', word order reversed from Vulgate, cited without range"
+      }
+    ],
+    "JM7jmZ-e10041-d1e341": [
+      {
+        "candidate_id": "mt25_41",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "encoded @9-22; attribution 'math. xxv.'"
+      }
+    ]
+  },
+  "JM7jmZ-e10563": {
+    "JM7jmZ-e10563-d1e210": [
+      {
+        "candidate_id": "iob17_13",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "explicit attribution iob decimo septimo; MS reverses word order"
+      },
+      {
+        "candidate_id": "gen37_35",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "encoded @15-21; attribution 'tricesimo septimo'"
+      },
+      {
+        "candidate_id": "gen42_38",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "encoded @26-32; attribution 'genesis quadragesimo secundo'"
+      }
+    ],
+    "JM7jmZ-e10563-d1e430": [
+      {
+        "candidate_id": "iob19_21",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "attribution iob decimo non (=19); miseremini mei @1-13"
+      }
+    ],
+    "JM7jmZ-e10563-d1e532": [
+      {
+        "candidate_id": "qoh9_6",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "genuine quote with attribution 'ecclesia. ix.'"
+      }
+    ]
+  },
+  "JM7jmZ-e14510": {
+    "JM7jmZ-e14510-d1e161": [
+      {
+        "candidate_id": "io5_29",
+        "intersectionCount": 9,
+        "status": "encoded",
+        "note": "iohannis quinto \u2014 explicit attribution"
+      }
+    ],
+    "JM7jmZ-e14510-d1e221": [
+      {
+        "candidate_id": "rom2_15",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "genuine quote spanning rom2_15-16 with attribution 'romanorum secundo'"
+      }
+    ],
+    "JM7jmZ-e14510-d1e250": [
+      {
+        "candidate_id": "io12_31",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "explicit attribution iohannis duodecimo"
+      }
+    ],
+    "JM7jmZ-e14510-d1e334": [
+      {
+        "candidate_id": "ps2_5",
+        "intersectionCount": 10,
+        "status": "encoded",
+        "note": "no explicit attribution but exact text of Ps 2:5; encoded @1-13"
+      },
+      {
+        "candidate_id": "ap6_16",
+        "intersectionCount": 12,
+        "status": "encoded",
+        "note": "explicit citation 'apocalipsis sexto'; partial quote @6-20"
+      },
+      {
+        "candidate_id": "hebr12_17",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "explicit attribution hebreos duodecimo"
+      },
+      {
+        "candidate_id": "lc21_27",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "explicit attribution luce vicesimo primo"
+      },
+      {
+        "candidate_id": "mt12_41",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "paragraph cites lc11_32 (viri niniuite) which is parallel, but candidate mt12_41 not the referenced verse"
+      },
+      {
+        "candidate_id": "mt24_30",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "MS attributes 'videbunt filium hominis' to 'luce vicesimo primo' (lc21_27), not Matthew 24"
+      },
+      {
+        "candidate_id": "hebr10_31",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "explicit attribution 'ad hebreos decimo', encoded @1-7"
+      },
+      {
+        "candidate_id": "mc13_26",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "MS attributes 'videbunt filium hominis venientem in nubibus' to 'luce vicesimo primo' (lc21_27), not mc13_26"
+      },
+      {
+        "candidate_id": "act1_11",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "encoded @11-27; attribution 'actuum primo'"
+      },
+      {
+        "candidate_id": "lc11_32",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "encoded @1-10; attribution 'luce vndecimo'"
+      }
+    ]
+  },
+  "JM7jmZ-e14881": {
+    "JM7jmZ-e14881-d1e147": [
+      {
+        "candidate_id": "ap21_1",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "explicit attribution apocalipsis vicesimo primo"
+      }
+    ],
+    "JM7jmZ-e14881-d1e217": [
+      {
+        "candidate_id": "ps96_3",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "genuine quote with attribution 'psaltm.'"
+      }
+    ]
+  },
+  "JM7jmZ-e15076": {
+    "JM7jmZ-e15076-d1e127": [
+      {
+        "candidate_id": "zac14_7",
+        "intersectionCount": 12,
+        "status": "encoded",
+        "note": "mis-attributed as 'abachuc decimo quarto' but text matches zac14_7@1-18; genuine quote"
+      },
+      {
+        "candidate_id": "ap10_6",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "genuine quote with attribution 'apocalipsis decimo'; paraphrase without @range due to word order variation"
+      }
+    ],
+    "JM7jmZ-e15076-d1e379": [
+      {
+        "candidate_id": "gen8_22",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "explicit attribution genesis octauo; MS abbreviates middle, cited without @range"
+      },
+      {
+        "candidate_id": "iob38_10",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "explicit attribution iob tricesimo octauo; MS also includes verse 8 text, encoded with range 1-9"
+      }
+    ]
+  },
+  "JM7jmZ-e15438": {
+    "JM7jmZ-e15438-d1e130": [
+      {
+        "candidate_id": "io17_3",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "explicit attribution iohannis. xvii."
+      },
+      {
+        "candidate_id": "io16_22",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "genuine quote with attribution 'ioh. xvi.'"
+      },
+      {
+        "candidate_id": "ps3_4",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "already encoded in XML"
+      }
+    ]
+  },
+  "JM7jmZ-e15597": {
+    "JM7jmZ-e15597-d1e595": [
+      {
+        "candidate_id": "iob14_1",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "genuine quote with attribution 'iob. xiii.' (scribal error for ch. 14)"
+      },
+      {
+        "candidate_id": "mt11_11",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "encoded @12-21; attribution 'math. xi.'"
+      }
+    ]
+  },
+  "JM7jmZ-e16467": {
+    "JM7jmZ-e16467-d1e130": [
+      {
+        "candidate_id": "io14_2",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "encoded @1-7; attribution 'iohannis. xiiii.'"
+      }
+    ]
+  },
+  "JM7jmZ-e16847": {
+    "JM7jmZ-e16847-d1e114": [
+      {
+        "candidate_id": "ps83_5",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "encoded @1-12; attribution 'psal. lxxxiii.'"
+      }
+    ],
+    "JM7jmZ-e16847-d1e289": [
+      {
+        "candidate_id": "lc23_43",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "explicit attribution luce. xxiii."
+      }
+    ],
+    "JM7jmZ-e16847-d1e432": [
+      {
+        "candidate_id": "rom8_18",
+        "intersectionCount": 11,
+        "status": "encoded",
+        "note": "explicit citation 'roma. viii.'; full verse @1-16"
+      },
+      {
+        "candidate_id": "Icor2_9",
+        "intersectionCount": 12,
+        "status": "encoded",
+        "note": "explicit citation 'i. cori. ii.'; partial quote @5-23"
+      },
+      {
+        "candidate_id": "ioel2_27",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "false positive; paragraph is long philosophical discussion with no Joel quote"
+      },
+      {
+        "candidate_id": "lam5_21",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "false positive; paragraph is long philosophical discussion with no lamentations quote"
+      },
+      {
+        "candidate_id": "ps16_15",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "dicitur satiabor cum apparuerit gloria tua; no explicit chapter citation but clear scriptural quote"
+      }
+    ]
+  },
+  "JM7jmZ-e18291": {
+    "JM7jmZ-e18291-d1e114": [
+      {
+        "candidate_id": "Icor15_43",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "multi-verse quote Icor15_42-44 with explicit attribution prime corinthiorum decimo quinto"
+      }
+    ]
+  },
+  "JM7jmZ-e18539": {
+    "JM7jmZ-e18539-d1e123": [
+      {
+        "candidate_id": "is40_31",
+        "intersectionCount": 9,
+        "status": "encoded",
+        "note": "esa ve quadragesimo \u2014 explicit attribution"
+      }
+    ],
+    "JM7jmZ-e18539-d1e403": [
+      {
+        "candidate_id": "iudic20_22",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "paragraph discusses local motion of angels; no Judges 20 content"
+      }
+    ]
+  },
+  "JM7jmZ-e19431": {
+    "JM7jmZ-e19431-d1e123": [
+      {
+        "candidate_id": "mt13_43",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "genuine quote with attribution 'mathei. xiii.'"
+      },
+      {
+        "candidate_id": "mt17_2",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "genuine quote with attribution 'mathei. xvii.'"
+      },
+      {
+        "candidate_id": "phil3_21",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "MS says 'philippensn. iiii' but content matches phil3_21; qui reformabit corpus @1-9"
+      },
+      {
+        "candidate_id": "Icor15_41",
+        "intersectionCount": 9,
+        "status": "encoded",
+        "note": "i. corinthiorum. xv. \u2014 explicit attribution"
+      }
+    ]
+  },
+  "JM7jmZ-e20407": {
+    "JM7jmZ-e20407-d1e127": [
+      {
+        "candidate_id": "ex25_24",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "MS author explicitly labels it as metaphor (sed hoc est solum methaforicum)"
+      }
+    ]
+  },
+  "JM7jmZ-e21739": {
+    "JM7jmZ-e21739-d1e264": [
+      {
+        "candidate_id": "lc12_9",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "MS quotes Mt 10:32-33 (confitebitur coram hominibus), not these verses"
+      },
+      {
+        "candidate_id": "mt5_45",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "MS quotes Mt 10:32-33 (confitebitur coram hominibus), not these verses"
+      },
+      {
+        "candidate_id": "mt18_19",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "paragraph cites Mt 10 for public confession; no mt18_19 content found"
+      },
+      {
+        "candidate_id": "mt10_33",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "attribution math. decimo; continuation of mt10_32 quote; @1-17"
+      },
+      {
+        "candidate_id": "io12_42",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "ioh. xii. \u2014 explicit attribution"
+      },
+      {
+        "candidate_id": "mt10_32",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "math. decimo \u2014 explicit attribution"
+      }
+    ],
+    "JM7jmZ-e21739-d1e349": [
+      {
+        "candidate_id": "mc6_18",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "encoded @1-11; implicit \u2014 cited as example of John the Baptist following law"
+      }
+    ]
+  },
+  "JM7jmZ-e22309": {
+    "JM7jmZ-e22309-d1e265": [
+      {
+        "candidate_id": "io15_13",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "explicit attribution iohannis decimo quinto; MS has charitatem/ponat quis variant"
+      }
+    ],
+    "JM7jmZ-e22309-d1e285": [
+      {
+        "candidate_id": "act5_41",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "Acts 5:41 language used but no explicit attribution; narrative description of apostles' behavior"
+      }
+    ]
+  },
+  "JM7jmZ-e22854": {
+    "JM7jmZ-e22854-d1e480": [
+      {
+        "candidate_id": "eph6_12",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "genuine quote with attribution 'ad ephesios. vi.'"
+      }
+    ],
+    "JM7jmZ-e22854-d1e502": [
+      {
+        "candidate_id": "dan12_3",
+        "intersectionCount": 8,
+        "status": "encoded",
+        "note": "danie. xii. \u2014 explicit attribution"
+      }
+    ],
+    "JM7jmZ-e22854-d1e582": [
+      {
+        "candidate_id": "tit3_9",
+        "intersectionCount": 13,
+        "status": "encoded",
+        "note": "explicit citation 'ad titum. ii.' (actually Tit 3:9); full verse @1-16"
+      }
+    ],
+    "JM7jmZ-e22854-d1e1314": [
+      {
+        "candidate_id": "Itim2_7",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "genuine quote with attribution 'i. ad thimotheum. ii.'"
+      },
+      {
+        "candidate_id": "io13_13",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "encoded @1-11; attribution 'iohannis. xiii.'"
+      }
+    ]
+  },
+  "JM7jmZ-e24539": {
+    "JM7jmZ-e24539-d1e171": [
+      {
+        "candidate_id": "lc16_27",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "multi-verse quote with lc16_28, already encoded"
+      },
+      {
+        "candidate_id": "lc16_28",
+        "intersectionCount": 8,
+        "status": "encoded",
+        "note": "luce. xvi. \u2014 explicit attribution; multi-verse lc16_27@3-13 + lc16_28@1-15"
+      }
+    ],
+    "JM7jmZ-e24539-d1e262": [
+      {
+        "candidate_id": "mt5_45",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "no explicit attribution; paraphrase solem suum oriri facit @10-24"
+      }
+    ],
+    "JM7jmZ-e24539-d1e319": [
+      {
+        "candidate_id": "ps57_11",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "attribution psal. lvii.; letabitur iustus @1-11"
+      }
+    ]
+  }
+}
