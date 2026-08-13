@@ -1,0 +1,174 @@
+{
+  "JM7jmZ-d1e3xx": {
+    "JM7jmZ-d1e3xx-d1e959": [
+      {
+        "candidate_id": "adt-l1-d1e27",
+        "intersectionCount": 58,
+        "status": "encoded",
+        "note": "three fragments quoted with interspersed editorial commentary; explicit attribution 'primo de trinitate capite tertio'"
+      }
+    ],
+    "JM7jmZ-d1e3xx-d1e1045": [
+      {
+        "candidate_id": "adt-l15-d1e1693",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "JM7jmZ-d1e3xx-d1e1826": [
+      {
+        "candidate_id": "adt-l3-d1e365",
+        "intersectionCount": 14,
+        "status": "encoded"
+      }
+    ]
+  },
+  "JM7jmZ-d739c3": {
+    "JM7jmZ-d739c3-d1e677": [
+      {
+        "candidate_id": "adt-l7-d1e921",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l15-d1e1962",
+        "intersectionCount": 5,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l15-d1e1991",
+        "intersectionCount": 5,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "JM7jmZ-d739c3-d1e1386": [
+      {
+        "candidate_id": "adt-l15-d1e1962",
+        "intersectionCount": 5,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l15-d1e1991",
+        "intersectionCount": 5,
+        "also_in_bible_candidates": true
+      }
+    ]
+  },
+  "JM7jmZ-d15233": {
+    "JM7jmZ-d15233-d1e764": [
+      {
+        "candidate_id": "adt-l15-d1e1962",
+        "intersectionCount": 5,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l15-d1e1991",
+        "intersectionCount": 5,
+        "also_in_bible_candidates": true
+      }
+    ]
+  },
+  "JM7jmZ-d16429": {
+    "JM7jmZ-d16429-d1e125": [
+      {
+        "candidate_id": "adt-l15-d1e1962",
+        "intersectionCount": 5,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l15-d1e1991",
+        "intersectionCount": 5,
+        "also_in_bible_candidates": true
+      }
+    ]
+  },
+  "JM7jmZ-d36951": {
+    "JM7jmZ-d36951-d1e125": [
+      {
+        "candidate_id": "adt-l15-d1e1962",
+        "intersectionCount": 5,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l15-d1e1991",
+        "intersectionCount": 5,
+        "also_in_bible_candidates": true
+      }
+    ]
+  },
+  "JM7jmZ-d70208": {
+    "JM7jmZ-d70208-d1e114": [
+      {
+        "candidate_id": "adt-l8-d1e996",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      }
+    ]
+  },
+  "JM7jmZ-d72869": {
+    "JM7jmZ-d72869-d1e2519": [
+      {
+        "candidate_id": "adt-l1-d1e138",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l13-d1e1428",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l1-d1e135",
+        "intersectionCount": 8,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l2-d1e273",
+        "intersectionCount": 9,
+        "also_in_bible_candidates": true
+      }
+    ]
+  },
+  "JM7jmZ-d88143": {
+    "JM7jmZ-d88143-d1e419": [
+      {
+        "candidate_id": "adt-l2-d1e213",
+        "intersectionCount": 5,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l2-d1e220",
+        "intersectionCount": 5,
+        "also_in_bible_candidates": true
+      }
+    ]
+  },
+  "JM7jmZ-d93069": {
+    "JM7jmZ-d93069-d1e448": [
+      {
+        "candidate_id": "adt-l13-d1e1428",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      }
+    ]
+  },
+  "JM7jmZ-e16847": {
+    "JM7jmZ-e16847-d1e195": [
+      {
+        "candidate_id": "adt-l15-d1e1874",
+        "intersectionCount": 7,
+        "status": "encoded"
+      }
+    ]
+  },
+  "JM7jmZ-e22854": {
+    "JM7jmZ-e22854-d1e747": [
+      {
+        "candidate_id": "adt-l1-d1e17",
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "false positive \u2014 MS explicitly cites 'apostoli. i. corinth. iii.'; both MS and adt-l1-d1e17 independently quote 1 Cor 3:1-2"
+      }
+    ]
+  }
+}
